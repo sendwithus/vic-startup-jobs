@@ -8,7 +8,7 @@ Job listings for startups in Victoria BC.
 * Rooof ([link](https://www.rooof.com/))
   * [Web Developer](rooof/posting.md)
 * sendwithus ([link](https://www.sendwithus.com))
-  * [Web Developer](sendwithus/posting.md)
+  * [Intern: QA and Testing Automation](sendwithus/intern.md)
 
 ### How to Apply
 
