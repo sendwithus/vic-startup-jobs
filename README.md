@@ -3,12 +3,15 @@
 Job listings for startups in Victoria BC.
 
 ## Job Postings
-* Flytographer ([link](http://www.flytographer.com/))
-  * [Full Stack Engineer](flytographer/posting.md)
-* Rooof ([link](https://www.rooof.com/))
-  * [Web Developer](rooof/posting.md)
-* sendwithus ([link](https://www.sendwithus.com))
-  * [Intern: QA and Testing Automation](sendwithus/intern.md)
+
+#### Flytographer ([link](http://www.flytographer.com/))
+* [Full Stack Web Developer(http://www.flytographer.com/jobs)
+
+#### Rooof ([link](https://www.rooof.com/))
+* [Web Developer](rooof/posting.md)
+
+#### sendwithus ([link](https://www.sendwithus.com))
+* [Intern: QA and Testing Automation](sendwithus/intern.md)
 
 ### How to Apply
 
