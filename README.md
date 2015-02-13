@@ -4,8 +4,8 @@ Job listings for startups in Victoria BC.
 
 ## Job Postings
 
-#### Flytographer ([link](http://www.flytographer.com/))
-* [Full Stack Web Developer(http://www.flytographer.com/jobs)
+#### Flytographer [flytographer.com](http://www.flytographer.com/)
+* [Full Stack Web Developer](http://www.flytographer.com/jobs)
 
 #### Rooof ([link](https://www.rooof.com/))
 * [Web Developer](rooof/posting.md)
