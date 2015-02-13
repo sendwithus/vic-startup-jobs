@@ -57,7 +57,7 @@ Click the link for more info about each job posting, including how to apply. Mos
 
 
 ## How to Post?
-Submit a pull request adding your job posting, or [click here](https://github.com/vicstartups/jobs/edit/master/README.md) to edit directly on Github.
+Submit a pull request adding your job posting, or [click here](https://github.com/vicstartups/jobs/edit/master/README.md) to edit directly on Github. If you need help or have questions, please email jobboard@sendwithus.com. 
 
 
 ## Who Can Post?
