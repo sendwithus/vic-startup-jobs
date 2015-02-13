@@ -1,16 +1,14 @@
 # Victoria Startup Job Postings
 
-Job listings for startups in Victoria BC.
+Job listings for startups in Victoria BC. Curated by the team of unicorns @ [sendwithus.com](http://sendwithus.com).
 
-## Job Postings
-
-#### Flytographer [flytographer.com](http://www.flytographer.com/)
+#### [Flytographer](http://www.flytographer.com/)
 * [Full Stack Web Developer](http://www.flytographer.com/jobs)
 
-#### Rooof ([link](https://www.rooof.com/))
+#### [Rooof](https://www.rooof.com/)
 * [Web Developer](rooof/posting.md)
 
-#### sendwithus ([link](https://www.sendwithus.com))
+#### [sendwithus](https://www.sendwithus.com)
 * [Intern: QA and Testing Automation](sendwithus/intern.md)
 
 ### How to Apply
