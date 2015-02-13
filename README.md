@@ -34,6 +34,9 @@ Job listings for startups in Victoria BC. Managed by the team of magical unicorn
 * [App Team: Web Developer](https://github.com/sendwithus/jobs/blob/master/app_team_web_developer.md)
 * [Intern: QA and Testing Automation](https://github.com/sendwithus/jobs/blob/master/intern_test_automation.md)
 
+#### [SilkStart](http://silkstart.com/)  
+* [Full Stack Developer](http://silkstart.com/about/#careers)  
+
 #### [TinyMob Games](http://tinymobgames.com/)
 * [Data Analyst](http://tinymobgames.com/data-analyst.html)
 * [Dev Ops Engineer](http://tinymobgames.com/devops-engineer-contract.html)
