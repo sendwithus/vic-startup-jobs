@@ -2,6 +2,9 @@
 
 Job listings for startups in Victoria BC. Managed by the team of magical unicorns @ [sendwithus.com](http://sendwithus.com).
 
+#### [BetSmart Media](http://www.betsmartmedia.com/)
+* [Software Developer](http://www.betsmartmedia.com/software-developer)
+
 #### [Checkfront](https://www.checkfront.com/)
 * [Client Support Specialist](http://checkfront.workable.com/jobs/27727)
 * [Linux System Administrator](https://www.checkfront.com/careers/linux-system-administrator-wanted)
@@ -37,9 +40,13 @@ Job listings for startups in Victoria BC. Managed by the team of magical unicorn
 
 
 ## Startups without current postings
+* [CrowdContent](https://www.crowdcontent.com/)
 * [giftbit](https://www.giftbit.com/)
+* [One Net Marketing](http://onenetmarketing.com/)
 * [Riipen](https://riipen.com/)
 * [Rooof](https://www.rooof.com/)
+* [Sparklit](https://www.sparklit.com/)
+* [Tapstream](https://tapstream.com/)
 
 
 ## How to Apply?
