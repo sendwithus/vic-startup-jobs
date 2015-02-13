@@ -43,11 +43,11 @@ Job listings for startups in Victoria BC. Managed by the team of magical unicorn
 
 
 ## How to Apply?
-Click the link for more on each job posting, including how to apply. Most companies provide application instructions on their respective websites. 
+Click the link for more info about each job posting, including how to apply. Most companies provide application instructions on their websites. 
 
 
 ## How to Post?
-Submit a pull request adding your job postings, or [click here](https://github.com/vicstartups/jobs/edit/master/README.md) to edit directly on Github.
+Submit a pull request adding your job posting, or [click here](https://github.com/vicstartups/jobs/edit/master/README.md) to edit directly on Github.
 
 
 ## Who Can Post?
