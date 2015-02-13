@@ -1,6 +1,6 @@
 # Victoria Startup Job Postings
 
-Job listings for startups in Victoria BC. Curated by the team of unicorns @ [sendwithus.com](http://sendwithus.com).
+Job listings for startups in Victoria BC. Managed by the team of unicorns @ [sendwithus.com](http://sendwithus.com).
 
 #### [Flytographer](http://www.flytographer.com/)
 * [Full Stack Web Developer](http://www.flytographer.com/jobs)
