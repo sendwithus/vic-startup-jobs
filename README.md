@@ -17,7 +17,7 @@ Click the link for more on each job posting, including how to apply. Most compan
 
 ## How to Post?
 
-Submit a pull request adding your job postings, or [click here](README.md) to edit directly on Github
+Submit a pull request adding your job postings, or [click here](https://github.com/vicstartups/jobs/edit/master/README.md) to edit directly on Github.
 
 ## Who Can Post?
 
