@@ -12,6 +12,10 @@ Job listings for startups in Victoria BC. Managed by the team of magical unicorn
 * [Web Application Developer](https://www.checkfront.com/careers/web-developer)
 * [Inside Sales Representative](https://www.checkfront.com/careers/inside-sales)
 
+#### [Crowdcontent](https://www.crowdcontent.com/)
+* [Web Applications Developer](https://www.crowdcontent.com/about-us/careers)
+* [Client Account Manager](https://www.crowdcontent.com/about-us/careers)
+
 #### [Flytographer](http://www.flytographer.com/)
 * [Full Stack Web Developer](http://www.flytographer.com/jobs)
 
@@ -31,6 +35,16 @@ Job listings for startups in Victoria BC. Managed by the team of magical unicorn
 * [QA Engineer](http://metalab.co/careers/)
 * [Android Developer](http://metalab.co/careers/)
 
+#### [One Net Marketing](http://onenetmarketing.com)
+* [Agency Copywrite](http://onenetmarketing.com/careers/)
+* [Senior UI/UX Designer](http://onenetmarketing.com/careers/)
+* [Web/Graphic Designer](http://onenetmarketing.com/careers/)
+* [Search Marketing Manager](http://onenetmarketing.com/careers/)
+* [Digital Marketing Strategist](http://onenetmarketing.com/careers/)
+* [Web Developer](http://onenetmarketing.com/careers/)
+* [Bookkeeper/Data Analyst](http://onenetmarketing.com/careers/)
+* [Animation & Motion Graphic Artist](http://onenetmarketing.com/careers/)
+
 #### [Pretio Interactive](https://www.pretio.in/)
 * [Digital Media Sales Executive](https://www.pretio.in/jobs/digital-media-sales-executive/)
 * [Digital Media Sales Associate](https://www.pretio.in/jobs/digital-media-sales-associate/)
@@ -42,29 +56,16 @@ Job listings for startups in Victoria BC. Managed by the team of magical unicorn
 #### [Referral Saasquatch](http://www.referralsaasquatch.com/)
 * [Backend Developer](http://www.referralsaasquatch.com/careers/#op-35157-backend-developer)
 
-#### [sendwithus](https://www.sendwithus.com)
-* [Lead Backend Developer](https://www.pretio.in/jobs/junior-mobile-developer/)
-* [Lead Frontend Developer](https://angel.co/sendwithus/jobs/74159-lead-frontend-developer)
-
-#### [Crowdcontent](https://www.crowdcontent.com/)
-* [Web Applications Developer](https://www.crowdcontent.com/about-us/careers)
-* [Client Account Manager](https://www.crowdcontent.com/about-us/careers)
-
-#### [One Net Marketing](http://onenetmarketing.com)
-* [Agency Copywrite](http://onenetmarketing.com/careers/)
-* [Senior UI/UX Designer](http://onenetmarketing.com/careers/)
-* [Web/Graphic Designer](http://onenetmarketing.com/careers/)
-* [Search Marketing Manager](http://onenetmarketing.com/careers/)
-* [Digital Marketing Strategist](http://onenetmarketing.com/careers/)
-* [Web Developer](http://onenetmarketing.com/careers/)
-* [Bookkeeper/Data Analyst](http://onenetmarketing.com/careers/)
-* [Animation & Motion Graphic Artist](http://onenetmarketing.com/careers/)
-
 #### [Sparklit](https://www.sparklit.com/)
 * [Web Developer](https://www.sparklit.com/careers/)
 
+#### [sendwithus](https://www.sendwithus.com)
+* [Senior Engineer, Cloud Architecture](https://www.sendwithus.com/jobs/senior-engineer-cloud-architecture)
+* [Lead Engineer, Frontend App](https://www.sendwithus.com/jobs/lead-engineer-frontend-app)
+
 #### [Tapstream](https://tapstream.com/)
 * [Product Engineer](https://angel.co/tapstream/jobs/25559-product-engineer)
+
 
 ## Startups without current postings
 * [giftbit](https://www.giftbit.com/)
