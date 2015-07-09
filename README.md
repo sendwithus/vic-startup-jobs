@@ -1,6 +1,18 @@
-# Victoria Startup Tech Jobs
+# Victoria Startup Jobs
 
-Job listings for startups in Victoria BC. Managed by the team of magical unicorns @ [sendwithus.com](http://sendwithus.com).
+A well-maintained list of available startup jobs in Victoria BC. 
+
+This list is currently managed by the team of magical unicorns @ [sendwithus](http://sendwithus.com).
+
+#### How to Apply?
+Click the link for more info about each job posting, including how to apply. Most companies provide application instructions on their websites. 
+
+#### How to Post?
+Posting is easy and free, simply submit a pull request adding/updating your job posting. If you have questions, need help, or want us to update the list for you, please email jobs@sendwithus.com. 
+
+#### Who can post?
+Tech startups with offices in Victoria BC. 
+
 
 #### [BetSmart Media](http://www.betsmartmedia.com/)
 * [Software Developer](http://www.betsmartmedia.com/software-developer)
@@ -59,7 +71,7 @@ Job listings for startups in Victoria BC. Managed by the team of magical unicorn
 #### [Sparklit](https://www.sparklit.com/)
 * [Web Developer](https://www.sparklit.com/careers/)
 
-#### [sendwithus](https://www.sendwithus.com)
+#### [Sendwithus](https://www.sendwithus.com)
 * [Senior Engineer, Cloud Architecture](https://www.sendwithus.com/jobs/senior-engineer-cloud-architecture)
 * [Lead Engineer, Frontend App](https://www.sendwithus.com/jobs/lead-engineer-frontend-app)
 
@@ -68,19 +80,7 @@ Job listings for startups in Victoria BC. Managed by the team of magical unicorn
 
 
 ## Startups without current postings
-* [giftbit](https://www.giftbit.com/)
+* [Giftbit](https://www.giftbit.com/)
 * [Riipen](https://riipen.com/)
 * [Rooof](https://www.rooof.com/)
 * [Silkstart](http://silkstart.com/about/)
-
-
-## How to Apply?
-Click the link for more info about each job posting, including how to apply. Most companies provide application instructions on their websites. 
-
-
-## How to Post?
-Submit a pull request adding your job posting, or [click here](https://github.com/vicstartups/jobs/edit/master/README.md) to edit directly on Github. If you need help or have questions, please email jobboard@sendwithus.com. 
-
-
-## Who Can Post?
-Victoria startups looking to hire technical talent.
