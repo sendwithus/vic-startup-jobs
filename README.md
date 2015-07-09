@@ -13,6 +13,7 @@ Posting is easy and free, simply submit a pull request adding/updating your job 
 #### Who can post?
 Tech startups with offices in Victoria BC. 
 
+<hr>
 
 #### [BetSmart Media](http://www.betsmartmedia.com/)
 * [Software Developer](http://www.betsmartmedia.com/software-developer)
