@@ -32,6 +32,16 @@ Tech startups with offices in Victoria BC.
 #### [Flytographer](http://www.flytographer.com/)
 * [Full Stack Web Developer](http://www.flytographer.com/jobs)
 
+#### [Go2Mobi](http://www.go2mobi.com/)
+* [Mobile Advertising Account Exec](http://www.go2mobi.com/careers/)
+* [Senior Software Engineer](http://www.go2mobi.com/careers/)
+* [Intermediate Software Engineer](http://www.go2mobi.com/careers/)
+* [Media Buyer](http://www.go2mobi.com/careers/)
+* [Junior Developer](http://www.go2mobi.com/careers/)
+* [Web Developer](http://www.go2mobi.com/careers/)
+* [Data Scientist](http://www.go2mobi.com/careers/)
+* [Senior Software Engineer](http://www.go2mobi.com/careers/)
+
 #### [Kano Apps](http://www.kanoapps.com/)
 * [Data Scientist](https://kanoapps.bamboohr.com/jobs/view.php?id=11)
 
@@ -66,8 +76,24 @@ Tech startups with offices in Victoria BC.
 * [Android Developer](https://www.pretio.in/jobs/android-developer/)
 * [Junior Mobile Developer](https://www.pretio.in/jobs/junior-mobile-developer/)
 
+#### [Red Brick Media](http://redbrickmedia.com/)
+* [Network Assistant](http://rbm.mytribehr.com/careers/view/22)
+
 #### [Referral Saasquatch](http://www.referralsaasquatch.com/)
 * [Backend Developer](http://www.referralsaasquatch.com/careers/#op-35157-backend-developer)
+
+#### [RevenueWire](https://www.revenuewire.com/)
+* [Senior PHP Platform Developer](https://www.revenuewire.com/careers/)
+* [Senior Leader. AffiliateWire](https://www.revenuewire.com/careers/)
+* [Online Marketing Specialist](https://www.revenuewire.com/careers/)
+* [Sales Account Executive-Constant Content](https://www.revenuewire.com/careers/)
+* [Systems and Compliance Admin](https://www.revenuewire.com/careers/)
+
+#### [RingPartner](http://ringpartner.com/)
+* [Junior Media Buyer](http://ringpartner.com/junior-media-buyer/)
+* [Marketing Coordinator](http://ringpartner.com/marketing-coordinator/)
+* [Client Support Representative](http://ringpartner.com/client-support-representative/)
+* [Distribution Development Manager](http://ringpartner.com/distribution-development-manager/)
 
 #### [Sparklit](https://www.sparklit.com/)
 * [Web Developer](https://www.sparklit.com/careers/)
@@ -81,7 +107,10 @@ Tech startups with offices in Victoria BC.
 
 
 ## Startups without current postings
+* [Atomic Crayon](http://www.atomiccrayon.com/)
 * [Giftbit](https://www.giftbit.com/)
+* [Hipwood](http://www.hipwooddigital.com/)
 * [Riipen](https://riipen.com/)
 * [Rooof](https://www.rooof.com/)
 * [Silkstart](http://silkstart.com/about/)
+* [Stocksy United](http://www.stocksy.com/)
