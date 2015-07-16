@@ -35,6 +35,9 @@ Tech startups with offices in Victoria BC.
 #### [Kano Apps](http://www.kanoapps.com/)
 * [Data Scientist](https://kanoapps.bamboohr.com/jobs/view.php?id=11)
 
+#### [KIXEYE Canada Ltd](http://www.kixeye.com/)
+* [Operations Engineer](http://www.viatec.ca/job-board/14034)
+
 #### [Mediacore](http://www.mediacore.com/)
 * [VP Sales](https://mediacore.bamboohr.com/jobs/view.php?id=10)
 * [Sales Representative](https://mediacore.bamboohr.com/jobs/view.php?id=13)
