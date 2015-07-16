@@ -117,3 +117,4 @@ Tech startups with offices in Victoria BC.
 * [Rooof](https://www.rooof.com/)
 * [Silkstart](http://silkstart.com/about/)
 * [Stocksy United](http://www.stocksy.com/)
+* [Tiny Mob Games](http://tinymobgames.com/)
