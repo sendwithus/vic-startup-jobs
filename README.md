@@ -8,7 +8,7 @@ This list is currently managed by the team of magical unicorns @ [sendwithus](ht
 Click the link for more info about each job posting, including how to apply. Most companies provide application instructions on their websites. 
 
 #### How to Post?
-Posting is easy and free, simply submit a pull request adding/updating your job posting. If you have questions, need help, or want us to update the list for you, please email jobs@sendwithus.com. 
+Posting is easy and free, simply fork this repo and submit a pull request adding/updating your job posting. If you have questions, need help, or want us to update the list for you, please email jobs@sendwithus.com. 
 
 #### Who can post?
 Tech startups with offices in Victoria BC. 
@@ -98,6 +98,9 @@ Tech startups with offices in Victoria BC.
 * [Client Support Representative](http://ringpartner.com/client-support-representative/)
 * [Distribution Development Manager](http://ringpartner.com/distribution-development-manager/)
 
+#### [Rooof](http://www.rooof.com/)
+* [Customer Success & Operations Manager](http://victoria.craigslist.ca/tch/5126378166.html)
+
 #### [Sparklit](https://www.sparklit.com/)
 * [Web Developer](https://www.sparklit.com/careers/)
 
@@ -114,7 +117,6 @@ Tech startups with offices in Victoria BC.
 * [Giftbit](https://www.giftbit.com/)
 * [Hipwood](http://www.hipwooddigital.com/)
 * [Riipen](https://riipen.com/)
-* [Rooof](https://www.rooof.com/)
 * [Silkstart](http://silkstart.com/about/)
 * [Stocksy United](http://www.stocksy.com/)
 * [Tiny Mob Games](http://tinymobgames.com/)
