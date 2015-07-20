@@ -15,6 +15,9 @@ Tech startups with offices in Victoria BC.
 
 ## Current Job Openings
 
+#### [AppColony](http://www.appcolony.ca/)
+* [Ruby on Rails Developer](http://vancouver.craigslist.ca/van/sof/5131295147.html)
+
 #### [BetSmart Media](http://www.betsmartmedia.com/)
 * [Software Developer](http://www.betsmartmedia.com/software-developer)
 
