@@ -21,6 +21,11 @@ Tech startups with offices in Victoria BC.
 #### [BetSmart Media](http://www.betsmartmedia.com/)
 * [Software Developer](http://www.betsmartmedia.com/software-developer)
 
+#### [Boundless GeoSpatial](http://www.boundlessgeo.com/)
+* [Application Developer](http://boundless.theresumator.com/apply/7xrEcN/Application-Developer)
+* [UX Developer](http://boundless.theresumator.com/apply/ivhSva/UX-Designer)
+* [Web Developer](http://boundless.theresumator.com/apply/yRowO0/Web-Developer)
+
 #### [Checkfront](https://www.checkfront.com/)
 * [Client Support Specialist](http://checkfront.workable.com/jobs/27727)
 * [UX/Web Designer](https://www.checkfront.com/careers/uiweb-designer-wanted)
