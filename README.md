@@ -112,6 +112,11 @@ Tech startups with offices in Victoria BC.
 #### [Tapstream](https://tapstream.com/)
 * [Product Engineer](https://angel.co/tapstream/jobs/25559-product-engineer)
 
+#### [TinyMob Games](https://www.tinymobgames.com/)
+* [Lead Artist](http://tinymobgames.com/lead-artist.html)
+* [Technical Artist](http://tinymobgames.com/tech-artist.html)
+* [Level Designer](http://tinymobgames.com/level-designer.html)
+* [Game UI Developer](http://tinymobgames.com/game-ui-developer.html)
 
 ## Startups without current postings
 * [AppColony](http://www.appcolony.ca/)
@@ -124,4 +129,4 @@ Tech startups with offices in Victoria BC.
 * [Ruboss](http://ruboss.com/)
 * [Silkstart](http://silkstart.com/about/)
 * [Stocksy United](http://www.stocksy.com/)
-* [Tiny Mob Games](http://tinymobgames.com/)
+
