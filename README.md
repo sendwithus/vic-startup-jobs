@@ -32,15 +32,19 @@ Tech startups with offices in Victoria BC.
 
 #### [Checkfront](https://www.checkfront.com/)
 * [UX/Web Designer](https://www.checkfront.com/careers/uiweb-designer-wanted)
-* [Xero Bookkeeper](https://www.checkfront.com/careers/xero-bookkeeper)
+* [Xero Bookkeeper/PT](https://www.checkfront.com/careers/xero-bookkeeper)
 * [Web Application Developer - Intermediate](https://www.checkfront.com/careers/web-developer)
 * [Inside Sales Representative](https://www.checkfront.com/careers/inside-sales)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/)
 * [Game Scripter & Content Co-op](http://www.codenameentertainment.com/?page=jobs#coops)
 
+#### [Falcom Software](http://www.falcon-software.com/)
+* [ASP.Net Developer](http://www.falcon-software.com/About-Us/Job-Postings/ASP-Net-Developer)
+* [Java Developer](http://www.falcon-software.com/About-Us/Job-Postings/Java-Developer)
+* [Web Project Manager](http://www.falcon-software.com/About-Us/Job-Postings/Web-Project-Manager)
+
 #### [Flytographer](http://www.flytographer.com/)
-* [Full Stack Web Developer](http://www.flytographer.com/jobs)
 * [Flytographer Shoot Concierge - P/T Contract] (http://www.flytographer.com/jobs)
 
 #### [Go2Mobi](http://www.go2mobi.com/)
@@ -92,7 +96,6 @@ Tech startups with offices in Victoria BC.
 #### [RevenueWire](https://www.revenuewire.com/)
 * [Senior PHP Platform Developer](https://www.revenuewire.com/careers/)
 * [PHP Platform Developer](https://www.revenuewire.com/careers/)
-* [Senior Marketing Operations Strategist](https://www.revenuewire.com/careers/)
 
 #### [RingPartner](http://ringpartner.com/)
 * [Junior Media Buyer](http://ringpartner.com/junior-media-buyer/)
