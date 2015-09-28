@@ -2,7 +2,9 @@
 
 A well-maintained list of available startup jobs in Victoria BC. 
 
-This list is currently managed by the team of magical unicorns @ [sendwithus](http://sendwithus.com).
+This list is currently managed by the [sendwithus](http://sendwithus.com) team, and all contributions are welcome (and free!).
+
+[Have ideas to make this better?](mailto:us@sendwithus.com)
 
 #### How to Apply?
 Click the link for more info about each job posting, including how to apply. Most companies provide application instructions on their websites. 
