@@ -49,6 +49,11 @@ Tech startups with offices in Victoria BC.
 #### [Flytographer](http://www.flytographer.com/)
 * [Flytographer Shoot Concierge - P/T Contract] (http://www.flytographer.com/jobs)
 
+#### [Giftbit](https://www.giftbit.com/)
+* [Lead Frontend Software Engineer](https://angel.co/giftbit/jobs/86367-lead-frontend-software-engineer)
+* [Account Solutions Manager](https://angel.co/giftbit/jobs/83584-account-solutions-manager)
+* [Administration and Support Specialist](https://angel.co/giftbit/jobs/88775-administration-and-support-specialist)
+
 #### [Go2Mobi](http://www.go2mobi.com/)
 * [Mobile Advertising Account Exec](http://www.go2mobi.com/careers/)
 * [Senior Software Developer](http://www.go2mobi.com/careers/)
@@ -123,7 +128,6 @@ Tech startups with offices in Victoria BC.
 ## Startups without current postings
 * [AppColony](http://www.appcolony.ca/)
 * [Crowdcontent](https://www.crowdcontent.com/)
-* [Giftbit](https://www.giftbit.com/)
 * [Hipwood Digital](http://www.hipwooddigital.com/)
 * [KIXEYE Canada Ltd](http://www.kixeye.com/)
 * [Riipen](https://riipen.com/)
