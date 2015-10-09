@@ -25,9 +25,6 @@ Tech startups with offices in Victoria BC.
 * [Web Developer](http://www.atomiccrayon.com/career-opportunities)
 * [Intermediate ASP.Net Develper](http://www.atomiccrayon.com/career-opportunities)
 
-#### [BetSmart Media](http://www.betsmartmedia.com/)
-* [Software Developer](http://www.betsmartmedia.com/software-developer)
-
 #### [BeanStream] (http://www.beanstream.com/)
 * [Technical Support Rep](http://bwpbic.wpengine.com/wp-content/uploads/2015/09/Technical-Support-Representative.pdf)
 * [Overnight Technical Support Rep](http://bwpbic.wpengine.com/wp-content/uploads/2015/09/Overnight-Technical-Support-Representative.pdf)
