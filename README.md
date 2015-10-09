@@ -17,12 +17,24 @@ Tech startups with offices in Victoria BC.
 
 ## Current Job Openings
 
+#### [Airsenze](http://www.airsenze.com/)
+* [iOS Developer](http://www.airsenze.com/about/)
+* [Android Developer](http://www.airsenze.com/about/)
+
 #### [Atomic Crayon](http://www.atomiccrayon.com/)
 * [Web Developer](http://www.atomiccrayon.com/career-opportunities)
 * [Intermediate ASP.Net Develper](http://www.atomiccrayon.com/career-opportunities)
 
 #### [BetSmart Media](http://www.betsmartmedia.com/)
 * [Software Developer](http://www.betsmartmedia.com/software-developer)
+
+#### [BeanStream] (http://www.beanstream.com/)
+* [Technical Support Rep](http://bwpbic.wpengine.com/wp-content/uploads/2015/09/Technical-Support-Representative.pdf)
+* [Overnight Technical Support Rep](http://bwpbic.wpengine.com/wp-content/uploads/2015/09/Overnight-Technical-Support-Representative.pdf)
+* [Treasury Analyst](http://www.beanstream.com/wp-content/uploads/2015/06/Treasury-Analyst_2015.pdf)
+* [Inside Sales Associate](http://www.beanstream.com/wp-content/uploads/2014/10/Inside-Sales-Associate-Job-Description.pdf)
+* [iOS Mobile App Developer](http://www.beanstream.com/wp-content/uploads/2015/02/iOS-Mobile-App-Developer.pdf)
+* [Software Developer](http://www.beanstream.com/wp-content/uploads/2015/05/Software-Dev.pdf)
 
 #### [Boundless GeoSpatial](http://www.boundlessgeo.com/)
 * [Application Developer](http://boundless.theresumator.com/apply/7xrEcN/Application-Developer)
@@ -52,7 +64,6 @@ Tech startups with offices in Victoria BC.
 #### [Giftbit](https://www.giftbit.com/)
 * [Lead Frontend Software Engineer](https://angel.co/giftbit/jobs/86367-lead-frontend-software-engineer)
 * [Account Solutions Manager](https://angel.co/giftbit/jobs/83584-account-solutions-manager)
-* [Administration and Support Specialist](https://angel.co/giftbit/jobs/88775-administration-and-support-specialist)
 
 #### [Go2Mobi](http://www.go2mobi.com/)
 * [Mobile Advertising Account Exec](http://www.go2mobi.com/careers/)
@@ -63,20 +74,21 @@ Tech startups with offices in Victoria BC.
 * [Recruitment & Human Resources](http://www.go2mobi.com/careers/)
 
 #### [Kano Apps](http://www.kanoapps.com/)
-* [Data Scientist](https://kanoapps.bamboohr.com/jobs/view.php?id=11)
 * [Full Stack Developer for Mobile & Web Games](https://kanoapps.bamboohr.com/jobs/view.php?id=12)
-* [Player Support Representative](https://kanoapps.bamboohr.com/jobs/view.php?id=13)
 
-#### [Mediacore](http://www.mediacore.com/)
-* [VP Sales](https://mediacore.bamboohr.com/jobs/view.php?id=10)
-* [Sales Representative](https://mediacore.bamboohr.com/jobs/view.php?id=13)
-* [Marketing Assistant Co-op](http://www.mediacore.com/careers)
+#### [Latitude Geographics](http://www.latitudegeo.com/)
+* [Frontend Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=30)
+* [Partner Manager](https://latitudegeo.bamboohr.com/jobs/view.php?id=38)
+* [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
+* [Software Developer - Internship](https://latitudegeo.bamboohr.com/jobs/view.php?id=10)
+* [Software Developer - Web &amp Mobile](https://latitudegeo.bamboohr.com/jobs/view.php?id=23)
+* [Technical Writer](https://latitudegeo.bamboohr.com/jobs/view.php?id=37)
+* [UI/UX Designer](https://latitudegeo.bamboohr.com/jobs/view.php?id=29)
 
 #### [MetaLab](http://metalab.co/)
 * [Senior Interface Designer](https://jobs.lever.co/metalab/0e3126d0-81df-4406-ba93-88c945f04737)
 * [Back-End Web Developer](https://jobs.lever.co/metalab/655d97f5-d721-40ca-a461-81dd901c3013)
 * [Front-End Web Developer](https://jobs.lever.co/metalab/b20907f0-aeb5-4e5b-b9c9-50b88cade7b2)
-* [QA Engineer](https://jobs.lever.co/metalab/e9ad6ae9-3ab9-4f6f-9079-43fd91b7a280)
 * [Android Developer](https://jobs.lever.co/metalab/ad6ccbe3-fc2f-46a7-af1f-63630f8cc8b5)
 * [iOS Developer](https://jobs.lever.co/metalab/3df704f1-67a2-43a2-8c73-a4c804164eb6)
 
@@ -115,15 +127,24 @@ Tech startups with offices in Victoria BC.
 * [Senior Engineer, Infrastructure](https://www.sendwithus.com/jobs/senior-engineer-infrastructure)
 * [Lead Engineer, Frontend App](https://www.sendwithus.com/jobs/lead-engineer-frontend-app)
 * [Web Designer](https://www.sendwithus.com/jobs/web-designer)
+* [Full Stack Engineer](https://www.sendwithus.com/jobs/fullstack-engineer)
 
-#### [Tapstream](https://tapstream.com/)
-* [Product Engineer](https://angel.co/tapstream/jobs/25559-product-engineer)
+#### [Silkstart](http://silkstart.com/about/)
+* [Customer Success Representative](http://silkstart.com/about/)
+* [Website Builder](http://silkstart.com/about/)
 
 #### [TinyMob Games](https://www.tinymobgames.com/)
 * [Lead Artist](http://tinymobgames.com/lead-artist.html)
 * [Technical Artist](http://tinymobgames.com/tech-artist.html)
 * [Level Designer](http://tinymobgames.com/level-designer.html)
 * [Game UI Developer](http://tinymobgames.com/game-ui-developer.html)
+
+#### [Tutela](http://tutelatechnologies.com/)
+* [Product Marketing Manager](http://tutelatechnologies.com/careers.html)
+* [Android Mobile Developer](http://tutelatechnologies.com/careers.html)
+* [UX Designer](http://tutelatechnologies.com/careers.html)
+* [Software Developer](http://tutelatechnologies.com/careers.html)
+* [IT Systems Administrator](http://tutelatechnologies.com/careers.html)
 
 ## Startups without current postings
 * [AppColony](http://www.appcolony.ca/)
@@ -134,6 +155,6 @@ Tech startups with offices in Victoria BC.
 * [RingPartner](http://ringpartner.com/)
 * [Rooof](http://www.rooof.com/)
 * [Ruboss](http://ruboss.com/)
-* [Silkstart](http://silkstart.com/about/)
 * [Stocksy United](http://www.stocksy.com/)
+* [Tapstream](https://tapstream.com/)
 
