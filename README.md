@@ -58,6 +58,9 @@ Tech startups with offices in Victoria BC.
 #### [Flytographer](http://www.flytographer.com/)
 * [Flytographer Shoot Concierge - P/T Contract] (http://www.flytographer.com/jobs)
 
+#### [Giftbit](https://www.giftbit.com/)
+* No open positions at this time
+
 #### [Go2Mobi](http://www.go2mobi.com/)
 * [Mobile Advertising Account Exec](http://www.go2mobi.com/careers/)
 * [Senior Software Developer](http://www.go2mobi.com/careers/)
