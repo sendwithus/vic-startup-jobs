@@ -159,6 +159,9 @@ Tech startups with offices in Victoria BC.
 * [Software Developer](http://tutelatechnologies.com/careers.html)
 * [IT Systems Administrator](http://tutelatechnologies.com/careers.html)
 
+#### [Workday](http://unbouncepages.com/workday-victoria/)
+* [Senior Software Development Engineer](http://www.workday.com/company/careers/job_description.php?id=JR11149#.VkUYyt-rTXR)
+
 ## Startups without current postings
 * [Crowdcontent](https://www.crowdcontent.com/)
 * [Giftbit](https://www.giftbit.com/)
