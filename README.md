@@ -122,7 +122,6 @@ Tech startups with offices in Victoria BC.
 * [Junior Mobile Developer](https://www.pretio.in/jobs/junior-mobile-developer/)
 
 #### [Red Brick Media](http://redbrickmedia.com/)
-* [Full Stack Web Developer (PHP)](http://rbm.mytribehr.com/careers/view/27)
 * [Network Assistant](http://rbm.mytribehr.com/careers/view/22)
 
 #### [Referral Saasquatch](http://www.referralsaasquatch.com/)
