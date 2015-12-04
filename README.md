@@ -131,6 +131,10 @@ Tech startups with offices in Victoria BC.
 * [Senior PHP Platform Developer](https://www.revenuewire.com/careers/)
 * [PHP Platform Developer](https://www.revenuewire.com/careers/)
 
+#### [RingPartner](http://ringpartner.com/)
+* [Client Manager](http://ringpartner.com/join-our-team/)
+* [PPC Manager, Team Lead](http://ringpartner.com/join-our-team/)
+
 #### [Sparklit](https://www.sparklit.com/)
 * [Web Developer](https://www.sparklit.com/careers/)
 * [Full Stack Software Developer](https://www.sparklit.com/careers/)
@@ -168,7 +172,6 @@ Tech startups with offices in Victoria BC.
 * [Hipwood Digital](http://www.hipwooddigital.com/)
 * [KIXEYE Canada Ltd](http://www.kixeye.com/)
 * [Riipen](https://riipen.com/)
-* [RingPartner](http://ringpartner.com/)
 * [Rooof](http://www.rooof.com/)
 * [Ruboss](http://ruboss.com/)
 * [Stocksy United](http://www.stocksy.com/)
