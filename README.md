@@ -96,6 +96,9 @@ Tech startups with offices in Victoria BC.
 * [Technical Writer](https://latitudegeo.bamboohr.com/jobs/view.php?id=37)
 * [UI/UX Designer](https://latitudegeo.bamboohr.com/jobs/view.php?id=29)
 
+#### [LlamaZoo](http://www.llamazoo.com/)
+* [Unity Developer](https://www.viatec.ca/jobs/unity-developer)
+
 #### [MetaLab](http://metalab.co/)
 * [Senior Interface Designer](https://jobs.lever.co/metalab/0e3126d0-81df-4406-ba93-88c945f04737)
 * [Back-End Web Developer](https://jobs.lever.co/metalab/655d97f5-d721-40ca-a461-81dd901c3013)
