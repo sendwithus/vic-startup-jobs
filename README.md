@@ -138,9 +138,6 @@ Tech startups with offices in Victoria BC.
 * [Client Manager](http://ringpartner.com/join-our-team/)
 * [PPC Manager, Team Lead](http://ringpartner.com/join-our-team/)
 
-#### [Rooof](http://www.rooof.com/)
-* [Sales and Account Manager](http://www.rooof.com/jobs/)
-
 #### [Sparklit](https://www.sparklit.com/)
 * [Web Developer](https://www.sparklit.com/careers/)
 * [Full Stack Software Developer](https://www.sparklit.com/careers/)
@@ -178,6 +175,7 @@ Tech startups with offices in Victoria BC.
 * [Hipwood Digital](http://www.hipwooddigital.com/)
 * [KIXEYE Canada Ltd](http://www.kixeye.com/)
 * [Riipen](https://riipen.com/)
+* [Rooof](http://www.rooof.com/)
 * [Ruboss](http://ruboss.com/)
 * [Stocksy United](http://www.stocksy.com/)
 * [Tapstream](https://tapstream.com/)
