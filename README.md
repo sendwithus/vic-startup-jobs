@@ -15,6 +15,23 @@ Posting is easy and free, simply fork this repo and submit a pull request adding
 #### Who can post?
 Tech startups with offices in Victoria BC. 
 
+## Co-op Friendly Companies
+
+* [Beanstream](http://www.beanstream.com/)
+* [CodeName Entertainment](http://www.codenameentertainment.com/)
+* [Go2Mobi](http://www.go2mobi.com/)
+* [Isolation Network](http://www.isolationnetwork.com/)
+* [KanoApps](http://www.kanoapps.com/)
+* [Latitude Geographics](http://www.latitudegeo.com/)
+* [LlamaZOO](http://www.llamazoo.com/)
+* [MetaLab](http://metalab.co/)
+* [Pretio Interactive](https://www.pretio.in/)
+* [RedBrick Media](http://redbrickmedia.com/)
+* [Sendwithus](https://www.sendwithus.com)
+* [Starfish Medical](http://starfishmedical.com/)
+* [ViVitro Labs](http://vivitrolabs.com/)
+* [Workday](http://unbouncepages.com/workday-victoria/)
+
 ## Current Job Openings
 
 #### [Airsenze](http://www.airsenze.com/)
@@ -28,7 +45,7 @@ Tech startups with offices in Victoria BC.
 * [Web Developer](http://www.atomiccrayon.com/career-opportunities)
 * [Intermediate ASP.Net Develper](http://www.atomiccrayon.com/career-opportunities)
 
-#### [BeanStream] (http://www.beanstream.com/)
+#### [BeanStream](http://www.beanstream.com/)
 * [Senior Product Manager](http://www.beanstream.com/wp-content/uploads/2015/11/Senior_Product_Manager.pdf)
 * [Senior Network Administrator](http://www.beanstream.com/wp-content/uploads/2015/10/Senior_Network_Administrator.pdf)
 * [Analyst, Quality Assurance](http://www.beanstream.com/wp-content/uploads/2015/10/Analyst_QA.pdf)
@@ -137,9 +154,7 @@ Tech startups with offices in Victoria BC.
 * [Customer Success Manager](https://www.sparklit.com/careers/)
 
 #### [Sendwithus](https://www.sendwithus.com)
-* [Senior Engineer, Infrastructure](https://www.sendwithus.com/jobs/senior-engineer-infrastructure)
 * [Lead Engineer, Frontend App](https://www.sendwithus.com/jobs/lead-engineer-frontend-app)
-* [Web Designer](https://www.sendwithus.com/jobs/web-designer)
 * [Full Stack Engineer](https://www.sendwithus.com/jobs/fullstack-engineer)
 
 #### [Silkstart](http://silkstart.com/about/)
