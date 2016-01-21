@@ -47,16 +47,12 @@ Tech startups with offices in Victoria BC.
 * [Intermediate ASP.Net Develper](http://www.atomiccrayon.com/career-opportunities)
 
 #### [BeanStream](http://www.beanstream.com/)
-* [Senior Product Manager](http://www.beanstream.com/wp-content/uploads/2015/11/Senior_Product_Manager.pdf)
-* [Senior Network Administrator](http://www.beanstream.com/wp-content/uploads/2015/10/Senior_Network_Administrator.pdf)
-* [Analyst, Quality Assurance](http://www.beanstream.com/wp-content/uploads/2015/10/Analyst_QA.pdf)
-* [QA Manager](http://www.beanstream.com/wp-content/uploads/2015/10/Manager_QA.pdf)
-* [iOS Mobile App Developer](http://www.beanstream.com/wp-content/uploads/2015/10/iOS-Mobile-App-Developer.pdf)
+* [Products Owner](http://www.beanstream.com/wp-content/uploads/2016/01/Product_Owner.pdf)
+* [Developer Liaison](http://www.beanstream.com/wp-content/uploads/2016/01/Dev_Liaison.pdf)
 * [Software Developer](http://www.beanstream.com/wp-content/uploads/2015/05/Software-Dev.pdf)
 * [Inside Business Development SMB](http://www.beanstream.com/wp-content/uploads/2015/10/Inside_BD_SMB.pdf)
 * [Channel Partner Bus Dev](http://www.beanstream.com/wp-content/uploads/2015/10/CP_BD.pdf)
 * [Channel Partner Account Manager](http://www.beanstream.com/wp-content/uploads/2015/10/CP_Account_Manager.pdf)
-* [Treasury Analyst](http://www.beanstream.com/wp-content/uploads/2015/10/Treasury_Analyst.pdf)
 
 #### [Boundless GeoSpatial](http://www.boundlessgeo.com/)
 * [Application Developer](http://boundless.theresumator.com/apply/7xrEcN/Application-Developer)
@@ -84,16 +80,16 @@ Tech startups with offices in Victoria BC.
 * [Web Project Manager](http://www.falcon-software.com/About-Us/Job-Postings/Web-Project-Manager)
 
 #### [Flytographer](http://www.flytographer.com/)
+* [Editorial Assistant](http://www.flytographer.com/jobs/)
 * [Flytographer Shoot Concierge - P/T Contract](http://www.flytographer.com/jobs)
 
 #### [Go2Mobi](http://www.go2mobi.com/)
 * [Mobile Advertising Account Exec](http://www.go2mobi.com/careers/)
-* [Senior Software Developer](http://www.go2mobi.com/careers/)
 * [Media Buyer](http://www.go2mobi.com/careers/)
 * [Graphic Designer](http://www.go2mobi.com/careers/)
 * [Business Development Performance Sales](http://www.go2mobi.com/careers/)
 * [Brand/Agency Marketing Specialist](http://www.go2mobi.com/careers/)
-* [Accountant](http://www.go2mobi.com/careers/)
+* [Junioir to Intermediate Accountant](http://www.go2mobi.com/careers/)
 
 #### [Kano Apps](http://www.kanoapps.com/)
 * [Full Stack Developer for Mobile & Web Games](https://kanoapps.bamboohr.com/jobs/view.php?id=12)
@@ -101,12 +97,12 @@ Tech startups with offices in Victoria BC.
 
 #### [Latitude Geographics](http://www.latitudegeo.com/)
 * [Frontend Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=30)
-* [Senior Professional Services Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=34)
+* [Inside Sales Representative](https://latitudegeo.bamboohr.com/jobs/view.php?id=41)
 * [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
 * [Software Developer - Internship](https://latitudegeo.bamboohr.com/jobs/view.php?id=10)
 * [Software Developer - Web &amp; Mobile](https://latitudegeo.bamboohr.com/jobs/view.php?id=23)
 * [UI/UX Designer](https://latitudegeo.bamboohr.com/jobs/view.php?id=29)
-* [Software Developer - Business Systems](https://latitudegeo.bamboohr.com/jobs/view.php?id=40)
+* [Unsolicited/General Applications](https://latitudegeo.bamboohr.com/jobs/view.php?id=22)
 
 #### [LlamaZoo](http://www.llamazoo.com/)
 * [Unity Developer](https://www.viatec.ca/jobs/unity-developer)
@@ -117,12 +113,17 @@ Tech startups with offices in Victoria BC.
 * [Creative Director](https://jobs.lever.co/metalab/a82d9252-fe10-4d6f-b917-8bd40399fa97)
 * [Project Manager](https://jobs.lever.co/metalab/6c692fd5-0a2c-45ab-aad9-f8e93c935bf0)
 * [iOS Developer](https://jobs.lever.co/metalab/3df704f1-67a2-43a2-8c73-a4c804164eb6)
+* [Product Manager](https://jobs.lever.co/metalab/aef58c97-bf5f-4290-9960-eab28a4be04d/apply)
+* [Talet Partner](https://jobs.lever.co/metalab/445e1f46-cde9-403d-a776-5454328affb0/apply)
+* [Product Researcher](https://jobs.lever.co/metalab/39ba8349-eb7d-42ee-b4b4-b1a889f632ee/apply)
 
 #### [MonetizeMore](http://www.monetizemore.com/)
 * [Growth Hacker](http://www.monetizemore.com/about-monetizemore/careers/growth-hacker/)
 * [QA Engineer](http://www.monetizemore.com/about-monetizemore/careers/qa-engineer/)
 * [Web Developer](http://www.monetizemore.com/about-monetizemore/careers/web-developer-jobs/)
 * [Google Webmaster Quality Guidelines Specialist](http://www.monetizemore.com/about-monetizemore/careers/google-webmaster-quality-guidelines-specialist/)
+* [Reports and Lead-Gen Specialist](http://www.monetizemore.com/about-monetizemore/careers/reports-and-lead-gen-specialist/)
+* [Ad Optimization Expert](http://www.monetizemore.com/about-monetizemore/careers/)
 
 #### [One Net Marketing](http://onenetmarketing.com)
 * [Web/Graphic Designer](http://onenetmarketing.com/careers/)
@@ -136,6 +137,8 @@ Tech startups with offices in Victoria BC.
 * [Media Buyer](https://www.pretio.in/jobs/media-buyer/)
 
 #### [Red Brick Media](http://redbrickmedia.com/)
+* [Director of Technology](http://rbm.mytribehr.com/careers/view/30)
+* [Executive Assistant](http://rbm.mytribehr.com/careers/view/28)
 * [Network Assistant](http://rbm.mytribehr.com/careers/view/22)
 * [People-Ops Assistant](http://rbm.mytribehr.com/careers/view/29)
 
@@ -164,6 +167,10 @@ Tech startups with offices in Victoria BC.
 * [Customer Success Representative](http://silkstart.com/about/)
 * [Website Builder](http://silkstart.com/about/)
 
+#### [Stocksy United](http://www.stocksy.com/)
+* [Writer + Social Media Coordinator](https://www.stocksy.com/service/hiring)
+* [Graphic Designer](https://www.stocksy.com/service/hiring)
+
 #### [TinyMob Games](http://tinymobgames.com/)
 * [Game Server Engineer](http://tinymobgames.com/game-server-engineer.html)
 * [Lead Artist](http://tinymobgames.com/lead-artist.html)
@@ -181,6 +188,8 @@ Tech startups with offices in Victoria BC.
 
 #### [Workday](http://unbouncepages.com/workday-victoria/)
 * [Senior Software Development Engineer](http://www.workday.com/company/careers/job_description.php?id=JR11149#.VkUYyt-rTXR)
+* [Technical Prsales Consultant](http://www.workday.com/company/careers/job_description.php?id=JR11414#.VqFnJogrKuU)
+* [Senior Integration Consultant](http://www.workday.com/company/careers/job_description.php?id=JR11694#.VqFnbIgrKuU)
 
 ## Startups without current postings
 * [Crowdcontent](https://www.crowdcontent.com/)
@@ -190,6 +199,5 @@ Tech startups with offices in Victoria BC.
 * [Riipen](https://riipen.com/)
 * [Rooof](http://www.rooof.com/)
 * [Ruboss](http://ruboss.com/)
-* [Stocksy United](http://www.stocksy.com/)
 * [Tapstream](https://tapstream.com/)
 
