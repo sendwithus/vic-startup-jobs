@@ -68,9 +68,10 @@ Tech startups with offices in Victoria BC.
 * [Senior Software Engineer - iOS](https://www.change.org/careers/ee53555f-5190-41cc-8f04-c88e6c790d8b)
 
 #### [Checkfront](https://www.checkfront.com/)
+* [Product Marketing Manager](https://www.checkfront.com/careers/marketing-manager)
+* [Client Support Specialist](https://www.checkfront.com/careers/customer-success)
 * [UX/Web Designer](https://www.checkfront.com/careers/uiweb-designer-wanted)
-* [Xero Bookkeeper/PT](https://www.checkfront.com/careers/xero-bookkeeper)
-* [Web Application Developer - Intermediate](https://www.checkfront.com/careers/web-developer)
+* [Linux System Administrator](https://www.checkfront.com/careers/linux-cloud-administator)
 * [Inside Sales Representative](https://www.checkfront.com/careers/inside-sales)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/)
