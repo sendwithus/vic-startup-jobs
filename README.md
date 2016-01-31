@@ -89,7 +89,7 @@ Tech startups with offices in Victoria BC.
 * [Graphic Designer](http://www.go2mobi.com/careers/)
 * [Business Development Performance Sales](http://www.go2mobi.com/careers/)
 * [Brand/Agency Marketing Specialist](http://www.go2mobi.com/careers/)
-* [Junioir to Intermediate Accountant](http://www.go2mobi.com/careers/)
+* [Junior to Intermediate Accountant](http://www.go2mobi.com/careers/)
 
 #### [Kano Apps](http://www.kanoapps.com/)
 * [Full Stack Developer for Mobile & Web Games](https://kanoapps.bamboohr.com/jobs/view.php?id=12)
@@ -114,7 +114,7 @@ Tech startups with offices in Victoria BC.
 * [Project Manager](https://jobs.lever.co/metalab/6c692fd5-0a2c-45ab-aad9-f8e93c935bf0)
 * [iOS Developer](https://jobs.lever.co/metalab/3df704f1-67a2-43a2-8c73-a4c804164eb6)
 * [Product Manager](https://jobs.lever.co/metalab/aef58c97-bf5f-4290-9960-eab28a4be04d/apply)
-* [Talet Partner](https://jobs.lever.co/metalab/445e1f46-cde9-403d-a776-5454328affb0/apply)
+* [Talent Partner](https://jobs.lever.co/metalab/445e1f46-cde9-403d-a776-5454328affb0/apply)
 * [Product Researcher](https://jobs.lever.co/metalab/39ba8349-eb7d-42ee-b4b4-b1a889f632ee/apply)
 
 #### [MonetizeMore](http://www.monetizemore.com/)
