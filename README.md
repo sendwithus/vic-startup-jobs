@@ -140,7 +140,6 @@ Tech startups with offices in Victoria BC.
 * [Director of Technology](http://rbm.mytribehr.com/careers/view/30)
 * [Executive Assistant](http://rbm.mytribehr.com/careers/view/28)
 * [Network Assistant](http://rbm.mytribehr.com/careers/view/22)
-* [People-Ops Assistant](http://rbm.mytribehr.com/careers/view/29)
 
 #### [Referral Saasquatch](http://www.referralsaasquatch.com/)
 * [Backend Developer](http://www.referralsaasquatch.com/careers/#op-35157-backend-developer)
