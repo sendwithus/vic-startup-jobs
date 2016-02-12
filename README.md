@@ -140,40 +140,39 @@ Tech startups with offices in Victoria BC.
 * [iOS Developer](https://www.pretio.in/jobs/ios-developer/)
 * [Android Developer](https://www.pretio.in/jobs/android-developer/)
 * [Media Buyer](https://www.pretio.in/jobs/media-buyer/)
+* [Junior Python Developer/Co-op](https://www.pretio.in/jobs/junior-backend-developer/)
 
 #### [Red Brick Media](http://redbrickmedia.com/)
 * [Director of Technology](http://rbm.mytribehr.com/careers/view/30)
-* [Executive Assistant](http://rbm.mytribehr.com/careers/view/28)
 * [Network Assistant](http://rbm.mytribehr.com/careers/view/22)
 
 #### [Referral Saasquatch](http://www.referralsaasquatch.com/)
-* [Backend Developer](http://www.referralsaasquatch.com/careers/#op-35157-backend-developer)
+* [Product - Backend Developer](http://www.referralsaasquatch.com/careers/#op-35157-backend-developer)
 * [Sales - Acount Executive](http://www.referralsaasquatch.com/careers/#op-35157-backend-developer)
 
 #### [RevenueWire](https://www.revenuewire.com/)
+* [Director of IT](https://www.revenuewire.com/careers/)
 * [Senior PHP Platform Developer](https://www.revenuewire.com/careers/)
 * [PHP Platform Developer](https://www.revenuewire.com/careers/)
 
 #### [RingPartner](http://ringpartner.com/)
 * [Client Manager](http://ringpartner.com/join-our-team/)
-* [PPC Manager, Team Lead](http://ringpartner.com/join-our-team/)
 
 #### [Sparklit](https://www.sparklit.com/)
-* [Web Developer](https://www.sparklit.com/careers/)
 * [Full Stack Software Developer](https://www.sparklit.com/careers/)
-* [Customer Success Manager](https://www.sparklit.com/careers/)
 
 #### [Sendwithus](https://www.sendwithus.com)
-* [Lead Engineer, Frontend App](https://www.sendwithus.com/jobs/lead-engineer-frontend-app)
+* [Senior Engineer, Frontend App](https://www.sendwithus.com/jobs/lead-engineer-frontend-app)
 * [Full Stack Engineer](https://www.sendwithus.com/jobs/fullstack-engineer)
+* [Sendior Engineer, Infrastructure](https://www.sendwithus.com/jobs/senior-engineer-infrastructure)
 
 #### [Silkstart](http://silkstart.com/about/)
 * [Customer Success Representative](http://silkstart.com/about/)
 * [Website Builder](http://silkstart.com/about/)
 
 #### [Stocksy United](http://www.stocksy.com/)
-* [Writer + Social Media Coordinator](https://www.stocksy.com/service/hiring)
-* [Graphic Designer](https://www.stocksy.com/service/hiring)
+* [Senior QA](https://www.stocksy.com/service/hiring)
+* [Sr. Video Editor](https://www.stocksy.com/service/hiring)
 
 #### [TinyMob Games](http://tinymobgames.com/)
 * [Game Server Engineer](http://tinymobgames.com/game-server-engineer.html)
@@ -186,14 +185,13 @@ Tech startups with offices in Victoria BC.
 * [Product Marketing Manager](http://tutelatechnologies.com/careers.html)
 * [Android Mobile Developer](http://tutelatechnologies.com/careers.html)
 * [iOS Mobile Developer](http://tutelatechnologies.com/careers.html)
-* [UX Designer](http://tutelatechnologies.com/careers.html)
+* [User Experience Designer](http://tutelatechnologies.com/careers.html)
 * [Software Developer](http://tutelatechnologies.com/careers.html)
 * [IT Systems Administrator](http://tutelatechnologies.com/careers.html)
 
 #### [Workday](http://unbouncepages.com/workday-victoria/)
 * [Senior Software Development Engineer](http://www.workday.com/company/careers/job_description.php?id=JR11149#.VkUYyt-rTXR)
-* [Technical Prsales Consultant](http://www.workday.com/company/careers/job_description.php?id=JR11414#.VqFnJogrKuU)
-* [Senior Integration Consultant](http://www.workday.com/company/careers/job_description.php?id=JR11694#.VqFnbIgrKuU)
+* [Video Producer](http://www.workday.com/company/careers/job_description.php?id=JR12037#.VrE7ocfcD0c)
 
 ## Startups without current postings
 * [Crowdcontent](https://www.crowdcontent.com/)
