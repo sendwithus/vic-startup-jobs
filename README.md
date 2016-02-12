@@ -62,7 +62,6 @@ Tech startups with offices in Victoria BC.
 * [Front End Designer/Developer](http://boundless.theresumator.com/apply/lnhfuz/Front-End-Designer-Developer)
 * [Front-End Engineer](http://boundless.theresumator.com/apply/7pUlYU/FrontEnd-Engineer)
 * [General Applicant](http://boundless.theresumator.com/apply/HUSWik/General-Applicant)
-* 
 * [Software/Mapping GIS Co-op](http://boundless.theresumator.com/apply/AN4aDu/Software-Mapping-GIS-Coop)
 * [Web Developer](http://boundless.theresumator.com/apply/yRowO0/Web-Developer)
 
