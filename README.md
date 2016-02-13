@@ -142,7 +142,6 @@ Tech startups with offices in Victoria BC.
 * [Junior Python Developer/Co-op](https://www.pretio.in/jobs/junior-backend-developer/)
 
 #### [Red Brick Media](http://redbrickmedia.com/)
-* [Director of Technology](http://rbm.mytribehr.com/careers/view/30)
 * [Network Assistant](http://rbm.mytribehr.com/careers/view/22)
 
 #### [Referral Saasquatch](http://www.referralsaasquatch.com/)
