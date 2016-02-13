@@ -155,7 +155,7 @@ Tech startups with offices in Victoria BC.
 * [PHP Platform Developer](https://www.revenuewire.com/careers/)
 
 #### [RingPartner](http://ringpartner.com/)
-* [Client Manager](http://ringpartner.com/join-our-team/)
+* [Client Success Manager](http://ringpartner.com/careers/)
 
 #### [Sparklit](https://www.sparklit.com/)
 * [Full Stack Software Developer](https://www.sparklit.com/careers/)
