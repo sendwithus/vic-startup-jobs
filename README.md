@@ -156,6 +156,7 @@ Tech startups with offices in Victoria BC.
 
 #### [RingPartner](http://ringpartner.com/)
 * [Client Success Manager](http://ringpartner.com/careers/)
+* [Digital Marketing & Design Coordinator](http://ringpartner.com/careers/)
 
 #### [Sparklit](https://www.sparklit.com/)
 * [Full Stack Software Developer](https://www.sparklit.com/careers/)
