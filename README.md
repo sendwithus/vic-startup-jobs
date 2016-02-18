@@ -146,8 +146,13 @@ Tech startups with offices in Victoria BC.
 * [Network Assistant](http://rbm.mytribehr.com/careers/view/22)
 
 #### [Referral Saasquatch](http://www.referralsaasquatch.com/)
-* [Product - Backend Developer](http://www.referralsaasquatch.com/careers/#op-35157-backend-developer)
-* [Sales - Acount Executive](http://www.referralsaasquatch.com/careers/#op-35157-backend-developer)
+* [Full Stack Developer] (http://www.referralsaasquatch.com/careers/#FSD)
+* [Sales Development Rep] (http://www.referralsaasquatch.com/careers/#SDR)
+* [Account Executive] (http://www.referralsaasquatch.com/careers/#AE)
+* [Implementations Specialist] (http://www.referralsaasquatch.com/careers/#IS)
+* [Solutions Architect] (http://www.referralsaasquatch.com/careers/#SA)
+* [Account Manager] (http://www.referralsaasquatch.com/careers/#AM)
+* [Customer Support] (http://www.referralsaasquatch.com/careers/#CS)
 
 #### [RevenueWire](https://www.revenuewire.com/)
 * [Director of IT](https://www.revenuewire.com/careers/)
