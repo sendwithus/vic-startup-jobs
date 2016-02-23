@@ -169,7 +169,8 @@ Tech startups with offices in Victoria BC.
 #### [Sendwithus](https://www.sendwithus.com)
 * [Senior Engineer, Frontend App](https://www.sendwithus.com/jobs/lead-engineer-frontend-app)
 * [Full Stack Engineer](https://www.sendwithus.com/jobs/fullstack-engineer)
-* [Sendior Engineer, Infrastructure](https://www.sendwithus.com/jobs/senior-engineer-infrastructure)
+* [Senior Engineer, Infrastructure](https://www.sendwithus.com/jobs/senior-engineer-infrastructure)
+* [Full Stack Engineering Intern](https://www.sendwithus.com/jobs/full-stack-engineering-intern)
 
 #### [Silkstart](http://silkstart.com/about/)
 * [Customer Success Representative](http://silkstart.com/about/)
