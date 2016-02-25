@@ -19,7 +19,7 @@ Tech startups with offices in Victoria BC.
 
 * [Beanstream](http://www.beanstream.com/)
 * [CodeName Entertainment](http://www.codenameentertainment.com/)
-* [Go2Mobi](http://www.go2mobi.com/)
+* [Go2mobi](http://www.go2mobi.com/)
 * [Isolation Network](http://www.isolationnetwork.com/)
 * [KanoApps](http://www.kanoapps.com/)
 * [Latitude Geographics](http://www.latitudegeo.com/)
@@ -95,7 +95,7 @@ Tech startups with offices in Victoria BC.
 * [Marketing Specialist](https://giftbit.bamboohr.com/jobs/view.php?id=1)
 * [Quality Assurance Software Engineer](https://giftbit.bamboohr.com/jobs/view.php?id=6)
 
-#### [Go2Mobi](http://www.go2mobi.com/)
+#### [Go2mobi](http://www.go2mobi.com/)
 * [Mobile Advertising Account Exec](http://www.go2mobi.com/careers/)
 * [Media Buyer](https://www.go2mobi.com/careers/2016-MB-01/)
 * [Graphic Designer](https://www.go2mobi.com/careers/2015-GD11-12/)
