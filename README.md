@@ -66,6 +66,7 @@ Tech startups with offices in Victoria BC.
 * [Web Developer](http://boundless.theresumator.com/apply/yRowO0/Web-Developer)
 
 #### [Change.org](https://www.change.org/)
+* [Senior Software Engineer, Full Stack](https://www.change.org/careers/d33d2789-048d-4cf6-b708-605d3cd5a20c)
 * [General Application](https://www.change.org/careers/1fd73f1e-e476-4380-b446-5374ecb50035)
 
 #### [Checkfront](https://www.checkfront.com/)
