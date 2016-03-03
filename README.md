@@ -40,16 +40,11 @@ Tech startups with offices in Victoria BC.
 * [iOS Developer](http://www.airsenze.com/about/)
 * [Android Developer](http://www.airsenze.com/about/)
 
-#### [Appcolony](http://www.appcolony.ca/)
-* [Mobile UX/UI Designer](http://www.appcolony.ca/careers/design/)
-
 #### [Atomic Crayon](http://www.atomiccrayon.com/)
 * [Web Developer](http://www.atomiccrayon.com/career-opportunities)
 * [Intermediate ASP.Net Develper](http://www.atomiccrayon.com/career-opportunities)
 
 #### [Beanstream](http://www.beanstream.com/)
-* [Director, NA Marketing and Communications](http://www.beanstream.com/wp-content/uploads/2016/01/Director_NA_Marketing.pdf)
-* [Developer Liaison](http://www.beanstream.com/wp-content/uploads/2016/01/Dev_Liaison.pdf)
 * [Software Developer](http://www.beanstream.com/wp-content/uploads/2015/12/Software-Dev.pdf)
 * [Inside Business Development SMB](http://www.beanstream.com/wp-content/uploads/2015/10/Inside_BD_SMB.pdf)
 * [Channel Partner Business Development](http://www.beanstream.com/wp-content/uploads/2015/10/CP_BD.pdf)
@@ -57,10 +52,10 @@ Tech startups with offices in Victoria BC.
 
 #### [Boundless GeoSpatial](http://www.boundlessgeo.com/)
 * [Application Developer](http://boundless.theresumator.com/apply/7xrEcN/Application-Developer)
-* [Devops Engineer](http://boundless.theresumator.com/apply/Gizgel/Devops-Engineer)
 * [Front End Designer/Developer](http://boundless.theresumator.com/apply/lnhfuz/Front-End-Designer-Developer)
 * [Front-End Engineer](http://boundless.theresumator.com/apply/7pUlYU/FrontEnd-Engineer)
 * [General Applicant](http://boundless.theresumator.com/apply/HUSWik/General-Applicant)
+* [Open Source GIS Community Engagement Co-op](http://boundless.theresumator.com/apply/TCVVFk/Open-Source-GIS-Community-Engagement-CoOp)
 * [Software/Mapping GIS Co-op](http://boundless.theresumator.com/apply/AN4aDu/Software-Mapping-GIS-Coop)
 * [Solutions Architect](http://boundless.theresumator.com/apply/TweShF/Solutions-Architect)
 * [Web Developer](http://boundless.theresumator.com/apply/yRowO0/Web-Developer)
@@ -70,6 +65,7 @@ Tech startups with offices in Victoria BC.
 * [General Application](https://www.change.org/careers/1fd73f1e-e476-4380-b446-5374ecb50035)
 
 #### [Checkfront](https://www.checkfront.com/)
+* [Buisness Development Specialist](https://www.checkfront.com/careers/business-development-specialist)
 * [Client Support Specialist](https://www.checkfront.com/careers/customer-success)
 * [Inside Sales Representative](https://www.checkfront.com/careers/inside-sales)
 
@@ -97,13 +93,10 @@ Tech startups with offices in Victoria BC.
 * [Quality Assurance Software Engineer](https://giftbit.bamboohr.com/jobs/view.php?id=6)
 
 #### [Go2mobi](http://www.go2mobi.com/)
-* [Mobile Advertising Account Exec](http://www.go2mobi.com/careers/)
+* [Mobile Advertising Account Executive](https://www.go2mobi.com/careers/2016-AE-01/)
 * [Media Buyer](https://www.go2mobi.com/careers/2016-MB-01/)
-* [Graphic Designer](https://www.go2mobi.com/careers/2015-GD11-12/)
 * [Web Designer Developer](https://www.go2mobi.com/careers/2016-WDD-02/)
 * [Business Development Performance Sales](https://www.go2mobi.com/careers/2015-BDPS-12/)
-* [Self-Serve Sales - DSP](https://www.go2mobi.com/careers/2016-SSSD-03/)
-* [Junior to Intermediate Accountant](https://www.go2mobi.com/careers/2016-ACC-01/)
 
 #### [Kano Apps](http://www.kanoapps.com/)
 * [Full Stack Developer for Mobile & Web Games](https://kanoapps.bamboohr.com/jobs/view.php?id=12)
@@ -112,8 +105,9 @@ Tech startups with offices in Victoria BC.
 #### [Latitude Geographics](http://www.latitudegeo.com/)
 * [Frontend Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=30)
 * [Information Systems Support Analyst](https://latitudegeo.bamboohr.com/jobs/view.php?id=44)
+* [Product Support Analyst](https://latitudegeo.bamboohr.com/jobs/view.php?id=46)
 * [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
-* [Junior Software Developer - Internship](https://latitudegeo.bamboohr.com/jobs/view.php?id=10)
+* [Software Developer - Internship](https://latitudegeo.bamboohr.com/jobs/view.php?id=10)
 * [Software Developer - Web & Mobile](https://latitudegeo.bamboohr.com/jobs/view.php?id=23)
 * [UI/UX Designer](https://latitudegeo.bamboohr.com/jobs/view.php?id=29)
 * [Unsolicited/General Applications](https://latitudegeo.bamboohr.com/jobs/view.php?id=22)
@@ -158,18 +152,18 @@ Tech startups with offices in Victoria BC.
 * [Network Assistant](http://rbm.mytribehr.com/careers/view/22)
 
 #### [Referral Saasquatch](http://www.referralsaasquatch.com/)
-* [Full Stack Developer] (http://www.referralsaasquatch.com/careers/#FSD)
-* [Sales Development Rep] (http://www.referralsaasquatch.com/careers/#SDR)
-* [Account Executive] (http://www.referralsaasquatch.com/careers/#AE)
-* [Implementations Specialist] (http://www.referralsaasquatch.com/careers/#IS)
-* [Solutions Architect] (http://www.referralsaasquatch.com/careers/#SA)
-* [Account Manager] (http://www.referralsaasquatch.com/careers/#AM)
-* [Customer Support] (http://www.referralsaasquatch.com/careers/#CS)
+* [Full Stack Developer] (http://www.referralsaasquatch.com/careers/)
+* [Sales Development Rep] (http://www.referralsaasquatch.com/careers/)
+* [Account Executive] (http://www.referralsaasquatch.com/careers/)
+* [Implementations Specialist] (http://www.referralsaasquatch.com/careers/)
+* [Solutions Architect] (http://www.referralsaasquatch.com/careers/)
+* [Account Manager] (http://www.referralsaasquatch.com/careers/)
+* [Customer Support] (http://www.referralsaasquatch.com/careers/)
 
 #### [RevenueWire](https://www.revenuewire.com/)
 * [Director of IT](https://www.revenuewire.com/careers/)
-* [Senior PHP Platform Developer](https://www.revenuewire.com/careers/)
-* [PHP Platform Developer](https://www.revenuewire.com/careers/)
+* [Product Owner](https://www.revenuewire.com/careers/)
+* [Sales Specialist – Constant Content](https://www.revenuewire.com/careers/)
 
 #### [RingPartner](http://ringpartner.com/)
 * [Client Success Manager](http://ringpartner.com/careers/)
@@ -178,7 +172,7 @@ Tech startups with offices in Victoria BC.
 * [Compliance & Quality Assurance (CQA) Coordinator](http://ringpartner.com/careers/)
 * [Campaign Manager](http://ringpartner.com/careers/)
 
-#### [Sparklit](https://www.sparklit.com/)
+#### [SparkLIT](https://www.sparklit.com/)
 * [Full Stack Software Developer](https://www.sparklit.com/careers/)
 
 #### [Sendwithus](https://www.sendwithus.com)
@@ -216,6 +210,7 @@ Tech startups with offices in Victoria BC.
 * [Video Producer](http://www.workday.com/company/careers/job_description.php?id=JR12037#.VrE7ocfcD0c)
 
 ## Startups without current postings
+* [Appcolony](http://www.appcolony.ca/)
 * [Crowdcontent](https://www.crowdcontent.com/)
 * [Hipwood Digital](http://www.hipwooddigital.com/)
 * [KIXEYE Canada Ltd](http://www.kixeye.com/)
