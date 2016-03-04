@@ -19,6 +19,7 @@ Tech startups with offices in Victoria BC.
 
 * [Beanstream](http://www.beanstream.com/)
 * [CodeName Entertainment](http://www.codenameentertainment.com/)
+* [Ecosec](https://www.echosec.net/)
 * [Go2mobi](http://www.go2mobi.com/)
 * [Isolation Network](http://www.isolationnetwork.com/)
 * [KanoApps](http://www.kanoapps.com/)
@@ -72,6 +73,11 @@ Tech startups with offices in Victoria BC.
 #### [Codename Entertainment](http://www.codenameentertainment.com/)
 * [Junior Game Programmer Co-op](http://www.codenameentertainment.com/?page=jobs#coops)
 * [Game Programmer-Web/Mobile](http://www.codenameentertainment.com/?page=jobs)
+
+#### [Echosec](https://www.echosec.net/)
+* [Full Stack Web App Developer](https://www.echosec.net/careers/web-developer/)
+* [Administrative Assistant](https://www.echosec.net/careers/administrative-assistant/)
+* [Platform Developer](https://www.echosec.net/careers/platform-developer/)
 
 #### [Falcom Software](http://www.falcon-software.com/)
 * [ASP.Net Developer](http://www.falcon-software.com/About-Us/Job-Postings/ASP-Net-Developer)
