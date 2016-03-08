@@ -42,6 +42,9 @@ Tech startups with offices in Victoria BC.
 * [iOS Developer](http://www.airsenze.com/about/)
 * [Android Developer](http://www.airsenze.com/about/)
 
+#### [Appcolony](http://www.appcolony.ca/)
+* [Mobile UX/UI Designer](http://www.appcolony.ca/careers/design/)
+
 #### [Atomic Crayon](http://www.atomiccrayon.com/)
 * [Web Developer](http://www.atomiccrayon.com/career-opportunities)
 * [Intermediate ASP.Net Develper](http://www.atomiccrayon.com/career-opportunities)
@@ -96,8 +99,6 @@ Tech startups with offices in Victoria BC.
 * [Experienced Full Stack Software Engineer](https://giftbit.bamboohr.com/jobs/view.php?id=3)
 * [Front End Software Engineer](https://giftbit.bamboohr.com/jobs/view.php?id=4)
 * [Intermediate Full Stack Software Engineer](https://giftbit.bamboohr.com/jobs/view.php?id=8)
-* [Marketing Specialist](https://giftbit.bamboohr.com/jobs/view.php?id=1)
-* [Quality Assurance Software Engineer](https://giftbit.bamboohr.com/jobs/view.php?id=6)
 
 #### [Go2mobi](http://www.go2mobi.com/)
 * [Mobile Advertising Account Executive](https://www.go2mobi.com/careers/2016-AE-01/)
@@ -107,14 +108,13 @@ Tech startups with offices in Victoria BC.
 
 #### [Kano Apps](http://www.kanoapps.com/)
 * [Full Stack Developer for Mobile & Web Games](https://kanoapps.bamboohr.com/jobs/view.php?id=12)
-* [Executive Assistant](https://kanoapps.bamboohr.com/jobs/view.php?id=16)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/)
-* [Frontend Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=30)
-* [Information Systems Support Analyst](https://latitudegeo.bamboohr.com/jobs/view.php?id=44)
+* [Front End Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=30)
 * [Product Support Analyst](https://latitudegeo.bamboohr.com/jobs/view.php?id=46)
 * [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
-* [Software Developer - Internship](https://latitudegeo.bamboohr.com/jobs/view.php?id=10)
+* [Junior Software Developer - Internship](https://latitudegeo.bamboohr.com/jobs/view.php?id=10)
+* [Softwaare Developer - Professional Services](https://latitudegeo.bamboohr.com/jobs/view.php?id=42)
 * [Software Developer - Web & Mobile](https://latitudegeo.bamboohr.com/jobs/view.php?id=23)
 * [UI/UX Designer](https://latitudegeo.bamboohr.com/jobs/view.php?id=29)
 * [Unsolicited/General Applications](https://latitudegeo.bamboohr.com/jobs/view.php?id=22)
@@ -129,7 +129,6 @@ Tech startups with offices in Victoria BC.
 * [Chief Technology Officer](http://metalab.co/careers/)
 * [Director of Engineering](http://metalab.co/careers/)
 * [Project Manager](http://metalab.co/careers/)
-* [Android Developer](http://metalab.co/careers/)
 * [iOS Developer](http://metalab.co/careers/)
 * [Talent Partner](http://metalab.co/careers/)
 * [Product Manager](http://metalab.co/careers/)
@@ -196,6 +195,7 @@ Tech startups with offices in Victoria BC.
 * [Sr. DevOps](https://www.stocksy.com/service/hiring)
 * [Senior QA](https://www.stocksy.com/service/hiring)
 * [Sr. Video Editor](https://www.stocksy.com/service/hiring)
+* [Accountant](https://www.stocksy.com/service/hiring)
 
 #### [TinyMob Games](http://tinymobgames.com/)
 * [Game Server Engineer](http://tinymobgames.com/game-server-engineer.html)
@@ -214,12 +214,9 @@ Tech startups with offices in Victoria BC.
 
 #### [Workday](http://unbouncepages.com/workday-victoria/)
 * [Senior Software Development Engineer](http://www.workday.com/company/careers/job_description.php?id=JR12778#.Vth_MygrLWJ)
-* [Video Producer](http://www.workday.com/company/careers/job_description.php?id=JR12037#.VrE7ocfcD0c)
 * [DevOps Engineer](http://www.workday.com/company/careers/job_description.php?id=JR12777#.Vth_CCgrLWI)
-* [Co-Op Software Developer](http://www.workday.com/company/careers/job_description.php?id=JR12521#.Vth_ISgrLWI)
 
 ## Startups without current postings
-* [Appcolony](http://www.appcolony.ca/)
 * [Crowdcontent](https://www.crowdcontent.com/)
 * [Hipwood Digital](http://www.hipwooddigital.com/)
 * [KIXEYE Canada Ltd](http://www.kixeye.com/)
