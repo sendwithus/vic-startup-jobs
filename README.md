@@ -50,7 +50,9 @@ Tech startups with offices in Victoria BC.
 * [Intermediate ASP.Net Develper](http://www.atomiccrayon.com/career-opportunities)
 
 #### [Beanstream](http://www.beanstream.com/)
-* [Software Developer](http://www.beanstream.com/wp-content/uploads/2015/12/Software-Dev.pdf)
+* [Technical Support Representative](http://www.beanstream.com/wp-content/uploads/2016/03/Technical-Support-Representative.pdf)
+* [DotNet Developer](http://www.beanstream.com/wp-content/uploads/2016/03/DotNet-Developer.pdf)
+* [Full-Stack Developer](http://www.beanstream.com/wp-content/uploads/2016/03/Full-Stack-Developer.pdf)
 * [Inside Business Development SMB](http://www.beanstream.com/wp-content/uploads/2015/10/Inside_BD_SMB.pdf)
 * [Channel Partner Business Development](http://www.beanstream.com/wp-content/uploads/2015/10/CP_BD.pdf)
 * [Channel Partner Account Manager](http://www.beanstream.com/wp-content/uploads/2015/10/CP_Account_Manager.pdf)
@@ -70,6 +72,8 @@ Tech startups with offices in Victoria BC.
 * [General Application](https://www.change.org/careers/1fd73f1e-e476-4380-b446-5374ecb50035)
 
 #### [Checkfront](https://www.checkfront.com/)
+* [Director of Sales](https://www.checkfront.com/careers/director-of-sales)
+* [Web Developer x2](https://www.checkfront.com/careers/web-developer)
 * [Buisness Development Specialist](https://www.checkfront.com/careers/business-development-specialist)
 * [Client Support Specialist](https://www.checkfront.com/careers/customer-success)
 * [Inside Sales Representative](https://www.checkfront.com/careers/inside-sales)
@@ -80,8 +84,8 @@ Tech startups with offices in Victoria BC.
 
 #### [Echosec](https://www.echosec.net/)
 * [Full Stack Web App Developer](https://www.echosec.net/careers/web-developer/)
-* [Administrative Assistant](https://www.echosec.net/careers/administrative-assistant/)
 * [Platform Developer](https://www.echosec.net/careers/platform-developer/)
+* [Web Development Internship](https://drive.google.com/drive/u/0/my-drive)
 
 #### [Falcom Software](http://www.falcon-software.com/)
 * [ASP.Net Developer](http://www.falcon-software.com/About-Us/Job-Postings/ASP-Net-Developer)
@@ -111,10 +115,11 @@ Tech startups with offices in Victoria BC.
 
 #### [Latitude Geographics](http://www.latitudegeo.com/)
 * [Front End Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=30)
+* [Inside Sales Representative](https://latitudegeo.bamboohr.com/jobs/view.php?id=41)
 * [Product Support Analyst](https://latitudegeo.bamboohr.com/jobs/view.php?id=46)
 * [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
-* [Junior Software Developer - Internship](https://latitudegeo.bamboohr.com/jobs/view.php?id=10)
-* [Softwaare Developer - Professional Services](https://latitudegeo.bamboohr.com/jobs/view.php?id=42)
+* [Software Developer - Internship](https://latitudegeo.bamboohr.com/jobs/view.php?id=10)
+* [Software Developer - Professional Services](https://latitudegeo.bamboohr.com/jobs/view.php?id=42)
 * [Software Developer - Web & Mobile](https://latitudegeo.bamboohr.com/jobs/view.php?id=23)
 * [UI/UX Designer](https://latitudegeo.bamboohr.com/jobs/view.php?id=29)
 * [Unsolicited/General Applications](https://latitudegeo.bamboohr.com/jobs/view.php?id=22)
