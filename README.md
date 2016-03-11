@@ -109,6 +109,7 @@ Tech startups with offices in Victoria BC.
 * [Media Buyer](https://www.go2mobi.com/careers/2016-MB-01/)
 * [Web Designer Developer](https://www.go2mobi.com/careers/2016-WDD-02/)
 * [Business Development Performance Sales](https://www.go2mobi.com/careers/2015-BDPS-12/)
+* [Intermediate Software Developer - Product](https://www.go2mobi.com/careers/2016-ISD-03/)
 
 #### [Kano Apps](http://www.kanoapps.com/)
 * [Full Stack Developer for Mobile & Web Games](https://kanoapps.bamboohr.com/jobs/view.php?id=12)
