@@ -85,7 +85,7 @@ Tech startups with offices in Victoria BC.
 #### [Echosec](https://www.echosec.net/)
 * [Full Stack Web App Developer](https://www.echosec.net/careers/web-developer/)
 * [Platform Developer](https://www.echosec.net/careers/platform-developer/)
-* [Web Development Internship](https://drive.google.com/drive/u/0/my-drive)
+* [Web Development Internship](https://drive.google.com/open?id=0ByUhYIb5Tun2R0Z5aDlJWU5IX2M)
 
 #### [Falcom Software](http://www.falcon-software.com/)
 * [ASP.Net Developer](http://www.falcon-software.com/About-Us/Job-Postings/ASP-Net-Developer)
