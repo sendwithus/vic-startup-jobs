@@ -120,7 +120,6 @@ Tech startups with offices in Victoria BC.
 * [Product Support Analyst](https://latitudegeo.bamboohr.com/jobs/view.php?id=46)
 * [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
 * [Software Developer - Internship](https://latitudegeo.bamboohr.com/jobs/view.php?id=10)
-* [Software Developer - Professional Services](https://latitudegeo.bamboohr.com/jobs/view.php?id=42)
 * [Software Developer - Web & Mobile](https://latitudegeo.bamboohr.com/jobs/view.php?id=23)
 * [UI/UX Designer](https://latitudegeo.bamboohr.com/jobs/view.php?id=29)
 * [Unsolicited/General Applications](https://latitudegeo.bamboohr.com/jobs/view.php?id=22)
