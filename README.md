@@ -183,6 +183,9 @@ Tech startups with offices in Victoria BC.
 * [Compliance & Quality Assurance (CQA) Coordinator](http://ringpartner.com/careers/)
 * [Campaign Manager](http://ringpartner.com/careers/)
 
+#### [Rooof](http://www.rooof.com/)
+* [Training and Administrative Coordinator](http://www.rooof.com/training-position)
+
 #### [SparkLIT](https://www.sparklit.com/)
 * [Full Stack Software Developer](https://www.sparklit.com/careers/)
 
@@ -226,7 +229,6 @@ Tech startups with offices in Victoria BC.
 * [Hipwood Digital](http://www.hipwooddigital.com/)
 * [KIXEYE Canada Ltd](http://www.kixeye.com/)
 * [Riipen](https://riipen.com/)
-* [Rooof](http://www.rooof.com/)
 * [Ruboss](http://ruboss.com/)
 * [Tapstream](https://tapstream.com/)
 
