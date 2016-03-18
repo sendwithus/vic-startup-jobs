@@ -110,6 +110,7 @@ Tech startups with offices in Victoria BC.
 * [Web Designer Developer](https://www.go2mobi.com/careers/2016-WDD-02/)
 * [Business Development Performance Sales](https://www.go2mobi.com/careers/2015-BDPS-12/)
 * [Intermediate Software Developer - Product](https://www.go2mobi.com/careers/2016-ISD-03/)
+* [Intermediate Software Developer](https://www.go2mobi.com/careers/2016-ISD-04/)
 
 #### [Kano Apps](http://www.kanoapps.com/)
 * [Full Stack Developer for Mobile & Web Games](https://kanoapps.bamboohr.com/jobs/view.php?id=12)
@@ -121,7 +122,7 @@ Tech startups with offices in Victoria BC.
 * [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
 * [Software Developer - Internship](https://latitudegeo.bamboohr.com/jobs/view.php?id=10)
 * [Software Developer - Web & Mobile](https://latitudegeo.bamboohr.com/jobs/view.php?id=23)
-* [UI/UX Designer](https://latitudegeo.bamboohr.com/jobs/view.php?id=29)
+* [Software Developer - Professional Services](https://latitudegeo.bamboohr.com/jobs/view.php?id=42)
 * [Unsolicited/General Applications](https://latitudegeo.bamboohr.com/jobs/view.php?id=22)
 
 #### [LlamaZoo](http://www.llamazoo.com/)
@@ -184,7 +185,7 @@ Tech startups with offices in Victoria BC.
 * [Campaign Manager](http://ringpartner.com/careers/)
 
 #### [Rooof](http://www.rooof.com/)
-* [Training and Administrative Coordinator](http://www.rooof.com/training-position)
+* [Training Coordinator](http://www.rooof.com/training-position)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Full Stack Software Developer](https://www.sparklit.com/careers/)
