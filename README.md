@@ -51,8 +51,9 @@ Tech startups with offices in Victoria BC.
 
 #### [Beanstream](http://www.beanstream.com/)
 * [Technical Support Representative](http://www.beanstream.com/wp-content/uploads/2016/03/Technical-Support-Representative.pdf)
-* [DotNet Developer](http://www.beanstream.com/wp-content/uploads/2016/03/DotNet-Developer.pdf)
+* [.Net Developer](http://www.beanstream.com/wp-content/uploads/2016/03/DotNet-Developer.pdf)
 * [Full-Stack Developer](http://www.beanstream.com/wp-content/uploads/2016/03/Full-Stack-Developer.pdf)
+* [Senior Software Test Engineer](http://www.beanstream.com/wp-content/uploads/2016/03/Senior-Software-Test-Engineer.pdf)
 * [Inside Business Development SMB](http://www.beanstream.com/wp-content/uploads/2015/10/Inside_BD_SMB.pdf)
 * [Channel Partner Business Development](http://www.beanstream.com/wp-content/uploads/2015/10/CP_BD.pdf)
 * [Channel Partner Account Manager](http://www.beanstream.com/wp-content/uploads/2015/10/CP_Account_Manager.pdf)
@@ -122,12 +123,12 @@ Tech startups with offices in Victoria BC.
 * [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
 * [Software Developer - Internship](https://latitudegeo.bamboohr.com/jobs/view.php?id=10)
 * [Software Developer - Web & Mobile](https://latitudegeo.bamboohr.com/jobs/view.php?id=23)
-* [Software Developer - Professional Services](https://latitudegeo.bamboohr.com/jobs/view.php?id=42)
 * [Unsolicited/General Applications](https://latitudegeo.bamboohr.com/jobs/view.php?id=22)
 
 #### [LlamaZoo](http://www.llamazoo.com/)
-* [Specializing as a Veterinary Practitioner](http://www.llamazoo.com/specializing-as-a-veterinary-practitioner/)
-* [Unity Developer](https://www.viatec.ca/jobs/unity-developer)
+* [Quality Assurance Tester](http://www.llamazoo.com/quality-assurance-tester/)
+* [Backend Developer](http://www.llamazoo.com/backend-developer/)
+* [Unity Software Developer](https://www.viatec.ca/jobs/unity-developer)
 
 #### [MetaLab](http://metalab.co/)
 * [Design Director](http://metalab.co/careers/)
