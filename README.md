@@ -81,7 +81,6 @@ Tech startups with offices in Victoria BC.
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/)
 * [Junior Game Programmer Co-op](http://www.codenameentertainment.com/?page=jobs#coops)
-* [Game Programmer-Web/Mobile](http://www.codenameentertainment.com/?page=jobs)
 
 #### [Echosec](https://www.echosec.net/)
 * [Full Stack Web App Developer](https://www.echosec.net/careers/web-developer/)
@@ -137,18 +136,14 @@ Tech startups with offices in Victoria BC.
 * [Director of Engineering](http://metalab.co/careers/)
 * [Project Manager](http://metalab.co/careers/)
 * [iOS Developer](http://metalab.co/careers/)
-* [Talent Partner](http://metalab.co/careers/)
-* [Product Manager](http://metalab.co/careers/)
 * [Product Researcher](http://metalab.co/careers/)
 * [QA Engineer](http://metalab.co/careers/)
 
 #### [MonetizeMore](http://www.monetizemore.com/)
+* [VP of Product](http://www.monetizemore.com/about-monetizemore/careers/vp-of-product/)
 * [Growth Hacker](http://www.monetizemore.com/about-monetizemore/careers/growth-hacker/)
 * [UX/UI Designer](http://www.monetizemore.com/about-monetizemore/careers/ui-ux-designer/)
-* [QA Engineer](http://www.monetizemore.com/about-monetizemore/careers/qa-engineer/)
 * [Web Developer](http://www.monetizemore.com/about-monetizemore/careers/web-developer-jobs/)
-* [Google Webmaster Quality Guidelines Specialist](http://www.monetizemore.com/about-monetizemore/careers/google-webmaster-quality-guidelines-specialist/)
-* [Reports and Lead-Gen Specialist](http://www.monetizemore.com/about-monetizemore/careers/reports-and-lead-gen-specialist/)
 * [Ad Optimization Expert](http://www.monetizemore.com/about-monetizemore/careers/)
 
 #### [One Net Marketing](http://onenetmarketing.com)
