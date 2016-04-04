@@ -175,7 +175,7 @@ Tech startups with offices in Victoria BC.
 
 #### [RingPartner](http://ringpartner.com/)
 * [Client Success Manager](http://ringpartner.com/careers/)
-* [Digital Marketing & Design Coordinator](http://ringpartner.com/careers/)
+* [Marketing Coordinator](http://ringpartner.com/careers/)
 * [Developer](http://ringpartner.com/careers/)
 * [Compliance & Quality Assurance (CQA) Coordinator](http://ringpartner.com/careers/)
 * [Campaign Manager](http://ringpartner.com/careers/)
