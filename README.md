@@ -50,6 +50,7 @@ Tech startups with offices in Victoria BC.
 * [Intermediate ASP.Net Develper](http://www.atomiccrayon.com/career-opportunities)
 
 #### [Beanstream](http://www.beanstream.com/)
+* [Intermediate Accountant](http://www.beanstream.com/wp-content/uploads/2016/04/Intermediate_Accountant.pdf)
 * [Technical Support Representative](http://www.beanstream.com/wp-content/uploads/2016/03/Technical-Support-Representative.pdf)
 * [.Net Developer](http://www.beanstream.com/wp-content/uploads/2016/03/DotNet-Developer-1.pdf)
 * [Full-Stack Developer](http://www.beanstream.com/wp-content/uploads/2016/03/Full-Stack-Developer-1.pdf)
@@ -107,7 +108,7 @@ Tech startups with offices in Victoria BC.
 #### [Go2mobi](http://www.go2mobi.com/)
 * [Mobile Advertising Account Executive](https://www.go2mobi.com/careers/2016-AE-01/)
 * [Media Buyer](https://www.go2mobi.com/careers/2016-MB-01/)
-* [Web Designer Developer](https://www.go2mobi.com/careers/2016-WDD-02/)
+* [Creative Director, Digital Assets](https://www.go2mobi.com/careers/2016-CD-04/)
 * [Business Development Performance Sales](https://www.go2mobi.com/careers/2015-BDPS-12/)
 * [Intermediate Software Developer - Product](https://www.go2mobi.com/careers/2016-ISD-03/)
 * [Intermediate Software Developer](https://www.go2mobi.com/careers/2016-ISD-04/)
@@ -117,7 +118,7 @@ Tech startups with offices in Victoria BC.
 
 #### [Latitude Geographics](http://www.latitudegeo.com/)
 * [Front End Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=30)
-* [Inside Sales Representative](https://latitudegeo.bamboohr.com/jobs/view.php?id=41)
+* [Quality Assurance/Quality Control Analyst](https://latitudegeo.bamboohr.com/jobs/view.php?id=48)
 * [Product Support Analyst](https://latitudegeo.bamboohr.com/jobs/view.php?id=46)
 * [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
 * [Software Developer - Internship](https://latitudegeo.bamboohr.com/jobs/view.php?id=10)
@@ -139,8 +140,9 @@ Tech startups with offices in Victoria BC.
 * [Product Researcher](http://metalab.co/careers/)
 * [QA Engineer](http://metalab.co/careers/)
 
+#### [Momentum](http://momentumdash.com/)
 #### [MonetizeMore](http://www.monetizemore.com/)
-* [VP of Product](http://www.monetizemore.com/about-monetizemore/careers/vp-of-product/)
+* [Chief Product Officer](http://www.monetizemore.com/about-monetizemore/careers/chief-product-officer/)
 * [Growth Hacker](http://www.monetizemore.com/about-monetizemore/careers/growth-hacker/)
 * [UX/UI Designer](http://www.monetizemore.com/about-monetizemore/careers/ui-ux-designer/)
 * [Web Developer](http://www.monetizemore.com/about-monetizemore/careers/web-developer-jobs/)
@@ -157,7 +159,7 @@ Tech startups with offices in Victoria BC.
 * [Python/Frontend/Mobile Developer or Co-op](https://www.pretio.in/jobs/junior-backend-developer/)
 
 #### [Red Brick Media](http://redbrickmedia.com/)
-* [Network Assistant](http://rbm.mytribehr.com/careers/view/22)
+* [Next Awesome Employee](http://rdbrck.com/contact/)
 
 #### [Referral Saasquatch](http://www.referralsaasquatch.com/)
 * [Full Stack Developer] (http://www.referralsaasquatch.com/careers/)
@@ -172,6 +174,7 @@ Tech startups with offices in Victoria BC.
 * [Director of IT](https://www.revenuewire.com/careers/)
 * [Product Owner](https://www.revenuewire.com/careers/)
 * [Sales Specialist – Constant Content](https://www.revenuewire.com/careers/)
+* [Quality Assurance Analysts](https://www.revenuewire.com/careers/)
 
 #### [RingPartner](http://ringpartner.com/)
 * [Client Success Manager](http://ringpartner.com/careers/)
@@ -197,10 +200,9 @@ Tech startups with offices in Victoria BC.
 * [Website Builder](http://silkstart.com/about/)
 
 #### [Stocksy United](http://www.stocksy.com/)
-* [Sr. DevOps](https://www.stocksy.com/service/hiring)
 * [Senior QA](https://www.stocksy.com/service/hiring)
-* [Sr. Video Editor](https://www.stocksy.com/service/hiring)
 * [Accountant](https://www.stocksy.com/service/hiring)
+* [Writer/Editor](https://www.stocksy.com/service/hiring)
 
 #### [TinyMob Games](http://tinymobgames.com/)
 * [Game Server Engineer](http://tinymobgames.com/game-server-engineer.html)
@@ -218,6 +220,7 @@ Tech startups with offices in Victoria BC.
 * [IT Systems Administrator](http://tutelatechnologies.com/careers.html)
 
 #### [Workday](http://unbouncepages.com/workday-victoria/)
+* [Software Development Engineer](http://www.workday.com/company/careers/job_description.php?id=JR13139#.Vv7h8xIrJE4)
 * [Senior Software Development Engineer](http://www.workday.com/company/careers/job_description.php?id=JR12778#.Vth_MygrLWJ)
 * [DevOps Engineer](http://www.workday.com/company/careers/job_description.php?id=JR12777#.Vth_CCgrLWI)
 
