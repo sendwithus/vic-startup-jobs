@@ -140,7 +140,6 @@ Tech startups with offices in Victoria BC.
 * [Product Researcher](http://metalab.co/careers/)
 * [QA Engineer](http://metalab.co/careers/)
 
-#### [Momentum](http://momentumdash.com/)
 #### [MonetizeMore](http://www.monetizemore.com/)
 * [Chief Product Officer](http://www.monetizemore.com/about-monetizemore/careers/chief-product-officer/)
 * [Growth Hacker](http://www.monetizemore.com/about-monetizemore/careers/growth-hacker/)
