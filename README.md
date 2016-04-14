@@ -20,6 +20,7 @@ Tech startups with offices in Victoria BC.
 * [Beanstream](http://www.beanstream.com/)
 * [CodeName Entertainment](http://www.codenameentertainment.com/)
 * [Ecosec](https://www.echosec.net/)
+* [Flytographer](http://www.flytographer.com/)
 * [Go2mobi](http://www.go2mobi.com/)
 * [Isolation Network](http://www.isolationnetwork.com/)
 * [KanoApps](http://www.kanoapps.com/)
@@ -97,7 +98,8 @@ Tech startups with offices in Victoria BC.
 * [IT and Dev Interns](http://www.falcon-software.com/Job-Postings)
 
 #### [Flytographer](http://www.flytographer.com/)
-* [Flytographer Shoot Concierge - P/T Contract](http://www.flytographer.com/jobs)
+* [Senior Growth Hacker](http://www.flytographer.com/jobs)
+* [Shoot Concierge](http://www.flytographer.com/jobs)
 
 #### [Giftbit](https://www.giftbit.com/)
 * [DevOps Engineer](https://giftbit.bamboohr.com/jobs/view.php?id=5)
