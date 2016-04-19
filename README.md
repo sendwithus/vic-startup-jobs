@@ -53,6 +53,7 @@ Tech startups with offices in Victoria BC.
 #### [Beanstream](http://www.beanstream.com/)
 * [Intermediate Accountant](http://www.beanstream.com/wp-content/uploads/2016/04/Intermediate_Accountant.pdf)
 * [Technical Support Representative](http://www.beanstream.com/wp-content/uploads/2016/03/Technical-Support-Representative.pdf)
+* [Software Developers in Test](http://www.beanstream.com/wp-content/uploads/2016/04/Software-Developer-Test.pdf)
 * [.Net Developer](http://www.beanstream.com/wp-content/uploads/2016/03/DotNet-Developer-1.pdf)
 * [Full-Stack Developer](http://www.beanstream.com/wp-content/uploads/2016/03/Full-Stack-Developer-1.pdf)
 * [Senior Software Test Engineer](http://www.beanstream.com/wp-content/uploads/2016/03/Senior-Software-Test-Engineer.pdf)
@@ -81,9 +82,6 @@ Tech startups with offices in Victoria BC.
 * [Client Support Specialist](https://www.checkfront.com/careers/customer-success)
 * [Inside Sales Representative](https://www.checkfront.com/careers/inside-sales)
 
-#### [Codename Entertainment](http://www.codenameentertainment.com/)
-* [Junior Game Programmer Co-op](http://www.codenameentertainment.com/?page=jobs#coops)
-
 #### [Echosec](https://www.echosec.net/)
 * [Full Stack Web App Developer](https://www.echosec.net/careers/web-developer/)
 * [Platform Developer](https://www.echosec.net/careers/platform-developer/)
@@ -104,7 +102,7 @@ Tech startups with offices in Victoria BC.
 #### [Giftbit](https://www.giftbit.com/)
 * [DevOps Engineer](https://giftbit.bamboohr.com/jobs/view.php?id=5)
 * [Experienced Full Stack Software Engineer](https://giftbit.bamboohr.com/jobs/view.php?id=3)
-* [Front End Software Engineer](https://giftbit.bamboohr.com/jobs/view.php?id=4)
+* [Front End Developer](https://giftbit.bamboohr.com/jobs/view.php?id=4)
 * [Intermediate Full Stack Software Engineer](https://giftbit.bamboohr.com/jobs/view.php?id=8)
 
 #### [Go2mobi](http://www.go2mobi.com/)
@@ -121,7 +119,6 @@ Tech startups with offices in Victoria BC.
 #### [Latitude Geographics](http://www.latitudegeo.com/)
 * [Front End Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=30)
 * [Quality Assurance/Quality Control Analyst](https://latitudegeo.bamboohr.com/jobs/view.php?id=48)
-* [Product Support Analyst](https://latitudegeo.bamboohr.com/jobs/view.php?id=46)
 * [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
 * [Software Developer - Internship](https://latitudegeo.bamboohr.com/jobs/view.php?id=10)
 * [Software Developer - Web & Mobile](https://latitudegeo.bamboohr.com/jobs/view.php?id=23)
@@ -172,10 +169,10 @@ Tech startups with offices in Victoria BC.
 * [Customer Support] (http://www.referralsaasquatch.com/careers/)
 
 #### [RevenueWire](https://www.revenuewire.com/)
-* [Director of IT](https://www.revenuewire.com/careers/)
 * [Product Owner](https://www.revenuewire.com/careers/)
 * [Sales Specialist – Constant Content](https://www.revenuewire.com/careers/)
 * [Quality Assurance Analysts](https://www.revenuewire.com/careers/)
+* [Systems and Compliance Administrator](https://www.revenuewire.com/careers/)
 
 #### [RingPartner](http://ringpartner.com/)
 * [Client Success Manager](http://ringpartner.com/careers/)
@@ -184,17 +181,12 @@ Tech startups with offices in Victoria BC.
 * [Compliance & Quality Assurance (CQA) Coordinator](http://ringpartner.com/careers/)
 * [Campaign Manager](http://ringpartner.com/careers/)
 
-#### [Rooof](http://www.rooof.com/)
-* [Training Coordinator](http://www.rooof.com/training-position)
-
 #### [SparkLIT](https://www.sparklit.com/)
 * [Full Stack Software Developer](https://www.sparklit.com/careers/)
 
 #### [Sendwithus](https://www.sendwithus.com)
 * [Senior Engineer, Frontend App](https://www.sendwithus.com/jobs/lead-engineer-frontend-app)
 * [Full Stack Engineer](https://www.sendwithus.com/jobs/fullstack-engineer)
-* [Senior Engineer, Infrastructure](https://www.sendwithus.com/jobs/senior-engineer-infrastructure)
-* [Full Stack Engineering Intern](https://www.sendwithus.com/jobs/full-stack-engineering-intern)
 
 #### [Silkstart](http://silkstart.com/about/)
 * [Customer Success Representative](http://silkstart.com/about/)
@@ -226,10 +218,12 @@ Tech startups with offices in Victoria BC.
 * [DevOps Engineer](http://www.workday.com/company/careers/job_description.php?id=JR12777#.Vth_CCgrLWI)
 
 ## Startups without current postings
+* [Codename Entertainment](http://www.codenameentertainment.com/)
 * [Crowdcontent](https://www.crowdcontent.com/)
 * [Hipwood Digital](http://www.hipwooddigital.com/)
 * [KIXEYE Canada Ltd](http://www.kixeye.com/)
 * [Riipen](https://riipen.com/)
+* [Rooof](http://www.rooof.com/)
 * [Ruboss](http://ruboss.com/)
 * [Tapstream](https://tapstream.com/)
 
