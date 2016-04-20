@@ -178,7 +178,6 @@ Tech startups with offices in Victoria BC.
 * [Client Success Manager](http://ringpartner.com/careers/)
 * [Marketing Coordinator](http://ringpartner.com/careers/)
 * [Developer](http://ringpartner.com/careers/)
-* [Compliance & Quality Assurance (CQA) Coordinator](http://ringpartner.com/careers/)
 * [Campaign Manager](http://ringpartner.com/careers/)
 
 #### [SparkLIT](https://www.sparklit.com/)
