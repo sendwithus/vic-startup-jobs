@@ -51,7 +51,6 @@ Tech startups with offices in Victoria BC.
 * [Intermediate ASP.Net Develper](http://www.atomiccrayon.com/career-opportunities)
 
 #### [Beanstream](http://www.beanstream.com/)
-* [Intermediate Accountant](http://www.beanstream.com/wp-content/uploads/2016/04/Intermediate_Accountant.pdf)
 * [Technical Support Representative](http://www.beanstream.com/wp-content/uploads/2016/03/Technical-Support-Representative.pdf)
 * [Software Developers in Test](http://www.beanstream.com/wp-content/uploads/2016/04/Software-Developer-Test.pdf)
 * [.Net Developer](http://www.beanstream.com/wp-content/uploads/2016/03/DotNet-Developer-1.pdf)
@@ -60,6 +59,7 @@ Tech startups with offices in Victoria BC.
 * [Inside Business Development SMB](http://www.beanstream.com/wp-content/uploads/2015/10/Inside_BD_SMB.pdf)
 * [Channel Partner Business Development](http://www.beanstream.com/wp-content/uploads/2015/10/CP_BD.pdf)
 * [Channel Partner Account Manager](http://www.beanstream.com/wp-content/uploads/2015/10/CP_Account_Manager.pdf)
+* [Fraud Analyst](http://www.beanstream.com/wp-content/uploads/2014/05/Fraud_Analyst.pdf)
 
 #### [Boundless GeoSpatial](http://www.boundlessgeo.com/)
 * [Application Developer](http://boundless.theresumator.com/apply/7xrEcN/Application-Developer)
@@ -77,7 +77,7 @@ Tech startups with offices in Victoria BC.
 
 #### [Checkfront](https://www.checkfront.com/)
 * [Director of Sales](https://www.checkfront.com/careers/director-of-sales)
-* [Web Developer x2](https://www.checkfront.com/careers/web-developer)
+* [Web Developer](https://www.checkfront.com/careers/web-developer)
 * [Buisness Development Specialist](https://www.checkfront.com/careers/business-development-specialist)
 * [Client Support Specialist](https://www.checkfront.com/careers/customer-success)
 * [Inside Sales Representative](https://www.checkfront.com/careers/inside-sales)
@@ -100,13 +100,13 @@ Tech startups with offices in Victoria BC.
 * [Shoot Concierge](http://www.flytographer.com/jobs)
 
 #### [Giftbit](https://www.giftbit.com/)
-* [DevOps Engineer](https://giftbit.bamboohr.com/jobs/view.php?id=5)
 * [Experienced Full Stack Software Engineer](https://giftbit.bamboohr.com/jobs/view.php?id=3)
 * [Front End Developer](https://giftbit.bamboohr.com/jobs/view.php?id=4)
 * [Intermediate Full Stack Software Engineer](https://giftbit.bamboohr.com/jobs/view.php?id=8)
 
 #### [Go2mobi](http://www.go2mobi.com/)
 * [Mobile Advertising Account Executive](https://www.go2mobi.com/careers/2016-AE-01/)
+* [Mobile Advertising Account Manager](https://www.go2mobi.com/careers/2016-AM-01/)
 * [Media Buyer](https://www.go2mobi.com/careers/2016-MB-01/)
 * [Creative Director, Digital Assets](https://www.go2mobi.com/careers/2016-CD-04/)
 * [Business Development Performance Sales](https://www.go2mobi.com/careers/2015-BDPS-12/)
@@ -125,7 +125,6 @@ Tech startups with offices in Victoria BC.
 * [Unsolicited/General Applications](https://latitudegeo.bamboohr.com/jobs/view.php?id=22)
 
 #### [LlamaZoo](http://www.llamazoo.com/)
-* [Quality Assurance Tester](http://www.llamazoo.com/quality-assurance-tester/)
 * [Backend Developer](http://www.llamazoo.com/backend-developer/)
 * [Unity Software Developer](https://www.viatec.ca/jobs/unity-developer)
 
@@ -134,10 +133,8 @@ Tech startups with offices in Victoria BC.
 * [Product Designer](http://metalab.co/careers/)
 * [Chief Technology Officer](http://metalab.co/careers/)
 * [Director of Engineering](http://metalab.co/careers/)
-* [Project Manager](http://metalab.co/careers/)
 * [iOS Developer](http://metalab.co/careers/)
 * [Product Researcher](http://metalab.co/careers/)
-* [QA Engineer](http://metalab.co/careers/)
 
 #### [MonetizeMore](http://www.monetizemore.com/)
 * [Chief Product Officer](http://www.monetizemore.com/about-monetizemore/careers/chief-product-officer/)
@@ -147,7 +144,9 @@ Tech startups with offices in Victoria BC.
 * [Ad Optimization Expert](http://www.monetizemore.com/about-monetizemore/careers/)
 
 #### [One Net Marketing](http://onenetmarketing.com)
-* [Web/Graphic Designer](http://onenetmarketing.com/careers/)
+* [Digital Copywriter](http://onenetmarketing.com/careers/)
+* [Production Design](http://onenetmarketing.com/careers/)
+* [Front-End Web Developer](http://onenetmarketing.com/careers/)
 * [Bookkeeper/Data Analyst](http://onenetmarketing.com/careers/)
 
 #### [Pretio Interactive](https://www.pretio.in/)
