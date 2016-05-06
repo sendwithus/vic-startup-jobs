@@ -102,11 +102,6 @@ Tech startups with offices in Victoria BC.
 * [Senior Growth Hacker](http://www.flytographer.com/jobs)
 * [Shoot Concierge](http://www.flytographer.com/jobs)
 
-#### [Giftbit](https://www.giftbit.com/)
-* [Experienced Full Stack Software Engineer](https://giftbit.bamboohr.com/jobs/view.php?id=3)
-* [Front End Developer](https://giftbit.bamboohr.com/jobs/view.php?id=4)
-* [Intermediate Full Stack Software Engineer](https://giftbit.bamboohr.com/jobs/view.php?id=8)
-
 #### [Go2mobi](http://www.go2mobi.com/)
 * [Mobile Advertising Account Executive](https://www.go2mobi.com/careers/2016-AE-01/)
 * [Mobile Advertising Account Manager](https://www.go2mobi.com/careers/2016-AM-01/)
@@ -121,6 +116,7 @@ Tech startups with offices in Victoria BC.
 
 #### [Latitude Geographics](http://www.latitudegeo.com/)
 * [Front End Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=30)
+* [Junior Software Developer - Internship](https://latitudegeo.bamboohr.com/jobs/view.php?id=10)
 * [Quality Assurance/Quality Control Analyst](https://latitudegeo.bamboohr.com/jobs/view.php?id=48)
 * [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
 * [Software Developer - Internship](https://latitudegeo.bamboohr.com/jobs/view.php?id=10)
@@ -137,7 +133,6 @@ Tech startups with offices in Victoria BC.
 * [Chief Technology Officer](http://metalab.co/careers/)
 * [Director of Engineering](http://metalab.co/careers/)
 * [iOS Developer](http://metalab.co/careers/)
-* [Product Researcher](http://metalab.co/careers/)
 
 #### [MonetizeMore](http://www.monetizemore.com/)
 * [Chief Product Officer](http://www.monetizemore.com/about-monetizemore/careers/chief-product-officer/)
@@ -158,9 +153,6 @@ Tech startups with offices in Victoria BC.
 * [Media Buyer](https://www.pretio.in/jobs/media-buyer/)
 * [Python/Frontend/Mobile Developer or Co-op](https://www.pretio.in/jobs/junior-backend-developer/)
 
-#### [Red Brick Media](http://redbrickmedia.com/)
-* [Next Awesome Employee](http://rdbrck.com/contact/)
-
 #### [Referral Saasquatch](http://www.referralsaasquatch.com/)
 * [Full Stack Developer] (http://www.referralsaasquatch.com/careers/)
 * [Sales Development Rep] (http://www.referralsaasquatch.com/careers/)
@@ -172,7 +164,6 @@ Tech startups with offices in Victoria BC.
 
 #### [RevenueWire](https://www.revenuewire.com/)
 * [Product Owner](https://www.revenuewire.com/careers/)
-* [Sales Specialist – Constant Content](https://www.revenuewire.com/careers/)
 * [Quality Assurance Analysts](https://www.revenuewire.com/careers/)
 * [Systems and Compliance Administrator](https://www.revenuewire.com/careers/)
 
@@ -197,6 +188,7 @@ Tech startups with offices in Victoria BC.
 * [Senior QA](https://www.stocksy.com/service/hiring)
 * [Accountant](https://www.stocksy.com/service/hiring)
 * [Writer/Editor](https://www.stocksy.com/service/hiring)
+* [Customer Service Representative](https://www.stocksy.com/service/hiring)
 
 #### [TinyMob Games](http://tinymobgames.com/)
 * [Game Server Engineer](http://tinymobgames.com/game-server-engineer.html)
@@ -221,8 +213,10 @@ Tech startups with offices in Victoria BC.
 ## Startups without current postings
 * [Codename Entertainment](http://www.codenameentertainment.com/)
 * [Crowdcontent](https://www.crowdcontent.com/)
+* [Giftbit](https://www.giftbit.com/)
 * [Hipwood Digital](http://www.hipwooddigital.com/)
 * [KIXEYE Canada Ltd](http://www.kixeye.com/)
+* [Red Brick Media](http://redbrickmedia.com/)
 * [Riipen](https://riipen.com/)
 * [Rooof](http://www.rooof.com/)
 * [Ruboss](http://ruboss.com/)
