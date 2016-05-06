@@ -1,5 +1,8 @@
 # Victoria Startup Jobs
 
+[Tweet about us!](https://twitter.com/intent/tweet?text=I%20found%20a%20job%20on%20the%20Victoria%20Startup%20Jobs%20repo!&via=victoriastartup)
+
+
 A well-maintained list of available startup jobs in Victoria BC. 
 
 This list is currently managed by the [sendwithus](http://sendwithus.com) team, and all contributions are welcome (and free!).
@@ -225,3 +228,4 @@ Tech startups with offices in Victoria BC.
 * [Ruboss](http://ruboss.com/)
 * [Tapstream](https://tapstream.com/)
 
+[Tweet about us!](https://twitter.com/intent/tweet?text=I%20found%20a%20job%20on%20the%20Victoria%20Startup%20Jobs%20repo!&via=victoriastartup)
