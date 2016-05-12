@@ -26,6 +26,7 @@ Tech startups with offices in Victoria BC.
 * [CodeName Entertainment](http://www.codenameentertainment.com/)
 * [Ecosec](https://www.echosec.net/)
 * [Flytographer](http://www.flytographer.com/)
+* [Giftbit](http://www.giftbit.com/)
 * [Go2mobi](http://www.go2mobi.com/)
 * [Isolation Network](http://www.isolationnetwork.com/)
 * [KanoApps](http://www.kanoapps.com/)
