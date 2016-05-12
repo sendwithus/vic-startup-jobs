@@ -22,6 +22,7 @@ Tech startups with offices in Victoria BC.
 
 * [Beanstream](http://www.beanstream.com/)
 * [ChatterBlock](http://www.chatterblock.com/)
+* [Checkfront](https://www.checkfront.com/)
 * [CodeName Entertainment](http://www.codenameentertainment.com/)
 * [Ecosec](https://www.echosec.net/)
 * [Flytographer](http://www.flytographer.com/)
