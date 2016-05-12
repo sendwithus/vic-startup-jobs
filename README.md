@@ -21,6 +21,7 @@ Tech startups with offices in Victoria BC.
 ## Co-op Friendly Companies
 
 * [Beanstream](http://www.beanstream.com/)
+* [ChatterBlock](http://www.chatterblock.com/)
 * [CodeName Entertainment](http://www.codenameentertainment.com/)
 * [Ecosec](https://www.echosec.net/)
 * [Flytographer](http://www.flytographer.com/)
@@ -33,8 +34,8 @@ Tech startups with offices in Victoria BC.
 * [Pretio Interactive](https://www.pretio.in/)
 * [RedBrick Media](http://redbrickmedia.com/)
 * [Referral SaaSquatch](http://referralsaasquatch.com/)
-* [RingParnter](http://ringpartner.com/)
 * [Revenuewire](https://www.revenuewire.com/)
+* [RingPartner](http://ringpartner.com/)
 * [Sendwithus](https://www.sendwithus.com)
 * [Starfish Medical](http://starfishmedical.com/)
 * [ViVitro Labs](http://vivitrolabs.com/)
