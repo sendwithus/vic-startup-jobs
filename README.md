@@ -141,6 +141,9 @@ Tech startups with offices in Victoria BC.
 * [Web Developer](http://www.monetizemore.com/about-monetizemore/careers/web-developer-jobs/)
 * [Ad Optimization Expert](http://www.monetizemore.com/about-monetizemore/careers/)
 
+#### [Onebit Labs](http://onebitlabs.com/)
+* [Senior Producer](http://onebitlabs.com/careers/)
+
 #### [One Net Marketing](http://onenetmarketing.com)
 * [Digital Copywriter](http://onenetmarketing.com/careers/)
 * [Production Design](http://onenetmarketing.com/careers/)
@@ -179,6 +182,8 @@ Tech startups with offices in Victoria BC.
 #### [Sendwithus](https://www.sendwithus.com)
 * [Senior Engineer, Frontend App](https://www.sendwithus.com/jobs/lead-engineer-frontend-app)
 * [Full Stack Engineer](https://www.sendwithus.com/jobs/fullstack-engineer)
+* [UI Developer](https://www.sendwithus.com/jobs/user-interface-developer)
+* [Full Stack Engineer Intern](https://www.sendwithus.com/jobs/full-stack-engineering-intern)
 
 #### [Silkstart](http://silkstart.com/about/)
 * [Customer Success Representative](http://silkstart.com/about/)
