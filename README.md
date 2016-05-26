@@ -83,7 +83,6 @@ Tech startups with offices in Victoria BC.
 
 #### [Checkfront](https://www.checkfront.com/)
 * [Director of Sales](https://www.checkfront.com/careers/director-of-sales)
-* [Web Developer](https://www.checkfront.com/careers/web-developer)
 * [Buisness Development Specialist](https://www.checkfront.com/careers/business-development-specialist)
 * [Client Support Specialist](https://www.checkfront.com/careers/customer-success)
 * [Inside Sales Representative](https://www.checkfront.com/careers/inside-sales)
@@ -91,7 +90,6 @@ Tech startups with offices in Victoria BC.
 #### [Echosec](https://www.echosec.net/)
 * [Full Stack Web App Developer](https://www.echosec.net/careers/web-developer/)
 * [Platform Developer](https://www.echosec.net/careers/platform-developer/)
-* [Web Development Internship](https://drive.google.com/open?id=0ByUhYIb5Tun2R0Z5aDlJWU5IX2M)
 
 #### [Falcon Software](http://www.falcon-software.com/)
 * [ASP.Net Developer](http://www.falcon-software.com/About-Us/Job-Postings/ASP-Net-Developer)
@@ -101,6 +99,9 @@ Tech startups with offices in Victoria BC.
 * [Social Media & Marketing Interns](http://www.falcon-software.com/Job-Postings)
 * [IT and Dev Interns](http://www.falcon-software.com/Job-Postings)
 
+#### [Flow](https://www.getflow.com/)
+* [Senior iOS Developer](https://flow-1.workable.com/jobs/248002)
+
 #### [Flytographer](http://www.flytographer.com/)
 * [Senior Growth Hacker](http://www.flytographer.com/jobs)
 * [Shoot Concierge](http://www.flytographer.com/jobs)
@@ -109,9 +110,9 @@ Tech startups with offices in Victoria BC.
 * [Mobile Advertising Account Executive](https://www.go2mobi.com/careers/2016-AE-01/)
 * [Mobile Advertising Account Manager](https://www.go2mobi.com/careers/2016-AM-01/)
 * [Media Buyer](https://www.go2mobi.com/careers/2016-MB-01/)
-* [Creative Director, Digital Assets](https://www.go2mobi.com/careers/2016-CD-04/)
+* [Marketing Specialist](https://www.go2mobi.com/careers/2016-MS-05/)
 * [Business Development Performance Sales](https://www.go2mobi.com/careers/2015-BDPS-12/)
-* [Intermediate Software Developer - Product](https://www.go2mobi.com/careers/2016-ISD-03/)
+* [Senior Media Buyer](https://www.go2mobi.com/careers/2016-SMB-05/)
 * [Intermediate Software Developer](https://www.go2mobi.com/careers/2016-ISD-04/)
 
 #### [Kano Apps](http://www.kanoapps.com/)
@@ -119,7 +120,7 @@ Tech startups with offices in Victoria BC.
 
 #### [Latitude Geographics](http://www.latitudegeo.com/)
 * [Front End Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=30)
-* [Junior Software Developer - Internship](https://latitudegeo.bamboohr.com/jobs/view.php?id=10)
+* [Accounting/Administrative Assistant](https://latitudegeo.bamboohr.com/jobs/view.php?id=49)
 * [Quality Assurance/Quality Control Analyst](https://latitudegeo.bamboohr.com/jobs/view.php?id=48)
 * [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
 * [Software Developer - Internship](https://latitudegeo.bamboohr.com/jobs/view.php?id=10)
@@ -127,8 +128,6 @@ Tech startups with offices in Victoria BC.
 * [Unsolicited/General Applications](https://latitudegeo.bamboohr.com/jobs/view.php?id=22)
 
 #### [LlamaZoo](http://www.llamazoo.com/)
-* [Backend Developer](http://www.llamazoo.com/backend-developer/)
-* [Unity Software Developer](https://www.viatec.ca/jobs/unity-developer)
 
 #### [MetaLab](http://metalab.co/)
 * [Design Director](http://metalab.co/careers/)
@@ -139,8 +138,7 @@ Tech startups with offices in Victoria BC.
 
 #### [MonetizeMore](http://www.monetizemore.com/)
 * [Chief Product Officer](http://www.monetizemore.com/about-monetizemore/careers/chief-product-officer/)
-* [Growth Hacker](http://www.monetizemore.com/about-monetizemore/careers/growth-hacker/)
-* [UX/UI Designer](http://www.monetizemore.com/about-monetizemore/careers/ui-ux-designer/)
+* [Marketing Specialist](http://www.monetizemore.com/job-application/marketing-specialist/)
 * [Web Developer](http://www.monetizemore.com/about-monetizemore/careers/web-developer-jobs/)
 * [Ad Optimization Expert](http://www.monetizemore.com/about-monetizemore/careers/)
 
@@ -170,8 +168,10 @@ Tech startups with offices in Victoria BC.
 
 #### [RevenueWire](https://www.revenuewire.com/)
 * [Product Owner](https://www.revenuewire.com/careers/)
+* [PHP Platform Developer](http://www.revenuewire.com/careers/)
 * [Quality Assurance Analysts](https://www.revenuewire.com/careers/)
 * [Systems and Compliance Administrator](https://www.revenuewire.com/careers/)
+* [Seasoned Sales Executive - Ecommerce](http://www.revenuewire.com/careers/)
 
 #### [RingPartner](http://ringpartner.com/)
 * [Client Success Manager](http://ringpartner.com/careers/)
@@ -193,10 +193,7 @@ Tech startups with offices in Victoria BC.
 * [Website Builder](http://silkstart.com/about/)
 
 #### [Stocksy United](http://www.stocksy.com/)
-* [Senior QA](https://www.stocksy.com/service/hiring)
-* [Accountant](https://www.stocksy.com/service/hiring)
-* [Writer/Editor](https://www.stocksy.com/service/hiring)
-* [Customer Service Representative](https://www.stocksy.com/service/hiring)
+* [Co-Operative Intern](https://www.stocksy.com/service/hiring)
 
 #### [TinyMob Games](http://tinymobgames.com/)
 * [Game Server Engineer](http://tinymobgames.com/game-server-engineer.html)
@@ -215,7 +212,6 @@ Tech startups with offices in Victoria BC.
 
 #### [Workday](http://unbouncepages.com/workday-victoria/)
 * [Software Development Engineer](http://www.workday.com/company/careers/job_description.php?id=JR13139#.Vv7h8xIrJE4)
-* [Senior Software Development Engineer](http://www.workday.com/company/careers/job_description.php?id=JR12778#.Vth_MygrLWJ)
 * [DevOps Engineer](http://www.workday.com/company/careers/job_description.php?id=JR12777#.Vth_CCgrLWI)
 
 ## Startups without current postings
