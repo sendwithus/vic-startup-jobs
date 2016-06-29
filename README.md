@@ -54,7 +54,7 @@ Tech startups with offices in Victoria BC.
 
 #### [Atomic Crayon](http://www.atomiccrayon.com/)
 * [Web Developer](http://www.atomiccrayon.com/career-opportunities)
-* [Intermediate ASP.Net Develper](http://www.atomiccrayon.com/career-opportunities)
+* [Intermediate ASP.Net Developer](http://www.atomiccrayon.com/career-opportunities)
 
 #### [Beanstream](http://www.beanstream.com/)
 * [Technical Support Representative](http://www.beanstream.com/wp-content/uploads/2016/03/Technical-Support-Representative.pdf)
@@ -76,7 +76,7 @@ Tech startups with offices in Victoria BC.
 
 #### [Checkfront](https://www.checkfront.com/)
 * [Director of Finance](https://www.checkfront.com/careers/director-of-finance)
-* [Buisness Development Specialist](https://www.checkfront.com/careers/business-development-specialist)
+* [Business Development Specialist](https://www.checkfront.com/careers/business-development-specialist)
 * [Client Support Specialist](https://www.checkfront.com/careers/customer-success)
 * [Inside Sales Representative](https://www.checkfront.com/careers/inside-sales)
 
@@ -106,7 +106,7 @@ Tech startups with offices in Victoria BC.
 * [Intermediate Software Developer](https://www.go2mobi.com/careers/2016-ISD-04/)
 
 #### [Kano Apps](http://www.kanoapps.com/)
-* [Player Suppoert Representative](https://kanoapps.bamboohr.com/jobs/view.php?id=18)
+* [Player Support Representative](https://kanoapps.bamboohr.com/jobs/view.php?id=18)
 * [Online Marketing specialist](https://kanoapps.bamboohr.com/jobs/view.php?id=17)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/)
@@ -211,7 +211,7 @@ Tech startups with offices in Victoria BC.
 * [Giftbit](https://www.giftbit.com/)
 * [Hipwood Digital](http://www.hipwooddigital.com/)
 * [KIXEYE Canada Ltd](http://www.kixeye.com/)
-* [LlamaZoo](http://www.llamazoo.com/)
+* [LlamaZOO](http://www.llamazoo.com/)
 * [Onebit Labs](http://onebitlabs.com/)
 * [Rooof](http://www.rooof.com/)
 * [Ruboss](http://ruboss.com/)
