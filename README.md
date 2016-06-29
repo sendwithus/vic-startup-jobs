@@ -24,7 +24,7 @@ Tech startups with offices in Victoria BC.
 * [ChatterBlock](http://www.chatterblock.com/)
 * [Checkfront](https://www.checkfront.com/)
 * [CodeName Entertainment](http://www.codenameentertainment.com/)
-* [Ecosec](https://www.echosec.net/)
+* [Echosec](https://www.echosec.net/)
 * [Flytographer](http://www.flytographer.com/)
 * [Giftbit](http://www.giftbit.com/)
 * [Go2mobi](http://www.go2mobi.com/)
