@@ -208,7 +208,6 @@ Tech startups with offices in Victoria BC.
 * [iOS Mobile Developer](https://app.jobvite.com/j?cj=ooZo3fwy&s=vic-startup-jobs)
 * [Web Developer](https://app.jobvite.com/j?cj=onZo3fwx&s=vic-startup-jobs)
 
-
 ## Startups without current postings
 * [Codename Entertainment](http://www.codenameentertainment.com/)
 * [Crowdcontent](https://www.crowdcontent.com/)
