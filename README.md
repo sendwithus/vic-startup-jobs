@@ -204,6 +204,11 @@ Tech startups with offices in Victoria BC.
 #### [Workday](http://unbouncepages.com/workday-victoria/)
 * [DevOps Engineer](http://www.workday.com/company/careers/job_description.php?id=JR13912#.V3Gz8eYrIWo)
 
+#### [Zynga Canada](https://www.zynga.com/)
+* [iOS Mobile Developer](https://app.jobvite.com/j?cj=ooZo3fwy&s=vic-startup-jobs)
+* [Web Developer](https://app.jobvite.com/j?cj=onZo3fwx&s=vic-startup-jobs)
+
+
 ## Startups without current postings
 * [Codename Entertainment](http://www.codenameentertainment.com/)
 * [Crowdcontent](https://www.crowdcontent.com/)
