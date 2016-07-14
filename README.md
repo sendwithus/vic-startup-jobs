@@ -18,6 +18,10 @@ Posting is easy and free, simply fork this repo and submit a pull request adding
 #### Who can post?
 Tech startups with offices in Victoria BC. 
 
+#### How can I get involved in the community?
+* Connect with the Victoria tech community by joining the [YYJ Tech Slack group](http://joinyyjtechslack.herokuapp.com/)
+* Keep an eye out for events on the [Victoria Startups calendar](http://victoriastartups.com/)
+
 ## Co-op Friendly Companies
 
 * [Beanstream](http://www.beanstream.com/)
