@@ -191,13 +191,6 @@ Tech startups with offices in Victoria BC.
 #### [Stocksy United](http://www.stocksy.com/)
 * [Co-Operative Intern](https://www.stocksy.com/service/hiring)
 
-#### [TinyMob Games](http://tinymobgames.com/)
-* [Game Server Engineer](http://tinymobgames.com/game-server-engineer.html)
-* [Lead Artist](http://tinymobgames.com/lead-artist.html)
-* [Technical Artist](http://tinymobgames.com/tech-artist.html)
-* [Level Designer](http://tinymobgames.com/level-designer.html)
-* [Game UI Developer](http://tinymobgames.com/game-ui-developer.html)
-
 #### [Tutela](http://tutelatechnologies.com/)
 * [Product Marketing Manager](http://tutelatechnologies.com/careers.html)
 * [Android Mobile Developer](http://tutelatechnologies.com/careers.html)
@@ -226,5 +219,6 @@ Tech startups with offices in Victoria BC.
 * [Rooof](http://www.rooof.com/)
 * [Ruboss](http://ruboss.com/)
 * [Tapstream](https://tapstream.com/)
+* [TinyMob Games](http://tinymobgames.com/)
 
 [Tweet about us!](https://twitter.com/intent/tweet?text=I%20found%20a%20job%20on%20the%20Victoria%20Startup%20Jobs%20repo!&via=victoriastartup&url=http:%3A%2F%2Fgithub.com/sendwithus/vic-startup-jobs)
