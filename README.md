@@ -1,28 +1,27 @@
 # Victoria Startup Jobs
 
-[Tweet about us!](https://twitter.com/intent/tweet?text=I%20found%20a%20job%20on%20the%20Victoria%20Startup%20Jobs%20repo!&via=victoriastartup&url=http%3A%2F%2Fgithub.com/sendwithus/vic-startup-jobs)
-
-
-A well-maintained list of available startup jobs in Victoria BC. 
-
-This list is currently managed by the [sendwithus](http://sendwithus.com) team, and all contributions are welcome (and free!).
+A well-maintained list of available startup jobs in Victoria BC. This list is currently managed by the [sendwithus](http://sendwithus.com) team, and all contributions are welcome (and free!).
 
 [Have ideas to make this better?](mailto:us@sendwithus.com)
 
-#### How to Apply?
+[Tweet about us!](https://twitter.com/intent/tweet?text=I%20found%20a%20job%20on%20the%20Victoria%20Startup%20Jobs%20repo!&via=victoriastartup&url=http%3A%2F%2Fgithub.com/sendwithus/vic-startup-jobs)
+
+### How to Apply?
 Click the link for more info about each job posting, including how to apply. Most companies provide application instructions on their websites. 
 
-#### How to Post?
+### How to Post?
 Posting is easy and free, simply fork this repo and submit a pull request adding/updating your job posting. If you have questions, need help, or want us to update the list for you, please email jobs@sendwithus.com. 
 
-#### Who can post?
+### Who can post?
 Tech startups with offices in Victoria BC. 
 
-#### How can I get involved in the community?
+### How can I get involved in the Victoria tech community?
 * Connect with the Victoria tech community by joining the [YYJ Tech Slack group](http://joinyyjtechslack.herokuapp.com/)
 * Keep an eye out for events on the [Victoria Startups calendar](http://victoriastartups.com/)
 
 ## Co-op Friendly Companies
+
+These companies are known for hiring co-op students and are always open to discussing opportunities for students and aspiring developers, designers, and marketers.
 
 * [Beanstream](http://www.beanstream.com/)
 * [ChatterBlock](http://www.chatterblock.com/)
@@ -220,5 +219,7 @@ Tech startups with offices in Victoria BC.
 * [Ruboss](http://ruboss.com/)
 * [Tapstream](https://tapstream.com/)
 * [TinyMob Games](http://tinymobgames.com/)
+
+## Share this job board with others!
 
 [Tweet about us!](https://twitter.com/intent/tweet?text=I%20found%20a%20job%20on%20the%20Victoria%20Startup%20Jobs%20repo!&via=victoriastartup&url=http:%3A%2F%2Fgithub.com/sendwithus/vic-startup-jobs)
