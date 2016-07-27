@@ -41,6 +41,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Referral SaaSquatch](http://referralsaasquatch.com/)
 * [Revenuewire](https://www.revenuewire.com/)
 * [RingPartner](http://ringpartner.com/)
+* [Rooof](http://www.rooof.com/)
 * [Sendwithus](https://www.sendwithus.com)
 * [Stembolt](https://stembolt.com/)
 * [Starfish Medical](http://starfishmedical.com/)
