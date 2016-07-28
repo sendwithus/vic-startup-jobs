@@ -113,7 +113,7 @@ These companies are known for hiring co-op students and are always open to discu
 
 #### [Kano Apps](http://www.kanoapps.com/)
 * [Player Support Representative](https://kanoapps.bamboohr.com/jobs/view.php?id=18)
-* [Online Marketing specialist]
+* [Online Marketing specialist](https://kanoapps.bamboohr.com/jobs/view.php?id=17)
 * [Senior Software Development Engineer - Games Team](https://kanoapps.bamboohr.com/jobs/view.php?id=19)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/)
@@ -146,8 +146,8 @@ These companies are known for hiring co-op students and are always open to discu
 
 #### [Referral Saasquatch](http://www.referralsaasquatch.com/)
 * [Back End Developer](http://www.referralsaasquatch.com/careers/)
-* Front End Developer](http://www.referralsaasquatch.com/careers/)
-* Full Stack Developer](http://www.referralsaasquatch.com/careers/)
+* [Front End Developer](http://www.referralsaasquatch.com/careers/)
+* [Full Stack Developer](http://www.referralsaasquatch.com/careers/)
 * [Co-op Back End Developer](http://www.referralsaasquatch.com/careers/)
 * [Co-op Front End Developer](http://www.referralsaasquatch.com/careers/)
 
