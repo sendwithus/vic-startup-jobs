@@ -66,7 +66,6 @@ These companies are known for hiring co-op students and are always open to discu
 * [Technical Support Representative](http://www.beanstream.com/wp-content/uploads/2016/03/Technical-Support-Representative.pdf)
 * [QA Analyst](http://career.bambora.com/jobs/14249-qa-analyst)
 * [Software Developers in Test](http://www.beanstream.com/wp-content/uploads/2016/04/Software-Developer-Test.pdf)
-* [Full-Stack Developer](http://career.bambora.com/jobs/12093-are-you-our-next-full-stack-developer)
 * [Senior Software Test Engineer](http://www.beanstream.com/wp-content/uploads/2016/03/Senior-Software-Test-Engineer.pdf)
 * [Inside Business Development SMB](http://www.beanstream.com/wp-content/uploads/2015/10/Inside_BD_SMB.pdf)
 * [Channel Partner Business Development](http://www.beanstream.com/wp-content/uploads/2015/10/CP_BD.pdf)
