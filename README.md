@@ -37,7 +37,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [LlamaZOO](http://www.llamazoo.com/)
 * [MetaLab](http://metalab.co/)
 * [Pretio Interactive](https://www.pretio.in/)
-* [RedBrick Media](http://redbrickmedia.com/)
+* [Redbrick](http://redbrickmedia.com/)
 * [Referral SaaSquatch](http://referralsaasquatch.com/)
 * [Revenuewire](https://www.revenuewire.com/)
 * [RingPartner](http://ringpartner.com/)
@@ -160,7 +160,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Systems Administrator](https://www.revenuewire.com/careers/)
 
 #### [RingPartner](http://ringpartner.com/)
-8 [Sales](http://ringpartner.com/company/careers/)
+* [Sales](http://ringpartner.com/company/careers/)
 * [Client Success Manager](http://ringpartner.com/careers/)
 * [Developer](http://ringpartner.com/careers/)
 * [Campaign Manager](http://ringpartner.com/careers/)
