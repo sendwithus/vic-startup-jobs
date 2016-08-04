@@ -150,7 +150,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Co-op Back End Developer](http://www.referralsaasquatch.com/careers/)
 * [Co-op Front End Developer](http://www.referralsaasquatch.com/careers/)
 
-#### [Red Brick Media](http://redbrickmedia.com/)
+#### [Redbrick](http://redbrickmedia.com/)
 * [Executive Assistant](http://rdbrck.mytribehr.com/careers/view/32)
 * [Accounting Wizard](http://rdbrck.mytribehr.com/careers/view/33)
 
