@@ -193,6 +193,7 @@ These companies are known for hiring co-op students and are always open to discu
 
 #### [Workday](http://unbouncepages.com/workday-victoria/)
 * [DevOps Engineer](http://www.workday.com/company/careers/job_description.php?id=JR13912#.V3Gz8eYrIWo)
+* [Android Developer](http://www.workday.com/company/careers/job_description.php?id=JR14334#.V6iy05MrLUJ)
 
 #### [Zynga Canada](https://www.zynga.com/)
 * [iOS Mobile Developer](https://app.jobvite.com/j?cj=ooZo3fwy&s=vic-startup-jobs)
