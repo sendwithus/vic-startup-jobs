@@ -45,6 +45,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Sendwithus](https://www.sendwithus.com)
 * [Stembolt](https://stembolt.com/)
 * [Starfish Medical](http://starfishmedical.com/)
+* [Telmediq](http://www.telmediq.com/)
 * [ViVitro Labs](http://vivitrolabs.com/)
 * [Workday](http://unbouncepages.com/workday-victoria/)
 
@@ -182,6 +183,12 @@ These companies are known for hiring co-op students and are always open to discu
 #### [Stocksy United](http://www.stocksy.com/)
 * [Co-Operative Professional](https://www.stocksy.com/service/hiring)
 * [UI/UX Specialist](https://www.stocksy.com/service/hiring)
+* 
+
+#### [Telmediq](http://www.telmediq.com/)
+* [Full Stack Developer](https://www.telmediq.com/careers/full-stack-developer/)
+* [Senior iOS Developer](https://www.telmediq.com/careers/senior-ios-developer/)
+* [Implmentation & Support Consultant](https://www.telmediq.com/careers/implementation-and-support-consultant/)
 
 #### [Tutela](http://tutelatechnologies.com/)
 * [Product Marketing Manager](http://tutelatechnologies.com/careers.html)
