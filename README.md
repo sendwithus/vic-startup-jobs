@@ -188,7 +188,7 @@ These companies are known for hiring co-op students and are always open to discu
 #### [Telmediq](http://www.telmediq.com/)
 * [Full Stack Developer](https://www.telmediq.com/careers/full-stack-developer/)
 * [Senior iOS Developer](https://www.telmediq.com/careers/senior-ios-developer/)
-* [Implmentation & Support Consultant](https://www.telmediq.com/careers/implementation-and-support-consultant/)
+* [Implementation & Support Consultant](https://www.telmediq.com/careers/implementation-and-support-consultant/)
 
 #### [Tutela](http://tutelatechnologies.com/)
 * [Product Marketing Manager](http://tutelatechnologies.com/careers.html)
