@@ -125,6 +125,12 @@ These companies are known for hiring co-op students and are always open to discu
 * [Software Developer - Web & Mobile](https://latitudegeo.bamboohr.com/jobs/view.php?id=23)
 * [Unsolicited/General Applications](https://latitudegeo.bamboohr.com/jobs/view.php?id=22)
 
+#### [LlamaZOO](http://www.llamazoo.com/)
+* [3D Content Designer](https://www.llamazoo.com/3d-content-designer/)
+* [Android Developer](https://www.llamazoo.com/android-developer/)
+* [AR/VR/MR Software Developer](https://www.llamazoo.com/arvrmr-software-developer/)
+* [Sr Unity Software Developer](https://www.llamazoo.com/unity-software-developer/)
+
 #### [MetaLab](http://metalab.co/)
 * [Design Director](http://metalab.co/careers/)
 * [Product Designer](http://metalab.co/careers/)
@@ -213,7 +219,6 @@ These companies are known for hiring co-op students and are always open to discu
 * [Giftbit](https://www.giftbit.com/)
 * [Hipwood Digital](http://www.hipwooddigital.com/)
 * [KIXEYE Canada Ltd](http://www.kixeye.com/)
-* [LlamaZOO](http://www.llamazoo.com/)
 * [Stembolt](https://stembolt.com/)
 * [Onebit Labs](http://onebitlabs.com/)
 * [Ruboss](http://ruboss.com/)
