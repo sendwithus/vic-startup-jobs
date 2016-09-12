@@ -80,10 +80,6 @@ Tech startups with offices in Victoria BC.
 * [Client Support Specialist](https://www.checkfront.com/careers/customer-success)
 * [Inside Sales Representative](https://www.checkfront.com/careers/inside-sales)
 
-#### [Echosec](https://www.echosec.net/)
-* [Feed Developer](https://www.echosec.net/careers/feed-developer/)
-* [Quality Assurance (QA) Analyst](https://www.echosec.net/careers/qa-analyst/)
-
 #### [Falcon Software](http://www.falcon-software.com/)
 * [ASP.Net Developer](http://www.falcon-software.com/About-Us/Job-Postings/ASP-Net-Developer)
 * [Java Developer](http://www.falcon-software.com/About-Us/Job-Postings/Java-Developer)
