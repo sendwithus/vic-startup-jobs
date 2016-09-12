@@ -171,10 +171,6 @@ These companies are known for hiring co-op students and are always open to discu
 * [Client Success Manager](http://ringpartner.com/careers/)
 * [Developer](http://ringpartner.com/careers/)
 
-#### [Rooof](http://www.rooof.com/)
-* [Customer Success and Operations Coordinator](http://www.rooof.com/customer-success-and-operations-coordinator)
-* [Full Stack Senior Software Engineer](http://www.rooof.com/senior-software-engineer)
-
 #### [SparkLIT](https://www.sparklit.com/)
 * [Full Stack Software Developer](https://www.sparklit.com/careers/)
 
@@ -221,6 +217,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [KIXEYE Canada Ltd](http://www.kixeye.com/)
 * [Stembolt](https://stembolt.com/)
 * [Onebit Labs](http://onebitlabs.com/)
+* [Rooof](http://rooof.com)
 * [Ruboss](http://ruboss.com/)
 * [Tapstream](https://tapstream.com/)
 * [TinyMob Games](http://tinymobgames.com/)
