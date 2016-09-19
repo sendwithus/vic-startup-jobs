@@ -72,6 +72,9 @@ These companies are known for hiring co-op students and are always open to discu
 * [Channel Partner Business Development](http://www.beanstream.com/wp-content/uploads/2015/10/CP_BD.pdf)
 * [Channel Partner Account Manager](http://www.beanstream.com/wp-content/uploads/2015/10/CP_Account_Manager.pdf)
 
+#### [Benevity](http://www.benevity.com/)
+* [Front End Developer](https://benevity.bamboohr.com/jobs/view.php?id=89)
+
 #### [Boundless GeoSpatial](http://www.boundlessgeo.com/)
 * [Project Manager](http://boundless.theresumator.com/apply/jyBLzf/Project-Manager)
 * [Web Developer](http://boundless.theresumator.com/apply/yRowO0/Web-Developer)
