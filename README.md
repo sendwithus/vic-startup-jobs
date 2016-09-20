@@ -7,13 +7,13 @@ A well-maintained list of available startup jobs in Victoria BC. This list is cu
 [Tweet about us!](https://twitter.com/intent/tweet?text=I%20found%20a%20job%20on%20the%20Victoria%20Startup%20Jobs%20repo!&via=victoriastartup&url=http%3A%2F%2Fgithub.com/sendwithus/vic-startup-jobs)
 
 ### How to Apply?
-Click the link for more info about each job posting, including how to apply. Most companies provide application instructions on their websites. 
+Click the link for more info about each job posting, including how to apply. Most companies provide application instructions on their websites.
 
 ### How to Post?
-Posting is easy and free, simply fork this repo and submit a pull request adding/updating your job posting. If you have questions, need help, or want us to update the list for you, please email jobs@sendwithus.com. 
+Posting is easy and free, simply fork this repo and submit a pull request adding/updating your job posting. If you have questions, need help, or want us to update the list for you, please email jobs@sendwithus.com.
 
 ### Who can post?
-Tech startups with offices in Victoria BC. 
+Tech startups with offices in Victoria BC.
 
 ### How can I get involved in the Victoria tech community?
 * Connect with the Victoria tech community by joining the [YYJ Tech Slack group](http://joinyyjtechslack.herokuapp.com/)
@@ -138,6 +138,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Design Director](http://metalab.co/careers/)
 * [Product Designer](http://metalab.co/careers/)
 * [UX Researcher](http://metalab.co/careers/)
+* [Front-End Developer](http://metalab.co/careers/)
 * [Director of Engineering](http://metalab.co/careers/)
 
 #### [MonetizeMore](http://www.monetizemore.com/)
