@@ -147,8 +147,7 @@ Tech startups with offices in Victoria BC.
 * [Ad Optimization Expert](http://www.monetizemore.com/about-monetizemore/careers/)
 
 #### [One Net Marketing](http://onenetmarketing.com)
-* [Web/Graphic Designer](http://onenetmarketing.com/careers/)
-* [Bookkeeper/Data Analyst](http://onenetmarketing.com/careers/)
+* [Front End Developer - Intermediate](http://onenetmarketing.com/careers/front-end-web-developer)
 
 #### [Pretio Interactive](https://www.pretio.in/)
 * [Account Manager](https://www.pretio.in/jobs/account-manager/)
