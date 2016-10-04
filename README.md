@@ -186,7 +186,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Director of Business Intelligence](https://www.stocksy.com/service/hiring)
 
 #### [Telmediq](http://www.telmediq.com/)
-* [Implmentation & Support Consultant](https://www.telmediq.com/careers/implementation-support-consultant/)
+* [Implementation & Support Consultant](https://www.telmediq.com/careers/implementation-support-consultant/)
 * [Technical Project Manager](https://www.telmediq.com/careers/technical-project-manager/)
 
 #### [Tutela](http://tutelatechnologies.com/)
