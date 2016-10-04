@@ -143,9 +143,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Ad Optimization Expert](http://www.monetizemore.com/about-monetizemore/careers/)
 
 #### [One Net Marketing](http://onenetmarketing.com)
-* [Digital Copywriter](http://onenetmarketing.com/careers/)
-* [Production Designer](http://onenetmarketing.com/careers/)
-* [Front-End Web Developer](http://onenetmarketing.com/careers/)
+* [Front End Developer - Intermediate](http://onenetmarketing.com/careers/front-end-web-developer)
 
 #### [Pretio Interactive](https://www.pretio.in/)
 * [Media Buyer](https://www.pretio.in/jobs/media-buyer/)
