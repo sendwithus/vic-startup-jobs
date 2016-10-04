@@ -93,10 +93,6 @@ These companies are known for hiring co-op students and are always open to discu
 * [Customer Success Advocate](https://www.checkfront.com/careers/customer-advocate)
 * [Web Designer](https://www.checkfront.com/careers/marketing-designer)
 
-#### [Echosec](https://www.echosec.net/)
-* [Feed Developer](https://www.echosec.net/careers/feed-developer/)
-* [Quality Assurance (QA) Analyst](https://www.echosec.net/careers/qa-analyst/)
-
 #### [Falcon Software](http://www.falcon-software.com/)
 * [ASP.Net Developer](http://www.falcon-software.com/About-Us/Job-Postings/ASP-Net-Developer)
 * [Java Developer](http://www.falcon-software.com/About-Us/Job-Postings/Java-Developer)
