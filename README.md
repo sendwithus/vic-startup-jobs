@@ -192,10 +192,8 @@ These companies are known for hiring co-op students and are always open to discu
 * [Director of Business Intelligence](https://www.stocksy.com/service/hiring)
 
 #### [Telmediq](http://www.telmediq.com/)
-* [Full Stack Developer](https://www.telmediq.com/careers/full-stack-developer/)
-* [Senior iOS Developer](https://www.telmediq.com/careers/senior-ios-developer/)
-* [Implmentation & Support Consultant](https://www.telmediq.com/careers/implementation-and-support-consultant/)
-* [Inside Sales Representative](https://www.telmediq.com/careers/inside-sales-representative/)
+* [Implmentation & Support Consultant](https://www.telmediq.com/careers/implementation-support-consultant/)
+* [Technical Project Manager](https://www.telmediq.com/careers/technical-project-manager/)
 
 #### [Tutela](http://tutelatechnologies.com/)
 * [Product Marketing Manager](http://tutelatechnologies.com/careers.html)
