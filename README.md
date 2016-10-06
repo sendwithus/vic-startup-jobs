@@ -114,7 +114,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [VP of Operations](https://www.go2mobi.com/careers/2016-VPO-08/)
 
 #### [Kano Apps](http://www.kanoapps.com/)
-* [Senior Software Development Engineer - Games Team](https://kanoapps.bamboohr.com/jobs/view.php?id=19)
+* [Senior Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=20)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/)
 * [Accountant](https://latitudegeo.bamboohr.com/jobs/view.php?id=55)
