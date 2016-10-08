@@ -80,10 +80,6 @@ These companies are known for hiring co-op students and are always open to discu
 * [Project Manager](http://boundless.theresumator.com/apply/jyBLzf/Project-Manager)
 * [Web Developer](http://boundless.theresumator.com/apply/yRowO0/Web-Developer)
 
-#### [Change.org](https://www.change.org/)
-* [Senior Software Engineer, Full Stack](https://www.change.org/careers/d33d2789-048d-4cf6-b708-605d3cd5a20c)
-* [Software Engineer, Full Stack](https://www.change.org/careers/2b295ef2-d909-45b1-9c30-083c774bc29c)
-
 #### [Checkfront](https://www.checkfront.com/)
 * [Director of Finance](https://www.checkfront.com/careers/director-of-finance)
 * [Business Development Specialist](https://www.checkfront.com/careers/business-development-specialist)
