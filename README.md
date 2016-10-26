@@ -112,6 +112,7 @@ These companies are known for hiring co-op students and are always open to discu
 #### [Kano Apps](http://www.kanoapps.com/)
 * [Associate Producer](https://kanoapps.bamboohr.com/jobs/view.php?id=22)
 * [Game Systems Designer](https://kanoapps.bamboohr.com/jobs/view.php?id=21)
+* [Senior Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=20)
 * [Software Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=24)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/)
