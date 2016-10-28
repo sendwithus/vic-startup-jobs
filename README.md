@@ -67,8 +67,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Full-Stack Python Developer](http://career.bambora.com/jobs/12093-full-stack-python-developer)
 * [Technical Support Representative](http://www.beanstream.com/wp-content/uploads/2016/03/Technical-Support-Representative.pdf)
 * [QA Analyst](http://career.bambora.com/jobs/14249-qa-analyst)
-* [Software Developers in Test](http://www.beanstream.com/wp-content/uploads/2016/04/Software-Developer-Test.pdf)
-* [Senior Software Test Engineer](http://www.beanstream.com/wp-content/uploads/2016/03/Senior-Software-Test-Engineer.pdf)
+* [Senior Business Analyst](http://career.bambora.com/jobs/17186-are-you-our-next-senior-business-analyst)
 * [Inside Business Development SMB](http://www.beanstream.com/wp-content/uploads/2015/10/Inside_BD_SMB.pdf)
 * [Channel Partner Business Development](http://www.beanstream.com/wp-content/uploads/2015/10/CP_BD.pdf)
 * [Channel Partner Account Manager](http://www.beanstream.com/wp-content/uploads/2015/10/CP_Account_Manager.pdf)
@@ -81,13 +80,12 @@ These companies are known for hiring co-op students and are always open to discu
 * [Web Developer](http://boundless.theresumator.com/apply/yRowO0/Web-Developer)
 
 #### [Checkfront](https://www.checkfront.com/)
-* [Director of Finance](https://www.checkfront.com/careers/director-of-finance)
-* [Business Development Specialist](https://www.checkfront.com/careers/business-development-specialist)
-* [Inside Sales Representative](https://www.checkfront.com/careers/inside-sales)
-* [Content Strategist](https://www.checkfront.com/careers/content-strategist)
+* [Web Application Developer](https://www.checkfront.com/careers/web-application-developer)
 * [Technical Support Specialist](https://www.checkfront.com/careers/customer-success)
 * [Customer Success Advocate](https://www.checkfront.com/careers/customer-advocate)
-* [Web Designer](https://www.checkfront.com/careers/marketing-designer)
+
+#### [Exapik](http://www.exapik.com/)
+* [JavaScript Software Engineer (co-op/part time)](http://www.exapik.com/careers/javascript-software-engineer/)
 
 #### [Falcon Software](http://www.falcon-software.com/)
 * [ASP.Net Developer](http://www.falcon-software.com/About-Us/Job-Postings/ASP-Net-Developer)
@@ -103,11 +101,12 @@ These companies are known for hiring co-op students and are always open to discu
 
 #### [Go2mobi](http://www.go2mobi.com/)
 * [Business Development Manager](https://www.go2mobi.com/careers/2016-BDM-08/)
-* [Sales Planner](https://www.go2mobi.com/careers/2016-SP-07/)
 * [Media Buyer](https://www.go2mobi.com/careers/2016-MB-05/)
+* [Senior Media Buyer](https://www.go2mobi.com/careers/2016-SMB-05/)
 * [Mobile Advertising Account Executive](https://www.go2mobi.com/careers/2016-AE-01/)
-* [Mobile Advertising Account Manager](https://www.go2mobi.com/careers/2016-AM-01/)
+* [Accountant](https://www.go2mobi.com/careers/2016-ACC-09/)
 * [VP of Operations](https://www.go2mobi.com/careers/2016-VPO-08/)
+* [Intermediate Full Stack Developer(Vancouver)](https://www.go2mobi.com/careers/2016-IFSD-10/)
 
 #### [Kano Apps](http://www.kanoapps.com/)
 * [Associate Producer](https://kanoapps.bamboohr.com/jobs/view.php?id=22)
@@ -116,12 +115,11 @@ These companies are known for hiring co-op students and are always open to discu
 * [Software Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=24)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/)
-* [Accountant](https://latitudegeo.bamboohr.com/jobs/view.php?id=55)
 * [ArcGIS Solutions Specialist](https://latitudegeo.bamboohr.com/jobs/view.php?id=54)
-* [Information Systems Analyst](https://latitudegeo.bamboohr.com/jobs/view.php?id=52)
+* [Business Systems Analyst/Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=57)
+* [Front End Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=58)
 * [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
-* [Software Developer - Internship](https://latitudegeo.bamboohr.com/jobs/view.php?id=10)
-* [Software Developer - Web & Mobile](https://latitudegeo.bamboohr.com/jobs/view.php?id=23)
+* [Technical Writer](https://latitudegeo.bamboohr.com/jobs/view.php?id=56)
 * [Unsolicited/General Applications](https://latitudegeo.bamboohr.com/jobs/view.php?id=22)
 
 #### [LlamaZOO](http://www.llamazoo.com/)
@@ -133,16 +131,20 @@ These companies are known for hiring co-op students and are always open to discu
 #### [MetaLab](http://metalab.co/)
 * [Design Director](http://metalab.co/careers/)
 * [Product Designer](http://metalab.co/careers/)
-* [UX Researcher](http://metalab.co/careers/)
 * [Front-End Developer](http://metalab.co/careers/)
-* [Director of Engineering](http://metalab.co/careers/)
+* [Producer](http://metalab.co/careers/)
 
 #### [MonetizeMore](http://www.monetizemore.com/)
 * [Web Developer](http://www.monetizemore.com/about-monetizemore/careers/web-developer-jobs/)
+* [Project Specialist](http://www.monetizemore.com/about-monetizemore/careers/project-specialist/)
 * [Ad Optimization Expert](http://www.monetizemore.com/about-monetizemore/careers/)
 
 #### [One Net Marketing](http://onenetmarketing.com)
 * [Front End Developer - Intermediate](http://onenetmarketing.com/careers/front-end-web-developer)
+
+#### [Plurilock](https://www.plurilock.com/)
+* [Research and Development Analyst Co-op](https://www.plurilock.com/our-company/careers/research-and-development-analyst-co-op/)
+* [Junior Software Engineer (co-op/part time)](https://www.plurilock.com/our-company/careers/software-engineer-junior/)
 
 #### [Pretio Interactive](https://www.pretio.in/)
 * [Media Buyer](https://www.pretio.in/jobs/media-buyer/)
@@ -153,19 +155,18 @@ These companies are known for hiring co-op students and are always open to discu
 * [Full Stack Developer](http://www.referralsaasquatch.com/careers/)
 
 #### [Redbrick](https://rdbrck.com)
-* [Senior Developer](http://rdbrck.mytribehr.com/careers/view/35)
-* [Developer](http://rdbrck.mytribehr.com/careers/view/36)
 * [Sales Development Representative](http://rdbrck.mytribehr.com/careers/view/34)
+* [Account Executive](http://rdbrck.mytribehr.com/careers/view/37)
+* [Product Manager](http://rdbrck.mytribehr.com/careers/view/38)
 
 #### [RevenueWire](https://www.revenuewire.com/)
-* [Director, Sales](https://www.revenuewire.com/careers/)
-* [Product Owner](https://www.revenuewire.com/careers/)
+* [Sales Specialist](https://www.revenuewire.com/careers/#tab-2)
 * [PHP Platform Developer](http://www.revenuewire.com/careers/)
-* [Systems Administrator](https://www.revenuewire.com/careers/)
-* [Customer Support Specialist, SafeCart](https://www.revenuewire.com/careers/)
 
 #### [RingPartner](http://ringpartner.com/)
-* [Search Marketer](http://ringpartner.com/company/careers/)
+* [Compliance Representative](https://ringpartner.com/news/job-posting-compliance-representative)
+* [Marketing Communications Manager](https://ringpartner.com/news/job-posting-marketing-communications-manager)
+* [Administrative Assistant](https://ringpartner.squarespace.com/news/job-posting-adminstrative-assistant)
 * [Client Success Manager](http://ringpartner.com/careers/)
 * [Developer](http://ringpartner.com/careers/)
 
@@ -180,29 +181,27 @@ These companies are known for hiring co-op students and are always open to discu
 * [Website Builder](http://silkstart.com/careers/)
 
 #### [Stocksy United](http://www.stocksy.com/)
-* [Cooperative Professional](https://www.stocksy.com/service/hiring)
-* [UI/UX Specialist](https://www.stocksy.com/service/hiring)
-* [Director of Business Intelligence](https://www.stocksy.com/service/hiring)
+* [Front End Developer](https://www.stocksy.com/service/hiring)
+* [Accounts Receivable Specialist](https://www.stocksy.com/service/hiring)
 
 #### [Telmediq](http://www.telmediq.com/)
 * [Implementation & Support Consultant](https://www.telmediq.com/careers/implementation-support-consultant/)
 * [Technical Project Manager](https://www.telmediq.com/careers/technical-project-manager/)
 
 #### [Tutela](http://tutelatechnologies.com/)
-* [Product Marketing Manager](http://tutelatechnologies.com/careers.html)
-* [Android Mobile Developer](http://tutelatechnologies.com/careers.html)
-* [iOS Mobile Developer](http://tutelatechnologies.com/careers.html)
-* [User Experience Designer](http://tutelatechnologies.com/careers.html)
-* [Software Developer](http://tutelatechnologies.com/careers.html)
-* [IT Systems Administrator](http://tutelatechnologies.com/careers.html)
+* [Digital Marketing Manager](http://www.tutela.com/careers)
+* [iOS Mobile Developer](http://www.tutela.com/careers)
+* [User Experience Designer](http://www.tutela.com/careers)
+* [IT Systems Administrator](http://www.tutela.com/careers)
 
 #### [Workday](http://unbouncepages.com/workday-victoria/)
 * [Operations Engineer](http://www.workday.com/company/careers/job_description.php?id=JR13912#.V3Gz8eYrIWo)
 * [Android Developer](http://www.workday.com/company/careers/job_description.php?id=JR14334#.V6iy05MrLUJ)
+* [Software Development Engineer, Co-op](https://www.workday.com/en-us/company/careers/open-positions/job-details.html?id=JR15345)
 
 #### [Zynga Canada](https://www.zynga.com/)
-* [iOS Mobile Developer](https://app.jobvite.com/j?cj=ooZo3fwy&s=vic-startup-jobs)
-* [Web Developer](https://app.jobvite.com/j?cj=onZo3fwx&s=vic-startup-jobs)
+* [Senior/Principle Software Engineer: Web](https://www.zynga.com/careers/positions/seniorprincipal-software-engineer-web)
+* [Senior/Principle Software Engineer: iOS](https://www.zynga.com/careers/positions/seniorprinciple-software-engineer-ios)
 
 ## Startups without current postings
 * [Codename Entertainment](http://www.codenameentertainment.com/)
