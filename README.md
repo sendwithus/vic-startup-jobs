@@ -74,6 +74,7 @@ These companies are known for hiring co-op students and are always open to discu
 
 #### [Benevity](http://www.benevity.com/)
 * [UX Designer](https://benevity.bamboohr.com/jobs/view.php?id=99)
+* [Insights Analyst](https://benevity.bamboohr.com/jobs/view.php?id=100)
 
 #### [Boundless GeoSpatial](http://www.boundlessgeo.com/)
 * [Project Manager](http://boundless.theresumator.com/apply/jyBLzf/Project-Manager)
