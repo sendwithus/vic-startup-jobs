@@ -31,6 +31,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Flytographer](http://www.flytographer.com/)
 * [Giftbit](http://www.giftbit.com/)
 * [Go2mobi](http://www.go2mobi.com/)
+* [Hololabs](http://www.hololabs.org/)
 * [Isolation Network](http://www.isolationnetwork.com/)
 * [KanoApps](http://www.kanoapps.com/)
 * [Latitude Geographics](http://www.latitudegeo.com/)
@@ -108,6 +109,9 @@ These companies are known for hiring co-op students and are always open to discu
 * [Accountant](https://www.go2mobi.com/careers/2016-ACC-09/)
 * [VP of Operations](https://www.go2mobi.com/careers/2016-VPO-08/)
 * [Intermediate Full Stack Developer(Vancouver)](https://www.go2mobi.com/careers/2016-IFSD-10/)
+
+#### [Hololabs](http://www.hololabs.org/)
+* [Game Developer](http://www.hololabs.org/hiring-game-developer)
 
 #### [Kano Apps](http://www.kanoapps.com/)
 * [Associate Producer](https://kanoapps.bamboohr.com/jobs/view.php?id=22)
