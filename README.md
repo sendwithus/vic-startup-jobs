@@ -115,8 +115,9 @@ These companies are known for hiring co-op students and are always open to discu
 
 #### [Kano Apps](http://www.kanoapps.com/)
 * [Associate Producer](https://kanoapps.bamboohr.com/jobs/view.php?id=22)
-* [Player Support Representative](https://kanoapps.bamboohr.com/jobs/view.php?id=25)
 * [Game Systems Designer](https://kanoapps.bamboohr.com/jobs/view.php?id=21)
+* [Player Support Representative](https://kanoapps.bamboohr.com/jobs/view.php?id=25)
+* [Software Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=24)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/)
 * [ArcGIS Solutions Specialist](https://latitudegeo.bamboohr.com/jobs/view.php?id=54)
