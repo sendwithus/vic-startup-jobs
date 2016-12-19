@@ -147,6 +147,9 @@ These companies are known for hiring co-op students and are always open to discu
 #### [One Net Marketing](http://onenetmarketing.com)
 * [Front End Developer - Intermediate](http://onenetmarketing.com/careers/front-end-web-developer)
 
+#### [Pixel Union](https://pixelunion.net/)
+* [Full Stack Developer](https://www.pixelunion.net/careers/#full-stack-developer)
+
 #### [Plurilock](https://www.plurilock.com/)
 * [Research and Development Analyst Co-op](https://www.plurilock.com/our-company/careers/research-and-development-analyst-co-op/)
 * [Junior Software Engineer (co-op/part time)](https://www.plurilock.com/our-company/careers/software-engineer-junior/)
