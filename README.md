@@ -156,6 +156,9 @@ These companies are known for hiring co-op students and are always open to discu
 
 #### [Pretio Interactive](https://www.pretio.in/)
 * [Media Buyer](https://www.pretio.in/jobs/media-buyer/)
+* [Junior Media & Distribution Analyst](http://www.pretio.in/jobs/junior-media-distribution-analyst)
+* [Account Manager - Video](http://www.pretio.in/jobs/account-manager-video)
+* [Product Manager](http://www.pretio.in/jobs/product-manager)
 
 #### [Referral Saasquatch](http://www.referralsaasquatch.com/)
 * [Back End Developer](http://www.referralsaasquatch.com/careers/)
