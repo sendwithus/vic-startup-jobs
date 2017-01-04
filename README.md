@@ -210,6 +210,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Operations Engineer](http://www.workday.com/company/careers/job_description.php?id=JR13912#.V3Gz8eYrIWo)
 * [Android Developer](http://www.workday.com/company/careers/job_description.php?id=JR14334#.V6iy05MrLUJ)
 * [Software Development Engineer, Co-op](https://www.workday.com/en-us/company/careers/open-positions/job-details.html?id=JR15345)
+* [Workplace Coordinator](https://www.workday.com/en-us/company/careers/open-positions/job-details.html?id=JR15985)
 
 #### [Zynga Canada](https://www.zynga.com/)
 * [Senior/Principle Software Engineer: Web](https://www.zynga.com/careers/positions/seniorprincipal-software-engineer-web)
