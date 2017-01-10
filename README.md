@@ -182,8 +182,8 @@ These companies are known for hiring co-op students and are always open to discu
 * [Developer](http://ringpartner.com/careers/)
 
 #### [SparkLIT](https://www.sparklit.com/)
-* [Full Stack Software Developer](https://www.sparklit.com/careers/#full-stack)
-* [UI/UX Graphic Designer, Full Stack](https://www.sparklit.com/careers/#graphic-designer)
+* [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
+* [UI/UX Graphic Designer](https://www.sparklit.com/careers/#graphic-designer)
 
 #### [Sendwithus](https://www.sendwithus.com)
 * [Senior Full Stack Engineer](https://www.sendwithus.com/jobs/senior-full-stack-engineer)
