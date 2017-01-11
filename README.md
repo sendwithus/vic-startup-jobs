@@ -176,7 +176,6 @@ These companies are known for hiring co-op students and are always open to discu
 
 #### [RingPartner](http://ringpartner.com/)
 * [Compliance Representative](https://ringpartner.com/news/job-posting-compliance-representative)
-* [Marketing Communications Manager](https://ringpartner.com/news/job-posting-marketing-communications-manager)
 * [Client Success Manager](http://ringpartner.com/careers/)
 * [Sales Specialist](https://ringpartner.com/news/job-posting-sales-specialist)
 * [Developer](http://ringpartner.com/careers/)
