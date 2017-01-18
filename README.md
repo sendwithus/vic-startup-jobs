@@ -187,6 +187,13 @@ These companies are known for hiring co-op students and are always open to discu
 * [Customer Success Representative](http://silkstart.com/careers/)
 * [Website Builder](http://silkstart.com/careers/)
 
+#### [Stembolt](http://stembolt.com)
+* [Software Developer Co-op](https://stembolt.com/careers/software-developer-co-op/)
+* [Junior Developer](https://stembolt.com/careers/junior-developer/)
+* [Intermediate/Senior Developer](https://stembolt.com/careers/intermediate-or-senior-developer/)
+* [Senior Solidus Developer](https://stembolt.com/careers/senior-solidus-developer/)
+* [Visual Designer](https://stembolt.com/careers/visual-designer/)
+
 #### [Stocksy United](http://www.stocksy.com/)
 * [Front End Developer](https://www.stocksy.com/service/hiring)
 * [Accounts Receivable Specialist](https://www.stocksy.com/service/hiring)
@@ -219,7 +226,6 @@ These companies are known for hiring co-op students and are always open to discu
 * [Giftbit](https://www.giftbit.com/)
 * [Hipwood Digital](http://www.hipwooddigital.com/)
 * [KIXEYE Canada Ltd](http://www.kixeye.com/)
-* [Stembolt](https://stembolt.com/)
 * [Onebit Labs](http://onebitlabs.com/)
 * [Rooof](http://rooof.com)
 * [Ruboss](http://ruboss.com/)
