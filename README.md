@@ -23,6 +23,7 @@ Tech startups with offices in Victoria BC.
 
 These companies are known for hiring co-op students and are always open to discussing opportunities for students and aspiring developers, designers, and marketers.
 
+* [AggregateIQ](http://www.aggregateiq.com/)
 * [Beanstream](http://www.beanstream.com/)
 * [ChatterBlock](http://www.chatterblock.com/)
 * [Checkfront](https://www.checkfront.com/)
@@ -51,6 +52,9 @@ These companies are known for hiring co-op students and are always open to discu
 * [Workday](http://unbouncepages.com/workday-victoria/)
 
 ## Current Job Openings
+
+#### [AggregateIQ](http://www.aggregateiq.com/)
+* [Front-End Web Developer](http://www.aggregateiq.com/AggregateIQ%20Web%20Developer%20-%20Jan%2019,%202017.pdf)
 
 #### [Airsenze](http://www.airsenze.com/)
 * [iOS Developer](http://www.airsenze.com/about/)
