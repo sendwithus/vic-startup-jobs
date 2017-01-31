@@ -38,6 +38,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Latitude Geographics](http://www.latitudegeo.com/)
 * [LlamaZOO](http://www.llamazoo.com/)
 * [MetaLab](http://metalab.co/)
+* [Momentum Dashboard](http://momentumdash.com/)
 * [Pretio Interactive](https://www.pretio.in/)
 * [Redbrick](http://redbrickmedia.com/)
 * [Referral SaaSquatch](http://referralsaasquatch.com/)
@@ -145,6 +146,10 @@ These companies are known for hiring co-op students and are always open to discu
 * [Product Designer](http://metalab.co/careers/)
 * [Front-End Developer](http://metalab.co/careers/)
 * [Producer](http://metalab.co/careers/)
+
+#### [Momentum Dashboard](http://momentumdash.com/)
+* [Front-End Developer](http://momentumdash.com/careers/)
+* [Full Stack Developer](http://momentumdash.com/careers/)
 
 #### [MonetizeMore](http://www.monetizemore.com/)
 * [Web Developer](http://www.monetizemore.com/about-monetizemore/careers/web-developer-jobs/)
