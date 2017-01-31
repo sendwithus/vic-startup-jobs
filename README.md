@@ -188,6 +188,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Client Success Manager](http://ringpartner.com/careers/)
 * [Sales Specialist](https://ringpartner.com/news/job-posting-sales-specialist)
 * [Developer](http://ringpartner.com/careers/)
+* [Intermediate/Senior Developer](https://ringpartner.com/news/job-posting-intermediatesenior-developer)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
