@@ -172,7 +172,6 @@ These companies are known for hiring co-op students and are always open to discu
 * [Back End Developer](http://www.referralsaasquatch.com/careers/)
 * [Front End Developer](http://www.referralsaasquatch.com/careers/)
 * [Full Stack Developer](http://www.referralsaasquatch.com/careers/)
-* [Visual Designer](http://www.referralsaasquatch.com/careers/)
 
 #### [Redbrick](https://rdbrck.com)
 * [Sales Development Representative](http://rdbrck.mytribehr.com/careers/view/34)
