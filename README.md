@@ -40,7 +40,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [MetaLab](http://metalab.co/)
 * [Momentum Dashboard](http://momentumdash.com/)
 * [Pretio Interactive](https://www.pretio.in/)
-* [Redbrick](http://redbrickmedia.com/)
+* [Redbrick](https://rdbrck.com/)
 * [Referral SaaSquatch](http://referralsaasquatch.com/)
 * [Revenuewire](https://www.revenuewire.com/)
 * [RingPartner](http://ringpartner.com/)
@@ -174,9 +174,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Full Stack Developer](http://www.referralsaasquatch.com/careers/)
 
 #### [Redbrick](https://rdbrck.com)
-* [Sales Development Representative](http://rdbrck.mytribehr.com/careers/view/34)
-* [Account Executive](http://rdbrck.mytribehr.com/careers/view/37)
-* [Product Manager](http://rdbrck.mytribehr.com/careers/view/38)
+* [DevOps Engineer](https://rdbrck.bamboohr.com/jobs/view.php?id=1)
 
 #### [RevenueWire](https://www.revenuewire.com/)
 * [Sales Specialist](https://www.revenuewire.com/careers/#tab-2)
