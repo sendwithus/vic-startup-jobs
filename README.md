@@ -70,13 +70,8 @@ These companies are known for hiring co-op students and are always open to discu
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
 
 #### [Beanstream](http://www.beanstream.com/)
-* [Full-Stack Python Developer](http://career.bambora.com/jobs/12093-full-stack-python-developer)
 * [Technical Support Representative](http://www.beanstream.com/wp-content/uploads/2016/03/Technical-Support-Representative.pdf)
-* [QA Analyst](http://career.bambora.com/jobs/14249-qa-analyst)
-* [Senior Business Analyst](http://career.bambora.com/jobs/17186-are-you-our-next-senior-business-analyst)
-* [Inside Business Development SMB](http://www.beanstream.com/wp-content/uploads/2015/10/Inside_BD_SMB.pdf)
-* [Channel Partner Business Development](http://www.beanstream.com/wp-content/uploads/2015/10/CP_BD.pdf)
-* [Channel Partner Account Manager](http://www.beanstream.com/wp-content/uploads/2015/10/CP_Account_Manager.pdf)
+* [Head of Customer Experience](http://career.bambora.com/jobs/26149-head-of-customer-experience-north-america)
 
 #### [Benevity](http://www.benevity.com/)
 * [Insights Analyst](https://benevity.bamboohr.com/jobs/view.php?id=100)
