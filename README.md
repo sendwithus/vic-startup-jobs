@@ -187,7 +187,8 @@ These companies are known for hiring co-op students and are always open to discu
 * [UI/UX Graphic Designer](https://www.sparklit.com/careers/#graphic-designer)
 
 #### [Sendwithus](https://www.sendwithus.com)
-* [Senior Full Stack Engineer](https://www.sendwithus.com/jobs/senior-full-stack-engineer)
+* [Sales Lead](https://www.sendwithus.com/jobs/sales-team-lead)
+* [Engineering Intern](https://www.sendwithus.com/jobs/engineering-intern)
 
 #### [Silkstart](http://silkstart.com/about/)
 * [Customer Success Representative](http://silkstart.com/careers/)
