@@ -193,8 +193,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Growth Intern](https://www.sendwithus.com/jobs/growth-intern)
 
 #### [Silkstart](http://silkstart.com/about/)
-* [Customer Success Representative](http://silkstart.com/careers/)
-* [Website Builder](http://silkstart.com/careers/)
+* [Sales Development Representative](http://www.viatec.ca/jobs/sales-development-representative-sdr)
 
 #### [Stembolt](http://stembolt.com)
 * [Software Developer Co-op](https://stembolt.com/careers/software-developer-co-op/)
