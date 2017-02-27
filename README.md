@@ -113,6 +113,9 @@ These companies are known for hiring co-op students and are always open to discu
 * [VP of Operations](https://www.go2mobi.com/careers/2016-VPO-08/)
 * [Intermediate Full Stack Developer(Vancouver)](https://www.go2mobi.com/careers/2016-IFSD-10/)
 
+#### [Hakai Institute](https://www.hakai.org/)
+* [Software Developer](https://ca.indeed.com/cmp/Tula-Foundation/jobs/Software-Developer-3ee5744ee4463c3a)
+
 #### [Hololabs](http://www.hololabs.org/)
 * [Game Developer](http://www.hololabs.org/hiring-game-developer)
 
