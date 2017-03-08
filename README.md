@@ -188,6 +188,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Developer](http://ringpartner.com/careers/)
 * [Intermediate/Senior Developer](https://ringpartner.com/news/job-posting-intermediatesenior-developer)
 * [Product Manager](http://www.ringpartner.com/blog/job-posting-product-manager)
+* [Digital Media Buyer](https://www.ringpartner.com/blog/job-posting-digital-media-buyer)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
