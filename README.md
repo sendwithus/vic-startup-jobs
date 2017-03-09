@@ -199,6 +199,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Engineering Intern](https://www.sendwithus.com/jobs/engineering-intern)
 * [Content Marketer](https://www.sendwithus.com/jobs/content-marketer)
 * [Growth Intern](https://www.sendwithus.com/jobs/growth-intern)
+* [Web Designer](https://www.sendwithus.com/jobs/web-designer)
 
 #### [Silkstart](http://silkstart.com/about/)
 * [Sales Development Representative](http://www.viatec.ca/jobs/sales-development-representative-sdr)
