@@ -24,7 +24,7 @@ Tech startups with offices in Victoria BC.
 These companies are known for hiring co-op students and are always open to discussing opportunities for students and aspiring developers, designers, and marketers.
 
 * [AggregateIQ](http://www.aggregateiq.com/)
-* [Beanstream](http://www.beanstream.com/)
+* [Beanstream (Bambora North America)](http://www.beanstream.com/)
 * [ChatterBlock](http://www.chatterblock.com/)
 * [Checkfront](https://www.checkfront.com/)
 * [CodeName Entertainment](http://www.codenameentertainment.com/)
@@ -69,8 +69,9 @@ These companies are known for hiring co-op students and are always open to discu
 * [Web Developer](http://www.atomiccrayon.com/career-opportunities)
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
 
-#### [Beanstream](http://www.beanstream.com/)
+#### [Beanstream (Bambora North America)](http://www.beanstream.com/)
 * [Product Owner](http://career.bambora.com/jobs/29224-product-owner)
+* [Accounting Administrator](http://career.bambora.com/jobs/29279-accounting-administrator)
 * [People & Performance Manager (HR)](http://career.bambora.com/jobs/27600-people-performance-manager-for-north-america)
 * [Business Development Manager](http://career.bambora.com/jobs/28661-business-development-manager-north-america)
 * [Bilingual Customer Support Representative (French + English)](http://career.bambora.com/jobs/27504-bilingual-customer-support-representative-csr)
