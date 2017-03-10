@@ -71,7 +71,7 @@ These companies are known for hiring co-op students and are always open to discu
 
 #### [Beanstream](http://www.beanstream.com/)
 * [Technical Support Representative](http://www.beanstream.com/wp-content/uploads/2016/03/Technical-Support-Representative.pdf)
-* [Head of Customer Experience](http://career.bambora.com/jobs/26149-head-of-customer-experience-north-america)
+* [Product Owner](http://career.bambora.com/jobs/29224-product-owner)
 
 #### [Benevity](http://www.benevity.com/)
 * [Insights Analyst](https://benevity.bamboohr.com/jobs/view.php?id=100)
