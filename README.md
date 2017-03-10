@@ -70,8 +70,10 @@ These companies are known for hiring co-op students and are always open to discu
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
 
 #### [Beanstream](http://www.beanstream.com/)
-* [Technical Support Representative](http://www.beanstream.com/wp-content/uploads/2016/03/Technical-Support-Representative.pdf)
 * [Product Owner](http://career.bambora.com/jobs/29224-product-owner)
+* [People & Performance Manager (HR)](http://career.bambora.com/jobs/27600-people-performance-manager-for-north-america)
+* [Business Development Manager](http://career.bambora.com/jobs/28661-business-development-manager-north-america)
+* [Bilingual Customer Support Representative (French + English)](http://career.bambora.com/jobs/27504-bilingual-customer-support-representative-csr)
 
 #### [Benevity](http://www.benevity.com/)
 * [Insights Analyst](https://benevity.bamboohr.com/jobs/view.php?id=100)
