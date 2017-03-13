@@ -92,6 +92,9 @@ These companies are known for hiring co-op students and are always open to discu
 * [Technical Support Specialist](https://www.checkfront.com/careers/customer-success)
 * [Customer Success Advocate](https://www.checkfront.com/careers/customer-advocate)
 
+#### [Eclipse Creative](http://eclipsecreative.ca)
+* [Front-End Developer](http://www.eclipsecreative.ca/jobs/)
+
 #### [Exapik](http://www.exapik.com/)
 * [JavaScript Software Engineer (co-op/part time)](http://www.exapik.com/careers/javascript-software-engineer/)
 
