@@ -198,8 +198,6 @@ These companies are known for hiring co-op students and are always open to discu
 
 #### [Sendwithus](https://www.sendwithus.com)
 * [Sales Lead](https://www.sendwithus.com/jobs/sales-team-lead)
-* [Engineering Intern](https://www.sendwithus.com/jobs/engineering-intern)
-* [Content Marketer](https://www.sendwithus.com/jobs/content-marketer)
 * [Growth Intern](https://www.sendwithus.com/jobs/growth-intern)
 * [Web Designer](https://www.sendwithus.com/jobs/web-designer)
 
