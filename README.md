@@ -188,13 +188,9 @@ These companies are known for hiring co-op students and are always open to discu
 * [PHP Platform Developer](http://www.revenuewire.com/careers/)
 
 #### [RingPartner](http://ringpartner.com/)
-* [Compliance Representative](https://ringpartner.com/news/job-posting-compliance-representative)
-* [Client Success Manager](http://ringpartner.com/careers/)
-* [Sales Specialist](https://ringpartner.com/news/job-posting-sales-specialist)
-* [Developer](http://ringpartner.com/careers/)
 * [Intermediate/Senior Developer](https://ringpartner.com/news/job-posting-intermediatesenior-developer)
-* [Product Manager](http://www.ringpartner.com/blog/job-posting-product-manager)
 * [Digital Media Buyer](https://www.ringpartner.com/blog/job-posting-digital-media-buyer)
+* [Marketing and Culture Admin Assistant - PT](https://www.ringpartner.com/blog/job-posting-marketing-and-culture-admin-assistant)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
