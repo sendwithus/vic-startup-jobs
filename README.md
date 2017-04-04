@@ -73,11 +73,11 @@ These companies are known for hiring co-op students and are always open to discu
 * [Channel Partner Account Manager](http://www.beanstream.com/wp-content/uploads/2015/10/CP_Account_Manager.pdf)
 
 #### [Benevity](http://www.benevity.com/)
-* [Insights Analyst](https://benevity.bamboohr.com/jobs/view.php?id=100)
-* [UX/UI Developer, Web](https://benevity.bamboohr.com/jobs/view.php?id=111)
+* [Visual Designer](https://benevity.bamboohr.com/jobs/view.php?id=131)
+* [Manager, Marketing Automation](https://benevity.bamboohr.com/jobs/view.php?id=125)
+* [Senior Quality Assurance Analyst](https://benevity.bamboohr.com/jobs/view.php?id=129)
 * [Software Developer, Web](https://benevity.bamboohr.com/jobs/view.php?id=106)
 * [Software Developer, Platform](https://benevity.bamboohr.com/jobs/view.php?id=103)
-* [Senior Software Developer, Platform](https://benevity.bamboohr.com/jobs/view.php?id=105)
 
 #### [Boundless GeoSpatial](http://www.boundlessgeo.com/)
 * [Project Manager](http://boundless.theresumator.com/apply/jyBLzf/Project-Manager)
