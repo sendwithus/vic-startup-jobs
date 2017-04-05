@@ -245,6 +245,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Tapstream](https://tapstream.com/)
 * [TinyMob Games](http://tinymobgames.com/)
 * [Pixel Union](https://pixelunion.net/)
+* [Loam Studios](http://loamstudios.com/)
 
 ## Share this job board with others!
 
