@@ -194,8 +194,6 @@ These companies are known for hiring co-op students and are always open to discu
 * [UI/UX Graphic Designer](https://www.sparklit.com/careers/#graphic-designer)
 
 #### [Sendwithus](https://www.sendwithus.com)
-* [Sales Lead](https://www.sendwithus.com/jobs/sales-team-lead)
-* [Growth Intern](https://www.sendwithus.com/jobs/growth-intern)
 * [Web Designer](https://www.sendwithus.com/jobs/web-designer)
 
 #### [Silkstart](http://silkstart.com/about/)
