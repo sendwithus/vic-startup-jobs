@@ -92,7 +92,6 @@ These companies are known for hiring co-op students and are always open to discu
 #### [Checkfront](https://www.checkfront.com/)
 * [Web Application Developer](https://www.checkfront.com/careers/web-application-developer)
 * [Technical Support Specialist](https://www.checkfront.com/careers/customer-success)
-* [Customer Success Advocate](https://www.checkfront.com/careers/customer-advocate)
 
 #### [Eclipse Creative](http://eclipsecreative.ca)
 * [Front-End Developer](http://www.eclipsecreative.ca/jobs/)
@@ -116,11 +115,6 @@ These companies are known for hiring co-op students and are always open to discu
 * [Integrations Developer](https://giftbit.bamboohr.com/jobs/view.php?id=9)
 
 #### [Go2mobi](http://www.go2mobi.com/)
-* [Business Development Manager](https://www.go2mobi.com/careers/2016-BDM-08/)
-* [Media Buyer](https://www.go2mobi.com/careers/2016-MB-05/)
-* [Senior Media Buyer](https://www.go2mobi.com/careers/2016-SMB-05/)
-* [Mobile Advertising Account Executive](https://www.go2mobi.com/careers/2016-AE-01/)
-* [Accountant](https://www.go2mobi.com/careers/2016-ACC-09/)
 * [VP of Operations](https://www.go2mobi.com/careers/2016-VPO-08/)
 * [Intermediate Full Stack Developer(Vancouver)](https://www.go2mobi.com/careers/2016-IFSD-10/)
 
@@ -159,7 +153,6 @@ These companies are known for hiring co-op students and are always open to discu
 
 #### [MonetizeMore](http://www.monetizemore.com/)
 * [Web Developer](http://www.monetizemore.com/about-monetizemore/careers/web-developer-jobs/)
-* [Project Specialist](http://www.monetizemore.com/about-monetizemore/careers/project-specialist/)
 * [Ad Optimization Expert](http://www.monetizemore.com/about-monetizemore/careers/)
 
 #### [One Net Marketing](http://onenetmarketing.com)
@@ -187,7 +180,6 @@ These companies are known for hiring co-op students and are always open to discu
 * [PHP Platform Developer](http://www.revenuewire.com/careers/)
 
 #### [RingPartner](http://ringpartner.com/)
-* [Intermediate/Senior Developer](https://ringpartner.com/news/job-posting-intermediatesenior-developer)
 * [Digital Media Buyer](https://www.ringpartner.com/blog/job-posting-digital-media-buyer)
 * [Marketing and Culture Admin Assistant - PT](https://www.ringpartner.com/blog/job-posting-marketing-and-culture-admin-assistant)
 
@@ -206,7 +198,6 @@ These companies are known for hiring co-op students and are always open to discu
 * [Junior Developer](https://stembolt.com/careers/junior-developer/)
 * [Intermediate/Senior Developer](https://stembolt.com/careers/intermediate-or-senior-developer/)
 * [Senior Solidus Developer](https://stembolt.com/careers/senior-solidus-developer/)
-* [Visual Designer](https://stembolt.com/careers/visual-designer/)
 
 #### [Stocksy United](http://www.stocksy.com/)
 * [Front End Developer](https://www.stocksy.com/service/hiring)
@@ -229,10 +220,6 @@ These companies are known for hiring co-op students and are always open to discu
 * [Workplace Coordinator](https://www.workday.com/en-us/company/careers/open-positions/job-details.html?id=JR15985)
 * [Product Manager](https://www.workday.com/en-us/company/careers/open-positions/job-details.html?id=JR15803)
 
-#### [Zynga Canada](https://www.zynga.com/)
-* [Senior/Principle Software Engineer: Web](https://www.zynga.com/careers/positions/seniorprincipal-software-engineer-web)
-* [Senior/Principle Software Engineer: iOS](https://www.zynga.com/careers/positions/seniorprinciple-software-engineer-ios)
-
 ## Startups without current postings
 * [ChatterBlock](https://www.chatterblock.com/)
 * [Codename Entertainment](http://www.codenameentertainment.com/)
@@ -240,15 +227,16 @@ These companies are known for hiring co-op students and are always open to discu
 * [Flow](https://www.getflow.com/)
 * [Hipwood Digital](http://www.hipwooddigital.com/)
 * [KIXEYE Canada Ltd](http://www.kixeye.com/)
+* [Loam Studios](http://loamstudios.com/)
 * [Onebit Labs](http://onebitlabs.com/)
 * [OneWed](https://www.onewed.com/)
+* [Pixel Union](https://pixelunion.net/)
 * [Rooof](http://rooof.com)
 * [Ruboss](http://ruboss.com/)
 * [SeafoodX](https://www.seafoodx.io/)
 * [Tapstream](https://tapstream.com/)
 * [TinyMob Games](http://tinymobgames.com/)
-* [Pixel Union](https://pixelunion.net/)
-* [Loam Studios](http://loamstudios.com/)
+* [Zynga Canada](https://www.zynga.com/)
 
 ## Share this job board with others!
 
