@@ -40,6 +40,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [MetaLab](http://metalab.co/)
 * [Momentum Dashboard](http://momentumdash.com/)
 * [OneWed](https://www.onewed.com/)
+* [Plurilock](https://www.plurilock.com/)
 * [Pretio Interactive](https://www.pretio.in/)
 * [Redbrick](https://rdbrck.com/)
 * [Referral SaaSquatch](http://referralsaasquatch.com/)
@@ -158,9 +159,6 @@ These companies are known for hiring co-op students and are always open to discu
 #### [One Net Marketing](http://onenetmarketing.com)
 * [Front End Developer - Intermediate](http://onenetmarketing.com/careers/front-end-web-developer)
 
-#### [Plurilock](https://www.plurilock.com/)
-* [Research and Development Analyst Co-op](https://www.plurilock.com/our-company/careers/research-and-development-analyst-co-op/)
-
 #### [Pretio Interactive](https://www.pretio.in/)
 * [Media Buyer](https://www.pretio.in/jobs/media-buyer/)
 * [Junior Media & Distribution Analyst](http://www.pretio.in/jobs/junior-media-distribution-analyst)
@@ -231,6 +229,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Onebit Labs](http://onebitlabs.com/)
 * [OneWed](https://www.onewed.com/)
 * [Pixel Union](https://pixelunion.net/)
+* [Plurilock](https://www.plurilock.com/)
 * [Rooof](http://rooof.com)
 * [Ruboss](http://ruboss.com/)
 * [SeafoodX](https://www.seafoodx.io/)
