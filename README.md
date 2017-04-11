@@ -183,9 +183,6 @@ These companies are known for hiring co-op students and are always open to discu
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
 * [UI/UX Graphic Designer](https://www.sparklit.com/careers/#graphic-designer)
 
-#### [Sendwithus](https://www.sendwithus.com)
-* [Web Designer](https://www.sendwithus.com/jobs/web-designer)
-
 #### [Silkstart](http://silkstart.com/about/)
 * [Sales Development Representative](http://www.viatec.ca/jobs/sales-development-representative-sdr)
 
@@ -231,6 +228,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Rooof](http://rooof.com)
 * [Ruboss](http://ruboss.com/)
 * [SeafoodX](https://www.seafoodx.io/)
+* [Sendwithus](https://www.sendwithus.com)
 * [Tapstream](https://tapstream.com/)
 * [TinyMob Games](http://tinymobgames.com/)
 * [Zynga Canada](https://www.zynga.com/)
