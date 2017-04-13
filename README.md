@@ -76,6 +76,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Accounting Administrator](http://career.bambora.com/jobs/29279-accounting-administrator)
 * [Business Development Manager](http://career.bambora.com/jobs/28661-business-development-manager-north-america)
 * [Bilingual Customer Support Representative (French + English)](http://career.bambora.com/jobs/27504-bilingual-customer-support-representative-csr)
+* [QA Analyst](http://career.bambora.com/jobs/32269-qa-analyst)
 
 #### [Benevity](http://www.benevity.com/)
 * [Visual Designer](https://benevity.bamboohr.com/jobs/view.php?id=131)
