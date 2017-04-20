@@ -27,6 +27,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Beanstream (Bambora North America)](http://www.beanstream.com/)
 * [ChatterBlock](https://www.chatterblock.com/)
 * [Checkfront](https://www.checkfront.com/)
+* [Clixxa](https://www.clixxa.com/)
 * [CodeName Entertainment](http://www.codenameentertainment.com/)
 * [Echosec](https://www.echosec.net/)
 * [Flytographer](http://www.flytographer.com/)
@@ -93,6 +94,10 @@ These companies are known for hiring co-op students and are always open to discu
 #### [Checkfront](https://www.checkfront.com/)
 * [Web Application Developer](https://www.checkfront.com/careers/web-application-developer)
 * [Technical Support Specialist](https://www.checkfront.com/careers/customer-success)
+
+#### [Clixxa](https://www.clixxa.com/)
+* [Development Manager](https://jobs.lever.co/ctr/8c88eb77-f780-4457-96ce-224f77890488)
+* [DevOps Engineer](https://jobs.lever.co/ctr/f48bb48b-20a1-431f-a83f-0e62c746cfb5)
 
 #### [Exapik](http://www.exapik.com/)
 * [JavaScript Software Engineer (co-op/part time)](http://www.exapik.com/careers/javascript-software-engineer/)
