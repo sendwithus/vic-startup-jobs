@@ -114,9 +114,6 @@ These companies are known for hiring co-op students and are always open to discu
 * [Senior Digital Marketing Manager](http://www.flytographer.com/jobs)
 * [Shoot Concierge](http://www.flytographer.com/jobs)
 
-#### [Giftbit](http://www.giftbit.com/)
-* [Integrations Developer](https://giftbit.bamboohr.com/jobs/view.php?id=9)
-
 #### [Go2mobi](http://www.go2mobi.com/)
 * [VP of Operations](https://www.go2mobi.com/careers/2016-VPO-08/)
 * [Intermediate Full Stack Developer(Vancouver)](https://www.go2mobi.com/careers/2016-IFSD-10/)
@@ -222,6 +219,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Codename Entertainment](http://www.codenameentertainment.com/)
 * [Crowdcontent](https://www.crowdcontent.com/)
 * [Flow](https://www.getflow.com/)
+* [Giftbit](http://www.giftbit.com/)
 * [Hipwood Digital](http://www.hipwooddigital.com/)
 * [KIXEYE Canada Ltd](http://www.kixeye.com/)
 * [Loam Studios](http://loamstudios.com/)
