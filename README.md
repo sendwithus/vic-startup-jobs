@@ -50,6 +50,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Rooof](http://www.rooof.com/)
 * [SeafoodX](https://www.seafoodx.io/)
 * [Sendwithus](https://www.sendwithus.com)
+* [SilkStart](http://silkstart.com/)
 * [Stembolt](https://stembolt.com/)
 * [Starfish Medical](http://starfishmedical.com/)
 * [Telmediq](http://www.telmediq.com/)
@@ -185,7 +186,8 @@ These companies are known for hiring co-op students and are always open to discu
 * [UI/UX Graphic Designer](https://www.sparklit.com/careers/#graphic-designer)
 
 #### [Silkstart](http://silkstart.com/about/)
-* [Sales Development Representative](http://www.viatec.ca/jobs/sales-development-representative-sdr)
+* [Junior Developer \(Tech Support / QA\)](http://www.viatec.ca/jobs/junior-developer-tech-support-qa)
+* [Customer Success Representative](http://www.viatec.ca/jobs/customer-success-representative-1)
 
 #### [Stembolt](http://stembolt.com)
 * [Software Developer Co-op](https://stembolt.com/careers/software-developer-co-op/)
