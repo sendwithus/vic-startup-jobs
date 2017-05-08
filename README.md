@@ -182,6 +182,10 @@ These companies are known for hiring co-op students and are always open to discu
 * [Digital Media Buyer](https://www.ringpartner.com/blog/job-posting-digital-media-buyer)
 * [Marketing and Culture Admin Assistant - PT](https://www.ringpartner.com/blog/job-posting-marketing-and-culture-admin-assistant)
 
+#### [Rooof](http://www.rooof.com)
+* [Mapping and Support Engineer (Software)](http://www.rooof.com/mapping-and-support-engineer)
+* [Quality Assurance Engineer (Software)](http://www.rooof.com/qa-engineer)
+
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
 * [UI/UX Graphic Designer](https://www.sparklit.com/careers/#graphic-designer)
