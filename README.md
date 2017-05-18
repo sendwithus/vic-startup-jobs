@@ -214,11 +214,11 @@ These companies are known for hiring co-op students and are always open to discu
 * [IT Systems Administrator](http://www.tutela.com/careers)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada)
-* [Operations Engineer](http://www.workday.com/company/careers/job_description.php?id=JR13912#.V3Gz8eYrIWo)
-* [Android Developer](http://www.workday.com/company/careers/job_description.php?id=JR14334#.V6iy05MrLUJ)
-* [Software Development Engineer, Co-op](https://www.workday.com/en-us/company/careers/open-positions/job-details.html?id=JR15345)
-* [Workplace Coordinator](https://www.workday.com/en-us/company/careers/open-positions/job-details.html?id=JR15985)
-* [Product Manager](https://www.workday.com/en-us/company/careers/open-positions/job-details.html?id=JR15803)
+* [Android Developer](http://bit.ly/wdayandvic)
+* [iOS Engineer](http://bit.ly/wdayiosvic)
+* [Product Designer](http://bit.ly/wdaypdvic)
+* [Senior Software Development Engineer](http://bit.ly/wdayvicsrsde1)
+* [Senior Software Development Engineer](http://bit.ly/wdayvicsrsde2)
 
 ## Startups without current postings
 * [ChatterBlock](https://www.chatterblock.com/)
