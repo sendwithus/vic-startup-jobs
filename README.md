@@ -17,6 +17,7 @@ Tech startups with offices in Victoria BC.
 
 ### How can I get involved in the Victoria tech community?
 * Connect with the Victoria tech community by joining the [YYJ Tech Slack group](http://joinyyjtechslack.herokuapp.com/)
+* Or you can find us at #yyjtech @ irc.freenode.net
 * Keep an eye out for events on the [Victoria Startups calendar](http://victoriastartups.com/)
 
 ## Co-op Friendly Companies
