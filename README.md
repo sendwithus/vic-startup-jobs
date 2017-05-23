@@ -59,9 +59,6 @@ These companies are known for hiring co-op students and are always open to discu
 
 ## Current Job Openings
 
-#### [AggregateIQ](http://www.aggregateiq.com/)
-* [Front-End Web Developer](http://www.aggregateiq.com/AggregateIQ%20Web%20Developer%20-%20Jan%2019,%202017.pdf)
-
 #### [Airsenze](http://www.airsenze.com/)
 * [iOS Developer](http://www.airsenze.com/about/)
 * [Android Developer](http://www.airsenze.com/about/)
@@ -113,10 +110,6 @@ These companies are known for hiring co-op students and are always open to discu
 #### [Flytographer](http://www.flytographer.com/)
 * [Senior Digital Marketing Manager](http://www.flytographer.com/jobs)
 * [Shoot Concierge](http://www.flytographer.com/jobs)
-
-#### [Go2mobi](http://www.go2mobi.com/)
-* [VP of Operations](https://www.go2mobi.com/careers/2016-VPO-08/)
-* [Intermediate Full Stack Developer(Vancouver)](https://www.go2mobi.com/careers/2016-IFSD-10/)
 
 #### [Hololabs](http://www.hololabs.org/)
 * [Game Developer](http://www.hololabs.org/hiring-game-developer)
@@ -178,8 +171,8 @@ These companies are known for hiring co-op students and are always open to discu
 * [PHP Platform Developer](http://www.revenuewire.com/careers/)
 
 #### [RingPartner](http://ringpartner.com/)
-* [Digital Media Buyer](https://www.ringpartner.com/blog/job-posting-digital-media-buyer)
 * [Finance Assistant PT](https://ringpartner.bamboohr.com/jobs/view.php?id=4)
+
 #### [Rooof](http://www.rooof.com)
 * [Mapping and Support Engineer (Software)](http://www.rooof.com/mapping-and-support-engineer)
 * [Quality Assurance Engineer (Software)](http://www.rooof.com/qa-engineer)
@@ -199,8 +192,8 @@ These companies are known for hiring co-op students and are always open to discu
 * [Senior Solidus Developer](https://stembolt.com/careers/senior-solidus-developer/)
 
 #### [Stocksy United](http://www.stocksy.com/)
-* [Front End Developer](https://www.stocksy.com/service/hiring)
-* [Accounts Receivable Specialist](https://www.stocksy.com/service/hiring)
+* [Accounts Payable & Payroll Specialist](https://www.stocksy.com/service/hiring)
+* [Accountant](https://www.stocksy.com/service/hiring)
 
 #### [Telmediq](http://www.telmediq.com/)
 * [Implementation & Support Consultant](https://www.telmediq.com/careers/implementation-support-consultant/)
@@ -220,11 +213,13 @@ These companies are known for hiring co-op students and are always open to discu
 * [Senior Software Development Engineer](http://bit.ly/wdayvicsrsde2)
 
 ## Startups without current postings
+* [AggregateIQ](http://www.aggregateiq.com/)
 * [ChatterBlock](https://www.chatterblock.com/)
 * [Codename Entertainment](http://www.codenameentertainment.com/)
 * [Crowdcontent](https://www.crowdcontent.com/)
 * [Flow](https://www.getflow.com/)
 * [Giftbit](http://www.giftbit.com/)
+* [Go2mobi](http://www.go2mobi.com/)
 * [Hipwood Digital](http://www.hipwooddigital.com/)
 * [KIXEYE Canada Ltd](http://www.kixeye.com/)
 * [Loam Studios](http://loamstudios.com/)
