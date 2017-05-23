@@ -96,6 +96,9 @@ These companies are known for hiring co-op students and are always open to discu
 #### [Clixxa](https://www.clixxa.com/)
 * [Golang Developer](https://jobs.lever.co/ctr/c817070a-b511-42e2-997f-b2a2c2c682a9)
 
+#### [Echosec](https://www.echosec.net/)
+* [Product Manager](https://www.echosec.net/careers/product-manager/)
+
 #### [Exapik](http://www.exapik.com/)
 * [JavaScript Software Engineer (co-op/part time)](http://www.exapik.com/careers/javascript-software-engineer/)
 
