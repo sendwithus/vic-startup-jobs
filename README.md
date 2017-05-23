@@ -97,8 +97,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Technical Support Specialist](https://www.checkfront.com/careers/customer-success)
 
 #### [Clixxa](https://www.clixxa.com/)
-* [Development Manager](https://jobs.lever.co/ctr/8c88eb77-f780-4457-96ce-224f77890488)
-* [DevOps Engineer](https://jobs.lever.co/ctr/f48bb48b-20a1-431f-a83f-0e62c746cfb5)
+* [Golang Developer](https://jobs.lever.co/ctr/c817070a-b511-42e2-997f-b2a2c2c682a9)
 
 #### [Exapik](http://www.exapik.com/)
 * [JavaScript Software Engineer (co-op/part time)](http://www.exapik.com/careers/javascript-software-engineer/)
