@@ -50,6 +50,7 @@ These companies are known for hiring co-op students and are always open to discu
 * [Rooof](http://www.rooof.com/)
 * [SeafoodX](https://www.seafoodx.io/)
 * [Sendwithus](https://www.sendwithus.com)
+* [SilkStart](http://silkstart.com/)
 * [Stembolt](https://stembolt.com/)
 * [Starfish Medical](http://starfishmedical.com/)
 * [Telmediq](http://www.telmediq.com/)
@@ -114,9 +115,6 @@ These companies are known for hiring co-op students and are always open to discu
 * [Senior Digital Marketing Manager](http://www.flytographer.com/jobs)
 * [Shoot Concierge](http://www.flytographer.com/jobs)
 
-#### [Giftbit](http://www.giftbit.com/)
-* [Integrations Developer](https://giftbit.bamboohr.com/jobs/view.php?id=9)
-
 #### [Go2mobi](http://www.go2mobi.com/)
 * [VP of Operations](https://www.go2mobi.com/careers/2016-VPO-08/)
 * [Intermediate Full Stack Developer(Vancouver)](https://www.go2mobi.com/careers/2016-IFSD-10/)
@@ -165,7 +163,8 @@ These companies are known for hiring co-op students and are always open to discu
 * [Media Buyer](https://www.pretio.in/jobs/media-buyer/)
 * [Junior Media & Distribution Analyst](http://www.pretio.in/jobs/junior-media-distribution-analyst)
 * [Account Manager - Video](http://www.pretio.in/jobs/account-manager-video)
-* [Product Manager](http://www.pretio.in/jobs/product-manager)
+* [Business Development Manager - Video](http://www.pretio.in/jobs/business-development-manager-video)
+* [Infrastructure/Dev-Ops Engineeer](http://www.pretio.in/jobs/infrastructure-dev-ops-engineer)
 
 #### [Referral Saasquatch](http://www.referralsaasquatch.com/)
 * [Back End Developer](http://www.referralsaasquatch.com/careers/)
@@ -181,14 +180,18 @@ These companies are known for hiring co-op students and are always open to discu
 
 #### [RingPartner](http://ringpartner.com/)
 * [Digital Media Buyer](https://www.ringpartner.com/blog/job-posting-digital-media-buyer)
-* [Marketing and Culture Admin Assistant - PT](https://www.ringpartner.com/blog/job-posting-marketing-and-culture-admin-assistant)
+* [Finance Assistant PT](https://ringpartner.bamboohr.com/jobs/view.php?id=4)
+#### [Rooof](http://www.rooof.com)
+* [Mapping and Support Engineer (Software)](http://www.rooof.com/mapping-and-support-engineer)
+* [Quality Assurance Engineer (Software)](http://www.rooof.com/qa-engineer)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
 * [UI/UX Graphic Designer](https://www.sparklit.com/careers/#graphic-designer)
 
 #### [Silkstart](http://silkstart.com/about/)
-* [Sales Development Representative](http://www.viatec.ca/jobs/sales-development-representative-sdr)
+* [Junior Developer \(Tech Support / QA\)](http://www.viatec.ca/jobs/junior-developer-tech-support-qa)
+* [Customer Success Representative](http://www.viatec.ca/jobs/customer-success-representative-1)
 
 #### [Stembolt](http://stembolt.com)
 * [Software Developer Co-op](https://stembolt.com/careers/software-developer-co-op/)
@@ -211,17 +214,18 @@ These companies are known for hiring co-op students and are always open to discu
 * [IT Systems Administrator](http://www.tutela.com/careers)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada)
-* [Operations Engineer](http://www.workday.com/company/careers/job_description.php?id=JR13912#.V3Gz8eYrIWo)
-* [Android Developer](http://www.workday.com/company/careers/job_description.php?id=JR14334#.V6iy05MrLUJ)
-* [Software Development Engineer, Co-op](https://www.workday.com/en-us/company/careers/open-positions/job-details.html?id=JR15345)
-* [Workplace Coordinator](https://www.workday.com/en-us/company/careers/open-positions/job-details.html?id=JR15985)
-* [Product Manager](https://www.workday.com/en-us/company/careers/open-positions/job-details.html?id=JR15803)
+* [Android Developer](http://bit.ly/wdayandvic)
+* [iOS Engineer](http://bit.ly/wdayiosvic)
+* [Product Designer](http://bit.ly/wdaypdvic)
+* [Senior Software Development Engineer](http://bit.ly/wdayvicsrsde1)
+* [Senior Software Development Engineer](http://bit.ly/wdayvicsrsde2)
 
 ## Startups without current postings
 * [ChatterBlock](https://www.chatterblock.com/)
 * [Codename Entertainment](http://www.codenameentertainment.com/)
 * [Crowdcontent](https://www.crowdcontent.com/)
 * [Flow](https://www.getflow.com/)
+* [Giftbit](http://www.giftbit.com/)
 * [Hipwood Digital](http://www.hipwooddigital.com/)
 * [KIXEYE Canada Ltd](http://www.kixeye.com/)
 * [Loam Studios](http://loamstudios.com/)
