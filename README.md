@@ -175,6 +175,7 @@ These companies are known for hiring co-op students and are always open to discu
 
 #### [RingPartner](http://ringpartner.com/)
 * [Finance Assistant PT](https://ringpartner.bamboohr.com/jobs/view.php?id=4)
+* [Node Micro-Service Developer](https://ringpartner.bamboohr.com/jobs/view.php?id=5)
 
 #### [Rooof](http://www.rooof.com)
 * [Mapping and Support Engineer (Software)](http://www.rooof.com/mapping-and-support-engineer)
