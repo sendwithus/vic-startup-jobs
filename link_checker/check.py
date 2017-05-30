@@ -8,7 +8,7 @@ import requests
 from gevent.pool import Pool
 
 
-markdown_page = 'https://raw.githubusercontent.com/sendwithus/vic-startup-jobs/master/README.md'
+markdown_file = 'README.md'
 user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'
 
 
@@ -56,18 +56,15 @@ class LinkChecker(object):
 
         self.already_seen.append(link)
 
-    def parse_page(self, page):
-        response = requests.get(page, headers=self.headers, allow_redirects=True)
-        if response.ok:
-            links = re.findall(r'\[([^\]]+)\]\(([^\)]+)\)', response.text)
+    def parse_page(self, md_file):
+        raw_markdown = open(md_file, 'r').read()
+        links = re.findall(r'\[([^\]]+)\]\(([^\)]+)\)', raw_markdown)
 
-            pool = Pool(100)
-            pool.map(self.check_link, links)
-            pool.join()
+        pool = Pool(100)
+        pool.map(self.check_link, links)
+        pool.join()
 
-            print('Done checking {} URLs'.format(len(links)))
-        else:
-            print('Could not retrieve job listings page.')
+        print('Done checking {} URLs'.format(len(links)))
 
         if self.bad_links:
             print('\n-- Bad Links --')
@@ -79,5 +76,5 @@ class LinkChecker(object):
 
 
 if __name__ == '__main__':
-    if not LinkChecker().parse_page(markdown_page):
+    if not LinkChecker().parse_page(markdown_file):
         sys.exit(1)
