@@ -21,44 +21,6 @@ Tech startups with offices in Victoria BC.
 * Connect with the Victoria tech community by joining the [YYJ Tech Slack group](http://joinyyjtechslack.herokuapp.com/)
 * Keep an eye out for events on the [Victoria Startups calendar](http://victoriastartups.com/)
 
-## Co-op Friendly Companies
-
-These companies are known for hiring co-op students and are always open to discussing opportunities for students and aspiring developers, designers, and marketers.
-
-* [AggregateIQ](http://www.aggregateiq.com/)
-* [Beanstream (Bambora North America)](http://www.beanstream.com/)
-* [ChatterBlock](https://www.chatterblock.com/)
-* [Checkfront](https://www.checkfront.com/)
-* [Clixxa](https://www.clixxa.com/)
-* [CodeName Entertainment](http://www.codenameentertainment.com/)
-* [Echosec](https://www.echosec.net/)
-* [Flytographer](http://www.flytographer.com/)
-* [Giftbit](http://www.giftbit.com/)
-* [Go2mobi](http://www.go2mobi.com/)
-* [Hololabs](http://www.hololabs.org/)
-* [Isolation Network](http://www.isolationnetwork.com/)
-* [KanoApps](http://www.kanoapps.com/)
-* [Latitude Geographics](http://www.latitudegeo.com/)
-* [LlamaZOO](http://www.llamazoo.com/)
-* [MetaLab](http://metalab.co/)
-* [Momentum Dashboard](http://momentumdash.com/)
-* [OneWed](https://www.onewed.com/)
-* [Plurilock](https://www.plurilock.com/)
-* [Pretio Interactive](https://www.pretio.in/)
-* [Redbrick](https://rdbrck.com/)
-* [Referral SaaSquatch](http://referralsaasquatch.com/)
-* [Revenuewire](https://www.revenuewire.com/)
-* [RingPartner](http://ringpartner.com/)
-* [Rooof](http://www.rooof.com/)
-* [SeafoodX](https://www.seafoodx.io/)
-* [Sendwithus](https://www.sendwithus.com)
-* [SilkStart](http://silkstart.com/)
-* [Stembolt](https://stembolt.com/)
-* [Starfish Medical](http://starfishmedical.com/)
-* [Telmediq](http://www.telmediq.com/)
-* [ViVitro Labs](http://vivitrolabs.com/)
-* [Workday](http://unbouncepages.com/workday-victoria/)
-
 ## Current Job Openings
 
 #### [Airsenze](http://www.airsenze.com/)
@@ -240,6 +202,44 @@ These companies are known for hiring co-op students and are always open to discu
 * [TinyMob Games](http://tinymobgames.com/)
 * [Zynga Canada](https://www.zynga.com/)
 
-## Share this job board with others!
+## Co-op Friendly Companies
+
+These companies are known for hiring co-op students and are always open to discussing opportunities for students and aspiring developers, designers, and marketers.
+
+* [AggregateIQ](http://www.aggregateiq.com/)
+* [Beanstream (Bambora North America)](http://www.beanstream.com/)
+* [ChatterBlock](https://www.chatterblock.com/)
+* [Checkfront](https://www.checkfront.com/)
+* [Clixxa](https://www.clixxa.com/)
+* [CodeName Entertainment](http://www.codenameentertainment.com/)
+* [Echosec](https://www.echosec.net/)
+* [Flytographer](http://www.flytographer.com/)
+* [Giftbit](http://www.giftbit.com/)
+* [Go2mobi](http://www.go2mobi.com/)
+* [Hololabs](http://www.hololabs.org/)
+* [Isolation Network](http://www.isolationnetwork.com/)
+* [KanoApps](http://www.kanoapps.com/)
+* [Latitude Geographics](http://www.latitudegeo.com/)
+* [LlamaZOO](http://www.llamazoo.com/)
+* [MetaLab](http://metalab.co/)
+* [Momentum Dashboard](http://momentumdash.com/)
+* [OneWed](https://www.onewed.com/)
+* [Plurilock](https://www.plurilock.com/)
+* [Pretio Interactive](https://www.pretio.in/)
+* [Redbrick](https://rdbrck.com/)
+* [Referral SaaSquatch](http://referralsaasquatch.com/)
+* [Revenuewire](https://www.revenuewire.com/)
+* [RingPartner](http://ringpartner.com/)
+* [Rooof](http://www.rooof.com/)
+* [SeafoodX](https://www.seafoodx.io/)
+* [Sendwithus](https://www.sendwithus.com)
+* [SilkStart](http://silkstart.com/)
+* [Stembolt](https://stembolt.com/)
+* [Starfish Medical](http://starfishmedical.com/)
+* [Telmediq](http://www.telmediq.com/)
+* [ViVitro Labs](http://vivitrolabs.com/)
+* [Workday](http://unbouncepages.com/workday-victoria/)
+
+#### Share this job board with others!
 
 [Tweet about us!](https://twitter.com/intent/tweet?text=I%20found%20a%20job%20on%20the%20Victoria%20Startup%20Jobs%20repo!&via=victoriastartup&url=http:%3A%2F%2Fgithub.com/sendwithus/vic-startup-jobs)
