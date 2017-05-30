@@ -6,6 +6,8 @@ A well-maintained list of available startup jobs in Victoria BC. This list is cu
 
 [Tweet about us!](https://twitter.com/intent/tweet?text=I%20found%20a%20job%20on%20the%20Victoria%20Startup%20Jobs%20repo!&via=victoriastartup&url=http%3A%2F%2Fgithub.com/sendwithus/vic-startup-jobs)
 
+[![Build Status](https://travis-ci.org/sendwithus/vic-startup-jobs.svg?branch=master)](https://travis-ci.org/sendwithus/vic-startup-jobs)
+
 ### How to Apply?
 Click the link for more info about each job posting, including how to apply. Most companies provide application instructions on their websites.
 
@@ -178,7 +180,6 @@ These companies are known for hiring co-op students and are always open to discu
 * [Node Micro-Service Developer](https://ringpartner.bamboohr.com/jobs/view.php?id=5)
 
 #### [Rooof](http://www.rooof.com)
-* [Mapping and Support Engineer (Software)](http://www.rooof.com/mapping-and-support-engineer)
 * [Quality Assurance Engineer (Software)](http://www.rooof.com/qa-engineer)
 
 #### [SparkLIT](https://www.sparklit.com/)
