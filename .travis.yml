@@ -1,5 +1,5 @@
 language: python
 python:
-  - "2.7"
+  - "3.6"
 install: "pip install -r link_checker/requirements.txt"
 script: "python link_checker/check.py"
