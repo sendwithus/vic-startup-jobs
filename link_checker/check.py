@@ -7,11 +7,13 @@ import sys
 import requests
 from gevent.pool import Pool
 
+
 markdown_page = 'https://raw.githubusercontent.com/sendwithus/vic-startup-jobs/master/README.md'
 user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'
 
 
 class LinkChecker(object):
+    bad_links = []
     already_seen = []
     headers = {
         'user-agent': user_agent
@@ -35,14 +37,19 @@ class LinkChecker(object):
                 except:
                     domain = '--no domain match--'
                 print('-', response.status_code, domain, text, link)
+                self.bad_links.append((response.status_code, domain, text, link))
+            else:
+                valid = True
         except requests.exceptions.InvalidSchema as e:
             # ignore mailto: link errors, but print anything else, as it's
             # likely incorrect URL formatting in the markdown
             if not link.startswith('mailto:'):
                 print('Error fetching URL, invalid URL schema:', e, file=sys.stderr)
+                self.bad_links.append(('Invalid schema', link))
         except Exception as e:
             # something else happened, print to diagnose
             print('Error testing URL:', link, text, 'Exception:', e, file=sys.stderr)
+            self.bad_links.append(('Error: {}'.format(e), link))
         finally:
             if response:
                 response.close()
@@ -62,6 +69,15 @@ class LinkChecker(object):
         else:
             print('Could not retrieve job listings page.')
 
+        if self.bad_links:
+            print('\n-- Bad Links --')
+            for link_info in self.bad_links:
+                print(*link_info)
+            return False
+
+        return True
+
 
 if __name__ == '__main__':
-    LinkChecker().parse_page(markdown_page)
+    if not LinkChecker().parse_page(markdown_page):
+        sys.exit(1)
