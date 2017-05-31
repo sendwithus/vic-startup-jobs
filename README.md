@@ -23,11 +23,13 @@ Tech startups with offices in Victoria BC.
 
 ## Current Job Openings
 
-Keep in mind that companies may have job postings on their own site that are not listed here - you should visit them and look for opportunities (see also [this list below](#startups-without-current-postings)).  Also, many companies are open to being contacted directly about opportunities, even if it's only to keep your resume on file.
+Keep in mind that companies may have job postings on their own site that are not listed here - you should visit them and look for opportunities.  Also, many companies are open to being contacted directly about opportunities, even if it's only to keep your resume on file.
 
 #### [Airsenze](http://www.airsenze.com/)
 * [iOS Developer](http://www.airsenze.com/about/)
 * [Android Developer](http://www.airsenze.com/about/)
+
+#### [AggregateIQ](http://www.aggregateiq.com/)
 
 #### [Appcolony](http://www.appcolony.ca/)
 * [Mobile UX/UI Designer](http://www.appcolony.ca/careers/design/)
@@ -46,12 +48,18 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Software Developer, Web](https://benevity.bamboohr.com/jobs/view.php?id=106)
 * [Software Developer, Platform](https://benevity.bamboohr.com/jobs/view.php?id=103)
 
+#### [ChatterBlock](https://www.chatterblock.com/)
+
 #### [Checkfront](https://www.checkfront.com/)
 * [Web Application Developer](https://www.checkfront.com/careers/web-application-developer)
 * [Technical Support Specialist](https://www.checkfront.com/careers/customer-success)
 
 #### [Clixxa](https://www.clixxa.com/)
 * [Golang Developer](https://jobs.lever.co/ctr/c817070a-b511-42e2-997f-b2a2c2c682a9)
+
+#### [Codename Entertainment](http://www.codenameentertainment.com/)
+
+#### [Crowdcontent](https://www.crowdcontent.com/)
 
 #### [Echosec](https://www.echosec.net/)
 * [Product Manager](https://www.echosec.net/careers/product-manager/)
@@ -67,11 +75,19 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Social Media & Marketing Interns](http://www.falcon-software.com/Job-Postings)
 * [IT and Dev Interns](http://www.falcon-software.com/Job-Postings)
 
+#### [Flow](https://www.getflow.com/)
+
 #### [Flytographer](http://www.flytographer.com/)
 * [Full Stack Web Developer](http://www.flytographer.com/jobs)
 * [Copywriter](http://www.flytographer.com/jobs)
 * [Controller](http://www.flytographer.com/jobs)
 * [Director of Marketing](http://www.flytographer.com/jobs)
+
+#### [Giftbit](http://www.giftbit.com/)
+
+#### [Go2mobi](http://www.go2mobi.com/)
+
+#### [Hipwood Digital](http://www.hipwooddigital.com/)
 
 #### [Hololabs](http://www.hololabs.org/)
 * [Game Developer](http://www.hololabs.org/hiring-game-developer)
@@ -80,6 +96,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [UX/UI Designer](https://kanoapps.bamboohr.com/jobs/view.php?id=28)
 * [Customer Support Lead](https://kanoapps.bamboohr.com/jobs/view.php?id=27)
 * [Software Development Manager](https://kanoapps.bamboohr.com/jobs/view.php?id=29)
+
+#### [KIXEYE Canada Ltd](http://www.kixeye.com/)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/)
 * [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
@@ -90,6 +108,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Android Developer](https://www.llamazoo.com/android-developer/)
 * [AR/VR/MR Software Developer](https://www.llamazoo.com/arvrmr-software-developer/)
 * [Sr Unity Software Developer](https://www.llamazoo.com/unity-software-developer/)
+
+#### [Loam Studios](http://loamstudios.com/)
 
 #### [MetaLab](http://metalab.co/)
 * [Creative Director](http://metalab.co/careers/)
@@ -106,6 +126,14 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [One Net Marketing](http://onenetmarketing.com)
 * [Front End Developer - Intermediate](http://onenetmarketing.com/careers/front-end-web-developer)
+
+#### [Onebit Labs](http://onebitlabs.com/)
+
+#### [OneWed](https://www.onewed.com/)
+
+#### [Pixel Union](https://pixelunion.net/)
+
+#### [Plurilock](https://www.plurilock.com/)
 
 #### [Pretio Interactive](https://www.pretio.in/)
 * [Media Buyer](https://www.pretio.in/jobs/media-buyer/)
@@ -128,6 +156,12 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Rooof](http://www.rooof.com)
 * [Quality Assurance Engineer (Software)](http://www.rooof.com/qa-engineer)
 
+#### [Ruboss](http://ruboss.com/)
+
+#### [SeafoodX](https://www.seafoodx.io/)
+
+#### [Sendwithus](https://www.sendwithus.com)
+
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
 * [UI/UX Graphic Designer](https://www.sparklit.com/careers/#graphic-designer)
@@ -146,9 +180,13 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Accounts Payable & Payroll Specialist](https://www.stocksy.com/service/hiring)
 * [Accountant](https://www.stocksy.com/service/hiring)
 
+#### [Tapstream](https://tapstream.com/)
+
 #### [Telmediq](http://www.telmediq.com/)
 * [Implementation & Support Consultant](https://www.telmediq.com/careers/implementation-support-consultant/)
 * [Technical Project Manager](https://www.telmediq.com/careers/technical-project-manager/)
+
+#### [TinyMob Games](http://tinymobgames.com/)
 
 #### [Tutela](http://tutelatechnologies.com/)
 * [iOS Mobile Developer](http://www.tutela.com/careers)
@@ -162,34 +200,11 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Software Development Engineer](http://bit.ly/wdayvicsrsde1)
 * [Senior Software Development Engineer](http://bit.ly/wdayvicsrsde2)
 
-## Startups without current postings
-* [AggregateIQ](http://www.aggregateiq.com/)
-* [Boundless GeoSpatial](http://www.boundlessgeo.com/)
-* [ChatterBlock](https://www.chatterblock.com/)
-* [Codename Entertainment](http://www.codenameentertainment.com/)
-* [Crowdcontent](https://www.crowdcontent.com/)
-* [Flow](https://www.getflow.com/)
-* [Giftbit](http://www.giftbit.com/)
-* [Go2mobi](http://www.go2mobi.com/)
-* [Hipwood Digital](http://www.hipwooddigital.com/)
-* [KIXEYE Canada Ltd](http://www.kixeye.com/)
-* [Loam Studios](http://loamstudios.com/)
-* [Onebit Labs](http://onebitlabs.com/)
-* [OneWed](https://www.onewed.com/)
-* [Pixel Union](https://pixelunion.net/)
-* [Plurilock](https://www.plurilock.com/)
-* [Redbrick](https://rdbrck.com)
-* [Rooof](http://rooof.com)
-* [Ruboss](http://ruboss.com/)
-* [SeafoodX](https://www.seafoodx.io/)
-* [Sendwithus](https://www.sendwithus.com)
-* [Tapstream](https://tapstream.com/)
-* [TinyMob Games](http://tinymobgames.com/)
-* [Zynga Canada](https://www.zynga.com/)
+#### [Zynga Canada](https://www.zynga.com/)
 
-## Co-op Friendly Companies
+## Co-op & Intern Friendly Companies
 
-These companies are known for hiring co-op students and are always open to discussing opportunities for students and aspiring developers, designers, and marketers.
+These companies are known for hiring/placing interns and co-op students. They are always open to discussing opportunities for students and aspiring developers, designers, and marketers.
 
 * [AggregateIQ](http://www.aggregateiq.com/)
 * [Beanstream (Bambora North America)](http://www.beanstream.com/)
