@@ -12,7 +12,7 @@ A well-maintained list of available startup jobs in Victoria BC. This list is cu
 Click the link for more info about each job posting, including how to apply. Most companies provide application instructions on their websites.
 
 ### How to Post?
-Posting is easy and free, simply fork this repo and submit a pull request adding/updating your job posting. If you have questions, need help, or want us to update the list for you, please email jobs@sendwithus.com.
+Posting is easy and free, simply fork this repo and submit a pull request adding/updating your job posting. Avoid generic "call for resumes" and prefer specific job postings. If you have questions, need help, or want us to update the list for you, please email jobs@sendwithus.com.
 
 ### Who can post?
 Tech startups with offices in Victoria BC.
@@ -22,6 +22,8 @@ Tech startups with offices in Victoria BC.
 * Keep an eye out for events on the [Victoria Startups calendar](http://victoriastartups.com/)
 
 ## Current Job Openings
+
+Keep in mind that companies may have job postings on their own site that are not listed here - you should visit them and look for opportunities (see also [this list below](#startups-without-current-postings)).  Also, many companies are open to being contacted directly about opportunities, even if it's only to keep your resume on file.
 
 #### [Airsenze](http://www.airsenze.com/)
 * [iOS Developer](http://www.airsenze.com/about/)
@@ -36,22 +38,13 @@ Tech startups with offices in Victoria BC.
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
 
 #### [Beanstream (Bambora North America)](http://www.beanstream.com/)
-* [Accounting Administrator](http://career.bambora.com/jobs/29279-accounting-administrator)
 * [Business Development Manager](http://career.bambora.com/jobs/28661-business-development-manager-north-america)
 * [Bilingual Customer Support Representative (French + English)](http://career.bambora.com/jobs/27504-bilingual-customer-support-representative-csr)
-* [QA Analyst](http://career.bambora.com/jobs/32269-qa-analyst)
 
 #### [Benevity](http://www.benevity.com/)
-* [Visual Designer](https://benevity.bamboohr.com/jobs/view.php?id=131)
-* [Manager, Marketing Automation](https://benevity.bamboohr.com/jobs/view.php?id=125)
 * [Senior Quality Assurance Analyst](https://benevity.bamboohr.com/jobs/view.php?id=129)
 * [Software Developer, Web](https://benevity.bamboohr.com/jobs/view.php?id=106)
 * [Software Developer, Platform](https://benevity.bamboohr.com/jobs/view.php?id=103)
-* [Director of First Impressions, HR & Engagement](https://benevity.bamboohr.com/jobs/view.php?id=132)
-
-#### [Boundless GeoSpatial](http://www.boundlessgeo.com/)
-* [Project Manager](http://boundless.theresumator.com/apply/jyBLzf/Project-Manager)
-* [Web Developer](http://boundless.theresumator.com/apply/yRowO0/Web-Developer)
 
 #### [Checkfront](https://www.checkfront.com/)
 * [Web Application Developer](https://www.checkfront.com/careers/web-application-developer)
@@ -75,24 +68,21 @@ Tech startups with offices in Victoria BC.
 * [IT and Dev Interns](http://www.falcon-software.com/Job-Postings)
 
 #### [Flytographer](http://www.flytographer.com/)
-* [Senior Digital Marketing Manager](http://www.flytographer.com/jobs)
-* [Shoot Concierge](http://www.flytographer.com/jobs)
+* [Full Stack Web Developer](http://www.flytographer.com/jobs)
+* [Copywriter](http://www.flytographer.com/jobs)
+* [Controller](http://www.flytographer.com/jobs)
+* [Director of Marketing](http://www.flytographer.com/jobs)
 
 #### [Hololabs](http://www.hololabs.org/)
 * [Game Developer](http://www.hololabs.org/hiring-game-developer)
 
 #### [Kano Apps](http://www.kanoapps.com/)
-* [Associate Producer](https://kanoapps.bamboohr.com/jobs/view.php?id=22)
-* [Game Systems Designer](https://kanoapps.bamboohr.com/jobs/view.php?id=21)
-* [Player Support Representative](https://kanoapps.bamboohr.com/jobs/view.php?id=25)
-* [Software Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=24)
+* [UX/UI Designer](https://kanoapps.bamboohr.com/jobs/view.php?id=28)
+* [Customer Support Lead](https://kanoapps.bamboohr.com/jobs/view.php?id=27)
+* [Software Development Manager](https://kanoapps.bamboohr.com/jobs/view.php?id=29)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/)
-* [ArcGIS Solutions Specialist](https://latitudegeo.bamboohr.com/jobs/view.php?id=54)
-* [Business Systems Analyst/Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=57)
-* [Front End Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=58)
 * [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
-* [Technical Writer](https://latitudegeo.bamboohr.com/jobs/view.php?id=56)
 * [Unsolicited/General Applications](https://latitudegeo.bamboohr.com/jobs/view.php?id=22)
 
 #### [LlamaZOO](http://www.llamazoo.com/)
@@ -102,10 +92,9 @@ Tech startups with offices in Victoria BC.
 * [Sr Unity Software Developer](https://www.llamazoo.com/unity-software-developer/)
 
 #### [MetaLab](http://metalab.co/)
-* [Design Director](http://metalab.co/careers/)
-* [Product Designer](http://metalab.co/careers/)
-* [Front-End Developer](http://metalab.co/careers/)
-* [Producer](http://metalab.co/careers/)
+* [Creative Director](http://metalab.co/careers/)
+* [Design Lead](http://metalab.co/careers/)
+* [Client Partner](http://metalab.co/careers/)
 
 #### [Momentum Dashboard](http://momentumdash.com/)
 * [Front-End Developer](http://momentumdash.com/careers/)
@@ -126,12 +115,7 @@ Tech startups with offices in Victoria BC.
 * [Infrastructure/Dev-Ops Engineeer](http://www.pretio.in/jobs/infrastructure-dev-ops-engineer)
 
 #### [Referral Saasquatch](http://www.referralsaasquatch.com/)
-* [Back End Developer](http://www.referralsaasquatch.com/careers/)
-* [Front End Developer](http://www.referralsaasquatch.com/careers/)
 * [Full Stack Developer](http://www.referralsaasquatch.com/careers/)
-
-#### [Redbrick](https://rdbrck.com)
-* [DevOps Engineer](https://rdbrck.bamboohr.com/jobs/view.php?id=1)
 
 #### [RevenueWire](https://www.revenuewire.com/)
 * [Sales Specialist](https://www.revenuewire.com/careers/#tab-2)
@@ -167,7 +151,6 @@ Tech startups with offices in Victoria BC.
 * [Technical Project Manager](https://www.telmediq.com/careers/technical-project-manager/)
 
 #### [Tutela](http://tutelatechnologies.com/)
-* [Digital Marketing Manager](http://www.tutela.com/careers)
 * [iOS Mobile Developer](http://www.tutela.com/careers)
 * [User Experience Designer](http://www.tutela.com/careers)
 * [IT Systems Administrator](http://www.tutela.com/careers)
@@ -181,6 +164,7 @@ Tech startups with offices in Victoria BC.
 
 ## Startups without current postings
 * [AggregateIQ](http://www.aggregateiq.com/)
+* [Boundless GeoSpatial](http://www.boundlessgeo.com/)
 * [ChatterBlock](https://www.chatterblock.com/)
 * [Codename Entertainment](http://www.codenameentertainment.com/)
 * [Crowdcontent](https://www.crowdcontent.com/)
@@ -194,6 +178,7 @@ Tech startups with offices in Victoria BC.
 * [OneWed](https://www.onewed.com/)
 * [Pixel Union](https://pixelunion.net/)
 * [Plurilock](https://www.plurilock.com/)
+* [Redbrick](https://rdbrck.com)
 * [Rooof](http://rooof.com)
 * [Ruboss](http://ruboss.com/)
 * [SeafoodX](https://www.seafoodx.io/)

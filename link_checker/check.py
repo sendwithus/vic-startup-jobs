@@ -40,6 +40,9 @@ class LinkChecker(object):
                 self.bad_links.append((response.status_code, domain, text, link))
             else:
                 valid = True
+        except requests.exceptions.MissingSchema:
+            # in-page anchor links will trigger this error
+            pass
         except requests.exceptions.InvalidSchema as e:
             # ignore mailto: link errors, but print anything else, as it's
             # likely incorrect URL formatting in the markdown
