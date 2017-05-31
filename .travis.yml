@@ -1,0 +1,5 @@
+language: python
+python:
+  - "3.6"
+install: "pip install -r link_checker/requirements.txt"
+script: "python link_checker/check.py"
