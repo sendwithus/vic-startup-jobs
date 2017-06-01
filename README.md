@@ -136,8 +136,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [UI/UX Graphic Designer](https://www.sparklit.com/careers/#graphic-designer)
 
 #### [Silkstart](http://silkstart.com/about/)
-* [Junior Developer \(Tech Support / QA\)](http://www.viatec.ca/jobs/junior-developer-tech-support-qa)
-* [Customer Success Representative](http://www.viatec.ca/jobs/customer-success-representative-1)
+* [Quality Assurance Developer (Test Automation)](https://www.viatec.ca/jobs/quality-assurance-developer-test-automation)
 
 #### [Stembolt](http://stembolt.com)
 * [Software Developer Co-op](https://stembolt.com/careers/software-developer-co-op/)
