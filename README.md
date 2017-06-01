@@ -50,9 +50,13 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [ChatterBlock](https://www.chatterblock.com/)
 
-#### [Checkfront](https://www.checkfront.com/)
-* [Web Application Developer](https://www.checkfront.com/careers/web-application-developer)
-* [Technical Support Specialist](https://www.checkfront.com/careers/customer-success)
+#### [Checkfront](https://www.checkfront.com/careers)
+* [Customer Support Manager](https://checkfront.bamboohr.com/jobs/view.php?id=8)
+* [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=2)
+* [Web Developer](https://checkfront.bamboohr.com/jobs/view.php?id=3)
+* [Business Development Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=4)
+* [Outbound Sales Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=7)
+* [Online Growth Manager](https://checkfront.bamboohr.com/jobs/view.php?id=1)
 
 #### [Clixxa](https://www.clixxa.com/)
 * [Golang Developer](https://jobs.lever.co/ctr/c817070a-b511-42e2-997f-b2a2c2c682a9)
@@ -167,8 +171,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [UI/UX Graphic Designer](https://www.sparklit.com/careers/#graphic-designer)
 
 #### [Silkstart](http://silkstart.com/about/)
-* [Junior Developer \(Tech Support / QA\)](http://www.viatec.ca/jobs/junior-developer-tech-support-qa)
-* [Customer Success Representative](http://www.viatec.ca/jobs/customer-success-representative-1)
+* [Quality Assurance Developer (Test Automation)](https://www.viatec.ca/jobs/quality-assurance-developer-test-automation)
 
 #### [Stembolt](http://stembolt.com)
 * [Software Developer Co-op](https://stembolt.com/careers/software-developer-co-op/)
