@@ -39,7 +39,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Web Developer](http://www.atomiccrayon.com/career-opportunities)
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
 
-#### [Beanstream (Bambora North America)](http://www.beanstream.com/)
+#### [Bambora North America](https://www.bambora.com/en/ca/)
 * [Business Development Manager](http://career.bambora.com/jobs/28661-business-development-manager-north-america)
 * [Bilingual Customer Support Representative (French + English)](http://career.bambora.com/jobs/27504-bilingual-customer-support-representative-csr)
 
@@ -90,6 +90,15 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Giftbit](http://www.giftbit.com/)
 
 #### [Go2mobi](http://www.go2mobi.com/)
+* [Sales Planner/Sales Support Specialist, Mobile Advertising](https://jobs.alongside.com/details/sales_planner_mobile_advertising/19549)
+* [VP of Operations](https://jobs.alongside.com/details/vice-president-of-operations/20752)
+* [Marketing Coordinator](https://jobs.alongside.com/details/marketing-coordinator/20741)
+* [Digital Advertising Account Manager](https://jobs.alongside.com/details/digital-advertising-account-manager/20837)
+* [Media Buyer](https://jobs.alongside.com/details/media-buyer/21105)
+* [Digital Advertising Assistant](https://jobs.alongside.com/details/digital-advertising-assistant/21262)
+* [Office Manager](https://jobs.alongside.com/details/office-manager-aka-ring-master/54867)
+* [Marketing Director](https://jobs.alongside.com/details/marketing-director/55417)
+* [Digital Creative Developer/Designer](https://jobs.alongside.com/details/digital-creative-developerdesigner/63712)
 
 #### [Hipwood Digital](http://www.hipwooddigital.com/)
 
@@ -134,6 +143,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Onebit Labs](http://onebitlabs.com/)
 
 #### [OneWed](https://www.onewed.com/)
+
+#### [PG Music](http://www.pgmusic.com/)
+* [iOS Developer](http://www.pgmusic.com/jobs.iosdeveloper.htm)
 
 #### [Pixel Union](https://pixelunion.net/)
 
@@ -210,7 +222,7 @@ Keep in mind that companies may have job postings on their own site that are not
 These companies are known for hiring/placing interns and co-op students. They are always open to discussing opportunities for students and aspiring developers, designers, and marketers.
 
 * [AggregateIQ](http://www.aggregateiq.com/)
-* [Beanstream (Bambora North America)](http://www.beanstream.com/)
+* [Bambora North America](https://www.bambora.com/en/ca/)
 * [ChatterBlock](https://www.chatterblock.com/)
 * [Checkfront](https://www.checkfront.com/)
 * [Clixxa](https://www.clixxa.com/)
