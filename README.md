@@ -47,6 +47,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Quality Assurance Analyst](https://benevity.bamboohr.com/jobs/view.php?id=129)
 * [Software Developer, Web](https://benevity.bamboohr.com/jobs/view.php?id=106)
 * [Software Developer, Platform](https://benevity.bamboohr.com/jobs/view.php?id=103)
+* [Director of First Impressions, HR & Engagement](https://benevity.bamboohr.com/jobs/view.php?id=132)
 
 #### [ChatterBlock](https://www.chatterblock.com/)
 
