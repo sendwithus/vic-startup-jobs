@@ -40,6 +40,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
 
 #### [Bambora North America](https://www.bambora.com/en/ca/)
+* [Full-Stack Developer](http://career.bambora.com/jobs/37995-full-stack-developer)
 * [Business Development Manager](http://career.bambora.com/jobs/28661-business-development-manager-north-america)
 * [Bilingual Customer Support Representative (French + English)](http://career.bambora.com/jobs/27504-bilingual-customer-support-representative-csr)
 
