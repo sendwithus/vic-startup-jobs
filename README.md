@@ -185,6 +185,13 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [SeafoodX](https://www.seafoodx.io/)
 
 #### [Sendwithus](https://www.sendwithus.com)
+* [Full Stack Product Engineer](https://www.sendwithus.com/careers/4d98220d-516e-44a3-abcb-16290421409c)
+* [Senior Platform Engineer](https://www.sendwithus.com/careers/a6841dfb-08ff-44bf-afb2-d7a07bdcee8c)
+* [Customer Success Associate](https://www.sendwithus.com/careers/a7bb4a91-71ec-497b-8e90-95b941a74a46)
+* [Operations Coordinator](https://www.sendwithus.com/careers/f0cd5c4d-e3ca-498c-8627-997c545cd9b1)
+* [Content Marketer](https://www.sendwithus.com/careers/12d30ac4-38ee-41f7-9747-67e5a51aa694)
+* [QA Engineer](https://www.sendwithus.com/careers/0456beb4-9d30-47ca-af93-9ead23cecabb)
+* [UI/UX Designer](https://www.sendwithus.com/careers/2f92d2b4-d846-47ed-9056-88a52010421f)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
