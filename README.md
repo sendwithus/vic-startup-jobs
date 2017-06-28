@@ -174,7 +174,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [PHP Platform Developer](http://www.revenuewire.com/careers/)
 
 #### [RingPartner](http://ringpartner.com/)
-* [Finance Assistant PT](https://ringpartner.bamboohr.com/jobs/view.php?id=4)
 * [Node Micro-Service Developer](https://ringpartner.bamboohr.com/jobs/view.php?id=5)
 
 #### [Rooof](http://www.rooof.com)
