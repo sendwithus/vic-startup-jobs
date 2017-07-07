@@ -40,9 +40,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
 
 #### [Bambora North America](https://www.bambora.com/en/ca/)
-* [Full-Stack Developer](http://career.bambora.com/jobs/37995-full-stack-developer)
-* [Business Development Manager](http://career.bambora.com/jobs/28661-business-development-manager-north-america)
-* [Bilingual Customer Support Representative (French + English)](http://career.bambora.com/jobs/27504-bilingual-customer-support-representative-csr)
+* [Customer Support Representative](http://career.bambora.com/jobs/37100-customer-support-representative)
+* [Customer Experience Pod Lead](http://career.bambora.com/jobs/37357-pod-lead)
+* [Fraud and Monitoring Specialist](http://career.bambora.com/jobs/37542-fraud-and-monitoring-specialist)
 
 #### [Benevity](http://www.benevity.com/)
 * [Senior Quality Assurance Analyst](https://benevity.bamboohr.com/jobs/view.php?id=129)
