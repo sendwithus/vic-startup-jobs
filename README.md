@@ -201,8 +201,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Solidus Developer](https://stembolt.com/careers/senior-solidus-developer/)
 
 #### [Stocksy United](http://www.stocksy.com/)
-* [Accounts Payable & Payroll Specialist](https://www.stocksy.com/service/hiring)
-* [Accountant](https://www.stocksy.com/service/hiring)
+* [Accounts Payable & Payroll Specialist](http://www.stocksy.com/service/hiring)
+* [Accountant](http://www.stocksy.com/service/hiring)
 
 #### [Tapstream](https://tapstream.com/)
 
