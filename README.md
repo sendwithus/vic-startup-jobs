@@ -18,10 +18,11 @@ Posting is easy and free, simply fork this repo and submit a pull request adding
 Tech startups with offices in Victoria BC.
 
 ### What about Co-Op & Intern Friendly Companies?
-Companies that are known for hiring/placing interns and co-op students will have a `(👩‍💻 Co-Op / Intern Friendly)` following their name. These companies are always open to discussing opportunities for students and aspiring developers, designers, and marketers.
+Companies that are known for hiring/placing  co-op students and interns will have a `(👩‍💻 Co-Op / Intern Friendly)` following their name. These companies are always open to discussing opportunities for students and aspiring developers, designers, and marketers.
 
 ### How can I get involved in the Victoria tech community?
 * Connect with the Victoria tech community by joining the [YYJ Tech Slack group](http://joinyyjtechslack.herokuapp.com/)
+* Connect with the Victoria ladies tech community by joininhg the [YYJ Tech Ladies Slack group](https://yyjtechladies.signup.team/). Please note that this group is  for anyone who self identifies as a female
 * Keep an eye out for events on the [Victoria Startups calendar](http://victoriastartups.com/)
 
 ## Current Job Openings
@@ -48,7 +49,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Fraud and Monitoring Specialist](http://career.bambora.com/jobs/37542-fraud-and-monitoring-specialist)
 
 #### [Benevity](http://www.benevity.com/)
-* [Senior Quality Assurance Analyst](https://benevity.bamboohr.com/jobs/view.php?id=129)
 * [Software Developer, Web](https://benevity.bamboohr.com/jobs/view.php?id=106)
 * [Software Developer, Platform](https://benevity.bamboohr.com/jobs/view.php?id=103)
 
@@ -59,7 +59,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=2)
 * [Web Developer](https://checkfront.bamboohr.com/jobs/view.php?id=3)
 * [Business Development Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=4)
-* [Outbound Sales Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=7)
 * [Online Growth Manager](https://checkfront.bamboohr.com/jobs/view.php?id=1)
 
 #### [Clixxa](https://www.clixxa.com/) (👩‍💻 Co-Op / Intern Friendly)
@@ -80,9 +79,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [ASP.Net Developer](http://www.falcon-software.com/About-Us/Job-Postings/ASP-Net-Developer)
 * [Java Developer](http://www.falcon-software.com/About-Us/Job-Postings/Java-Developer)
 * [Web Project Manager](http://www.falcon-software.com/About-Us/Job-Postings/Web-Project-Manager)
-* [Creative Design Interns](http://www.falcon-software.com/Job-Postings)
-* [Social Media & Marketing Interns](http://www.falcon-software.com/Job-Postings)
-* [IT and Dev Interns](http://www.falcon-software.com/Job-Postings)
 
 #### [Flow](https://www.getflow.com/)
 
@@ -95,12 +91,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Giftbit](http://www.giftbit.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Go2mobi](http://www.go2mobi.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Sales Planner/Sales Support Specialist, Mobile Advertising](https://jobs.alongside.com/details/sales_planner_mobile_advertising/19549)
-* [VP of Operations](https://jobs.alongside.com/details/vice-president-of-operations/20752)
-* [Marketing Coordinator](https://jobs.alongside.com/details/marketing-coordinator/20741)
 * [Digital Advertising Account Manager](https://jobs.alongside.com/details/digital-advertising-account-manager/20837)
 * [Media Buyer](https://jobs.alongside.com/details/media-buyer/21105)
-* [Digital Advertising Assistant](https://jobs.alongside.com/details/digital-advertising-assistant/21262)
 * [Office Manager](https://jobs.alongside.com/details/office-manager-aka-ring-master/54867)
 * [Marketing Director](https://jobs.alongside.com/details/marketing-director/55417)
 * [Digital Creative Developer/Designer](https://jobs.alongside.com/details/digital-creative-developerdesigner/63712)
@@ -166,12 +158,10 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Infrastructure/Dev-Ops Engineeer](http://www.pretio.in/jobs/infrastructure-dev-ops-engineer)
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Accounting Technician](https://rdbrck.bamboohr.com/jobs/view.php?id=8)
 * [Full Stack Developer (Intermediate)](https://rdbrck.bamboohr.com/jobs/view.php?id=5)
 * [Media Buyer](https://rdbrck.bamboohr.com/jobs/view.php?id=7)
-* [Sales Director](https://rdbrck.bamboohr.com/jobs/view.php?id=4)
 
-#### [Referral Saasquatch](http://www.referralsaasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
+#### [Referral SaaSquatch](http://www.referralsaasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Full Stack Developer](http://www.referralsaasquatch.com/careers/)
 
 #### [RevenueWire](https://www.revenuewire.com/) (👩‍💻 Co-Op / Intern Friendly)
@@ -192,9 +182,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Product Engineer](https://www.sendwithus.com/careers/4d98220d-516e-44a3-abcb-16290421409c)
 * [Senior Platform Engineer](https://www.sendwithus.com/careers/a6841dfb-08ff-44bf-afb2-d7a07bdcee8c)
 * [Customer Success Associate](https://www.sendwithus.com/careers/a7bb4a91-71ec-497b-8e90-95b941a74a46)
-* [Operations Coordinator](https://www.sendwithus.com/careers/f0cd5c4d-e3ca-498c-8627-997c545cd9b1)
 * [Content Marketer](https://www.sendwithus.com/careers/12d30ac4-38ee-41f7-9747-67e5a51aa694)
-* [QA Engineer](https://www.sendwithus.com/careers/0456beb4-9d30-47ca-af93-9ead23cecabb)
 * [UI/UX Designer](https://www.sendwithus.com/careers/2f92d2b4-d846-47ed-9056-88a52010421f)
 
 #### [SparkLIT](https://www.sparklit.com/)
@@ -219,8 +207,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Tapstream](https://tapstream.com/)
 
 #### [Telmediq](http://www.telmediq.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Implementation & Support Consultant](https://www.telmediq.com/careers/implementation-support-consultant/)
-* [Technical Project Manager](https://www.telmediq.com/careers/technical-project-manager/)
 
 #### [TinyMob Games](http://tinymobgames.com/)
 
@@ -232,11 +218,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ViVitro Labs](http://vivitrolabs.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
-* [Android Developer](http://bit.ly/wdayandvic)
 * [iOS Engineer](http://bit.ly/wdayiosvic)
-* [Product Designer](http://bit.ly/wdaypdvic)
-* [Senior Software Development Engineer](http://bit.ly/wdayvicsrsde1)
-* [Senior Software Development Engineer](http://bit.ly/wdayvicsrsde2)
 
 #### [Zynga Canada](https://www.zynga.com/)
 
