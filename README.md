@@ -200,7 +200,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Intermediate/Senior Developer](https://stembolt.com/careers/intermediate-or-senior-developer/)
 * [Senior Solidus Developer](https://stembolt.com/careers/senior-solidus-developer/)
 
-#### [Stocksy United](https://www.stocksy.com/)
+#### [Stocksy United]()
 * [Accounts Payable & Payroll Specialist]()
 * [Accountant]()
 
