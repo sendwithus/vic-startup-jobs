@@ -3,10 +3,14 @@ monkey.patch_all()
 
 import re
 import sys
+import traceback
+import warnings
 
-import requests
 from gevent.pool import Pool
+import requests
+from urllib3.exceptions import InsecureRequestWarning
 
+warnings.filterwarnings("ignore", category=InsecureRequestWarning)
 
 markdown_file = 'README.md'
 user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'
@@ -27,19 +31,16 @@ class LinkChecker(object):
 
         response = None
         try:
-            response = requests.get(link, headers=self.headers, allow_redirects=True, stream=True)
+            response = requests.get(link, headers=self.headers, allow_redirects=True, stream=True, verify=False)
 
-            # print status and URL info for links resulting in non-OK responses
+            # collect status and URL info for links resulting in non-OK responses
             # so we can clean up the jobs listing
             if response.status_code >= 400:
                 try:
                     domain = re.match(r'https?://([^/]+)/', link).groups()[0]
                 except:
                     domain = '--no domain match--'
-                print('-', response.status_code, domain, text, link)
                 self.bad_links.append((response.status_code, domain, text, link))
-            else:
-                valid = True
         except requests.exceptions.MissingSchema:
             # in-page anchor links will trigger this error
             pass
@@ -50,8 +51,10 @@ class LinkChecker(object):
                 print('Error fetching URL, invalid URL schema:', e, file=sys.stderr)
                 self.bad_links.append(('Invalid schema', link))
         except Exception as e:
-            # something else happened, print to diagnose
-            print('Error testing URL:', link, text, 'Exception:', e, file=sys.stderr)
+            # something else happened, print to diagnose, but also continue processing links
+            print("-" * 60)
+            traceback.print_exc(file=sys.stderr)
+            print("-" * 60)
             self.bad_links.append(('Error: {}'.format(e), link))
         finally:
             if response:
@@ -67,15 +70,16 @@ class LinkChecker(object):
         pool.map(self.check_link, links)
         pool.join()
 
-        print('Done checking {} URLs'.format(len(links)))
-
+        result = True
         if self.bad_links:
             print('\n-- Bad Links --')
             for link_info in self.bad_links:
                 print(*link_info)
-            return False
+            result = False
 
-        return True
+        print('\nDone checking {} URLs.'.format(len(links)))
+
+        return result
 
 
 if __name__ == '__main__':
