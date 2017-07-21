@@ -219,6 +219,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
 * [iOS Engineer](http://bit.ly/wdayiosvic)
+* [Junior Developer](http://bit.ly/wdayvicjrdev)
 
 #### [Zynga Canada](https://www.zynga.com/)
 
