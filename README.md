@@ -76,8 +76,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Crowdcontent](https://www.crowdcontent.com/)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
-* [Product Manager](https://www.echosec.net/careers/product-manager/)
-* [Sales Development Representative](https://www.echosec.net/careers/sales-development-victoria-bc/)
 
 #### [Exapik](http://www.exapik.com/)
 * [JavaScript Software Engineer (co-op/part time)](http://www.exapik.com/careers/javascript-software-engineer/)
