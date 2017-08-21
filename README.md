@@ -85,6 +85,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Java Developer](http://www.falcon-software.com/About-Us/Job-Postings/Java-Developer)
 * [Web Project Manager](http://www.falcon-software.com/About-Us/Job-Postings/Web-Project-Manager)
 
+#### Fifth Gear Marketing
+* [Senior Web Developer](https://ca.indeed.com/cmp/Fifth-Gear/jobs/Senior-Web-Developer-aa545ba67ec6bd4c?q=web)
+
 #### [Flow](https://www.getflow.com/)
 
 #### [Flytographer](http://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
