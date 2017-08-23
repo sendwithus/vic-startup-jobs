@@ -144,6 +144,10 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Web Developer](http://www.monetizemore.com/about-monetizemore/careers/web-developer-jobs/)
 * [Ad Optimization Expert](http://www.monetizemore.com/about-monetizemore/careers/)
 
+#### [SilkStart](http://silkstart.com)
+* [Front End Developer - Intermediate](http://silkstart.com/careers/)
+* [Back End Developer - Intermediate](http://silkstart.com/careers/)
+
 #### [One Net Marketing](http://onenetmarketing.com)
 * [Front End Developer - Intermediate](http://onenetmarketing.com/careers/front-end-web-developer)
 
