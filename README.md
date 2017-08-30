@@ -144,10 +144,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Web Developer](http://www.monetizemore.com/about-monetizemore/careers/web-developer-jobs/)
 * [Ad Optimization Expert](http://www.monetizemore.com/about-monetizemore/careers/)
 
-#### [SilkStart](http://silkstart.com)
-* [Front End Developer - Intermediate](http://silkstart.com/careers/)
-* [Back End Developer - Intermediate](http://silkstart.com/careers/)
-
 #### [One Net Marketing](http://onenetmarketing.com)
 * [Front End Developer - Intermediate](http://onenetmarketing.com/careers/front-end-web-developer)
 
@@ -203,8 +199,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
 * [UI/UX Graphic Designer](https://www.sparklit.com/careers/#graphic-designer)
 
-#### [Silkstart](http://silkstart.com/about/) (👩‍💻 Co-Op / Intern Friendly)
-* [Quality Assurance Developer (Test Automation)](https://www.viatec.ca/jobs/quality-assurance-developer-test-automation)
+#### [SilkStart](http://silkstart.com/about/)
+* [Front End Developer - Intermediate](http://silkstart.com/careers/)
+* [Back End Developer - Intermediate](http://silkstart.com/careers/)
 
 #### [Starfish Medical](http://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
 
