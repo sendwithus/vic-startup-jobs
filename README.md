@@ -115,6 +115,10 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Kano Apps](http://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [UX/UI Designer](https://kanoapps.bamboohr.com/jobs/view.php?id=28)
 * [Customer Support Lead](https://kanoapps.bamboohr.com/jobs/view.php?id=27)
+* [Game Systems Designer](https://kanoapps.bamboohr.com/jobs/view.php?id=21)
+* [Online Marketing Specialist](https://kanoapps.bamboohr.com/jobs/view.php?id=33)
+* [Lead Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=31)
+* [Software Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=32)
 * [Software Development Manager](https://kanoapps.bamboohr.com/jobs/view.php?id=29)
 
 #### [KIXEYE Canada Ltd](http://www.kixeye.com/)
