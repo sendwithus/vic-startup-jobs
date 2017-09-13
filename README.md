@@ -155,6 +155,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [iOS Developer](http://www.pgmusic.com/jobs.iosdeveloper.htm)
 
 #### [Pixel Union](https://pixelunion.net/)
+* [Shopify Developer](https://www.pixelunion.net/careers/#shopify-developer)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
