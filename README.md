@@ -233,7 +233,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ViVitro Labs](http://vivitrolabs.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
-* [iOS Engineer](http://bit.ly/wdayiosvic)
+* [Sr Software Development Engineer](http://bit.ly/2wY86iO)
 * [Junior Developer](http://bit.ly/wdayvicjrdev)
 
 #### [Zynga Canada](https://www.zynga.com/)
