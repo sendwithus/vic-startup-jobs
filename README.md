@@ -55,16 +55,12 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ChatterBlock](https://www.chatterblock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Enterprise Launch Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=18)
-* [Customer Support Manager](https://checkfront.bamboohr.com/jobs/view.php?id=8)
+* [Launch Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=18)
 * [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=2)
 * [DevOps Engineer](https://checkfront.bamboohr.com/jobs/view.php?id=12)
-* [Mobile Developer](https://checkfront.bamboohr.com/jobs/view.php?id=17)
 * [Web Developer](https://checkfront.bamboohr.com/jobs/view.php?id=3)
 * [Copywriter](https://checkfront.bamboohr.com/jobs/view.php?id=14)
-* [Digital Marketing Strategist](https://checkfront.bamboohr.com/jobs/view.php?id=1)
 * [Junior Web Designer](https://checkfront.bamboohr.com/jobs/view.php?id=15)
-* [People Ops Assistant](https://checkfront.bamboohr.com/jobs/view.php?id=16)
 * [Product Designer](https://checkfront.bamboohr.com/jobs/view.php?id=11)
 * [Sales Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=13)
 
