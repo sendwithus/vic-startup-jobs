@@ -179,6 +179,8 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [RingPartner](http://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Node Micro-Service Developer](https://ringpartner.bamboohr.com/jobs/view.php?id=5)
+* [Client Operations Specialist](https://ringpartner.bamboohr.com/jobs/view.php?id=11)
+* [Compliance Assistant Co-op - Winter Term](https://ringpartner.bamboohr.com/jobs/view.php?id=12)
 
 #### [Rooof](http://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Quality Assurance Engineer (Software)](http://www.rooof.com/qa-engineer)
