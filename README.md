@@ -109,7 +109,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Isolation Network](http://www.isolationnetwork.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [itGroove](http://itgroove.net/) (👩‍💻 Co-Op / Intern Friendly)
-* [Web Applications Developer](http://itgroove.net/about/work-with-us/)
+* [UX Specialist](http://itgroove.net/about/work-with-us/job-opportunity-ux-specialist/)
+* [Web Applications Developer](http://itgroove.net/about/work-with-us/job-opportunity-web-applications-developer/)
 
 #### [Kano Apps](http://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [UX/UI Designer](https://kanoapps.bamboohr.com/jobs/view.php?id=28)
