@@ -126,6 +126,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
 * [Unsolicited/General Applications](https://latitudegeo.bamboohr.com/jobs/view.php?id=22)
 
+#### [Leap XD](https://www.leapxd.com)
+* [Senior Front-End Developer](https://www.leapxd.com/senior-front-end-web-developer/)
+
 #### [LlamaZOO](http://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [3D Content Designer](https://www.llamazoo.com/3d-content-designer/)
 * [Android Developer](https://www.llamazoo.com/android-developer/)
