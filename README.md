@@ -163,11 +163,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
-* [Media Buyer](https://www.pretio.in/jobs/media-buyer/)
-* [Junior Media & Distribution Analyst](http://www.pretio.in/jobs/junior-media-distribution-analyst)
-* [Account Manager - Video](http://www.pretio.in/jobs/account-manager-video)
-* [Business Development Manager - Video](http://www.pretio.in/jobs/business-development-manager-video)
-* [Infrastructure/Dev-Ops Engineeer](http://www.pretio.in/jobs/infrastructure-dev-ops-engineer)
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Full Stack Developer (Intermediate)](https://rdbrck.bamboohr.com/jobs/view.php?id=5)
@@ -198,8 +193,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Software Developer](https://jobs.lever.co/semaphoresolutions/821e227b-d738-4f51-ab04-41941f2530d8)
 
 #### [Sendwithus](https://www.sendwithus.com) (👩‍💻 Co-Op / Intern Friendly)
-* [Full Stack Product Engineer](https://www.sendwithus.com/careers/4d98220d-516e-44a3-abcb-16290421409c)
-* [Senior Platform Engineer](https://www.sendwithus.com/careers/a6841dfb-08ff-44bf-afb2-d7a07bdcee8c)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
