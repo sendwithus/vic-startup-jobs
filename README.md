@@ -96,6 +96,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Developer](https://www.futurepet.care/careers/)
 
 #### [Giftbit](http://www.giftbit.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Experienced Writer](https://giftbit.bamboohr.com/jobs/view.php?id=10)
 
 #### [Go2mobi](http://www.go2mobi.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Digital Advertising Account Manager](https://jobs.alongside.com/details/digital-advertising-account-manager/20837)
