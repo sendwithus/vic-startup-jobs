@@ -174,7 +174,11 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Full Stack Developer (Intermediate)](https://rdbrck.bamboohr.com/jobs/view.php?id=5)
-* [Media Buyer](https://rdbrck.bamboohr.com/jobs/view.php?id=7)
+* [Business Development Manager](https://rdbrck.bamboohr.com/jobs/view.php?id=9)
+* [Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=10)
+* [Accounting Technician](https://rdbrck.bamboohr.com/jobs/view.php?id=8)
+* [Technical Analyst](https://rdbrck.bamboohr.com/jobs/view.php?id=11)
+
 
 #### [Referral SaaSquatch](http://www.referralsaasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Full Stack Developer](http://www.referralsaasquatch.com/careers/)
