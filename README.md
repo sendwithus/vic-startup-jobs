@@ -239,8 +239,14 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ViVitro Labs](http://vivitrolabs.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
-* [Sr Software Development Engineer](http://bit.ly/2wY86iO)
-* [Junior Developer](http://bit.ly/wdayvicjrdev)
+* [Android Developer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Android-Developer_JR-22041-1)
+* [iOS Software Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/iOS-Software-Engineer_JR-21817-1)
+* [Operations Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Operations-Engineer_JR-22043-1)
+* [Product Manager](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Product-Manager_JR-21222)
+* [Product Strategist](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Product-Strategist_JR-21220)
+* [Product Strategist](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Outbound-Product-Manager_JR-21130)
+* [Senior Product Manager](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Senior-Product-Manager_JR-20144)
+* [QA Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/QA-Engineer_JR-21944)
 
 #### [Zynga Canada](https://www.zynga.com/)
 
