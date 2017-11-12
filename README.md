@@ -71,6 +71,10 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
 
+#### [Dynamic Solutions](https://www.dynamic-solutions.com/)
+* [Junior Full Stack Developer](https://dynamic.bamboohr.com/jobs/view.php?id=3)
+* [Senior Full Stack Developer](https://dynamic.bamboohr.com/jobs/view.php?id=4)
+
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Exapik](http://www.exapik.com/)
