@@ -30,8 +30,6 @@ Companies that are known for hiring/placing  co-op students and interns will hav
 Keep in mind that companies may have job postings on their own site that are not listed here - you should visit them and look for opportunities.  Also, many companies are open to being contacted directly about opportunities, even if it's only to keep your resume on file.
 
 #### [Airsenze](http://www.airsenze.com/)
-* [iOS Developer](http://www.airsenze.com/about/)
-* [Android Developer](http://www.airsenze.com/about/)
 
 #### [AggregateIQ](http://www.aggregateiq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -65,7 +63,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Sales Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=13)
 
 #### [Clixxa](https://www.clixxa.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Ad Operations Manager](https://jobs.lever.co/ctr/c5497e7f-ee17-4bab-b4c8-ded4972ac778)
 * [DevOps Engineer](https://jobs.lever.co/ctr/f48bb48b-20a1-431f-a83f-0e62c746cfb5)
 * [Golang Developer](https://jobs.lever.co/ctr/c817070a-b511-42e2-997f-b2a2c2c682a9)
 * [Growth Hacker](https://jobs.lever.co/ctr/cdfcd73b-19f0-4540-ae6b-e28c1b53ab32)
@@ -100,7 +97,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 ### [Freshworks Studio](https://freshworks.io/)
 * [Account Executive](https://freshworks.io/account-executive/)
-* [Business Analyst](https://freshworks.io/junior-business-analyst/)
 * [Intermediate Android Developer](https://freshworks.io/intermediate-ios-developer-1/)
 * [Intermediate Full Stack Developer](https://freshworks.io/intermediate-full-stack-developer/)
 * [Intermediate iOS Developer](https://freshworks.io/intermediate-ios-developer/)
@@ -109,8 +105,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [QA Analyst](https://freshworks.io/qa-analyst/)
 
 #### [FuturePet](https://www.futurepet.care/)
-* [Full Stack Developer](https://www.futurepet.care/careers/)
-* [Front-End Developer](https://www.futurepet.care/careers/)
 
 #### [Giftbit](http://www.giftbit.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Experienced Writer](https://giftbit.bamboohr.com/jobs/view.php?id=10)
@@ -236,7 +230,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Sendwithus](https://www.sendwithus.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Field Marketing](https://www.sendwithus.com/careers/24f6acc9-5e2f-4721-9018-619a7bc4d7a0)
 * [Marketing Manager](https://www.sendwithus.com/careers/c05d0658-83c2-4bb7-acb2-f1a1b1dec65a)
-* [Platform Infrastructure Developer](https://www.sendwithus.com/careers/eb44f0d1-053b-4d77-bdef-2bd3c8209e35)
 * [Account Executive](https://www.sendwithus.com/careers/9ff489ad-3783-421e-a0c0-1a937aa14f34)
 
 #### [SparkLIT](https://www.sparklit.com/)
@@ -254,7 +247,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Junior Developer](https://stembolt.com/careers/junior-developer/)
 * [Intermediate/Senior Developer](https://stembolt.com/careers/intermediate-or-senior-developer/)
 * [Senior Solidus Developer](https://stembolt.com/careers/senior-solidus-developer/)
-* [Web Designer](https://stembolt.com/careers/web-designer)
 
 #### [Stocksy United](https://www.stocksy.com/)
 * [Junior IT Administrator](https://www.stocksy.com/service/hiring)
