@@ -177,8 +177,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Pixel Union](https://pixelunion.net/)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Integration Engineer](https://plurilock.breezy.hr/p/e5abd6705955-intermediate-software-developer)
-* [Junior Software Developer - Co-op](https://plurilock.breezy.hr/p/e5abd6705955-intermediate-software-developer)
+* [Integration Engineer](https://plurilock.breezy.hr/p/052a5a0be1fd-integration-engineer)
+* [Junior Software Engineer - Co-op](https://plurilock.breezy.hr/p/1d4d34623a4e-junior-software-engineer-co-op)
 
 #### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
 
