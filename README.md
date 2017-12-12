@@ -30,8 +30,6 @@ Companies that are known for hiring/placing  co-op students and interns will hav
 Keep in mind that companies may have job postings on their own site that are not listed here - you should visit them and look for opportunities.  Also, many companies are open to being contacted directly about opportunities, even if it's only to keep your resume on file.
 
 #### [Airsenze](http://www.airsenze.com/)
-* [iOS Developer](http://www.airsenze.com/about/)
-* [Android Developer](http://www.airsenze.com/about/)
 
 #### [AggregateIQ](http://www.aggregateiq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -47,21 +45,17 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
 * [Developer Advocate](http://career.bambora.com/jobs/62515-developer-advocate)
 * [Customer Champion](http://career.bambora.com/jobs/59247-customer-champion)
-* [Compliance Manager](http://career.bambora.com/jobs/58528-compliance-manager)
 * [Customer Champion (Bilingual)](http://career.bambora.com/jobs/57781-customer-champion-bilingual)
 
 #### [Benevity](http://www.benevity.com/)
 * [Software Developer, Web](https://benevity.bamboohr.com/jobs/view.php?id=106)
-* [UX Designer](https://benevity.bamboohr.com/jobs/view.php?id=144)
 
 #### [ChatterBlock](https://www.chatterblock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=2)
 * [Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=3)
-* [Accounting Technician](https://checkfront.bamboohr.com/jobs/view.php?id=20)
 * [Copywriter](https://checkfront.bamboohr.com/jobs/view.php?id=14)
-* [Admin Assistant](https://checkfront.bamboohr.com/jobs/view.php?id=22)
 * [Sales Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=13)
 
 #### [Clixxa](https://www.clixxa.com/) (👩‍💻 Co-Op / Intern Friendly)
