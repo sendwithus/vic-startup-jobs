@@ -92,20 +92,14 @@ Keep in mind that companies may have job postings on their own site that are not
 
 ### [Freshworks Studio](https://freshworks.io/)
 * [Account Executive](https://freshworks.io/account-executive/)
-* [Business Analyst](https://freshworks.io/junior-business-analyst/)
-* [Intermediate Android Developer](https://freshworks.io/intermediate-ios-developer-1/)
 * [Intermediate Full Stack Developer](https://freshworks.io/intermediate-full-stack-developer/)
 * [Intermediate iOS Developer](https://freshworks.io/intermediate-ios-developer/)
 * [Senior Software Engineer](https://freshworks.io/senior-software-engineer/)
 * [Technical Product Manager](https://freshworks.io/technical-project-manager/)
-* [QA Analyst](https://freshworks.io/qa-analyst/)
 
 #### [FuturePet](https://www.futurepet.care/)
-* [Full Stack Developer](https://www.futurepet.care/careers/)
-* [Front-End Developer](https://www.futurepet.care/careers/)
 
 #### [Giftbit](http://www.giftbit.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Experienced Writer](https://giftbit.bamboohr.com/jobs/view.php?id=10)
 
 #### [Go2mobi](http://www.go2mobi.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Media Buyer](https://jobs.alongside.com/details/media-buyer/21105)
