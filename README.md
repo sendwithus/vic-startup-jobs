@@ -90,7 +90,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Flytographer](http://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Full Stack Web Developer](http://www.flytographer.com/jobs)
 
-### [Freshworks Studio](https://freshworks.io/)
+#### [Freshworks Studio](https://freshworks.io/)
 * [Account Executive](https://freshworks.io/account-executive/)
 * [Intermediate Full Stack Developer](https://freshworks.io/intermediate-full-stack-developer/)
 * [Intermediate iOS Developer](https://freshworks.io/intermediate-ios-developer/)
@@ -125,15 +125,11 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Game UX/UI Designer](https://kanoapps.bamboohr.com/jobs/view.php?id=28)
 * [Lead Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=31)
 * [Software Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=32)
-* [Software Development Manager](https://kanoapps.bamboohr.com/jobs/view.php?id=29)
 
 #### [KIXEYE Canada Ltd](http://www.kixeye.com/)
 * [Senior Game Developer](https://jobs.jobvite.com/kixeye/job/oMaZ5fwK)
-* [Quality Assurance Lead](https://jobs.jobvite.com/kixeye/job/o4aZ5fw2)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Integrations Developer/Business Systems Analyst](http://latitudegeo.bamboohr.com/jobs/view.php?id=69)
-* [Senior Controller](http://latitudegeo.bamboohr.com/jobs/view.php?id=77)
 * [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
 * [Unsolicited/General Applications](https://latitudegeo.bamboohr.com/jobs/view.php?id=22)
 
