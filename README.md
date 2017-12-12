@@ -160,12 +160,10 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Support Specialist](http://www.monetizemore.com/about-monetizemore/careers/)
 * [Senior UX/UI Designer](http://www.monetizemore.com/about-monetizemore/careers/)
 * [Data Entry Administrator](http://www.monetizemore.com/about-monetizemore/careers/)
-* [Solutions Engineer](http://www.monetizemore.com/about-monetizemore/careers/)
 * [Ad Tech Engineer](http://www.monetizemore.com/about-monetizemore/careers/)
 
 #### [One Net Marketing](http://onenetmarketing.com)
 * [Production Designer](https://www.onenetmarketing.com/careers/production-designer)
-* [Art Director](https://www.onenetmarketing.com/careers/art-director)
 * [Full Stack Web Developer](https://www.onenetmarketing.com/careers/full-stack-web-developer)
 * [Interface Designer](https://www.onenetmarketing.com/careers/ux-designer)
 
@@ -179,12 +177,12 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Pixel Union](https://pixelunion.net/)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Intermediate Software Developer](https://plurilock.breezy.hr/p/e5abd6705955-intermediate-software-developer)
+* [Integration Engineer](https://plurilock.breezy.hr/p/e5abd6705955-intermediate-software-developer)
+* [Junior Software Developer - Co-op](https://plurilock.breezy.hr/p/e5abd6705955-intermediate-software-developer)
 
 #### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Business Development Manager](https://rdbrck.bamboohr.com/jobs/view.php?id=9)
 * [Full Stack Developer (Intermediate)](https://rdbrck.bamboohr.com/jobs/view.php?id=5)
 * [Web Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=10)
 
