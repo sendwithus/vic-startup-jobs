@@ -190,16 +190,15 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Back End Developer](http://www.referralsaasquatch.com/careers/)
 * [Front End Developer](http://www.referralsaasquatch.com/careers/)
 * [Full Stack Developer](http://www.referralsaasquatch.com/careers/)
-* [Operations Manager](http://www.referralsaasquatch.com/careers/)
 
 #### [RevenueWire](https://www.revenuewire.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Sales Executive](https://www.revenuewire.com/careers/#tab-2)
-* [Fraud Analyst](http://www.revenuewire.com/careers/)
+* [Sales Executive](https://www.revenuewire.com/careers/)
+* [PHP Platform Developer](http://www.revenuewire.com/careers/)
+* [Customer Support Specialist Contract](http://www.revenuewire.com/careers/)
 
 #### [RingPartner](http://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Account Manager](https://ringpartner.bamboohr.com/jobs/view.php?id=10)
 * [Business Development Manager](https://ringpartner.bamboohr.com/jobs/view.php?id=9)
-* [Compliance Assistant Co-op - Winter Term](https://ringpartner.bamboohr.com/jobs/view.php?id=12)
 
 #### [Rooof](http://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Software Engineering Manager](https://rooof.bamboohr.com/jobs/view.php?id=22)
@@ -234,12 +233,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Junior Developer](https://stembolt.com/careers/junior-developer/)
 * [Intermediate/Senior Developer](https://stembolt.com/careers/intermediate-or-senior-developer/)
 * [Senior Solidus Developer](https://stembolt.com/careers/senior-solidus-developer/)
-* [Web Designer](https://stembolt.com/careers/web-designer)
 
 #### [Stocksy United](https://www.stocksy.com/)
 * [Junior IT Administrator](https://www.stocksy.com/service/hiring)
-* [Office Manager](https://www.stocksy.com/service/hiring)
-* [Graphic Designer](https://www.stocksy.com/service/hiring)
 * [Developer](https://www.stocksy.com/service/hiring)
 
 #### [Tapstream](https://tapstream.com/)
@@ -259,12 +255,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ViVitro Labs](http://vivitrolabs.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
-* [Operations Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Operations-Engineer_JR-22043-1)
-* [Android Developer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Android-Developer_JR-22041-1)
 * [iOS Software Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/iOS-Software-Engineer_JR-21817-1)
-* [Product Specialist](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Outbound-Product-Manager_JR-21130)
-* [QA Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/QA-Engineer_JR-21944)
-* [Product Manager](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Product-Manager_JR-21222)
 * [Senior Product Manager](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Senior-Product-Manager_JR-20144)
 
 #### [Zynga Canada](https://www.zynga.com/)
