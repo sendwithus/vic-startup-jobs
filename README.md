@@ -43,7 +43,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
 
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
-* [Developer Advocate](http://career.bambora.com/jobs/62515-developer-advocate)
+* [Full-Stack Developer](http://career.bambora.com/jobs/68609-full-stack-developer)
 * [Customer Champion](http://career.bambora.com/jobs/59247-customer-champion)
 * [Customer Champion (Bilingual)](http://career.bambora.com/jobs/57781-customer-champion-bilingual)
 
