@@ -201,7 +201,10 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Business Development Manager](https://ringpartner.bamboohr.com/jobs/view.php?id=9)
 
 #### [Rooof](http://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
-* [Software Engineering Manager](https://rooof.bamboohr.com/jobs/view.php?id=22)
+* [Director of Engineering](https://rooof.bamboohr.com/jobs/view.php?id=22)
+* [Support and Account Manager](https://rooof.bamboohr.com/jobs/view.php?id=30)
+* [Mapping and Support Engineer](https://rooof.bamboohr.com/jobs/view.php?id=31)
+* [Software Engineer (JavaScript)](https://rooof.bamboohr.com/jobs/view.php?id=32)
 
 #### [Ruboss](http://ruboss.com/)
 
