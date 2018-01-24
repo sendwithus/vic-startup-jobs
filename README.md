@@ -123,9 +123,11 @@ Keep in mind that companies may have job postings on their own site that are not
 * [UX Specialist](http://itgroove.net/about/work-with-us/job-opportunity-ux-specialist/)
 
 #### [Kano Apps](http://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Game UX/UI Designer](https://kanoapps.bamboohr.com/jobs/view.php?id=28)
+* [Digital Product Designer](https://kanoapps.bamboohr.com/jobs/view.php?id=28)
 * [Lead Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=31)
 * [Software Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=32)
+* [Ops Lead](https://kanoapps.bamboohr.com/jobs/view.php?id=35)
+* [Customer Success Rep](https://kanoapps.bamboohr.com/jobs/view.php?id=30)
 
 #### [KIXEYE Canada Ltd](http://www.kixeye.com/)
 * [Senior Game Developer](https://jobs.jobvite.com/kixeye/job/oMaZ5fwK)
