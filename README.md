@@ -91,12 +91,15 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Web Developer](http://www.flytographer.com/jobs)
 
 #### [Freshworks Studio](https://freshworks.io/)
-* [Account Executive](https://freshworks.io/account-executive/)
-* [Intermediate Android Developer](https://freshworks.io/intermediate-ios-developer-1/)
-* [Intermediate Full Stack Developer](https://freshworks.io/intermediate-full-stack-developer/)
 * [Intermediate iOS Developer](https://freshworks.io/intermediate-ios-developer/)
+* [Intermediate Android Developer](https://freshworks.io/intermediate-android-developer/)
+* [Hybrid Mobile Developer](https://freshworks.io/hybrid-mobile-developer/)
+* [Intermediate Backend Developer](https://freshworks.io/backend-developer/)
+* [Intermediate Frontend Developer](https://freshworks.io/frontend-developer/)
 * [Senior Software Engineer](https://freshworks.io/senior-software-engineer/)
-* [Technical Product Manager](https://freshworks.io/technical-project-manager/)
+* [UI/UX Designer](https://freshworks.io/uiux-designer/)
+* [Intermediate Business Analyst](https://freshworks.io/business-analyst/)
+* [Technical Project Manager](https://freshworks.io/project-manager/)
 
 #### [FuturePet](https://www.futurepet.care/)
 
@@ -166,7 +169,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Ad Tech Engineer](http://www.monetizemore.com/about-monetizemore/careers/)
 
 #### [One Net Marketing](http://onenetmarketing.com)
-* [Production Designer](https://www.onenetmarketing.com/careers/production-designer)
 * [Full Stack Web Developer](https://www.onenetmarketing.com/careers/full-stack-web-developer)
 * [Interface Designer](https://www.onenetmarketing.com/careers/ux-designer)
 
@@ -221,8 +223,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Sendwithus](https://www.sendwithus.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Field Marketing](https://www.sendwithus.com/careers/24f6acc9-5e2f-4721-9018-619a7bc4d7a0)
-* [Marketing Manager](https://www.sendwithus.com/careers/c05d0658-83c2-4bb7-acb2-f1a1b1dec65a)
-* [Account Executive](https://www.sendwithus.com/careers/9ff489ad-3783-421e-a0c0-1a937aa14f34)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Customer Support Lead](https://www.sparklit.com/careers/)
