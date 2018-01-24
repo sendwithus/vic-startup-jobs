@@ -189,11 +189,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Developer (Intermediate)](https://rdbrck.bamboohr.com/jobs/view.php?id=5)
 * [Web Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=10)
 
-#### [Referral SaaSquatch](http://www.referralsaasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Back End Developer](http://www.referralsaasquatch.com/careers/)
-* [Front End Developer](http://www.referralsaasquatch.com/careers/)
-* [Full Stack Developer](http://www.referralsaasquatch.com/careers/)
-
 #### [RevenueWire](https://www.revenuewire.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Sales Executive](https://www.revenuewire.com/careers/)
 * [PHP Platform Developer](http://www.revenuewire.com/careers/)
@@ -210,6 +205,12 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Software Engineer (JavaScript)](https://rooof.bamboohr.com/jobs/view.php?id=32)
 
 #### [Ruboss](http://ruboss.com/)
+
+#### [SaaSquatch](http://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Lead UX/UI Designer](https://www.saasquatch.com/careers/)
+* [Back End Developer](https://www.saasquatch.com/careers/)
+* [Front End Developer](https://www.saasquatch.com/careers/)
+* [Full Stack Developer](https://www.saasquatch.com/careers/)
 
 #### [SeafoodX](https://www.seafoodx.io/) (👩‍💻 Co-Op / Intern Friendly)
 
