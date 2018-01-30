@@ -230,6 +230,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Stocksy United](https://www.stocksy.com/)
 * [Junior IT Administrator](https://www.stocksy.com/service/hiring)
 * [Developer](https://www.stocksy.com/service/hiring)
+* [Creative Researcher](https://www.stocksy.com/service/hiring)
 
 #### [Tapstream](https://tapstream.com/)
 
