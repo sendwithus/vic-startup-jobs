@@ -126,11 +126,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Success Rep](https://kanoapps.bamboohr.com/jobs/view.php?id=30)
 
 #### [KIXEYE Canada Ltd](http://www.kixeye.com/)
-* [Senior Game Developer](https://jobs.jobvite.com/kixeye/job/oMaZ5fwK)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
-* [Unsolicited/General Applications](https://latitudegeo.bamboohr.com/jobs/view.php?id=22)
 
 #### [Leap XD](https://www.leapxd.com)
 * [Senior Front-End Developer](https://www.leapxd.com/senior-front-end-web-developer/)
