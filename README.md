@@ -145,7 +145,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Design Lead](https://boards.greenhouse.io/metalab/jobs/686744)
 * [Product Designer](https://boards.greenhouse.io/metalab/jobs/255316)
 * [Senior iOS Developer](https://boards.greenhouse.io/metalab/jobs/822091)
-* [Technical Producer](https://boards.greenhouse.io/metalab/jobs/804145)
 
 #### [Momentum Dashboard](http://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Front-End Developer](http://momentumdash.com/careers/)
