@@ -154,7 +154,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Ad Optimization Expert](http://www.monetizemore.com/about-monetizemore/careers/)
 * [Web Developer](http://www.monetizemore.com/about-monetizemore/careers/web-developer-jobs/)
 * [Support Specialist](http://www.monetizemore.com/about-monetizemore/careers/)
-* [Senior UX/UI Designer](http://www.monetizemore.com/about-monetizemore/careers/)
 * [Data Entry Administrator](http://www.monetizemore.com/about-monetizemore/careers/)
 * [Ad Tech Engineer](http://www.monetizemore.com/about-monetizemore/careers/)
 
