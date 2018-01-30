@@ -171,19 +171,17 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Pixel Union](https://pixelunion.net/)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Integration Engineer](https://plurilock.breezy.hr/p/052a5a0be1fd-integration-engineer)
 * [Junior Software Engineer - Co-op](https://plurilock.breezy.hr/p/1d4d34623a4e-junior-software-engineer-co-op)
 
 #### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Full Stack Developer (Intermediate)](https://rdbrck.bamboohr.com/jobs/view.php?id=5)
-* [Web Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=10)
 
 #### [RevenueWire](https://www.revenuewire.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Sales Executive](https://www.revenuewire.com/careers/)
 * [PHP Platform Developer](http://www.revenuewire.com/careers/)
 * [Customer Support Specialist Contract](http://www.revenuewire.com/careers/)
+* [Senior Marketing Executive](http://www.revenuewire.com/careers/)
 
 #### [RingPartner](http://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Account Manager](https://ringpartner.bamboohr.com/jobs/view.php?id=10)
