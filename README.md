@@ -86,7 +86,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Flow](https://www.getflow.com/)
 
 #### [Flytographer](http://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Full Stack Web Developer](http://www.flytographer.com/jobs)
 
 #### [Freshworks Studio](https://freshworks.io/)
 * [Intermediate iOS Developer](https://freshworks.io/intermediate-ios-developer/)
