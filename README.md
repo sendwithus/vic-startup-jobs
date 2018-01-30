@@ -184,19 +184,19 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Marketing Executive](http://www.revenuewire.com/careers/)
 
 #### [RingPartner](http://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Account Manager](https://ringpartner.bamboohr.com/jobs/view.php?id=10)
-* [Business Development Manager](https://ringpartner.bamboohr.com/jobs/view.php?id=9)
 
 #### [Rooof](http://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Director of Engineering](https://rooof.bamboohr.com/jobs/view.php?id=22)
-* [Support and Account Manager](https://rooof.bamboohr.com/jobs/view.php?id=30)
 * [Mapping and Support Engineer](https://rooof.bamboohr.com/jobs/view.php?id=31)
 * [Software Engineer (JavaScript)](https://rooof.bamboohr.com/jobs/view.php?id=32)
+* [Marketing Manager](https://rooof.bamboohr.com/jobs/view.php?id=33)
+* [Office Assistant](https://rooof.bamboohr.com/jobs/view.php?id=34)
+* [Trainign Coordinator](https://rooof.bamboohr.com/jobs/view.php?id=36)
 
 #### [Ruboss](http://ruboss.com/)
 
 #### [SaaSquatch](http://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Lead UX/UI Designer](https://www.saasquatch.com/careers/)
+* [Head UX/UI Designer](https://www.saasquatch.com/careers/)
 * [Back End Developer](https://www.saasquatch.com/careers/)
 * [Front End Developer](https://www.saasquatch.com/careers/)
 * [Full Stack Developer](https://www.saasquatch.com/careers/)
