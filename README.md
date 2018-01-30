@@ -238,8 +238,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Inside Sales Representative](https://www.telmediq.com/careers/inside-sales-representitive/)
 * [Marketing Coordinator](https://www.telmediq.com/careers/marketing-coordinator)
 
-#### [TinyMob Games](http://tinymobgames.com/)
-
 #### [Tutela](http://tutelatechnologies.com/)
 * [Software Developer Co-op](http://www.tutela.com/careers)
 * [Dev & Systems Operations Administrator](http://www.tutela.com/careers)
@@ -250,13 +248,9 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
 * [iOS Software Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/iOS-Software-Engineer_JR-21817-1)
-* [Senior Product Manager](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Senior-Product-Manager_JR-20144)
-* [Product Manager](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Product-Manager_JR-22914-1)
 * [Product Strategist](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Product-Strategist_JR-22822-1)
-* [QA Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/QA-Engineer_JR-22535-1)
 * [iOS Software Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/iOS-Software-Engineer_JR-21817-1)
 * [Android Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Android-Developer_JR-22643)
-* [Operations Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Operations-Engineer_JR-22573-1)
 
 #### [Zynga Canada](https://www.zynga.com/)
 
