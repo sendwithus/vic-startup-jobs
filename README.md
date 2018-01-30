@@ -54,7 +54,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=2)
-* [Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=3)
 * [Copywriter](https://checkfront.bamboohr.com/jobs/view.php?id=14)
 * [Sales Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=13)
 
