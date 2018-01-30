@@ -104,8 +104,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Go2mobi](http://www.go2mobi.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Media Buyer](https://jobs.alongside.com/details/media-buyer/21105)
-* [Sales Lead Generator](https://jobs.alongside.com/details/sales-lead-generator-mobile-advertising/120482)
-* [Intermediate Dev Ops Engineer](https://jobs.alongside.com/details/intermediate-dev-ops-engineer/726823)
 
 #### [Hipwood Digital](http://www.hipwooddigital.com/)
 
