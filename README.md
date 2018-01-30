@@ -91,11 +91,15 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Web Developer](http://www.flytographer.com/jobs)
 
 #### [Freshworks Studio](https://freshworks.io/)
-* [Account Executive](https://freshworks.io/account-executive/)
-* [Intermediate Full Stack Developer](https://freshworks.io/intermediate-full-stack-developer/)
 * [Intermediate iOS Developer](https://freshworks.io/intermediate-ios-developer/)
+* [Intermediate Android Developer](https://freshworks.io/intermediate-android-developer/)
+* [Hybrid Mobile Developer](https://freshworks.io/hybrid-mobile-developer/)
+* [Intermediate Backend Developer](https://freshworks.io/backend-developer/)
+* [Intermediate Frontend Developer](https://freshworks.io/frontend-developer/)
 * [Senior Software Engineer](https://freshworks.io/senior-software-engineer/)
-* [Technical Product Manager](https://freshworks.io/technical-project-manager/)
+* [UI/UX Designer](https://freshworks.io/uiux-designer/)
+* [Intermediate Business Analyst](https://freshworks.io/business-analyst/)
+* [Technical Project Manager](https://freshworks.io/project-manager/)
 
 #### [FuturePet](https://www.futurepet.care/)
 
@@ -122,9 +126,11 @@ Keep in mind that companies may have job postings on their own site that are not
 * [UX Specialist](http://itgroove.net/about/work-with-us/job-opportunity-ux-specialist/)
 
 #### [Kano Apps](http://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Game UX/UI Designer](https://kanoapps.bamboohr.com/jobs/view.php?id=28)
+* [Digital Product Designer](https://kanoapps.bamboohr.com/jobs/view.php?id=28)
 * [Lead Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=31)
 * [Software Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=32)
+* [Ops Lead](https://kanoapps.bamboohr.com/jobs/view.php?id=35)
+* [Customer Success Rep](https://kanoapps.bamboohr.com/jobs/view.php?id=30)
 
 #### [KIXEYE Canada Ltd](http://www.kixeye.com/)
 * [Senior Game Developer](https://jobs.jobvite.com/kixeye/job/oMaZ5fwK)
@@ -163,7 +169,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Ad Tech Engineer](http://www.monetizemore.com/about-monetizemore/careers/)
 
 #### [One Net Marketing](http://onenetmarketing.com)
-* [Production Designer](https://www.onenetmarketing.com/careers/production-designer)
 * [Full Stack Web Developer](https://www.onenetmarketing.com/careers/full-stack-web-developer)
 * [Interface Designer](https://www.onenetmarketing.com/careers/ux-designer)
 
@@ -186,11 +191,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Developer (Intermediate)](https://rdbrck.bamboohr.com/jobs/view.php?id=5)
 * [Web Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=10)
 
-#### [Referral SaaSquatch](http://www.referralsaasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Back End Developer](http://www.referralsaasquatch.com/careers/)
-* [Front End Developer](http://www.referralsaasquatch.com/careers/)
-* [Full Stack Developer](http://www.referralsaasquatch.com/careers/)
-
 #### [RevenueWire](https://www.revenuewire.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Sales Executive](https://www.revenuewire.com/careers/)
 * [PHP Platform Developer](http://www.revenuewire.com/careers/)
@@ -208,6 +208,12 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Ruboss](http://ruboss.com/)
 
+#### [SaaSquatch](http://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Lead UX/UI Designer](https://www.saasquatch.com/careers/)
+* [Back End Developer](https://www.saasquatch.com/careers/)
+* [Front End Developer](https://www.saasquatch.com/careers/)
+* [Full Stack Developer](https://www.saasquatch.com/careers/)
+
 #### [SeafoodX](https://www.seafoodx.io/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Semaphore](http://semaphoresolutions.com/)
@@ -217,9 +223,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Sendwithus](https://www.sendwithus.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Field Marketing](https://www.sendwithus.com/careers/24f6acc9-5e2f-4721-9018-619a7bc4d7a0)
-* [Marketing Manager](https://www.sendwithus.com/careers/c05d0658-83c2-4bb7-acb2-f1a1b1dec65a)
-* [Platform Infrastructure Developer](https://www.sendwithus.com/careers/eb44f0d1-053b-4d77-bdef-2bd3c8209e35)
-* [Account Executive](https://www.sendwithus.com/careers/9ff489ad-3783-421e-a0c0-1a937aa14f34)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Customer Support Lead](https://www.sparklit.com/careers/)
@@ -260,6 +263,12 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
 * [iOS Software Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/iOS-Software-Engineer_JR-21817-1)
 * [Senior Product Manager](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Senior-Product-Manager_JR-20144)
+* [Product Manager](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Product-Manager_JR-22914-1)
+* [Product Strategist](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Product-Strategist_JR-22822-1)
+* [QA Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/QA-Engineer_JR-22535-1)
+* [iOS Software Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/iOS-Software-Engineer_JR-21817-1)
+* [Android Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Android-Developer_JR-22643)
+* [Operations Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Operations-Engineer_JR-22573-1)
 
 #### [Zynga Canada](https://www.zynga.com/)
 
