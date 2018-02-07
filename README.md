@@ -53,7 +53,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ChatterBlock](https://www.chatterblock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
+* [Customer Success Advocate](https://checkfront.bamboohr.com/jobs/view.php?id=26)
 * [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=2)
+* [Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=24)
 * [Copywriter](https://checkfront.bamboohr.com/jobs/view.php?id=14)
 * [Sales Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=13)
 
