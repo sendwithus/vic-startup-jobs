@@ -56,7 +56,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Success Advocate](https://checkfront.bamboohr.com/jobs/view.php?id=26)
 * [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=2)
 * [Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=24)
-* [Copywriter](https://checkfront.bamboohr.com/jobs/view.php?id=14)
 * [Sales Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=13)
 
 #### [Clixxa](https://www.clixxa.com/) (👩‍💻 Co-Op / Intern Friendly)
@@ -96,9 +95,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Intermediate Backend Developer](https://freshworks.io/backend-developer/)
 * [Intermediate Frontend Developer](https://freshworks.io/frontend-developer/)
 * [Senior Software Engineer](https://freshworks.io/senior-software-engineer/)
-* [UI/UX Designer](https://freshworks.io/uiux-designer/)
 * [Intermediate Business Analyst](https://freshworks.io/business-analyst/)
-* [Technical Project Manager](https://freshworks.io/project-manager/)
 
 #### [FuturePet](https://www.futurepet.care/)
 
@@ -146,14 +143,13 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [MetaLab](http://metalab.co/) (👩‍💻 Co-Op / Intern Friendly)
 * [Design Lead](https://boards.greenhouse.io/metalab/jobs/686744)
 * [Product Designer](https://boards.greenhouse.io/metalab/jobs/255316)
-* [Senior iOS Developer](https://boards.greenhouse.io/metalab/jobs/822091)
 
 #### [Momentum Dashboard](http://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Front-End Developer](http://momentumdash.com/careers/)
 * [Full Stack Developer](http://momentumdash.com/careers/)
 
 #### [MonetizeMore](http://www.monetizemore.com/)
-* [Ad Optimization Expert](http://www.monetizemore.com/about-monetizemore/careers/)
+* [Ad Optimization Expert](http://monetizem.applytojob.com/apply/LKJ8Pj/Ad-Optimizer)
 * [Web Developer](http://www.monetizemore.com/about-monetizemore/careers/web-developer-jobs/)
 * [Support Specialist](http://www.monetizemore.com/about-monetizemore/careers/)
 * [Data Entry Administrator](http://www.monetizemore.com/about-monetizemore/careers/)
@@ -161,7 +157,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [One Net Marketing](http://onenetmarketing.com)
 * [Full Stack Web Developer](https://www.onenetmarketing.com/careers/full-stack-web-developer)
-* [Interface Designer](https://www.onenetmarketing.com/careers/ux-designer)
 
 #### [Onebit Labs](http://onebitlabs.com/)
 
@@ -192,8 +187,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Mapping and Support Engineer](https://rooof.bamboohr.com/jobs/view.php?id=31)
 * [Software Engineer (JavaScript)](https://rooof.bamboohr.com/jobs/view.php?id=32)
 * [Marketing Manager](https://rooof.bamboohr.com/jobs/view.php?id=33)
-* [Office Assistant](https://rooof.bamboohr.com/jobs/view.php?id=34)
-* [Trainign Coordinator](https://rooof.bamboohr.com/jobs/view.php?id=36)
+* [Training Coordinator](https://rooof.bamboohr.com/jobs/view.php?id=36)
 
 #### [Ruboss](http://ruboss.com/)
 
@@ -230,9 +224,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Solidus Developer](https://stembolt.com/careers/senior-solidus-developer/)
 
 #### [Stocksy United](https://www.stocksy.com/)
-* [Junior IT Administrator](https://www.stocksy.com/service/hiring)
-* [Developer](https://www.stocksy.com/service/hiring)
 * [Creative Researcher](https://www.stocksy.com/service/hiring)
+* [Front End Developer](https://www.stocksy.com/service/hiring)
+* [Sales Lead](https://www.stocksy.com/service/hiring)
 
 #### [Tapstream](https://tapstream.com/)
 
@@ -250,9 +244,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
 * [iOS Software Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/iOS-Software-Engineer_JR-21817-1)
-* [Product Strategist](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Product-Strategist_JR-22822-1)
-* [iOS Software Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/iOS-Software-Engineer_JR-21817-1)
-* [Android Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Android-Developer_JR-22643)
 
 #### [Zynga Canada](https://www.zynga.com/)
 
