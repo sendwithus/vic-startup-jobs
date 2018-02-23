@@ -208,9 +208,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Field Marketing](https://www.sendwithus.com/careers/24f6acc9-5e2f-4721-9018-619a7bc4d7a0)
 
 #### [SparkLIT](https://www.sparklit.com/)
-* [Customer Support Lead](https://www.sparklit.com/careers/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
-* [UI/UX Graphic Designer](https://www.sparklit.com/careers/#graphic-designer)
 
 #### [SilkStart](http://silkstart.com/about/)
 * [Intermediate Python Developer](https://silkstart.com/careers/)
