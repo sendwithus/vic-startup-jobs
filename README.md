@@ -14,6 +14,12 @@ Click the link for more info about each job posting, including how to apply. Mos
 ### How to Post?
 Posting is easy and free, simply fork this repo and submit a pull request adding/updating your job posting. Avoid generic "call for resumes" and prefer specific job postings. If you have questions, need help, or want us to update the list for you, please email jobs@sendwithus.com.
 
+Note that there is a CI hook that runs after PR creation that checks for any 404s links on this page. You can run it manually prior to pushing:
+```
+python link_checker/check.py
+```
+Running it before pushing up to Github allows you to remove broken job links from the list in addition to updating your own job postings.
+
 ### Who can post?
 Tech startups with offices in Victoria BC.
 
@@ -92,10 +98,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Intermediate iOS Developer](https://freshworks.io/intermediate-ios-developer/)
 * [Intermediate Android Developer](https://freshworks.io/intermediate-android-developer/)
 * [Hybrid Mobile Developer](https://freshworks.io/hybrid-mobile-developer/)
-* [Intermediate Backend Developer](https://freshworks.io/backend-developer/)
-* [Intermediate Frontend Developer](https://freshworks.io/frontend-developer/)
-* [Senior Software Engineer](https://freshworks.io/senior-software-engineer/)
-* [Intermediate Business Analyst](https://freshworks.io/business-analyst/)
 
 #### [FuturePet](https://www.futurepet.care/)
 
@@ -208,9 +210,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Field Marketing](https://www.sendwithus.com/careers/24f6acc9-5e2f-4721-9018-619a7bc4d7a0)
 
 #### [SparkLIT](https://www.sparklit.com/)
-* [Customer Support Lead](https://www.sparklit.com/careers/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
-* [UI/UX Graphic Designer](https://www.sparklit.com/careers/#graphic-designer)
 
 #### [SilkStart](http://silkstart.com/about/)
 * [Intermediate Python Developer](https://silkstart.com/careers/)
