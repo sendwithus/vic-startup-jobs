@@ -79,6 +79,10 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
 
+#### [EncoreFX](https://www.encorefx.com/)
+* [C+ / .NET developer](https://ca.indeed.com/m/viewjob?jk=c0689671d4adb814&advn=5634633763517973&from=serp&dest=http%3A%2F%2Fca.indeed.com%2Fjob%2Fsoftware-developer-cnet-c0689671d4adb814&desth=7b685ee5efb152d7d2d9bef58c536b8c&prevUrl=https%3A%2F%2Fca.indeed.com%2Fm%2Fjobs%3Fq%3DC%2523%2BDeveloper%26l%3DVictoria%252C%2BBC&tk=1c6l9c4hq1fcd2u1&dupclk=1&acatk=1c6l9co3m1d5b4ub&pub=6917c08ec3ecf6012dd26f3773156e870cace3277f6b99df)
+* [QA Engineer](https://ca.indeed.com/m/viewjob?jk=18d255d4845e2f55&advn=5634633763517973&from=serp&dest=http%3A%2F%2Fca.indeed.com%2Fjob%2Fqa-engineer-18d255d4845e2f55&desth=83da8166067a61f1e9e43d9dc32f6ed7&prevUrl=https%3A%2F%2Fca.indeed.com%2Fm%2Fjobs%3Fq%3DQuality%2BAssurance%26l%3DVictoria%252C%2BBC&tk=1c6l9nhl91fcc79k&dupclk=1&acatk=1c6l9nu6f1d5b57q&pub=6917c08ec3ecf6012dd26f3773156e870cace3277f6b99df)
+
 #### [Exapik](http://www.exapik.com/)
 * [JavaScript Software Engineer (co-op/part time)](http://www.exapik.com/careers/javascript-software-engineer/)
 
