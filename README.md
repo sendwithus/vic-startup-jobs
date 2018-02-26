@@ -49,7 +49,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
 
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
-* [Full-Stack Developer](http://career.bambora.com/jobs/68609-full-stack-developer)
 * [Customer Champion](http://career.bambora.com/jobs/59247-customer-champion)
 * [Customer Champion (Bilingual)](http://career.bambora.com/jobs/57781-customer-champion-bilingual)
 
@@ -75,7 +74,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Crowdcontent](https://www.crowdcontent.com/)
 
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
-* [Web Designer](https://dynamic.bamboohr.com/jobs/view.php?id=5)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -156,10 +154,12 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [MonetizeMore](http://www.monetizemore.com/)
 * [Ad Optimization Expert](http://monetizem.applytojob.com/apply/LKJ8Pj/Ad-Optimizer)
-* [Web Developer](http://www.monetizemore.com/about-monetizemore/careers/web-developer-jobs/)
-* [Support Specialist](http://www.monetizemore.com/about-monetizemore/careers/)
-* [Data Entry Administrator](http://www.monetizemore.com/about-monetizemore/careers/)
+* [Remote Web Developer](http://monetizem.applytojob.com/apply/yPcQkE/Remote-Web-Developer)
+* [Data Entry Administrator](http://monetizem.applytojob.com/apply/i9RsUl/Data-Entry-Administrator)
 * [Ad Tech Engineer](http://www.monetizemore.com/about-monetizemore/careers/)
+* [Support Specialist](http://monetizem.applytojob.com/apply/1a1lkv/Support-Specialist)
+* [Finance Analyst](http://monetizem.applytojob.com/apply/Lq5bkrUun6/Finance-Analyst)
+* [Growth Marketer](http://monetizem.applytojob.com/apply/eqbsjMkDSV/Growth-Marketer)
 
 #### [One Net Marketing](http://onenetmarketing.com)
 * [Full Stack Web Developer](https://www.onenetmarketing.com/careers/full-stack-web-developer)
@@ -182,7 +182,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [RevenueWire](https://www.revenuewire.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Sales Executive](https://www.revenuewire.com/careers/)
-* [PHP Platform Developer](http://www.revenuewire.com/careers/)
+* [Full Stack Developer](http://www.revenuewire.com/careers/)
 * [Customer Support Specialist Contract](http://www.revenuewire.com/careers/)
 * [Senior Marketing Executive](http://www.revenuewire.com/careers/)
 
