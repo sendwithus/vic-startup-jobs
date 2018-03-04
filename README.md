@@ -203,6 +203,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Front End Developer](https://www.saasquatch.com/careers/)
 * [Full Stack Developer](https://www.saasquatch.com/careers/)
 
+#### [Sasquatch Studio](http://www.sasquatchstudio.co/)
+* [Junior Front End Developer](http://sasquatchstudio.co/jobs/)
+
 #### [SeafoodX](https://www.seafoodx.io/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Semaphore](http://semaphoresolutions.com/)
