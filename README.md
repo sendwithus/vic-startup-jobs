@@ -175,6 +175,8 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Junior Software Engineer - Co-op](https://plurilock.breezy.hr/p/1d4d34623a4e-junior-software-engineer-co-op)
+* [Mobile Developer](https://plurilock.breezy.hr/p/e719acce2cf4-mobile-developer)
+* [Research Analyst](https://plurilock.breezy.hr/p/fa1cee9075d0-research-analyst)
 
 #### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
 
