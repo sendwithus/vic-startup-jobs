@@ -108,6 +108,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Go2mobi](http://www.go2mobi.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Media Buyer](https://jobs.alongside.com/details/media-buyer/21105)
+* [DSP Account Operations Manager](https://jobs.alongside.com/details/dsp-account-operations-manager/1124842?utm_source=sharepage&utm_campaign=refer&utm_medium=in-app)
 
 #### [Hipwood Digital](http://www.hipwooddigital.com/)
 
