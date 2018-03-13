@@ -217,7 +217,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior C#/.NET Developer](https://jobs.lever.co/semaphoresolutions/dc81021b-0733-4ce8-8285-d58714f673b5)
 * [Senior Software Developer](https://jobs.lever.co/semaphoresolutions/821e227b-d738-4f51-ab04-41941f2530d8)
 
-#### [SendtoNews](sendtonews.com)
+#### [SendtoNews](http://www.sendtonews.com/)
 * [Ad Operations Coordinator](https://secure.collage.co/jobs/sendtonews/5695)
 
 #### [Sendwithus](https://www.sendwithus.com) (👩‍💻 Co-Op / Intern Friendly)
