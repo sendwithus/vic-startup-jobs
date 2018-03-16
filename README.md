@@ -225,6 +225,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
+* [Intermediate/Senior Front End Developer](https://www.sparklit.com/careers/#front-end)
 
 #### [SilkStart](http://silkstart.com/about/)
 * [Intermediate Python Developer](https://silkstart.com/careers/)
