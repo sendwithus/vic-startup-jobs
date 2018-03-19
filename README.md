@@ -80,7 +80,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [EncoreFX](https://www.encorefx.com/)
 * [C+ / .NET developer](https://ca.indeed.com/m/viewjob?jk=c0689671d4adb814&advn=5634633763517973&from=serp&dest=http%3A%2F%2Fca.indeed.com%2Fjob%2Fsoftware-developer-cnet-c0689671d4adb814&desth=7b685ee5efb152d7d2d9bef58c536b8c&prevUrl=https%3A%2F%2Fca.indeed.com%2Fm%2Fjobs%3Fq%3DC%2523%2BDeveloper%26l%3DVictoria%252C%2BBC&tk=1c6l9c4hq1fcd2u1&dupclk=1&acatk=1c6l9co3m1d5b4ub&pub=6917c08ec3ecf6012dd26f3773156e870cace3277f6b99df)
-* [QA Engineer](https://ca.indeed.com/m/viewjob?jk=18d255d4845e2f55&advn=5634633763517973&from=serp&dest=http%3A%2F%2Fca.indeed.com%2Fjob%2Fqa-engineer-18d255d4845e2f55&desth=83da8166067a61f1e9e43d9dc32f6ed7&prevUrl=https%3A%2F%2Fca.indeed.com%2Fm%2Fjobs%3Fq%3DQuality%2BAssurance%26l%3DVictoria%252C%2BBC&tk=1c6l9nhl91fcc79k&dupclk=1&acatk=1c6l9nu6f1d5b57q&pub=6917c08ec3ecf6012dd26f3773156e870cace3277f6b99df)
 
 #### [Exapik](http://www.exapik.com/)
 * [JavaScript Software Engineer (co-op/part time)](http://www.exapik.com/careers/javascript-software-engineer/)
@@ -91,7 +90,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Web Project Manager](http://www.falcon-software.com/About-Us/Job-Postings/Web-Project-Manager)
 
 #### Fifth Gear Marketing
-* [Senior Web Developer](https://ca.indeed.com/cmp/Fifth-Gear/jobs/Senior-Web-Developer-aa545ba67ec6bd4c?q=web)
 
 #### [Flow](https://www.getflow.com/)
 
@@ -124,11 +122,13 @@ Keep in mind that companies may have job postings on their own site that are not
 * [UX Specialist](http://itgroove.net/about/work-with-us/job-opportunity-ux-specialist/)
 
 #### [Kano Apps](http://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Digital Product Designer](https://kanoapps.bamboohr.com/jobs/view.php?id=28)
+* [Game Artist](https://kanoapps.bamboohr.com/jobs/view.php?id=28)
+* [Product Manager](https://kanoapps.bamboohr.com/jobs/view.php?id=41)
+* [Growth Marketer](https://kanoapps.bamboohr.com/jobs/view.php?id=38)
 * [Lead Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=31)
 * [Software Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=32)
 * [Ops Lead](https://kanoapps.bamboohr.com/jobs/view.php?id=35)
-* [Customer Success Rep](https://kanoapps.bamboohr.com/jobs/view.php?id=30)
+* [Software Developer (Unity)](https://kanoapps.bamboohr.com/jobs/view.php?id=40)
 
 #### [KIXEYE Canada Ltd](http://www.kixeye.com/)
 
@@ -158,7 +158,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Ad Optimization Expert](http://monetizem.applytojob.com/apply/LKJ8Pj/Ad-Optimizer)
 * [Remote Web Developer](http://monetizem.applytojob.com/apply/yPcQkE/Remote-Web-Developer)
 * [Data Entry Administrator](http://monetizem.applytojob.com/apply/i9RsUl/Data-Entry-Administrator)
-* [Ad Tech Engineer](http://www.monetizemore.com/about-monetizemore/careers/)
 * [Support Specialist](http://monetizem.applytojob.com/apply/1a1lkv/Support-Specialist)
 * [Finance Analyst](http://monetizem.applytojob.com/apply/Lq5bkrUun6/Finance-Analyst)
 * [Growth Marketer](http://monetizem.applytojob.com/apply/eqbsjMkDSV/Growth-Marketer)
@@ -189,15 +188,16 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Developer](http://www.revenuewire.com/careers/)
 * [Customer Support Specialist Contract](http://www.revenuewire.com/careers/)
 * [Senior Marketing Executive](http://www.revenuewire.com/careers/)
+* [Account Manager](http://www.revenuewire.com/careers/)
 
 #### [RingPartner](http://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Rooof](http://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Director of Engineering](https://rooof.bamboohr.com/jobs/view.php?id=22)
-* [Mapping and Support Engineer](https://rooof.bamboohr.com/jobs/view.php?id=31)
+* [Support and Account Manager](https://rooof.bamboohr.com/jobs/view.php?id=30)
 * [Software Engineer (JavaScript)](https://rooof.bamboohr.com/jobs/view.php?id=32)
-* [Marketing Manager](https://rooof.bamboohr.com/jobs/view.php?id=33)
-* [Training Coordinator](https://rooof.bamboohr.com/jobs/view.php?id=36)
+* [Client Training Coordinator](https://rooof.bamboohr.com/jobs/view.php?id=36)
+* [Website Parsing Specialist](https://rooof.bamboohr.com/jobs/view.php?id=31)
 
 #### [Ruboss](http://ruboss.com/)
 
@@ -222,6 +222,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Sendwithus](https://www.sendwithus.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Field Marketing](https://www.sendwithus.com/careers/24f6acc9-5e2f-4721-9018-619a7bc4d7a0)
+* [Sales Development Representative (SDR)](https://www.sendwithus.com/careers/01fffefd-3954-4fe8-aea7-310dcc75ff7c)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
@@ -239,9 +240,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Solidus Developer](https://stembolt.com/careers/senior-solidus-developer/)
 
 #### [Stocksy United](https://www.stocksy.com/)
-* [Creative Researcher](https://www.stocksy.com/service/hiring)
-* [Front End Developer](https://www.stocksy.com/service/hiring)
-* [Sales Lead](https://www.stocksy.com/service/hiring)
 
 #### [Tapstream](https://tapstream.com/)
 
@@ -258,7 +256,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ViVitro Labs](http://vivitrolabs.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
-* [iOS Software Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/iOS-Software-Engineer_JR-21817-1)
 
 #### [Zynga Canada](https://www.zynga.com/)
 
