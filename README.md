@@ -55,6 +55,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Benevity](http://www.benevity.com/)
 * [Software Developer, Web](https://benevity.bamboohr.com/jobs/view.php?id=106)
 
+#### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
+* [React & Redux Developer](https://jobbio.com/ca/job/57148/victoria-bc-canada/certn/react-redux-developer)
+
 #### [ChatterBlock](https://www.chatterblock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
