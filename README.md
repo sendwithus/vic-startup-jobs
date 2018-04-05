@@ -52,6 +52,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Champion](http://career.bambora.com/jobs/59247-customer-champion)
 * [Customer Champion (Bilingual)](http://career.bambora.com/jobs/57781-customer-champion-bilingual)
 
+#### [Barnacle Systems](http://www.brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
+* [Software Developer Intern](https://work-with-us.github.io/)
+
 #### [Benevity](http://www.benevity.com/)
 * [Software Developer, Web](https://benevity.bamboohr.com/jobs/view.php?id=106)
 
