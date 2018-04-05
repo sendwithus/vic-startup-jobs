@@ -101,11 +101,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Flytographer](http://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
 
-#### [Freshworks Studio](https://freshworks.io/)
-* [Intermediate iOS Developer](https://freshworks.io/intermediate-ios-developer/)
-* [Intermediate Android Developer](https://freshworks.io/intermediate-android-developer/)
-* [Hybrid Mobile Developer](https://freshworks.io/hybrid-mobile-developer/)
-
 #### [FuturePet](https://www.futurepet.care/)
 
 #### [Giftbit](http://www.giftbit.com/) (👩‍💻 Co-Op / Intern Friendly)
@@ -227,7 +222,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Ad Operations Coordinator](https://secure.collage.co/jobs/sendtonews/5695)
 
 #### [Sendwithus](https://www.sendwithus.com) (👩‍💻 Co-Op / Intern Friendly)
-* [Field Marketing](https://www.sendwithus.com/careers/24f6acc9-5e2f-4721-9018-619a7bc4d7a0)
 * [Sales Development Representative (SDR)](https://www.sendwithus.com/careers/01fffefd-3954-4fe8-aea7-310dcc75ff7c)
 
 #### [SparkLIT](https://www.sparklit.com/)
