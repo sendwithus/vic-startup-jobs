@@ -52,6 +52,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Champion](http://career.bambora.com/jobs/59247-customer-champion)
 * [Customer Champion (Bilingual)](http://career.bambora.com/jobs/57781-customer-champion-bilingual)
 
+#### [Barnacle Systems](http://www.brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
+* [Software Developer Intern](https://work-with-us.github.io/)
+
 #### [Benevity](http://www.benevity.com/)
 * [Software Developer, Web](https://benevity.bamboohr.com/jobs/view.php?id=106)
 
@@ -99,9 +102,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Flytographer](http://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Freshworks Studio](https://freshworks.io/)
-* [Intermediate iOS Developer](https://freshworks.io/intermediate-ios-developer/)
-* [Intermediate Android Developer](https://freshworks.io/intermediate-android-developer/)
-* [Hybrid Mobile Developer](https://freshworks.io/hybrid-mobile-developer/)
 
 #### [FuturePet](https://www.futurepet.care/)
 
@@ -224,7 +224,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Ad Operations Coordinator](https://secure.collage.co/jobs/sendtonews/5695)
 
 #### [Sendwithus](https://www.sendwithus.com) (👩‍💻 Co-Op / Intern Friendly)
-* [Field Marketing](https://www.sendwithus.com/careers/24f6acc9-5e2f-4721-9018-619a7bc4d7a0)
 * [Sales Development Representative (SDR)](https://www.sendwithus.com/careers/01fffefd-3954-4fe8-aea7-310dcc75ff7c)
 
 #### [SparkLIT](https://www.sparklit.com/)
