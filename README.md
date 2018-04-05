@@ -101,6 +101,8 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Flytographer](http://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
 
+#### [Freshworks Studio](https://freshworks.io/)
+
 #### [FuturePet](https://www.futurepet.care/)
 
 #### [Giftbit](http://www.giftbit.com/) (👩‍💻 Co-Op / Intern Friendly)
