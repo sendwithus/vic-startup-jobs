@@ -64,8 +64,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ChatterBlock](https://www.chatterblock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Customer Success Advocate](https://checkfront.bamboohr.com/jobs/view.php?id=26)
 * [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=2)
+* [Senior Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=28)
 * [Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=24)
 * [Sales Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=13)
 
@@ -109,7 +109,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Go2mobi](http://www.go2mobi.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Media Buyer](https://jobs.alongside.com/details/media-buyer/21105)
-* [DSP Account Operations Manager](https://jobs.alongside.com/details/dsp-account-operations-manager/1124842?utm_source=sharepage&utm_campaign=refer&utm_medium=in-app)
 
 #### [Hipwood Digital](http://www.hipwooddigital.com/)
 
@@ -125,7 +124,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [UX Specialist](http://itgroove.net/about/work-with-us/job-opportunity-ux-specialist/)
 
 #### [Kano Apps](http://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Game Artist](https://kanoapps.bamboohr.com/jobs/view.php?id=28)
+* [Game Artist](https://kanoapps.bamboohr.com/jobs/view.php?id=39)
 * [Product Manager](https://kanoapps.bamboohr.com/jobs/view.php?id=41)
 * [Growth Marketer](https://kanoapps.bamboohr.com/jobs/view.php?id=38)
 * [Lead Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=31)
@@ -162,7 +161,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Remote Web Developer](http://monetizem.applytojob.com/apply/yPcQkE/Remote-Web-Developer)
 * [Data Entry Administrator](http://monetizem.applytojob.com/apply/i9RsUl/Data-Entry-Administrator)
 * [Support Specialist](http://monetizem.applytojob.com/apply/1a1lkv/Support-Specialist)
-* [Finance Analyst](http://monetizem.applytojob.com/apply/Lq5bkrUun6/Finance-Analyst)
 * [Growth Marketer](http://monetizem.applytojob.com/apply/eqbsjMkDSV/Growth-Marketer)
 
 #### [One Net Marketing](http://onenetmarketing.com)
@@ -187,11 +185,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [RevenueWire](https://www.revenuewire.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Sales Executive](https://www.revenuewire.com/careers/)
-* [Full Stack Developer](http://www.revenuewire.com/careers/)
-* [Customer Support Specialist Contract](http://www.revenuewire.com/careers/)
-* [Senior Marketing Executive](http://www.revenuewire.com/careers/)
-* [Account Manager](http://www.revenuewire.com/careers/)
 
 #### [RingPartner](http://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -199,8 +192,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Director of Engineering](https://rooof.bamboohr.com/jobs/view.php?id=22)
 * [Support and Account Manager](https://rooof.bamboohr.com/jobs/view.php?id=30)
 * [Software Engineer (JavaScript)](https://rooof.bamboohr.com/jobs/view.php?id=32)
-* [Client Training Coordinator](https://rooof.bamboohr.com/jobs/view.php?id=36)
 * [Website Parsing Specialist](https://rooof.bamboohr.com/jobs/view.php?id=31)
+* [Software Developer](https://rooof.bamboohr.com/jobs/view.php?id=40)
 
 #### [Ruboss](http://ruboss.com/)
 
