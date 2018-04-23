@@ -119,7 +119,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Data Engineer](https://jobs.smartrecruiters.com/INgroovesMusicGroup/743999661351974-data-engineer)
 * [Data Scientist](https://jobs.smartrecruiters.com/INgroovesMusicGroup/743999661351703-data-scientist)
 
-#### [itGroove](http://itgroove.net/) (👩‍💻 Co-Op / Intern Friendly)
+#### [itgroove](http://itgroove.net/) (👩‍💻 Co-Op / Intern Friendly)
 * [Web Applications Developer, Back End Specialist](http://itgroove.net/about/work-with-us/job-opportunity-web-apps-developer-back-end/)
 * [UX Specialist](http://itgroove.net/about/work-with-us/job-opportunity-ux-specialist/)
 
