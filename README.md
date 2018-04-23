@@ -60,6 +60,8 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
 * [React & Redux Developer](https://jobbio.com/ca/job/57148/victoria-bc-canada/certn/react-redux-developer)
+* [UX & UI Designer](https://jobbio.com/ca/job/62336/victoria-bc-canada/certn/ux-ui-designer)
+* [Junior Python Developer](https://jobbio.com/ca/job/62335/victoria-bc-canada/certn/junior-python-developer)
 
 #### [ChatterBlock](https://www.chatterblock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
