@@ -49,14 +49,11 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
 
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
-* [Customer Champion](http://career.bambora.com/jobs/59247-customer-champion)
-* [Customer Champion (Bilingual)](http://career.bambora.com/jobs/57781-customer-champion-bilingual)
 
 #### [Barnacle Systems](http://www.brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Software Developer Intern](https://work-with-us.github.io/)
 
 #### [Benevity](http://www.benevity.com/)
-* [Software Developer, Web](https://benevity.bamboohr.com/jobs/view.php?id=106)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
 * [React & Redux Developer](https://jobbio.com/ca/job/57148/victoria-bc-canada/certn/react-redux-developer)
@@ -67,8 +64,9 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=2)
-* [Senior Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=28)
+* [QA Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=30)
 * [Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=24)
+* [Junior Designer](https://checkfront.bamboohr.com/jobs/view.php?id=29)
 * [Sales Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=13)
 
 #### [Clixxa](https://www.clixxa.com/) (👩‍💻 Co-Op / Intern Friendly)
@@ -90,7 +88,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [C+ / .NET developer](https://ca.indeed.com/m/viewjob?jk=c0689671d4adb814&advn=5634633763517973&from=serp&dest=http%3A%2F%2Fca.indeed.com%2Fjob%2Fsoftware-developer-cnet-c0689671d4adb814&desth=7b685ee5efb152d7d2d9bef58c536b8c&prevUrl=https%3A%2F%2Fca.indeed.com%2Fm%2Fjobs%3Fq%3DC%2523%2BDeveloper%26l%3DVictoria%252C%2BBC&tk=1c6l9c4hq1fcd2u1&dupclk=1&acatk=1c6l9co3m1d5b4ub&pub=6917c08ec3ecf6012dd26f3773156e870cace3277f6b99df)
 
 #### [Exapik](http://www.exapik.com/)
-* [JavaScript Software Engineer (co-op/part time)](http://www.exapik.com/careers/javascript-software-engineer/)
 
 #### [Falcon Software](http://www.falcon-software.com/)
 * [ASP.Net Developer](http://www.falcon-software.com/About-Us/Job-Postings/ASP-Net-Developer)
@@ -110,7 +107,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Giftbit](http://www.giftbit.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Go2mobi](http://www.go2mobi.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Media Buyer](https://jobs.alongside.com/details/media-buyer/21105)
 
 #### [Hipwood Digital](http://www.hipwooddigital.com/)
 
@@ -126,9 +122,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [UX Specialist](http://itgroove.net/about/work-with-us/job-opportunity-ux-specialist/)
 
 #### [Kano Apps](http://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Game Artist](https://kanoapps.bamboohr.com/jobs/view.php?id=39)
 * [Product Manager](https://kanoapps.bamboohr.com/jobs/view.php?id=41)
-* [Growth Marketer](https://kanoapps.bamboohr.com/jobs/view.php?id=38)
 * [Lead Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=31)
 * [Software Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=32)
 * [Ops Lead](https://kanoapps.bamboohr.com/jobs/view.php?id=35)
@@ -163,7 +157,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Remote Web Developer](http://monetizem.applytojob.com/apply/yPcQkE/Remote-Web-Developer)
 * [Data Entry Administrator](http://monetizem.applytojob.com/apply/i9RsUl/Data-Entry-Administrator)
 * [Support Specialist](http://monetizem.applytojob.com/apply/1a1lkv/Support-Specialist)
-* [Growth Marketer](http://monetizem.applytojob.com/apply/eqbsjMkDSV/Growth-Marketer)
 
 #### [One Net Marketing](http://onenetmarketing.com)
 * [Full Stack Web Developer](https://www.onenetmarketing.com/careers/full-stack-web-developer)
@@ -192,15 +185,12 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Rooof](http://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Director of Engineering](https://rooof.bamboohr.com/jobs/view.php?id=22)
-* [Support and Account Manager](https://rooof.bamboohr.com/jobs/view.php?id=30)
-* [Software Engineer (JavaScript)](https://rooof.bamboohr.com/jobs/view.php?id=32)
-* [Website Parsing Specialist](https://rooof.bamboohr.com/jobs/view.php?id=31)
+* [Product Designer](https://rooof.bamboohr.com/jobs/view.php?id=41)
 * [Software Developer](https://rooof.bamboohr.com/jobs/view.php?id=40)
 
 #### [Ruboss](http://ruboss.com/)
 
 #### [SaaSquatch](http://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Head UX/UI Designer](https://www.saasquatch.com/careers/)
 * [Back End Developer](https://www.saasquatch.com/careers/)
 * [Front End Developer](https://www.saasquatch.com/careers/)
 * [Full Stack Developer](https://www.saasquatch.com/careers/)
@@ -216,17 +206,17 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Software Developer](https://jobs.lever.co/semaphoresolutions/821e227b-d738-4f51-ab04-41941f2530d8)
 
 #### [SendtoNews](http://www.sendtonews.com/)
-* [Ad Operations Coordinator](https://secure.collage.co/jobs/sendtonews/5695)
 
 #### [Sendwithus](https://www.sendwithus.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Sales Development Representative (SDR)](https://www.sendwithus.com/careers/01fffefd-3954-4fe8-aea7-310dcc75ff7c)
+* [Product Owner](https://www.sendwithus.com/careers/e180f0b2-036e-4842-bd65-cbbaa2e8650f)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
 * [Intermediate/Senior Front End Developer](https://www.sparklit.com/careers/#front-end)
 
 #### [SilkStart](http://silkstart.com/about/)
-* [Intermediate Python Developer](https://silkstart.com/careers/)
+* [Technical Support Representative](https://silkstart.com/careers/)
 
 #### [Starfish Medical](http://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
 
