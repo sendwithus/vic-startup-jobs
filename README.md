@@ -206,6 +206,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Software Developer](https://jobs.lever.co/semaphoresolutions/821e227b-d738-4f51-ab04-41941f2530d8)
 
 #### [SendtoNews](http://www.sendtonews.com/)
+* [Content Coordinator](https://secure.collage.co/jobs/sendtonews/6460)
 
 #### [Sendwithus](https://www.sendwithus.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Sales Development Representative (SDR)](https://www.sendwithus.com/careers/01fffefd-3954-4fe8-aea7-310dcc75ff7c)
