@@ -167,6 +167,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [iOS Developer](http://www.pgmusic.com/jobs.iosdeveloper.htm)
 
 #### [Pixel Union](https://pixelunion.net/)
+* [Front-end Developer](https://pixel-union.workable.com/j/D3C1CA77FF)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Junior Software Engineer - Co-op](https://plurilock.breezy.hr/p/1d4d34623a4e-junior-software-engineer-co-op)
