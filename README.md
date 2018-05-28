@@ -174,6 +174,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Research Analyst](https://plurilock.breezy.hr/p/fa1cee9075d0-research-analyst)
 
 #### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
+* [Full Stack Developer - Intermediate](http://pretiointeractive.humi.ca/job-board/uncategorized/616)
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
 
