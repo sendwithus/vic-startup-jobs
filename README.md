@@ -65,7 +65,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Launch Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=32)
 * [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=2)
-* [QA Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=30)
+* [QA Manager](https://checkfront.bamboohr.com/jobs/view.php?id=33)
 * [Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=24)
 * [Product Manager](https://checkfront.bamboohr.com/jobs/view.php?id=31)
 * [Sales Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=13)
