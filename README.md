@@ -137,7 +137,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [LlamaZOO](http://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [3D Content Designer](https://www.llamazoo.com/3d-content-designer/)
-* [Android Developer](https://www.llamazoo.com/android-developer/)
 * [AR/VR/MR Software Developer](https://www.llamazoo.com/arvrmr-software-developer/)
 * [Sr Unity Software Developer](https://www.llamazoo.com/unity-software-developer/)
 
