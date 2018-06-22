@@ -28,7 +28,7 @@ Companies that are known for hiring/placing  co-op students and interns will hav
 
 ### How can I get involved in the Victoria tech community?
 * Connect with the Victoria tech community by joining the [YYJ Tech Slack group](http://joinyyjtechslack.herokuapp.com/)
-* Connect with the Victoria ladies tech community by joininhg the [YYJ Tech Ladies Slack group](https://www.yyjtechladies.com/). Please note that this group is  for anyone who self identifies as a female
+* Connect with the Victoria ladies tech community by joininhg the [YYJ Tech Ladies Slack group](https://www.yyjtechladies.com/). Please note that this group is for anyone who is female. 
 * Keep an eye out for events on the [Victoria Startups calendar](http://victoriastartups.com/)
 
 ## Current Job Openings
