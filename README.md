@@ -200,9 +200,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [SeafoodX](https://www.seafoodx.io/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Semaphore](http://semaphoresolutions.com/)
-* [Intermediate Software Developer](https://jobs.lever.co/semaphoresolutions/38256ba8-a5a7-4336-89e1-129efca90423)
-* [Senior C#/.NET Developer](https://jobs.lever.co/semaphoresolutions/dc81021b-0733-4ce8-8285-d58714f673b5)
-* [Senior Software Developer](https://jobs.lever.co/semaphoresolutions/821e227b-d738-4f51-ab04-41941f2530d8)
+* [Intermediate Software Developer](https://jobs.lever.co/semaphoresolutions/29478607-e70c-4203-8929-f6bb3d471cfb)
+* [Senior Full Stack Developer](https://jobs.lever.co/semaphoresolutions/30fb3113-f116-4e25-b90e-a7ecaa37b07a)
 * [Technical Project Manager](https://jobs.lever.co/semaphoresolutions/2ef30c50-5ec1-48fd-9239-efbe821f390a)
 
 #### [SendtoNews](http://www.sendtonews.com/)
