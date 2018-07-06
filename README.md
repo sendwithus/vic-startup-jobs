@@ -44,6 +44,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Intermediate Frontend Developer](http://www.appcolony.ca/careers/intermediate-frontend-developer/)
 * [Full Stack Developer](http://www.appcolony.ca/careers/full-stack-developer/)
 
+#### [Appreciation Engine](https://get.theappreciationengine.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Precision Marketer and Tester](https://www.viatec.ca/jobs/precision-marketer-and-tester)
+
 #### [Atomic Crayon](http://www.atomiccrayon.com/)
 * [Web Developer](http://www.atomiccrayon.com/career-opportunities)
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
