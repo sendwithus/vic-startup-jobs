@@ -66,7 +66,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ChatterBlock](https://www.chatterblock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Launch Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=32)
 * [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=2)
 * [QA Manager](https://checkfront.bamboohr.com/jobs/view.php?id=33)
 * [Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=24)
@@ -126,7 +125,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Kano Apps](http://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Product Manager](https://kanoapps.bamboohr.com/jobs/view.php?id=41)
 * [Lead Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=31)
-* [Software Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=32)
 * [Ops Lead](https://kanoapps.bamboohr.com/jobs/view.php?id=35)
 * [Software Developer (Unity)](https://kanoapps.bamboohr.com/jobs/view.php?id=40)
 
@@ -187,9 +185,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [RingPartner](http://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Rooof](http://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
-* [Director of Engineering](https://rooof.bamboohr.com/jobs/view.php?id=22)
-* [Product Designer](https://rooof.bamboohr.com/jobs/view.php?id=41)
-* [Software Developer](https://rooof.bamboohr.com/jobs/view.php?id=40)
+* [Software Tester (Co-op)](https://rooof.bamboohr.com/jobs/view.php?id=42)
+* [UX/UI Designer](https://rooof.bamboohr.com/jobs/view.php?id=41)
+* [Administrative Assistant](https://rooof.bamboohr.com/jobs/view.php?id=43)
 
 #### [Ruboss](http://ruboss.com/)
 
@@ -208,7 +206,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Technical Project Manager](https://jobs.lever.co/semaphoresolutions/2ef30c50-5ec1-48fd-9239-efbe821f390a)
 
 #### [SendtoNews](http://www.sendtonews.com/)
-* [Content Coordinator](https://secure.collage.co/jobs/sendtonews/6460)
 * [Developer](https://secure.collage.co/jobs/sendtonews/6526)
 
 #### [Sendwithus](https://www.sendwithus.com) (👩‍💻 Co-Op / Intern Friendly)
@@ -239,8 +236,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Tutela](http://tutelatechnologies.com/)
 * [Software Developer Co-op](http://www.tutela.com/careers)
-* [Dev & Systems Operations Administrator](http://www.tutela.com/careers)
-* [Digital Marketing Manager](http://www.tutela.com/careers)
+* [Customer Success Manager](http://www.tutela.com/careers)
 * [User Experience Designer](http://www.tutela.com/careers)
 
 #### [ViVitro Labs](http://vivitrolabs.com/) (👩‍💻 Co-Op / Intern Friendly)
