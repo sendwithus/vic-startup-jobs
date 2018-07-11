@@ -203,7 +203,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Semaphore](http://semaphoresolutions.com/)
 * [Intermediate Software Developer](https://jobs.lever.co/semaphoresolutions/29478607-e70c-4203-8929-f6bb3d471cfb)
 * [Senior Full Stack Developer](https://jobs.lever.co/semaphoresolutions/30fb3113-f116-4e25-b90e-a7ecaa37b07a)
-* [Technical Project Manager](https://jobs.lever.co/semaphoresolutions/2ef30c50-5ec1-48fd-9239-efbe821f390a)
 
 #### [SendtoNews](http://www.sendtonews.com/)
 * [Developer](https://secure.collage.co/jobs/sendtonews/6526)
@@ -227,6 +226,10 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Solidus Developer](https://stembolt.com/careers/senior-solidus-developer/)
 
 #### [Stocksy United](https://www.stocksy.com/)
+
+#### [Tango Financial](https://tangofinancial.ca/) (👩‍💻 Co-Op / Intern Friendly)
+* [Senior Front End Developer](https://secure.collage.co/jobs/tango-financial/7162)
+* [Full Stack Developer](https://secure.collage.co/jobs/tango-financial/6326)
 
 #### [Tapstream](https://tapstream.com/)
 
