@@ -159,7 +159,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [NetMotion](https://www.netmotionsoftware.com)
 * [Data Scientist](https://www.netmotionsoftware.com/careers/?__jvst=Job%20Board&__jvsd=GitHub&nl=1&p=job%2FogoB7fw6)
-* [Software Engineer in Test](https://www.netmotionsoftware.com/careers/__jvst=Job%20Board&__jvsd=GitHub&nl=1&p=job%2FoIs07fw1)
+* [Software Engineer in Test](https://www.netmotionsoftware.com/careers/?p=job%2FoIs07fw1)
 
 #### [One Net Marketing](http://onenetmarketing.com)
 * [Full Stack Web Developer](https://www.onenetmarketing.com/careers/full-stack-web-developer)
