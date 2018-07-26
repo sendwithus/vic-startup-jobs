@@ -73,9 +73,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Sales Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=13)
 
 #### [Clixxa](https://www.clixxa.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [DevOps Engineer](https://jobs.lever.co/ctr/f48bb48b-20a1-431f-a83f-0e62c746cfb5)
-* [Golang Developer](https://jobs.lever.co/ctr/c817070a-b511-42e2-997f-b2a2c2c682a9)
-* [Growth Hacker](https://jobs.lever.co/ctr/cdfcd73b-19f0-4540-ae6b-e28c1b53ab32)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Junior Game Programmer Co-op - Web/Mobile](http://www.codenameentertainment.com/?page=jobs#coops)
