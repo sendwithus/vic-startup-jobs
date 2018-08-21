@@ -204,7 +204,8 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Semaphore](http://semaphoresolutions.com/)
 * [Intermediate Software Developer](https://jobs.lever.co/semaphoresolutions/29478607-e70c-4203-8929-f6bb3d471cfb)
-* [Senior Full Stack Developer](https://jobs.lever.co/semaphoresolutions/30fb3113-f116-4e25-b90e-a7ecaa37b07a)
+* [Senior Software Developer - employee](https://jobs.lever.co/semaphoresolutions/821e227b-d738-4f51-ab04-41941f2530d8)
+* [Senior Full Stack Developer - contract or employee](https://jobs.lever.co/semaphoresolutions/30fb3113-f116-4e25-b90e-a7ecaa37b07a)
 
 #### [SendtoNews](http://www.sendtonews.com/)
 * [Developer](https://secure.collage.co/jobs/sendtonews/6526)
