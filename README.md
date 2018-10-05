@@ -247,7 +247,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Telmediq](http://www.telmediq.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Inside Sales Representative](https://www.telmediq.com/careers/inside-sales-representitive/)
-* [Marketing Coordinator](https://www.telmediq.com/careers/marketing-coordinator)
 
 #### [Tutela](http://tutelatechnologies.com/)
 * [Software Developer Co-op](http://www.tutela.com/careers)
