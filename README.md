@@ -218,7 +218,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [SendtoNews](http://www.sendtonews.com/)
 * [Developer](https://secure.collage.co/jobs/sendtonews/6526)
-* [Graphic Designer](https://secure.collage.co/jobs/sendtonews/7157)
 
 #### [Sendwithus](https://www.sendwithus.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Sales Development Representative (SDR)](https://www.sendwithus.com/careers/01fffefd-3954-4fe8-aea7-310dcc75ff7c)
@@ -248,7 +247,8 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Telmediq](http://www.telmediq.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Inside Sales Representative](https://www.telmediq.com/careers/inside-sales-representitive/)
-* [Marketing Coordinator](https://www.telmediq.com/careers/marketing-coordinator)
+* [Marketing Specialist, Content](https://www.telmediq.com/careers/marketing-specialist-content)
+* [Controller](https://www.telmediq.com/careers/controller)
 
 #### [Tutela](http://tutelatechnologies.com/)
 * [Software Developer Co-op](http://www.tutela.com/careers)
