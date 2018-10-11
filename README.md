@@ -177,6 +177,13 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Pixel Union](https://pixelunion.net/)
 * [Front-end Developer](https://pixel-union.workable.com/j/D3C1CA77FF)
+* [Back-end Developer](https://pixel-union.workable.com/jobs/830630)
+* [Customer Success Agent](https://pixel-union.workable.com/j/A55F198B7C)
+* [Head of Sales](https://pixel-union.workable.com/j/C5A77B6FC1)
+* [Product Designer, Company Website & Storefront](https://pixel-union.workable.com/j/30E2CCC82B)
+* [Director of Customer Success](https://pixel-union.workable.com/j/1B62F8B60D)
+* [Head of Projects](https://pixel-union.workable.com/j/783A240085)
+* [Head of Managed Services](https://pixel-union.workable.com/j/51AF6F47D4)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Junior Software Engineer - Co-op](https://plurilock.breezy.hr/p/1d4d34623a4e-junior-software-engineer-co-op)
