@@ -236,7 +236,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Developer](https://secure.collage.co/jobs/sendtonews/6526)
 
 #### [Sendwithus](https://www.sendwithus.com) (👩‍💻 Co-Op / Intern Friendly)
-* [Sales Development Representative (SDR)](https://www.sendwithus.com/careers/01fffefd-3954-4fe8-aea7-310dcc75ff7c)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
@@ -264,7 +263,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Telmediq](http://www.telmediq.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Inside Sales Representative](https://www.telmediq.com/careers/inside-sales-representitive/)
 * [Marketing Specialist, Content](https://www.telmediq.com/careers/marketing-specialist-content)
-* [Controller](https://www.telmediq.com/careers/controller)
 
 #### [Tutela](http://tutelatechnologies.com/)
 * [Software Developer Co-op](http://www.tutela.com/careers)
