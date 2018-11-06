@@ -136,10 +136,15 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Web Applications Developer, Back End Specialist](http://itgroove.net/about/work-with-us/job-opportunity-web-apps-developer-back-end/)
 * [UX Specialist](http://itgroove.net/about/work-with-us/job-opportunity-ux-specialist/)
 
+#### [JUUL](https://www.juul.ca) (👩‍💻 Co-Op / Intern Friendly)
+* [Full Stack Engineer](https://boards.greenhouse.io/juullabs/jobs/1086931)
+* [Full Stack Software Engineer](https://boards.greenhouse.io/juullabs/jobs/1086931)
+* [Senior Full-Stack Software Engineer](https://boards.greenhouse.io/juullabs/jobs/597504)
+* [Senior Frontend Software Engineer](https://boards.greenhouse.io/juullabs/jobs/1032037)
+
 #### [Kano Apps](http://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Product Manager](https://kanoapps.bamboohr.com/jobs/view.php?id=41)
 * [Lead Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=31)
-* [Ops Lead](https://kanoapps.bamboohr.com/jobs/view.php?id=35)
 * [Software Developer (Unity)](https://kanoapps.bamboohr.com/jobs/view.php?id=40)
 
 #### [KIXEYE Canada Ltd](http://www.kixeye.com/)
@@ -166,10 +171,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Developer](http://momentumdash.com/careers/)
 
 #### [MonetizeMore](http://www.monetizemore.com/)
-* [Ad Optimization Expert](http://monetizem.applytojob.com/apply/LKJ8Pj/Ad-Optimizer)
-* [Remote Web Developer](http://monetizem.applytojob.com/apply/yPcQkE/Remote-Web-Developer)
-* [Data Entry Administrator](http://monetizem.applytojob.com/apply/i9RsUl/Data-Entry-Administrator)
-* [Support Specialist](http://monetizem.applytojob.com/apply/1a1lkv/Support-Specialist)
+* [Data Scientist](https://www.netmotionsoftware.com/careers/?p=job%2FogoB7fw6&__jvst=Job%20Board&__jvsd=GitHub&nl=1)
+* [Channel Marketing Manager](https://www.netmotionsoftware.com/careers/p=job%2FolqL8fwo&__jvst=Job%20Board&__jvsd=GitHub&nl=1)
 
 #### [NetMotion](https://www.netmotionsoftware.com)
 * [Data Scientist](https://www.netmotionsoftware.com/careers/?__jvst=Job%20Board&__jvsd=GitHub&nl=1&p=job%2FogoB7fw6)
@@ -188,17 +191,11 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Pixel Union](https://pixelunion.net/)
 * [Front-end Developer](https://pixel-union.workable.com/j/D3C1CA77FF)
 * [Back-end Developer](https://pixel-union.workable.com/jobs/830630)
-* [Customer Success Agent](https://pixel-union.workable.com/j/A55F198B7C)
-* [Head of Sales](https://pixel-union.workable.com/j/C5A77B6FC1)
 * [Product Designer, Company Website & Storefront](https://pixel-union.workable.com/j/30E2CCC82B)
 * [Director of Customer Success](https://pixel-union.workable.com/j/1B62F8B60D)
-* [Head of Projects](https://pixel-union.workable.com/j/783A240085)
-* [Head of Managed Services](https://pixel-union.workable.com/j/51AF6F47D4)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Junior Software Engineer - Co-op](https://plurilock.breezy.hr/p/1d4d34623a4e-junior-software-engineer-co-op)
-* [Mobile Developer](https://plurilock.breezy.hr/p/e719acce2cf4-mobile-developer)
-* [Research Analyst](https://plurilock.breezy.hr/p/fa1cee9075d0-research-analyst)
 
 #### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
 * [Full Stack Developer - Intermediate](http://pretiointeractive.humi.ca/job-board/uncategorized/616)
@@ -210,9 +207,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [RingPartner](http://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Rooof](http://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
-* [Software Tester (Co-op)](https://rooof.bamboohr.com/jobs/view.php?id=42)
 * [UX/UI Designer](https://rooof.bamboohr.com/jobs/view.php?id=41)
-* [Administrative Assistant](https://rooof.bamboohr.com/jobs/view.php?id=43)
 
 #### [Ruboss](http://ruboss.com/)
 
@@ -221,7 +216,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Implementations Specialist](https://www.saasquatch.com/careers/)
 * [Back End Developer](https://www.saasquatch.com/careers/)
 * [Front End Developer](https://www.saasquatch.com/careers/)
-
 
 #### [Sasquatch Studio](http://www.sasquatchstudio.co/)
 
@@ -246,12 +240,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Starfish Medical](http://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
 
-#### [Stembolt](http://stembolt.com) (👩‍💻 Co-Op / Intern Friendly)
-* [Software Developer Co-op](https://stembolt.com/careers/software-developer-co-op/)
-* [Junior Developer](https://stembolt.com/careers/junior-developer/)
-* [Intermediate/Senior Developer](https://stembolt.com/careers/intermediate-or-senior-developer/)
-* [Senior Solidus Developer](https://stembolt.com/careers/senior-solidus-developer/)
-
 #### [Stocksy United](https://www.stocksy.com/)
 
 #### [Tango Financial](https://tangofinancial.ca/) (👩‍💻 Co-Op / Intern Friendly)
@@ -266,7 +254,8 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Tutela](http://tutelatechnologies.com/)
 * [Software Developer Co-op](http://www.tutela.com/careers)
-* [Customer Success Manager](http://www.tutela.com/careers)
+* [Software QA Manager](http://www.tutela.com/careers)
+* [System Architecture Optimizer](http://www.tutela.com/careers)
 * [User Experience Designer](http://www.tutela.com/careers)
 
 #### [ViVitro Labs](http://vivitrolabs.com/) (👩‍💻 Co-Op / Intern Friendly)
