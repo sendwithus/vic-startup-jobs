@@ -212,8 +212,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Ruboss](http://ruboss.com/)
 
 #### [SaaSquatch](http://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Solutions Architect](https://www.saasquatch.com/careers/)
-* [Implementations Specialist](https://www.saasquatch.com/careers/)
+* [Content Marketing Manager](https://www.saasquatch.com/careers/)
+* [Product Marketing Manager](https://www.saasquatch.com/careers/)
 * [Back End Developer](https://www.saasquatch.com/careers/)
 * [Front End Developer](https://www.saasquatch.com/careers/)
 
