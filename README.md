@@ -156,9 +156,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Front-End Developer](https://www.leapxd.com/senior-front-end-web-developer/)
 
 #### [LlamaZOO](http://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [3D Content Designer](https://www.llamazoo.com/3d-content-designer/)
-* [AR/VR/MR Software Developer](https://www.llamazoo.com/arvrmr-software-developer/)
-* [Sr Unity Software Developer](https://www.llamazoo.com/unity-software-developer/)
 
 #### [Loam Studios](http://loamstudios.com/)
 
@@ -172,7 +169,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [MonetizeMore](http://www.monetizemore.com/)
 * [Data Scientist](https://www.netmotionsoftware.com/careers/?p=job%2FogoB7fw6&__jvst=Job%20Board&__jvsd=GitHub&nl=1)
-* [Channel Marketing Manager](https://www.netmotionsoftware.com/careers/p=job%2FolqL8fwo&__jvst=Job%20Board&__jvsd=GitHub&nl=1)
 
 #### [NetMotion](https://www.netmotionsoftware.com)
 * [Data Scientist](https://www.netmotionsoftware.com/careers/?__jvst=Job%20Board&__jvsd=GitHub&nl=1&p=job%2FogoB7fw6)
