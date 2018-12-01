@@ -66,7 +66,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Software Engineer, Frontend](https://jobs.lever.co/change/38e299c2-9aad-4aaf-b856-5efde6f7fcb7?lever-via=joqz8tDzDn)
 * [Senior Software Engineer, Backend](https://jobs.lever.co/change/61bd205f-d829-4af9-bde4-2e04be2d7675?lever-via=joqz8tDzDn)
 * [Software Engineer in Test](https://jobs.lever.co/change/3b400561-25a8-480f-960a-08172d1b9d88?lever-via=joqz8tDzDn)
-* [Growth Specialist](https://jobs.lever.co/change/ca2ee8cb-4ac1-4a7f-a269-a8950069a557?lever-via=joqz8tDzDn)
 
 #### [ChatterBlock](https://www.chatterblock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
