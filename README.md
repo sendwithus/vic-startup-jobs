@@ -66,7 +66,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Software Engineer, Frontend](https://jobs.lever.co/change/38e299c2-9aad-4aaf-b856-5efde6f7fcb7?lever-via=joqz8tDzDn)
 * [Senior Software Engineer, Backend](https://jobs.lever.co/change/61bd205f-d829-4af9-bde4-2e04be2d7675?lever-via=joqz8tDzDn)
 * [Software Engineer in Test](https://jobs.lever.co/change/3b400561-25a8-480f-960a-08172d1b9d88?lever-via=joqz8tDzDn)
-* [Growth Specialist](https://jobs.lever.co/change/ca2ee8cb-4ac1-4a7f-a269-a8950069a557?lever-via=joqz8tDzDn)
 
 #### [ChatterBlock](https://www.chatterblock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -90,6 +89,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
+* [Product Manager](https://www.echosec.net/careers/product-manager)
 
 #### [EncoreFX](https://www.encorefx.com/)
 * [C+ / .NET developer](https://ca.indeed.com/m/viewjob?jk=c0689671d4adb814&advn=5634633763517973&from=serp&dest=http%3A%2F%2Fca.indeed.com%2Fjob%2Fsoftware-developer-cnet-c0689671d4adb814&desth=7b685ee5efb152d7d2d9bef58c536b8c&prevUrl=https%3A%2F%2Fca.indeed.com%2Fm%2Fjobs%3Fq%3DC%2523%2BDeveloper%26l%3DVictoria%252C%2BBC&tk=1c6l9c4hq1fcd2u1&dupclk=1&acatk=1c6l9co3m1d5b4ub&pub=6917c08ec3ecf6012dd26f3773156e870cace3277f6b99df)
@@ -118,8 +118,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [FuturePet](https://www.futurepet.care/)
 
 #### [Giftbit](http://www.giftbit.com/) (👩‍💻 Co-Op / Intern Friendly)
-
-#### [Go2mobi](http://www.go2mobi.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Hipwood Digital](http://www.hipwooddigital.com/)
 
