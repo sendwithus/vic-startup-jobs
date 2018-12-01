@@ -120,8 +120,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Giftbit](http://www.giftbit.com/) (👩‍💻 Co-Op / Intern Friendly)
 
-#### [Go2mobi](http://www.go2mobi.com/) (👩‍💻 Co-Op / Intern Friendly)
-
 #### [Hipwood Digital](http://www.hipwooddigital.com/)
 
 #### [Hololabs](http://www.hololabs.org/) (👩‍💻 Co-Op / Intern Friendly)
