@@ -53,7 +53,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Barnacle Systems](http://www.brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [Software Developer Intern](https://work-with-us.github.io/)
 
 #### [Benevity](http://www.benevity.com/)
 
@@ -154,8 +153,10 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Loam Studios](http://loamstudios.com/)
 
 #### [MetaLab](http://metalab.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [Design Lead](https://boards.greenhouse.io/metalab/jobs/686744)
+* [Visual Designer](https://boards.greenhouse.io/metalab/jobs/1315986)
 * [Product Designer](https://boards.greenhouse.io/metalab/jobs/255316)
+* [Front End Developer - Contract](https://boards.greenhouse.io/metalab/jobs/1284176)
+* [Producer](https://boards.greenhouse.io/metalab/jobs/1307031)
 
 #### [Momentum Dashboard](http://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Front-End Developer](http://momentumdash.com/careers/)
@@ -165,11 +166,11 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Data Scientist](https://www.netmotionsoftware.com/careers/?p=job%2FogoB7fw6&__jvst=Job%20Board&__jvsd=GitHub&nl=1)
 
 #### [NetMotion](https://www.netmotionsoftware.com)
-* [Data Scientist](https://www.netmotionsoftware.com/careers/?__jvst=Job%20Board&__jvsd=GitHub&nl=1&p=job%2FogoB7fw6)
-* [Software Engineer in Test](https://app.jobvite.com/j?cj=oOI77fwu&s=GitHub)
+* [Channel Marketing Manager - Victoria](https://www.netmotionsoftware.com/careers/p=job%2FolqL8fwo&__jvst=Job%20Board&__jvsd=GitHub&nl=1)
 
 #### [One Net Marketing](http://onenetmarketing.com)
 * [Full Stack Web Developer](https://www.onenetmarketing.com/careers/full-stack-web-developer)
+* [Channel Marketing Manager - Victoria](https://www.netmotionsoftware.com/careers/p=job%2FoDo88fw1&__jvst=Job%20Board&__jvsd=GitHub&nl=1)
 
 #### [Onebit Labs](http://onebitlabs.com/)
 
@@ -185,7 +186,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Backend Developer](https://pixel-union.workable.com/j/7564ADF74B)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Junior Software Engineer - Co-op](https://plurilock.breezy.hr/p/1d4d34623a4e-junior-software-engineer-co-op)
+* [Sales Development Representative](https://plurilock.breezy.hr/p/1d4d34623a4e-junior-software-engineer-co-op)
 
 #### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
 * [Full Stack Developer - Intermediate](http://pretiointeractive.humi.ca/job-board/uncategorized/616)
@@ -202,8 +203,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Ruboss](http://ruboss.com/)
 
 #### [SaaSquatch](http://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Content Marketing Manager](https://www.saasquatch.com/careers/)
-* [Product Marketing Manager](https://www.saasquatch.com/careers/)
 * [Back End Developer](https://www.saasquatch.com/careers/)
 * [Front End Developer](https://www.saasquatch.com/careers/)
 
@@ -226,7 +225,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Intermediate/Senior Front End Developer](https://www.sparklit.com/careers/#front-end)
 
 #### [SilkStart](http://silkstart.com/about/)
-* [Technical Support Representative](https://silkstart.com/careers/)
+* [Sales Development Representative](https://silkstart.com/careers/) 
+* [Inside Sales](https://silkstart.com/careers/)
+* [Customer Success Specialist](https://silkstart.com/careers/)
 
 #### [Starfish Medical](http://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
 
