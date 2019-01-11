@@ -84,6 +84,10 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
 
+#### [Desolation Sound Systems](http://www.ds2i.ca/)
+* [Music Software Developer](https://ca.indeed.com/job/intermediate-music-software-developer-36b4cb6d220665c9)
+
+
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
