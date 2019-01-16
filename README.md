@@ -119,6 +119,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [FuturePet](https://www.futurepet.care/)
 
 #### [Giftbit](http://www.giftbit.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Sales Representative](https://giftbit.bamboohr.com/jobs/view.php?id=13)
 
 #### [Hipwood Digital](http://www.hipwooddigital.com/)
 
