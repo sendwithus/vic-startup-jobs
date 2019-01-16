@@ -171,11 +171,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Data Scientist](https://www.netmotionsoftware.com/careers/?p=job%2FogoB7fw6&__jvst=Job%20Board&__jvsd=GitHub&nl=1)
 
 #### [NetMotion](https://www.netmotionsoftware.com)
-* [Channel Marketing Manager - Victoria](https://www.netmotionsoftware.com/careers/p=job%2FolqL8fwo&__jvst=Job%20Board&__jvsd=GitHub&nl=1)
 
 #### [One Net Marketing](http://onenetmarketing.com)
 * [Full Stack Web Developer](https://www.onenetmarketing.com/careers/full-stack-web-developer)
-* [Channel Marketing Manager - Victoria](https://www.netmotionsoftware.com/careers/p=job%2FoDo88fw1&__jvst=Job%20Board&__jvsd=GitHub&nl=1)
 
 #### [Onebit Labs](http://onebitlabs.com/)
 
