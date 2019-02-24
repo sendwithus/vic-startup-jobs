@@ -183,10 +183,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [iOS Developer](http://www.pgmusic.com/jobs.iosdeveloper.htm)
 
 #### [Pixel Union](https://pixelunion.net/)
-* [Project Manager](https://pixel-union.workable.com/j/A36DC811E9)
-* [Head of Managed Services](https://pixel-union.workable.com/j/51AF6F47D4)
-* [Frontend Developer](https://pixel-union.workable.com/j/D874C1450E)
-* [Backend Developer](https://pixel-union.workable.com/j/7564ADF74B)
+* [Front End Developer](https://pixel-union.workable.com/j/D874C1450E)
+* [Back End Developer](https://pixel-union.workable.com/j/205ED2C91D)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Sales Development Representative](https://plurilock.breezy.hr/p/1d4d34623a4e-junior-software-engineer-co-op)
