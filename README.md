@@ -246,9 +246,12 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Tutela](http://tutelatechnologies.com/)
 * [Software Developer Co-op](http://www.tutela.com/careers)
-* [Software QA Manager](http://www.tutela.com/careers)
+* [Data Analyst](http://www.tutela.com/careers)
+* [Customer Success Specialist](http://www.tutela.com/careers)
+* [Android Software Developer](http://www.tutela.com/careers)
+* [Quality Assurance Software Developer](http://www.tutela.com/careers)
+* [Intermediate Software Developer](http://www.tutela.com/careers)
 * [System Architecture Optimizer](http://www.tutela.com/careers)
-* [User Experience Designer](http://www.tutela.com/careers)
 
 #### [ViVitro Labs](http://vivitrolabs.com/) (👩‍💻 Co-Op / Intern Friendly)
 
