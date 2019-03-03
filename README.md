@@ -234,7 +234,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Stocksy United](https://www.stocksy.com/)
 
 #### [Tango Financial](https://tangofinancial.ca/) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Front End Developer](https://secure.collage.co/jobs/tango-financial/7162)
 * [Full Stack Developer](https://secure.collage.co/jobs/tango-financial/6326)
 
 #### [Tapstream](https://tapstream.com/)
