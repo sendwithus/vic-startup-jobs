@@ -70,13 +70,12 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [DevOps Engineer](https://checkfront.bamboohr.com/jobs/view.php?id=37)
-* [QA Manager](https://checkfront.bamboohr.com/jobs/view.php?id=33)
 * [Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=24)
+* [Billing Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=42)
 * [Digital Marketing Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=38)
-* [Product Manager](https://checkfront.bamboohr.com/jobs/view.php?id=31)
+* [People Operations Manager (Mat Leave)](https://checkfront.bamboohr.com/jobs/view.php?id=46)
+* [Product Manager](https://checkfront.bamboohr.com/jobs/view.php?id=45)
 * [Sales Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=13)
-* [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=2)
-* [Technical Writer](https://checkfront.bamboohr.com/jobs/view.php?id=40)
 
 #### [Clixxa](https://www.clixxa.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -235,7 +234,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Stocksy United](https://www.stocksy.com/)
 
 #### [Tango Financial](https://tangofinancial.ca/) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Front End Developer](https://secure.collage.co/jobs/tango-financial/7162)
 * [Full Stack Developer](https://secure.collage.co/jobs/tango-financial/6326)
 
 #### [Tapstream](https://tapstream.com/)
