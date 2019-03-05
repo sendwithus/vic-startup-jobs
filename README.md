@@ -71,7 +71,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [DevOps Engineer](https://checkfront.bamboohr.com/jobs/view.php?id=37)
 * [Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=24)
-* [Billing Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=42)
 * [Digital Marketing Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=38)
 * [People Operations Manager (Mat Leave)](https://checkfront.bamboohr.com/jobs/view.php?id=46)
 * [Product Manager](https://checkfront.bamboohr.com/jobs/view.php?id=45)
@@ -113,12 +112,10 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Intermediate Android Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbJ4Fw7MFOQgV)
 * [Senior Software Engineer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADMFng6fDrLXQ)
 * [QA Analyst](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbD21fzyui3o_)
-* [Hybrid Developer (Victoria)](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbP9DI8D8aHDP)
 
 #### [FuturePet](https://www.futurepet.care/)
 
 #### [Giftbit](http://www.giftbit.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Sales Representative](https://giftbit.bamboohr.com/jobs/view.php?id=13)
 
 #### [Hipwood Digital](http://www.hipwooddigital.com/)
 
@@ -134,20 +131,16 @@ Keep in mind that companies may have job postings on their own site that are not
 * [UX Specialist](http://itgroove.net/about/work-with-us/job-opportunity-ux-specialist/)
 
 #### [JUUL](https://www.juul.ca) (👩‍💻 Co-Op / Intern Friendly)
-* [Full Stack Engineer](https://boards.greenhouse.io/juullabs/jobs/1086931)
-* [Full Stack Software Engineer](https://boards.greenhouse.io/juullabs/jobs/1086931)
 * [Senior Full-Stack Software Engineer](https://boards.greenhouse.io/juullabs/jobs/597504)
 * [Senior Frontend Software Engineer](https://boards.greenhouse.io/juullabs/jobs/1032037)
 
 #### [Kano Apps](http://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Product Manager](https://kanoapps.bamboohr.com/jobs/view.php?id=41)
 * [Lead Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=31)
 * [Software Developer (Unity)](https://kanoapps.bamboohr.com/jobs/view.php?id=40)
 
 #### [KIXEYE Canada Ltd](http://www.kixeye.com/)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
 
 #### [Leap XD](https://www.leapxd.com)
 * [Senior Front-End Developer](https://www.leapxd.com/senior-front-end-web-developer/)
@@ -157,9 +150,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Loam Studios](http://loamstudios.com/)
 
 #### [MetaLab](http://metalab.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [Visual Designer](https://boards.greenhouse.io/metalab/jobs/1315986)
+* [Design Lead](https://boards.greenhouse.io/metalab/jobs/686744)
 * [Product Designer](https://boards.greenhouse.io/metalab/jobs/255316)
-* [Front End Developer - Contract](https://boards.greenhouse.io/metalab/jobs/1284176)
+* [Front End Developer](https://boards.greenhouse.io/metalab/jobs/1284176)
 * [Producer](https://boards.greenhouse.io/metalab/jobs/1307031)
 
 #### [Momentum Dashboard](http://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
