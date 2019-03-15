@@ -64,7 +64,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Software Engineer, Frontend](https://jobs.lever.co/change/38e299c2-9aad-4aaf-b856-5efde6f7fcb7?lever-via=joqz8tDzDn)
-* [Senior Software Engineer, Backend](https://jobs.lever.co/change/61bd205f-d829-4af9-bde4-2e04be2d7675?lever-via=joqz8tDzDn)
 
 #### [ChatterBlock](https://www.chatterblock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -235,7 +234,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Tapstream](https://tapstream.com/)
 
 #### [Telmediq](http://www.telmediq.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Marketing Specialist, Content](https://www.telmediq.com/careers/marketing-specialist-content)
 
 #### [Tutela](http://tutelatechnologies.com/)
 * [Software Developer Co-op](http://www.tutela.com/careers)
@@ -249,6 +247,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ViVitro Labs](http://vivitrolabs.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Watershed Partners](https://watershed.co/)
+
+#### [Waterworth ](https://waterworth.net/)
+* [Full Stack Developer](https://waterworth.net/careers/)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
 
