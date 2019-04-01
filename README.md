@@ -68,12 +68,14 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ChatterBlock](https://www.chatterblock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [DevOps Engineer](https://checkfront.bamboohr.com/jobs/view.php?id=37)
 * [Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=24)
 * [Digital Marketing Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=38)
 * [People Operations Manager (Mat Leave)](https://checkfront.bamboohr.com/jobs/view.php?id=46)
 * [Product Manager](https://checkfront.bamboohr.com/jobs/view.php?id=45)
 * [Sales Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=13)
+* [Junior Wordpress Developer](https://checkfront.bamboohr.com/jobs/view.php?id=48)
+* [Product Designer](https://checkfront.bamboohr.com/jobs/view.php?id=43)
+* [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=49)
 
 #### [Clixxa](https://www.clixxa.com/) (👩‍💻 Co-Op / Intern Friendly)
 
