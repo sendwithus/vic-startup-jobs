@@ -85,8 +85,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Crowdcontent](https://www.crowdcontent.com/)
 
 #### [Desolation Sound Systems](http://www.ds2i.ca/)
-* [Music Software Developer](https://ca.indeed.com/job/intermediate-music-software-developer-36b4cb6d220665c9)
-
 
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
@@ -96,7 +94,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Data Integration Developer](https://www.echosec.net/careers/developer-victoria-bc-4/)
 
 #### [EncoreFX](https://www.encorefx.com/)
-* [C+ / .NET developer](https://ca.indeed.com/m/viewjob?jk=c0689671d4adb814&advn=5634633763517973&from=serp&dest=http%3A%2F%2Fca.indeed.com%2Fjob%2Fsoftware-developer-cnet-c0689671d4adb814&desth=7b685ee5efb152d7d2d9bef58c536b8c&prevUrl=https%3A%2F%2Fca.indeed.com%2Fm%2Fjobs%3Fq%3DC%2523%2BDeveloper%26l%3DVictoria%252C%2BBC&tk=1c6l9c4hq1fcd2u1&dupclk=1&acatk=1c6l9co3m1d5b4ub&pub=6917c08ec3ecf6012dd26f3773156e870cace3277f6b99df)
 
 #### [Expeto](http://expeto.io/)
 * [Full Stack Developer](https://jobs.smartrecruiters.com/Expeto/743999683902686-full-stack-developer)
@@ -115,8 +112,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [FreshWorks Studio](https://freshworks.io/)
 * [Intermediate Full Stack Developer (Victoria)](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADN8jmnPJ9_Rl)
 * [Technical Project Manager](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbJJG3ogtpx4G)
-* [Intermediate Android Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbJ4Fw7MFOQgV)
-* [Senior Software Engineer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADMFng6fDrLXQ)
 * [QA Analyst](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbD21fzyui3o_)
 
 #### [FuturePet](https://www.futurepet.care/)
@@ -140,7 +135,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Full-Stack Software Engineer](https://boards.greenhouse.io/juullabs/jobs/597504)
 * [Senior Frontend Software Engineer](https://boards.greenhouse.io/juullabs/jobs/1032037)
 
-#### [Kano Apps](http://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
+#### [Kano](http://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Lead Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=31)
 * [Software Developer (Unity)](https://kanoapps.bamboohr.com/jobs/view.php?id=40)
 
@@ -158,8 +153,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [MetaLab](http://metalab.co/) (👩‍💻 Co-Op / Intern Friendly)
 * [Design Lead](https://boards.greenhouse.io/metalab/jobs/686744)
 * [Product Designer](https://boards.greenhouse.io/metalab/jobs/255316)
-* [Front End Developer](https://boards.greenhouse.io/metalab/jobs/1284176)
-* [Producer](https://boards.greenhouse.io/metalab/jobs/1307031)
 
 #### [Momentum Dashboard](http://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Front-End Developer](http://momentumdash.com/careers/)
@@ -168,7 +161,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [MonetizeMore](http://www.monetizemore.com/)
 
 #### [NetMotion](https://www.netmotionsoftware.com)
-* [Software Engineer](https://www.netmotionsoftware.com/careers/?p=job%2FoYli9fwu&__jvst=Job+Board&__jvsd=GitHub&nl=1)
 
 #### [One Net Marketing](http://onenetmarketing.com)
 * [Full Stack Web Developer](https://www.onenetmarketing.com/careers/full-stack-web-developer)
@@ -181,11 +173,11 @@ Keep in mind that companies may have job postings on their own site that are not
 * [iOS Developer](http://www.pgmusic.com/jobs.iosdeveloper.htm)
 
 #### [Pixel Union](https://pixelunion.net/)
-* [Front End Developer](https://pixel-union.workable.com/j/D874C1450E)
 * [Back End Developer](https://pixel-union.workable.com/j/205ED2C91D)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Sales Development Representative](https://plurilock.breezy.hr/p/1d4d34623a4e-junior-software-engineer-co-op)
+* [Inside Sales Representative](https://plurilock.breezy.hr/p/8563bf017751-inside-sales-representative-victoria)
+* [Junior Software Engineer - Co-op](https://plurilock.breezy.hr/p/853dee37db2d-junior-software-engineer-co-op)
 
 #### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
 * [Full Stack Developer - Intermediate](http://pretiointeractive.humi.ca/job-board/uncategorized/616)
@@ -197,6 +189,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [RingPartner](http://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Rooof](http://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
+* [Mapping and Support Engineer](https://rooof.bamboohr.com/jobs/view.php?id=51)
+* [AR/AP Clerk](https://rooof.bamboohr.com/jobs/view.php?id=50)
 * [UX/UI Designer](https://rooof.bamboohr.com/jobs/view.php?id=41)
 
 #### [Ruboss](http://ruboss.com/)
@@ -204,6 +198,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [SaaSquatch](http://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Back End Developer](https://www.saasquatch.com/careers/)
 * [Front End Developer](https://www.saasquatch.com/careers/)
+* [SaaSquatch Implementations Specialist](https://www.saasquatch.com/careers/)
+* [SaaSquatch Solutions Architect](https://www.saasquatch.com/careers/)
 
 #### [Sasquatch Studio](http://www.sasquatchstudio.co/)
 
@@ -233,18 +229,17 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Stocksy United](https://www.stocksy.com/)
 
 #### [Tango Financial](https://tangofinancial.ca/) (👩‍💻 Co-Op / Intern Friendly)
-* [Full Stack Developer](https://secure.collage.co/jobs/tango-financial/6326)
 
 #### [Tapstream](https://tapstream.com/)
 
 #### [Telmediq](http://www.telmediq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Tutela](http://tutelatechnologies.com/)
-* [Software Developer Co-op](http://www.tutela.com/careers)
-* [Data Analyst](http://www.tutela.com/careers)
+* [Mobile Software QA Lead](https://tut.bamboohr.com/jobs/view.php?id=25)
+* [Mobile Quality Assurance Developer](https://tut.bamboohr.com/jobs/view.php?id=25)
+* [Talent & Culture Manager](https://tut.bamboohr.com/jobs/view.php?id=23)
 * [Customer Success Specialist](http://www.tutela.com/careers)
 * [Android Software Developer](http://www.tutela.com/careers)
-* [Quality Assurance Software Developer](http://www.tutela.com/careers)
 * [Intermediate Software Developer](http://www.tutela.com/careers)
 * [System Architecture Optimizer](http://www.tutela.com/careers)
 
