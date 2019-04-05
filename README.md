@@ -183,6 +183,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Developer - Intermediate](http://pretiointeractive.humi.ca/job-board/uncategorized/616)
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=30)
 
 #### [RevenueWire](https://www.revenuewire.com/) (👩‍💻 Co-Op / Intern Friendly)
 
