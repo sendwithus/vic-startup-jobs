@@ -63,7 +63,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Junior Python Developer](https://jobbio.com/ca/job/62335/victoria-bc-canada/certn/junior-python-developer)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Software Engineer, Frontend](https://jobs.lever.co/change/38e299c2-9aad-4aaf-b856-5efde6f7fcb7?lever-via=joqz8tDzDn)
 
 #### [ChatterBlock](https://www.chatterblock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -106,6 +105,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### Fifth Gear Marketing
 
 #### [Flow](https://www.getflow.com/)
+* [iOS Lead](https://getflow.bamboohr.com/jobs/view.php?id=16)
+* [Android Lead](https://getflow.bamboohr.com/jobs/view.php?id=15)
 
 #### [Flytographer](http://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
 
