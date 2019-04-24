@@ -87,6 +87,9 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
+#### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
+* [Engineering Manager](https://www.dyspatch.io/about/careers/post/?2fdc5b83-0c81-410a-bfc1-561f96c661df)
+
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
 * [Account Executive](https://www.echosec.net/careers/account-exec/)
 * [Full Stack Developer](https://www.echosec.net/careers/developer-victoria-bc-2/)
@@ -214,8 +217,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [SendtoNews](http://www.sendtonews.com/)
 * [Developer](https://secure.collage.co/jobs/sendtonews/6526)
-
-#### [Sendwithus](https://www.sendwithus.com) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
