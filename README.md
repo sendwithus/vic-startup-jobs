@@ -252,6 +252,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Waterworth ](https://waterworth.net/)
 * [Full Stack Developer](https://waterworth.net/careers/)
+* [Customer Success Manager](https://waterworth.net/careers/)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
 
