@@ -76,8 +76,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Product Designer](https://checkfront.bamboohr.com/jobs/view.php?id=43)
 * [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=49)
 
-#### [Clixxa](https://www.clixxa.com/) (👩‍💻 Co-Op / Intern Friendly)
-
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Junior Game Programmer Co-op - Web/Mobile](http://www.codenameentertainment.com/?page=jobs#coops)
 
