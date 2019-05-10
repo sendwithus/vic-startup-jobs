@@ -91,8 +91,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
 * [Company Success Specialist (Office Admin / Bookkeeper)](https://echosec.breezy.hr/p/54ce9ca98d9d-company-success-specialist-office-admin-bookkeeper)
 * [Data Integration Developer](https://echosec.breezy.hr/p/2771b5464299-data-integration-developer)
-* [Intermediate Front End Developer] (https://echosec.breezy.hr/p/d6e5558cde11-intermediate-front-end-developer)
-* [Intermediate Full Stack Developer] (https://echosec.breezy.hr/p/8eb0b201ae71-intermediate-full-stack-developer)
+* [Intermediate Front End Developer](https://echosec.breezy.hr/p/d6e5558cde11-intermediate-front-end-developer)
+* [Intermediate Full Stack Developer](https://echosec.breezy.hr/p/8eb0b201ae71-intermediate-full-stack-developer)
 * [Sales Development Representative](https://echosec.breezy.hr/p/7773cf8192fa-sales-development-representative)
 
 #### [EncoreFX](https://www.encorefx.com/)
