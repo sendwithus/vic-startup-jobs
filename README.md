@@ -58,9 +58,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Benevity](http://www.benevity.com/)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [React & Redux Developer](https://jobbio.com/ca/job/57148/victoria-bc-canada/certn/react-redux-developer)
-* [UX & UI Designer](https://jobbio.com/ca/job/62336/victoria-bc-canada/certn/ux-ui-designer)
-* [Junior Python Developer](https://jobbio.com/ca/job/62335/victoria-bc-canada/certn/junior-python-developer)
+* [Customer Support Guru (Fluent in French)](https://certn.co/customer-supoort-guru-french/)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -68,16 +66,16 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=24)
-* [Digital Marketing Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=38)
-* [People Operations Manager (Mat Leave)](https://checkfront.bamboohr.com/jobs/view.php?id=46)
 * [Product Manager](https://checkfront.bamboohr.com/jobs/view.php?id=45)
 * [Sales Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=13)
-* [Junior Wordpress Developer](https://checkfront.bamboohr.com/jobs/view.php?id=48)
 * [Product Designer](https://checkfront.bamboohr.com/jobs/view.php?id=43)
 * [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=49)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Junior Game Programmer Co-op - Web/Mobile](http://www.codenameentertainment.com/?page=jobs#coops)
+* [Game Data Analyst](http://www.codenameentertainment.com/?page=jobs#coops)
+* [Game Programmer](http://www.codenameentertainment.com/?page=jobs#coops)
+
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
 
@@ -141,7 +139,9 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Kano](http://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Lead Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=31)
-* [Software Developer (Unity)](https://kanoapps.bamboohr.com/jobs/view.php?id=40)
+* [Junior Digital Marketer](https://kanoapps.bamboohr.com/jobs/view.php?id=47)
+* [Intermediate Game Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=45)
+* [Senior Game Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=49)
 
 #### [KIXEYE Canada Ltd](http://www.kixeye.com/)
 
@@ -167,7 +167,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [NetMotion](https://www.netmotionsoftware.com)
 
 #### [One Net Marketing](http://onenetmarketing.com)
-* [Full Stack Web Developer](https://www.onenetmarketing.com/careers/full-stack-web-developer)
 
 #### [Onebit Labs](http://onebitlabs.com/)
 
@@ -177,11 +176,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [iOS Developer](http://www.pgmusic.com/jobs.iosdeveloper.htm)
 
 #### [Pixel Union](https://pixelunion.net/)
-* [Back End Developer](https://pixel-union.workable.com/j/205ED2C91D)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Inside Sales Representative](https://plurilock.breezy.hr/p/8563bf017751-inside-sales-representative-victoria)
-* [Junior Software Engineer - Co-op](https://plurilock.breezy.hr/p/853dee37db2d-junior-software-engineer-co-op)
 
 #### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
 * [Full Stack Developer - Intermediate](http://pretiointeractive.humi.ca/job-board/uncategorized/616)
@@ -195,7 +191,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Rooof](http://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Mapping and Support Engineer](https://rooof.bamboohr.com/jobs/view.php?id=51)
-* [AR/AP Clerk](https://rooof.bamboohr.com/jobs/view.php?id=50)
 * [UX/UI Designer](https://rooof.bamboohr.com/jobs/view.php?id=41)
 
 #### [Ruboss](http://ruboss.com/)
@@ -238,13 +233,13 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Telmediq](http://www.telmediq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Tutela](http://tutelatechnologies.com/)
-* [Mobile Software QA Lead](https://tut.bamboohr.com/jobs/view.php?id=25)
+* [Mobile Software QA Lead](https://tut.bamboohr.com/jobs/view.php?id=26)
 * [Mobile Quality Assurance Developer](https://tut.bamboohr.com/jobs/view.php?id=25)
-* [Talent & Culture Manager](https://tut.bamboohr.com/jobs/view.php?id=23)
-* [Customer Success Specialist](http://www.tutela.com/careers)
-* [Android Software Developer](http://www.tutela.com/careers)
-* [Intermediate Software Developer](http://www.tutela.com/careers)
-* [System Architecture Optimizer](http://www.tutela.com/careers)
+* [Customer Success Specialist](https://tut.bamboohr.com/jobs/view.php?id=32)
+* [Android Software Developer](https://tut.bamboohr.com/jobs/view.php?id=22)
+* [Intermediate Software Developer](https://tut.bamboohr.com/jobs/view.php?id=27)
+* [System Architecture Optimizer](https://tut.bamboohr.com/jobs/view.php?id=28)
+* [Financial Controller](https://tut.bamboohr.com/jobs/view.php?id=31)
 
 #### [ViVitro Labs](http://vivitrolabs.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -255,6 +250,17 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Success Manager](https://waterworth.net/careers/)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
+* [Senior Product Manager - Video Intelligence](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Senior-Product-Manager---Video-Intelligence_JR-34317)
+* [Sr. UX Researcher - MediaCloud](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Sr-UX-Researcher_JR-32903)
+* [Machine Learning Leader](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-San-Francisco/Machine-Learning-Leader_JR-33550)
+* [Senior DevOps Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/DevOps-Engineer_JR-32684)
+* [Financial Instructor](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Financial-Instructor_JR-26537)
+* [Senior Software Development Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Senior-Software-Development-Engineer_JR-34861)
+* [Senior / Principal Data Scientist](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Vancouver/Sr-Data-Scientist_JR-31938)
+* [Sr. Software Engineer - iOS](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Sr-Software-Engineer---iOS_JR-35083)
+* [Software Engineer - iOS](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Software-Engineer---iOS_JR-35081)
+* [Experienced Software Engineer - People Experience](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Experienced-Software-Engineer---People-Experience_JR-34873-1)
+* [Director Product Management, Outbound](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Director-Product-Management--Outbound_JR-35405)
 
 #### [Zynga Canada](https://www.zynga.com/)
 
