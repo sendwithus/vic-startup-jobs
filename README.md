@@ -51,6 +51,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
 
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
+* [Full-Stack Developer](https://career.bambora.com/jobs/229617-full-stack-developer)
 
 #### [Barnacle Systems](http://www.brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Software Developer](https://www.brnkl.io/wp-content/uploads/2019/02/20190228_BRNKL-Job-Description_Software-Developer.pdf)
