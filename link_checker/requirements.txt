@@ -1,2 +1,2 @@
-gevent==1.3.7
-requests[security]==2.20.1
+gevent==1.4.0
+requests[security]==2.22.0
