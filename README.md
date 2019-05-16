@@ -27,7 +27,7 @@ Tech startups with offices in Victoria BC.
 Companies that are known for hiring/placing  co-op students and interns will have a `(👩‍💻 Co-Op / Intern Friendly)` following their name. These companies are always open to discussing opportunities for students and aspiring developers, designers, and marketers.
 
 ### How can I get involved in the Victoria tech community?
-* Connect with the Victoria tech community by joining the [YYJ Tech Slack group](http://joinyyjtechslack.herokuapp.com/)
+* Connect with the Victoria tech community by joining the [YYJ Tech Slack group](https://joinyyjtechslack.herokuapp.com/)
 * Connect with the Victoria ladies tech community by joining the [YYJ Tech Ladies Slack group](https://www.yyjtechladies.com/). Please note that this group is for anyone who is female.
 * Keep an eye out for events on the [Victoria Startups calendar](http://victoriastartups.com/)
 
@@ -35,9 +35,9 @@ Companies that are known for hiring/placing  co-op students and interns will hav
 
 Keep in mind that companies may have job postings on their own site that are not listed here - you should visit them and look for opportunities.  Also, many companies are open to being contacted directly about opportunities, even if it's only to keep your resume on file.
 
-#### [Airsenze](http://www.airsenze.com/)
+#### [Airsenze](https://www.airsenze.com/)
 
-#### [AggregateIQ](http://www.aggregateiq.com/) (👩‍💻 Co-Op / Intern Friendly)
+#### [AggregateIQ](https://www.aggregateiq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Appcolony](http://www.appcolony.ca/)
 * [Infrastructure Developer](http://www.appcolony.ca/careers/infrastructure-developer/)
@@ -51,11 +51,12 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
 
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
+* [Full-Stack Developer](https://career.bambora.com/jobs/229617-full-stack-developer)
 
-#### [Barnacle Systems](http://www.brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
+#### [Barnacle Systems](https://www.brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Software Developer](https://www.brnkl.io/wp-content/uploads/2019/02/20190228_BRNKL-Job-Description_Software-Developer.pdf)
 
-#### [Benevity](http://www.benevity.com/)
+#### [Benevity](https://www.benevity.com/)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
 * [Customer Support Guru (Fluent in French)](https://certn.co/customer-supoort-guru-french/)
@@ -98,10 +99,10 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Expeto](http://expeto.io/)
 * [Full Stack Developer](https://jobs.smartrecruiters.com/Expeto/743999683902686-full-stack-developer)
 
-#### [Falcon Software](http://www.falcon-software.com/)
-* [ASP.Net Developer](http://www.falcon-software.com/About-Us/Job-Postings/ASP-Net-Developer)
-* [Java Developer](http://www.falcon-software.com/About-Us/Job-Postings/Java-Developer)
-* [Web Project Manager](http://www.falcon-software.com/About-Us/Job-Postings/Web-Project-Manager)
+#### [Falcon Software](https://www.falcon-software.com/)
+* [ASP.Net Developer](https://www.falcon-software.com/About-Us/Job-Postings/ASP-Net-Developer)
+* [Java Developer](https://www.falcon-software.com/About-Us/Job-Postings/Java-Developer)
+* [Web Project Manager](https://www.falcon-software.com/About-Us/Job-Postings/Web-Project-Manager)
 
 #### Fifth Gear Marketing
 
@@ -109,7 +110,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [iOS Lead](https://getflow.bamboohr.com/jobs/view.php?id=16)
 * [Android Lead](https://getflow.bamboohr.com/jobs/view.php?id=15)
 
-#### [Flytographer](http://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
+#### [Flytographer](https://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [FreshWorks Studio](https://freshworks.io/)
 * [Intermediate Full Stack Developer (Victoria)](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADN8jmnPJ9_Rl)
@@ -118,111 +119,109 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [FuturePet](https://www.futurepet.care/)
 
-#### [Giftbit](http://www.giftbit.com/) (👩‍💻 Co-Op / Intern Friendly)
+#### [Giftbit](https://www.giftbit.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Hipwood Digital](http://www.hipwooddigital.com/)
 
-#### [Hololabs](http://www.hololabs.org/) (👩‍💻 Co-Op / Intern Friendly)
-* [Game Developer](http://www.hololabs.org/hiring-game-developer)
+#### [Hololabs](https://www.hololabs.org/) (👩‍💻 Co-Op / Intern Friendly)
+* [Game Developer](https://www.hololabs.org/hiring-game-developer)
 
-#### [Isolation Network](http://www.isolationnetwork.com/) (👩‍💻 Co-Op / Intern Friendly)
+#### [Isolation Network](https://www.isolationnetwork.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Data Engineer](https://jobs.smartrecruiters.com/INgroovesMusicGroup/743999661351974-data-engineer)
 * [Data Scientist](https://jobs.smartrecruiters.com/INgroovesMusicGroup/743999661351703-data-scientist)
 
-#### [itgroove](http://itgroove.net/) (👩‍💻 Co-Op / Intern Friendly)
-* [Web Applications Developer, Back End Specialist](http://itgroove.net/about/work-with-us/job-opportunity-web-apps-developer-back-end/)
-* [UX Specialist](http://itgroove.net/about/work-with-us/job-opportunity-ux-specialist/)
+#### [itgroove](https://itgroove.net/) (👩‍💻 Co-Op / Intern Friendly)
+* [Web Applications Developer, Back End Specialist](https://itgroove.net/about/work-with-us/job-opportunity-web-apps-developer-back-end/)
+* [UX Specialist](https://itgroove.net/about/work-with-us/job-opportunity-ux-specialist/)
 
 #### [JUUL](https://www.juul.ca) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Full-Stack Software Engineer](https://boards.greenhouse.io/juullabs/jobs/597504)
 * [Senior Frontend Software Engineer](https://boards.greenhouse.io/juullabs/jobs/1032037)
 
-#### [Kano](http://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
+#### [Kano](https://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Lead Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=31)
 * [Junior Digital Marketer](https://kanoapps.bamboohr.com/jobs/view.php?id=47)
 * [Intermediate Game Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=45)
 * [Senior Game Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=49)
 
-#### [KIXEYE Canada Ltd](http://www.kixeye.com/)
+#### [KIXEYE Canada Ltd](https://www.kixeye.com/)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Leap XD](https://www.leapxd.com)
 * [Senior Front-End Developer](https://www.leapxd.com/senior-front-end-web-developer/)
 
-#### [LlamaZOO](http://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
+#### [LlamaZOO](https://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Loam Studios](http://loamstudios.com/)
 
-#### [MetaLab](http://metalab.co/) (👩‍💻 Co-Op / Intern Friendly)
+#### [MetaLab](https://metalab.co/) (👩‍💻 Co-Op / Intern Friendly)
 * [Design Lead](https://boards.greenhouse.io/metalab/jobs/686744)
 * [Product Designer](https://boards.greenhouse.io/metalab/jobs/255316)
 
-#### [Momentum Dashboard](http://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Front-End Developer](http://momentumdash.com/careers/)
-* [Full Stack Developer](http://momentumdash.com/careers/)
+#### [Momentum Dashboard](https://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Front-End Developer](https://momentumdash.com/careers/)
+* [Full Stack Developer](https://momentumdash.com/careers/)
 
-#### [MonetizeMore](http://www.monetizemore.com/)
+#### [MonetizeMore](https://www.monetizemore.com/)
 
 #### [NetMotion](https://www.netmotionsoftware.com)
 
-#### [One Net Marketing](http://onenetmarketing.com)
-
-#### [Onebit Labs](http://onebitlabs.com/)
+#### [One Net Marketing](https://onenetmarketing.com)
 
 #### [OneWed](https://www.onewed.com/) (👩‍💻 Co-Op / Intern Friendly)
 
-#### [PG Music](http://www.pgmusic.com/)
-* [iOS Developer](http://www.pgmusic.com/jobs.iosdeveloper.htm)
+#### [PG Music](https://www.pgmusic.com/)
+* [iOS Developer](https://www.pgmusic.com/jobs.iosdeveloper.htm)
 
 #### [Pixel Union](https://pixelunion.net/)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
-* [Full Stack Developer - Intermediate](http://pretiointeractive.humi.ca/job-board/uncategorized/616)
+* [Full Stack Developer - Intermediate](https://pretiointeractive.humi.ca/job-board/uncategorized/616)
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=30)
 
 #### [RevenueWire](https://www.revenuewire.com/) (👩‍💻 Co-Op / Intern Friendly)
 
-#### [RingPartner](http://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
+#### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 
-#### [Rooof](http://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
+#### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Mapping and Support Engineer](https://rooof.bamboohr.com/jobs/view.php?id=51)
 * [UX/UI Designer](https://rooof.bamboohr.com/jobs/view.php?id=41)
 
 #### [Ruboss](http://ruboss.com/)
 
-#### [SaaSquatch](http://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
+#### [SaaSquatch](https://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Back End Developer](https://www.saasquatch.com/careers/)
 * [Front End Developer](https://www.saasquatch.com/careers/)
 * [SaaSquatch Implementations Specialist](https://www.saasquatch.com/careers/)
 * [SaaSquatch Solutions Architect](https://www.saasquatch.com/careers/)
 
-#### [Sasquatch Studio](http://www.sasquatchstudio.co/)
+#### [Sasquatch Studio](https://www.sasquatchstudio.co/)
 
 #### [SeafoodX](https://www.seafoodx.io/) (👩‍💻 Co-Op / Intern Friendly)
 
-#### [Semaphore](http://semaphoresolutions.com/)
+#### [Semaphore](https://semaphoresolutions.com/)
 * [Intermediate Software Developer](https://jobs.lever.co/semaphoresolutions/29478607-e70c-4203-8929-f6bb3d471cfb)
 * [Senior Software Developer - employee](https://jobs.lever.co/semaphoresolutions/821e227b-d738-4f51-ab04-41941f2530d8)
 * [Senior Full Stack Developer - contract or employee](https://jobs.lever.co/semaphoresolutions/30fb3113-f116-4e25-b90e-a7ecaa37b07a)
 
-#### [SendtoNews](http://www.sendtonews.com/)
+#### [SendtoNews](https://www.sendtonews.com/)
 * [Developer](https://secure.collage.co/jobs/sendtonews/6526)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
 * [Intermediate/Senior Front End Developer](https://www.sparklit.com/careers/#front-end)
 
-#### [SilkStart](http://silkstart.com/about/)
+#### [SilkStart](https://silkstart.com/about/)
 * [Sales Development Representative](https://silkstart.com/careers/) 
 * [Inside Sales](https://silkstart.com/careers/)
 * [Customer Success Specialist](https://silkstart.com/careers/)
 
-#### [Starfish Medical](http://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
+#### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Stocksy United](https://www.stocksy.com/)
 
@@ -230,9 +229,9 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Tapstream](https://tapstream.com/)
 
-#### [Telmediq](http://www.telmediq.com/) (👩‍💻 Co-Op / Intern Friendly)
+#### [Telmediq](https://www.telmediq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
-#### [Tutela](http://tutelatechnologies.com/)
+#### [Tutela](https://www.tutela.com/)
 * [Mobile Software QA Lead](https://tut.bamboohr.com/jobs/view.php?id=26)
 * [Mobile Quality Assurance Developer](https://tut.bamboohr.com/jobs/view.php?id=25)
 * [Customer Success Specialist](https://tut.bamboohr.com/jobs/view.php?id=32)
@@ -241,7 +240,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [System Architecture Optimizer](https://tut.bamboohr.com/jobs/view.php?id=28)
 * [Financial Controller](https://tut.bamboohr.com/jobs/view.php?id=31)
 
-#### [ViVitro Labs](http://vivitrolabs.com/) (👩‍💻 Co-Op / Intern Friendly)
+#### [ViVitro Labs](https://vivitrolabs.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Watershed Partners](https://watershed.co/)
 
