@@ -45,6 +45,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Developer](http://www.appcolony.ca/careers/full-stack-developer/)
 
 #### [Appreciation Engine](https://get.theappreciationengine.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [DevOps Tribe Member](https://joinusappreciationengine.humi.ca/job-board/engineering/553)
+* [Captain of Enterprise Customer Success](https://joinusappreciationengine.humi.ca/job-board/customer+success/552)
 
 #### [Atomic Crayon](http://www.atomiccrayon.com/)
 * [Web Developer](http://www.atomiccrayon.com/career-opportunities)
