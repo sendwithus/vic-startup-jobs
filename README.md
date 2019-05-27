@@ -133,8 +133,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Data Scientist](https://jobs.smartrecruiters.com/INgroovesMusicGroup/743999661351703-data-scientist)
 
 #### [itgroove](https://itgroove.net/) (👩‍💻 Co-Op / Intern Friendly)
-* [Web Applications Developer, Back End Specialist](https://itgroove.net/about/work-with-us/job-opportunity-web-apps-developer-back-end/)
-* [UX Specialist](https://itgroove.net/about/work-with-us/job-opportunity-ux-specialist/)
+* [Project Manager / Business Analyst](https://itgroove.net/careers/project-manager-business-analyst/)
 
 #### [JUUL](https://www.juul.ca) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Full-Stack Software Engineer](https://boards.greenhouse.io/juullabs/jobs/597504)
