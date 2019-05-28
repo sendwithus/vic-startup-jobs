@@ -24,6 +24,10 @@ user_agents = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299"
 ]
 
+blacklist = [
+    "https://www.juul.ca"
+]
+
 class LinkChecker(object):
     bad_links = []
     already_seen = []
@@ -32,6 +36,9 @@ class LinkChecker(object):
         text, link = args
 
         if link in self.already_seen:
+            return
+        
+        if link in blacklist:
             return
 
         headers = {
