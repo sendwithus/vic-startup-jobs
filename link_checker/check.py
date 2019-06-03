@@ -1,3 +1,5 @@
+import random
+
 from gevent import monkey
 monkey.patch_all()
 
@@ -13,25 +15,39 @@ from urllib3.exceptions import InsecureRequestWarning
 warnings.filterwarnings("ignore", category=InsecureRequestWarning)
 
 markdown_file = 'README.md'
-user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'
 
+user_agents = [
+    "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0",
+    "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:18.0) Gecko/20100101 Firefox/18.0",
+    "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299"
+]
+
+blacklist = [
+    "https://www.juul.ca"
+]
 
 class LinkChecker(object):
     bad_links = []
     already_seen = []
-    headers = {
-        'user-agent': user_agent
-    }
 
     def check_link(self, args):
         text, link = args
 
         if link in self.already_seen:
             return
+        
+        if link in blacklist:
+            return
+
+        headers = {
+            'user-agent': random.choice(user_agents)
+        }
 
         response = None
         try:
-            response = requests.get(link, headers=self.headers, allow_redirects=True, stream=True, verify=False)
+            response = requests.get(link, headers=headers, allow_redirects=True, verify=False, timeout=30)
 
             # collect status and URL info for links resulting in non-OK responses
             # so we can clean up the jobs listing
