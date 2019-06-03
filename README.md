@@ -241,6 +241,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [System Architecture Optimizer](https://tut.bamboohr.com/jobs/view.php?id=28)
 * [Financial Controller](https://tut.bamboohr.com/jobs/view.php?id=31)
 
+#### [VitaminLab](https://getvitaminlab.com/)
+* [Junior Business Analyst](https://www.viatec.ca/jobs/junior-business-administrator)
+
 #### [ViVitro Labs](https://vivitrolabs.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Watershed Partners](https://watershed.co/)
