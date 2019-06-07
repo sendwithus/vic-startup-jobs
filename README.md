@@ -79,6 +79,9 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
 
+#### [Cuboh](https://www.cuboh.com) (👩‍💻 Co-Op / Intern Friendly)
+* [Backend Developer](https://secure.collage.co/jobs/cuboh/9967)
+
 #### [Desolation Sound Systems](http://www.ds2i.ca/)
 
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
