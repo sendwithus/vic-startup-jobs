@@ -45,12 +45,11 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Developer](http://www.appcolony.ca/careers/full-stack-developer/)
 
 #### [Appreciation Engine](https://get.theappreciationengine.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [DevOps Tribe Member](https://joinusappreciationengine.humi.ca/job-board/engineering/553)
-* [Captain of Enterprise Customer Success](https://joinusappreciationengine.humi.ca/job-board/customer+success/552)
 
 #### [Atomic Crayon](http://www.atomiccrayon.com/)
 * [Web Developer](http://www.atomiccrayon.com/career-opportunities)
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
+
 
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
 * [Full-Stack Developer](https://career.bambora.com/jobs/229617-full-stack-developer)
@@ -82,6 +81,9 @@ Keep in mind that companies may have job postings on their own site that are not
 
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
+
+#### [Cuboh](https://www.cuboh.com) (👩‍💻 Co-Op / Intern Friendly)
+* [Backend Developer](https://secure.collage.co/jobs/cuboh/9967)
 
 #### [Desolation Sound Systems](http://www.ds2i.ca/)
 
@@ -177,6 +179,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [iOS Developer](https://www.pgmusic.com/jobs.iosdeveloper.htm)
 
 #### [Pixel Union](https://pixelunion.net/)
+* [Developer](https://workable.com/j/1C38D5F858)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
