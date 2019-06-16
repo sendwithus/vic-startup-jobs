@@ -256,6 +256,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Developer](https://waterworth.net/careers/)
 * [Customer Success Manager](https://waterworth.net/careers/)
 
+#### [White Ops](https://www.whiteops.com/)
+* [JavaScript Payload Engineer](https://boards.greenhouse.io/whiteops/jobs/1660045)
+
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Product Manager - Video Intelligence](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Senior-Product-Manager---Video-Intelligence_JR-34317)
 * [Sr. UX Researcher - MediaCloud](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Sr-UX-Researcher_JR-32903)
