@@ -79,7 +79,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Game Data Analyst](http://www.codenameentertainment.com/?page=jobs#coops)
 * [Game Programmer](http://www.codenameentertainment.com/?page=jobs#coops)
 
-
 #### [Crowdcontent](https://www.crowdcontent.com/)
 
 #### [Cuboh](https://www.cuboh.com) (👩‍💻 Co-Op / Intern Friendly)
@@ -90,7 +89,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [Engineering Manager](https://www.dyspatch.io/about/careers/post/?2fdc5b83-0c81-410a-bfc1-561f96c661df)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
 * [Company Success Specialist (Office Admin / Bookkeeper)](https://echosec.breezy.hr/p/54ce9ca98d9d-company-success-specialist-office-admin-bookkeeper)
