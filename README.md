@@ -59,6 +59,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Software Developer](https://www.brnkl.io/wp-content/uploads/2019/02/20190228_BRNKL-Job-Description_Software-Developer.pdf)
 
 #### [Benevity](https://www.benevity.com/)
+* [Intermediate / Senior Software Developer](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=242)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
 * [Customer Support Guru (Fluent in French)](https://certn.co/customer-supoort-guru-french/)
