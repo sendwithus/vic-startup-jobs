@@ -52,8 +52,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
-* [Full-Stack Developer](https://career.bambora.com/jobs/229617-full-stack-developer)
-* [DevOps Engineer](https://career.bambora.com/jobs/243833-devops-engineer)
 
 #### [Barnacle Systems](https://www.brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Software Developer](https://www.brnkl.io/wp-content/uploads/2019/02/20190228_BRNKL-Job-Description_Software-Developer.pdf)
@@ -251,7 +249,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Watershed Partners](https://watershed.co/)
 
 #### [Waterworth ](https://waterworth.net/)
-* [Full Stack Developer](https://waterworth.net/careers/)
 * [Customer Success Manager](https://waterworth.net/careers/)
 
 #### [White Ops](https://www.whiteops.com/)
