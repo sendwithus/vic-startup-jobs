@@ -244,7 +244,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Financial Controller](https://tut.bamboohr.com/jobs/view.php?id=31)
 
 #### [VitaminLab](https://getvitaminlab.com/)
-* [Junior Business Analyst](https://www.viatec.ca/jobs/junior-business-administrator)
+* [Intermediate Full Stack Web Developer](https://www.viatec.ca/jobs/intermediate-full-stack-web-developer)
 
 #### [ViVitro Labs](https://vivitrolabs.com/) (👩‍💻 Co-Op / Intern Friendly)
 
