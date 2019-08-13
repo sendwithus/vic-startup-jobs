@@ -148,6 +148,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [KIXEYE Canada Ltd](https://www.kixeye.com/)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Intermediate/Career Software Developer](https://geocortex.bamboohr.com/jobs/view.php?id=109)
 
 #### [Leap XD](https://www.leapxd.com)
 * [Senior Front-End Developer](https://www.leapxd.com/senior-front-end-web-developer/)
