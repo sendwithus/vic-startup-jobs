@@ -169,6 +169,9 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [NetMotion](https://www.netmotionsoftware.com)
 
+#### [North Robotics](http://www.northrobotics.com)
+* [Computer Engineer](https://www.northrobotics.com/?page_id=1760)
+
 #### [One Net Marketing](https://onenetmarketing.com)
 
 #### [OneWed](https://www.onewed.com/) (👩‍💻 Co-Op / Intern Friendly)
