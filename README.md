@@ -115,6 +115,9 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Flytographer](https://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
 
+#### [Foundry Spatial](https://www.foundryspatial.com)
+* [Full Stack Web Developer](https://www.foundryspatial.com/careers/full-stack-web-developer.html)
+
 #### [FreshWorks Studio](https://freshworks.io/)
 * [Intermediate Full Stack Developer (Victoria)](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADN8jmnPJ9_Rl)
 * [Technical Project Manager](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbJJG3ogtpx4G)
