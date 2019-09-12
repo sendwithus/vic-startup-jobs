@@ -191,9 +191,12 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Developer - Intermediate](https://pretiointeractive.humi.ca/job-board/uncategorized/616)
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Server Software Engineer](https://rdbrck.bamboohr.com/jobs/view.php?id=33)
-* [Intermediate Full-Stack Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=34)
-* [Digital Marketer](https://rdbrck.bamboohr.com/jobs/view.php?id=32)
+* [Technical Analyst](https://rdbrck.bamboohr.com/jobs/view.php?id=40)
+* [Full-Stack Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=39)
+* [Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=41)
+* [Web Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=38)
+* [Digital Product Manager](https://rdbrck.bamboohr.com/jobs/view.php?id=37)
+* [Office Manager](https://rdbrck.bamboohr.com/jobs/view.php?id=42)
 
 #### [RevenueWire](https://www.revenuewire.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -242,13 +245,10 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Telmediq](https://www.telmediq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Tutela](https://www.tutela.com/)
-* [Mobile Software QA Lead](https://tut.bamboohr.com/jobs/view.php?id=26)
-* [Mobile Quality Assurance Developer](https://tut.bamboohr.com/jobs/view.php?id=25)
-* [Customer Success Specialist](https://tut.bamboohr.com/jobs/view.php?id=32)
+* [Application Developer](https://tut.bamboohr.com/jobs/view.php?id=41)
+* [UX/UI Designer](https://tut.bamboohr.com/jobs/view.php?id=39)
 * [Android Software Developer](https://tut.bamboohr.com/jobs/view.php?id=22)
 * [Intermediate Software Developer](https://tut.bamboohr.com/jobs/view.php?id=27)
-* [System Architecture Optimizer](https://tut.bamboohr.com/jobs/view.php?id=28)
-* [Financial Controller](https://tut.bamboohr.com/jobs/view.php?id=31)
 
 #### [VitaminLab](https://getvitaminlab.com/)
 
@@ -263,17 +263,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [JavaScript Payload Engineer](https://boards.greenhouse.io/whiteops/jobs/1660045)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Product Manager - Video Intelligence](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Senior-Product-Manager---Video-Intelligence_JR-34317)
-* [Sr. UX Researcher - MediaCloud](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Sr-UX-Researcher_JR-32903)
-* [Machine Learning Leader](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-San-Francisco/Machine-Learning-Leader_JR-33550)
-* [Senior DevOps Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/DevOps-Engineer_JR-32684)
-* [Financial Instructor](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Financial-Instructor_JR-26537)
-* [Senior Software Development Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Senior-Software-Development-Engineer_JR-34861)
-* [Senior / Principal Data Scientist](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Vancouver/Sr-Data-Scientist_JR-31938)
-* [Sr. Software Engineer - iOS](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Sr-Software-Engineer---iOS_JR-35083)
-* [Software Engineer - iOS](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Software-Engineer---iOS_JR-35081)
-* [Experienced Software Engineer - People Experience](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Experienced-Software-Engineer---People-Experience_JR-34873-1)
-* [Director Product Management, Outbound](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Director-Product-Management--Outbound_JR-35405)
 
 #### [Zynga Canada](https://www.zynga.com/)
 
