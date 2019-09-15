@@ -52,7 +52,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
-* [IT Support Specialist](https://career.bambora.com/jobs/259729-it-support-specialist)
 
 #### [Barnacle Systems](https://www.brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Software Developer](https://www.brnkl.io/wp-content/uploads/2019/02/20190228_BRNKL-Job-Description_Software-Developer.pdf)
@@ -69,15 +68,9 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=24)
-* [Product Manager](https://checkfront.bamboohr.com/jobs/view.php?id=45)
 * [Sales Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=13)
-* [Product Designer](https://checkfront.bamboohr.com/jobs/view.php?id=43)
-* [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=49)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Junior Game Programmer Co-op - Web/Mobile](http://www.codenameentertainment.com/?page=jobs#coops)
-* [Game Data Analyst](http://www.codenameentertainment.com/?page=jobs#coops)
-* [Game Programmer](http://www.codenameentertainment.com/?page=jobs#coops)
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
 
@@ -91,11 +84,11 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
-* [Company Success Specialist (Office Admin / Bookkeeper)](https://echosec.breezy.hr/p/54ce9ca98d9d-company-success-specialist-office-admin-bookkeeper)
-* [Data Integration Developer](https://echosec.breezy.hr/p/2771b5464299-data-integration-developer)
-* [Intermediate Front End Developer](https://echosec.breezy.hr/p/d6e5558cde11-intermediate-front-end-developer)
+* [People and Community Manager](https://echosec.breezy.hr/p/963f81cdd8fe-people-and-community-manager-people-ops)
+* [Senior Engineer](https://echosec.breezy.hr/p/c46840a9466d-senior-engineer)
+* [Front End Developer](https://echosec.breezy.hr/p/d6e5558cde11-front-end-developer)
 * [Intermediate Full Stack Developer](https://echosec.breezy.hr/p/8eb0b201ae71-intermediate-full-stack-developer)
-* [Sales Development Representative](https://echosec.breezy.hr/p/7773cf8192fa-sales-development-representative)
+
 
 #### [EncoreFX](https://www.encorefx.com/)
 
@@ -110,8 +103,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### Fifth Gear Marketing
 
 #### [Flow](https://www.getflow.com/)
-* [iOS Lead](https://getflow.bamboohr.com/jobs/view.php?id=16)
-* [Android Lead](https://getflow.bamboohr.com/jobs/view.php?id=15)
 
 #### [Flytographer](https://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -144,8 +135,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Kano](https://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Lead Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=31)
-* [Junior Digital Marketer](https://kanoapps.bamboohr.com/jobs/view.php?id=47)
-* [Intermediate Game Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=45)
 * [Senior Game Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=49)
 
 #### [KIXEYE Canada Ltd](https://www.kixeye.com/)
@@ -183,7 +172,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [iOS Developer](https://www.pgmusic.com/jobs.iosdeveloper.htm)
 
 #### [Pixel Union](https://pixelunion.net/)
-* [Developer](https://workable.com/j/1C38D5F858)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -203,7 +191,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
-* [Mapping and Support Engineer](https://rooof.bamboohr.com/jobs/view.php?id=51)
 * [UX/UI Designer](https://rooof.bamboohr.com/jobs/view.php?id=41)
 
 #### [Ruboss](http://ruboss.com/)
@@ -223,7 +210,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Software Developer - employee](https://jobs.lever.co/semaphoresolutions/821e227b-d738-4f51-ab04-41941f2530d8)
 
 #### [SendtoNews](https://www.sendtonews.com/)
-* [Developer](https://secure.collage.co/jobs/sendtonews/6526)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
@@ -260,7 +246,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Success Manager](https://waterworth.net/careers/)
 
 #### [White Ops](https://www.whiteops.com/)
-* [JavaScript Payload Engineer](https://boards.greenhouse.io/whiteops/jobs/1660045)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
 
