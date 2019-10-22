@@ -63,7 +63,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Intermediate / Senior Software Developer](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=242)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [Customer Support Guru (Fluent in French)](https://certn.co/customer-supoort-guru-french/)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
 
