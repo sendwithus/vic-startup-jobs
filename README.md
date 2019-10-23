@@ -35,6 +35,21 @@ Companies that are known for hiring/placing  co-op students and interns will hav
 
 Keep in mind that companies may have job postings on their own site that are not listed here - you should visit them and look for opportunities.  Also, many companies are open to being contacted directly about opportunities, even if it's only to keep your resume on file.
 
+#### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
+* [Director, Cloud Operations](https://dxcas.com/images/DXCAS/Careers/pdf/Exempt_Director_Cloud_Ops_JP.pdf)
+* [IS32 Cloud Architect](https://dxcas.com/images/DXCAS/Careers/pdf/IS32_CloudArchitect_JP.pdf)
+* [IS30 Senior Project Manager](https://dxcas.com/images/DXCAS/Careers/pdf/IS30_Sr_Project_Manager_JP.pdf)
+* [IS27 Engineering Lead - Cloud](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_EngineeringLead_JP.pdf)
+* [IS27 Senior Server Administrator - Citrix](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_SeniorServerAdministrator_Citrix_JP-DD.pdf)
+* [IS27 Senior OpenVMS Administrator](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_Sr_OpenVMS_Admin_JP.pdf)
+* [IS27 Configuration Management Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS27-CMA_JP.pdf)
+* [IS24 SAN Storage Administrator](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_SAN_Storage_Administrator_JP.pdf)
+* [IS24 Intermediate Technical Analyst (SACM)](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Technical_Analyst_JP.pdf)
+* [IS24 Intermediate Server Administrator, Windows](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Server_Admin_JP.pdf)
+* [IS24 Intermediate Database Administrator](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Database_Admin_JP.pdf)
+* [IS21 Server Administrator, Linux](https://dxcas.com/images/DXCAS/Careers/pdf/IS21_ServerAdmin_Linux_JP.pdf)
+* [IS18 Service Desk Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP.pdf)
+
 #### [Airsenze](https://www.airsenze.com/)
 
 #### [AggregateIQ](https://www.aggregateiq.com/) (👩‍💻 Co-Op / Intern Friendly)
