@@ -71,8 +71,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Developer (Fixed Term Contract)](https://career.bambora.com/jobs/305735-full-stack-developer-fixed-term-contract)
 * [Project Manager (Fixed Term Contract)](https://career.bambora.com/jobs/305728-project-manager-fixed-term-contract)
 
-#### [Barnacle Systems](https://www.brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [Software Developer](https://www.brnkl.io/wp-content/uploads/2019/02/20190228_BRNKL-Job-Description_Software-Developer.pdf)
+#### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
+* [Software Developer](https://brnkl.io/wp-content/uploads/2019/02/20190228_BRNKL-Job-Description_Software-Developer.pdf)
 
 #### [Benevity](https://www.benevity.com/)
 * [Intermediate / Senior Software Developer](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=242)
