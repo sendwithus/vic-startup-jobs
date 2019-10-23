@@ -82,7 +82,7 @@ class LinkChecker(object):
         raw_markdown = open(md_file, 'r').read()
         links = re.findall(r'\[([^\]]+)\]\(([^\)]+)\)', raw_markdown)
 
-        pool = Pool(100)
+        pool = Pool(3)
         pool.map(self.check_link, links)
         pool.join()
 
