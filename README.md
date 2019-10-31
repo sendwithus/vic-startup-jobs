@@ -78,6 +78,10 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Intermediate / Senior Software Developer](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=242)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
+* [UI/UX Designer](https://certn.co/ui-ux-designer/)
+* [Co-Op API Developer](https://certn.co/co-op-api-developer/)
+* [Intermediate Back-End Developer](https://certn.co/intermediate-back-end-developer/)
+* [Customer Support Representative](https://certn.co/customer-support/)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
 
