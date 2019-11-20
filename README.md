@@ -104,13 +104,12 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
+* [Marketing Manager](https://www.dyspatch.io/about/careers/post/?7860168d-028c-46fc-8243-41f5afb2ebe8)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
-* [People and Community Manager](https://echosec.breezy.hr/p/963f81cdd8fe-people-and-community-manager-people-ops)
 * [Senior Engineer](https://echosec.breezy.hr/p/c46840a9466d-senior-engineer)
 * [Front End Developer](https://echosec.breezy.hr/p/d6e5558cde11-front-end-developer)
 * [Intermediate Full Stack Developer](https://echosec.breezy.hr/p/8eb0b201ae71-intermediate-full-stack-developer)
-
 
 #### [EncoreFX](https://www.encorefx.com/)
 
