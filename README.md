@@ -134,7 +134,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [FreshWorks Studio](https://freshworks.io/)
 * [Intermediate Full Stack Developer (Victoria)](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADN8jmnPJ9_Rl)
 * [Technical Project Manager](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbJJG3ogtpx4G)
-* [QA Analyst](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbD21fzyui3o_)
 
 #### [FuturePet](https://www.futurepet.care/)
 
