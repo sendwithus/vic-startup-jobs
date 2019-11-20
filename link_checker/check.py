@@ -79,7 +79,7 @@ class LinkChecker(object):
         self.already_seen.append(link)
 
     def parse_page(self, md_file):
-        raw_markdown = open(md_file, 'r').read()
+        raw_markdown = open(md_file, 'r', encoding="utf8").read()
         links = re.findall(r'\[([^\]]+)\]\(([^\)]+)\)', raw_markdown)
 
         pool = Pool(3)
