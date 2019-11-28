@@ -199,12 +199,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Developer - Intermediate](https://pretiointeractive.humi.ca/job-board/uncategorized/616)
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Technical Analyst](https://rdbrck.bamboohr.com/jobs/view.php?id=40)
-* [Full-Stack Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=39)
-* [Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=41)
-* [Web Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=38)
-* [Digital Product Manager](https://rdbrck.bamboohr.com/jobs/view.php?id=37)
-* [Office Manager](https://rdbrck.bamboohr.com/jobs/view.php?id=42)
 
 #### [RevenueWire](https://www.revenuewire.com/) (👩‍💻 Co-Op / Intern Friendly)
 
