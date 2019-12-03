@@ -43,7 +43,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [IS27 Senior Server Administrator - Citrix](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_SeniorServerAdministrator_Citrix_JP-DD.pdf)
 * [IS27 Configuration Management Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS27-CMA_JP.pdf)
 * [IS27 Senior Integration Specialist, Cloud Services](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS27_Sr_Int_Specialist_JP.pdf)
-* [IS24 Intermediate Technical Analyst (SACM)](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Technical_Analyst_JP.pdf)
 * [IS24 Intermediate Server Administrator, Windows](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Server_Admin_JP.pdf)
 * [IS24 Intermediate Database Administrator](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Database_Admin_JP.pdf)
 * [IS24 Intermediate Platform Services Administrator(VMware)](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_PlatformAdmin_JP.pdf)
@@ -199,6 +198,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Developer - Intermediate](https://pretiointeractive.humi.ca/job-board/uncategorized/616)
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
+
+#### [Revela Systems](https://www.revela.io/) (👩‍💻 Co-Op / Intern Friendly)
+* [DevOps Developer](https://www.revela.io/docs/2019_DevOpsDev.pdf)
 
 #### [RevenueWire](https://www.revenuewire.com/) (👩‍💻 Co-Op / Intern Friendly)
 
