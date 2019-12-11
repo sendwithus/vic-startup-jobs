@@ -47,7 +47,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [IS24 Intermediate Database Administrator](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Database_Admin_JP.pdf)
 * [IS24 Intermediate Platform Services Administrator(VMware)](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_PlatformAdmin_JP.pdf)
 * [IS21 Server Administrator, Linux](https://dxcas.com/images/DXCAS/Careers/pdf/IS21_ServerAdmin_Linux_JP.pdf)
-* [IS21 RMS Test Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_RMS_Test_Analyst_JP.pdf)
 * [IS18 Service Desk Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP.pdf)
 
 #### [Airsenze](https://www.airsenze.com/)
@@ -258,8 +257,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Watershed Partners](https://watershed.co/)
 
-#### [Waterworth ](https://waterworth.net/)
-* [Customer Success Manager](https://waterworth.net/careers/)
+#### [Waterworth](https://waterworth.net/)
 
 #### [White Ops](https://www.whiteops.com/)
 
