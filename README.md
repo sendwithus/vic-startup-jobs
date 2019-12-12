@@ -200,7 +200,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Revela Systems](https://www.revela.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [DevOps Developer](https://www.revela.io/docs/2019_DevOpsDev.pdf)
+* [Python Cloud Developer](https://www.revela.io/docs/201912-02_CloudDev.pdf)
 
 #### [RevenueWire](https://www.revenuewire.com/) (👩‍💻 Co-Op / Intern Friendly)
 
