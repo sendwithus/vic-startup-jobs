@@ -43,12 +43,10 @@ Keep in mind that companies may have job postings on their own site that are not
 * [IS27 Senior Server Administrator - Citrix](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_SeniorServerAdministrator_Citrix_JP-DD.pdf)
 * [IS27 Configuration Management Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS27-CMA_JP.pdf)
 * [IS27 Senior Integration Specialist, Cloud Services](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS27_Sr_Int_Specialist_JP.pdf)
-* [IS24 Intermediate Technical Analyst (SACM)](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Technical_Analyst_JP.pdf)
 * [IS24 Intermediate Server Administrator, Windows](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Server_Admin_JP.pdf)
 * [IS24 Intermediate Database Administrator](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Database_Admin_JP.pdf)
 * [IS24 Intermediate Platform Services Administrator(VMware)](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_PlatformAdmin_JP.pdf)
 * [IS21 Server Administrator, Linux](https://dxcas.com/images/DXCAS/Careers/pdf/IS21_ServerAdmin_Linux_JP.pdf)
-* [IS21 RMS Test Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_RMS_Test_Analyst_JP.pdf)
 * [IS18 Service Desk Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP.pdf)
 
 #### [Airsenze](https://www.airsenze.com/)
@@ -104,7 +102,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [Marketing Manager](https://www.dyspatch.io/about/careers/post/?7860168d-028c-46fc-8243-41f5afb2ebe8)
+* [Software Developer](https://www.dyspatch.io/about/careers/post/?d3e37047-89ac-417a-8621-c77b4cfde148)
+* [Junior Software Developer](https://www.dyspatch.io/about/careers/post/?c73b0572-8f79-41f4-a628-9361a8e62eb7)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Engineer](https://echosec.breezy.hr/p/c46840a9466d-senior-engineer)
@@ -259,8 +258,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Watershed Partners](https://watershed.co/)
 
-#### [Waterworth ](https://waterworth.net/)
-* [Customer Success Manager](https://waterworth.net/careers/)
+#### [Waterworth](https://waterworth.net/)
 
 #### [White Ops](https://www.whiteops.com/)
 
