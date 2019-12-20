@@ -75,6 +75,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Benevity](https://www.benevity.com/)
 * [Intermediate / Senior Software Developer](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=242)
+* [Site Reliability Engineer (open to Victoria)](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=326)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
 * [UI/UX Designer](https://certn.co/ui-ux-designer/)
