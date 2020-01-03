@@ -251,10 +251,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Telmediq](https://www.telmediq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Tutela](https://www.tutela.com/)
-* [Application Developer](https://tut.bamboohr.com/jobs/view.php?id=41)
-* [UX/UI Designer](https://tut.bamboohr.com/jobs/view.php?id=39)
 * [Android Software Developer](https://tut.bamboohr.com/jobs/view.php?id=22)
-* [Intermediate Software Developer](https://tut.bamboohr.com/jobs/view.php?id=27)
+* [DevOps](https://tut.bamboohr.com/hiring/jobs/47)
 
 #### [VitaminLab](https://getvitaminlab.com/)
 
