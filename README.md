@@ -38,7 +38,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
 * [Director, Cloud Operations](https://dxcas.com/images/DXCAS/Careers/pdf/Exempt_Director_Cloud_Ops_JP.pdf)
 * [IS32 Cloud Architect](https://dxcas.com/images/DXCAS/Careers/pdf/IS32_CloudArchitect_JP.pdf)
-* [IS30 Senior Project Manager, OCM Specialist](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS30_OCM_Sr_Project_Manager_JP.pdf)
 * [IS27 Engineering Lead - Cloud](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_EngineeringLead_JP.pdf)
 * [IS27 Senior Server Administrator - Citrix](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_SeniorServerAdministrator_Citrix_JP-DD.pdf)
 * [IS27 Configuration Management Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS27-CMA_JP.pdf)
@@ -54,9 +53,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [AggregateIQ](https://www.aggregateiq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Appcolony](http://www.appcolony.ca/)
-* [Infrastructure Developer](http://www.appcolony.ca/careers/infrastructure-developer/)
-* [Intermediate Frontend Developer](http://www.appcolony.ca/careers/intermediate-frontend-developer/)
-* [Full Stack Developer](http://www.appcolony.ca/careers/full-stack-developer/)
+* [Senior Designer](http://www.appcolony.ca/careers/senior-designer/)
+* [UX/UI Designer](http://www.appcolony.ca/careers/uxui-designer/)
+* [Andriod + Web Developer](http://www.appcolony.ca/careers/android-web-developer/)
 
 #### [Appreciation Engine](https://get.theappreciationengine.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -78,7 +77,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Site Reliability Engineer (open to Victoria)](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=326)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [UI/UX Designer](https://certn.co/ui-ux-designer/)
 * [Co-Op API Developer](https://certn.co/co-op-api-developer/)
 * [Intermediate Back-End Developer](https://certn.co/intermediate-back-end-developer/)
 * [Customer Support Representative](https://certn.co/customer-support/)
@@ -88,8 +86,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ChatterBlock](https://www.chatterblock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=24)
-* [Sales Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=13)
+* [Intermediate DevOps Developer](https://checkfront.bamboohr.com/jobs/view.php?id=60)
+* [Business Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=56)
+* [Junior Accounting Technician](https://checkfront.bamboohr.com/jobs/view.php?id=61)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -97,6 +96,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Cuboh](https://www.cuboh.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Backend Developer](https://secure.collage.co/jobs/cuboh/9967)
+* [Customer Success / Setup Specialist](https://secure.collage.co/jobs/cuboh/14294)
 
 #### [Desolation Sound Systems](http://www.ds2i.ca/)
 
