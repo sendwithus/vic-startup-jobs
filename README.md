@@ -87,6 +87,12 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Intermediate DevOps Developer](https://checkfront.bamboohr.com/jobs/view.php?id=60)
+* [Senior Front-end / UI Developer](https://checkfront.bamboohr.com/jobs/view.php?id=65)
+* [Senior Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=66)
+* [Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=24)
+* [Lead Web Application Developer (Integrations)](https://checkfront.bamboohr.com/jobs/view.php?id=64)
+* [Senior Web Application Developer (Integrations)](https://checkfront.bamboohr.com/jobs/view.php?id=62)
+* [Web Application Developer (Integrations)](https://checkfront.bamboohr.com/jobs/view.php?id=63)
 * [Business Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=56)
 * [Junior Accounting Technician](https://checkfront.bamboohr.com/jobs/view.php?id=61)
 
