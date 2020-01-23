@@ -29,7 +29,6 @@ Companies that are known for hiring/placing  co-op students and interns will hav
 ### How can I get involved in the Victoria tech community?
 * Connect with the Victoria tech community by joining the [YYJ Tech Slack group](https://joinyyjtechslack.herokuapp.com/)
 * Connect with the Victoria ladies tech community by joining the [YYJ Tech Ladies Slack group](https://www.yyjtechladies.com/). Please note that this group is for anyone who is female.
-* Keep an eye out for events on the [Victoria Startups calendar](http://victoriastartups.com/)
 
 ## Current Job Openings
 
@@ -44,7 +43,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [IS27 Senior Integration Specialist, Cloud Services](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS27_Sr_Int_Specialist_JP.pdf)
 * [IS24 Intermediate Server Administrator, Windows](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Server_Admin_JP.pdf)
 * [IS24 Intermediate Database Administrator](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Database_Admin_JP.pdf)
-* [IS24 Intermediate Platform Services Administrator(VMware)](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_PlatformAdmin_JP.pdf)
 * [IS21 Server Administrator, Linux](https://dxcas.com/images/DXCAS/Careers/pdf/IS21_ServerAdmin_Linux_JP.pdf)
 * [IS18 Service Desk Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP.pdf)
 
@@ -71,6 +69,10 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Software Developer](https://brnkl.io/wp-content/uploads/2019/02/20190228_BRNKL-Job-Description_Software-Developer.pdf)
+
+#### [BCDevExchange](https://www.bcdevexchange.org/)
+* [ISL 27R - Platform Administrator](https://bcpublicservice.hua.hrsmart.com/hr/ats/Posting/view/67298)
+* [ISL 30R - Senior Platform Administrator ](https://bcpublicservice.hua.hrsmart.com/hr/ats/Posting/view/67295)
 
 #### [Benevity](https://www.benevity.com/)
 * [Intermediate / Senior Software Developer](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=242)
@@ -103,8 +105,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Cuboh](https://www.cuboh.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Backend Developer](https://secure.collage.co/jobs/cuboh/9967)
 * [Customer Success / Setup Specialist](https://secure.collage.co/jobs/cuboh/14294)
-
-#### [Desolation Sound Systems](http://www.ds2i.ca/)
 
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
