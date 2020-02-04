@@ -63,9 +63,8 @@ Keep in mind that companies may have job postings on their own site that are not
 
 
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
-* [Full Stack Developer (Fixed Term Contract)](https://career.bambora.com/jobs/796967-full-stack-developer-fixed-term-contract)
-* [Site Reliability Engineer Platform (Fixed Term Contract)](https://career.bambora.com/jobs/796969-site-reliability-engineer-platform-fixed-term-contract)
-* [Site Reliability Engineer (Infrastructure)](https://career.bambora.com/jobs/800598-site-reliability-engineer-infrastructure)
+* [Full Stack Developer](https://career.bambora.com/jobs/818048-full-stack-developer)
+* [Site Reliability Engineer Platform (Fixed Term Contract)](https://career.bambora.com/jobs/818047-site-reliability-engineer-platform-fixed-term-contract)
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Software Developer](https://brnkl.io/wp-content/uploads/2019/02/20190228_BRNKL-Job-Description_Software-Developer.pdf)
