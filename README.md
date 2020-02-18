@@ -69,10 +69,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Software Developer](https://brnkl.io/wp-content/uploads/2019/02/20190228_BRNKL-Job-Description_Software-Developer.pdf)
 
-#### [BCDevExchange](https://www.bcdevexchange.org/)
-* [ISL 27R - Platform Administrator](https://bcpublicservice.hua.hrsmart.com/hr/ats/Posting/view/67298)
-* [ISL 30R - Senior Platform Administrator ](https://bcpublicservice.hua.hrsmart.com/hr/ats/Posting/view/67295)
-
 #### [Benevity](https://www.benevity.com/)
 * [Intermediate / Senior Software Developer](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=242)
 * [Site Reliability Engineer (open to Victoria)](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=326)
