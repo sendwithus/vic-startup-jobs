@@ -207,7 +207,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Computer Engineer](https://www.northrobotics.com/?page_id=1760)
 
 #### [OneFeather](https://onefeather.ca/)
-* [Development Team Lead](https://apply.workable.com/onefeather/j/3B906F180A/)
 
 #### [OneWed](https://www.onewed.com/) (👩‍💻 Co-Op / Intern Friendly)
 
