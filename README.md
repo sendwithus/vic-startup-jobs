@@ -68,7 +68,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Benevity](https://www.benevity.com/)
 * [Group Product Manager](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=348)
-* [Site Reliability Engineer (open to Victoria)](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=326)
+* [Site Reliability Engineer](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=340)
 * [Software Developer Intern](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=339)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
