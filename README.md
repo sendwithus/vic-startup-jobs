@@ -147,6 +147,13 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [FuturePet](https://www.futurepet.care/)
 
+#### [Gearbox Development](https://gearboxbuilt.com/)
+* [Senior Frontend Web Developer](https://gearboxbuilt.humi.ca/job-board/development/1821)
+* [Intermediate Frontend Web Developer](https://gearboxbuilt.humi.ca/job-board/development/1822)
+* [WordPress Developer](https://gearboxbuilt.humi.ca/job-board/development/1824)
+* [Project Producer](https://gearboxbuilt.humi.ca/job-board/development/1823)
+* [Administrative Assistant](https://gearboxbuilt.humi.ca/job-board/development/1825)
+
 #### [Giftbit](https://www.giftbit.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Office and Culture Coordinator](https://giftbit.bamboohr.com/jobs/view.php?id=18)
 
