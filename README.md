@@ -37,13 +37,12 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
 * [Director, Cloud Operations](https://dxcas.com/images/DXCAS/Careers/pdf/Exempt_Director_Cloud_Ops_JP.pdf)
 * [IS32 Cloud Architect](https://dxcas.com/images/DXCAS/Careers/pdf/IS32_CloudArchitect_JP.pdf)
+* [IS30 Senior Server Administrator - Citrix Lead](https://dxcas.com/images/DXCAS/Careers/pdf/IS30_SeniorServerAdministrator_Citrix_JP.pdf)
 * [IS27 Engineering Lead - Cloud](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_EngineeringLead_JP.pdf)
-* [IS27 Senior Server Administrator - Citrix](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_SeniorServerAdministrator_Citrix_JP-DD.pdf)
 * [IS27 Configuration Management Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS27-CMA_JP.pdf)
-* [IS27 Senior Integration Specialist, Cloud Services](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS27_Sr_Int_Specialist_JP.pdf)
-* [IS24 Intermediate Server Administrator, Windows](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Server_Admin_JP.pdf)
 * [IS24 Intermediate Database Administrator](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Database_Admin_JP.pdf)
-* [IS21 Server Administrator, Linux](https://dxcas.com/images/DXCAS/Careers/pdf/IS21_ServerAdmin_Linux_JP.pdf)
+* [IS24 Intermediate Server Administrator - VMWARE](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Admin_VMWare_JP.pdf)
+* [IS24 Casual Service Management Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Service_Mngmt_Analyst_JP.pdf)
 * [IS18 Service Desk Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP.pdf)
 
 #### [AggregateIQ](https://www.aggregateiq.com/) (👩‍💻 Co-Op / Intern Friendly)
@@ -60,7 +59,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Web Developer](http://www.atomiccrayon.com/career-opportunities)
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
 
-
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
@@ -68,7 +66,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Benevity](https://www.benevity.com/)
 * [Group Product Manager](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=348)
-* [Site Reliability Engineer (open to Victoria)](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=326)
+* [Site Reliability Engineer](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=340)
 * [Software Developer Intern](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=339)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
@@ -279,12 +277,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Success Specialist](https://silkstart.com/careers/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Accountant](https://starfishmedical.com/jobs/accountant/)
-* [Manufacturing Engineer](https://starfishmedical.com/jobs/manufacturing-engineer/)
 * [Senior Systems Engineer](https://starfishmedical.com/jobs/senior-systems-engineer/)
 * [Systems Engineer](https://starfishmedical.com/jobs/systems-engineer/)
-* [Desktop and System Admin](https://starfishmedical.com/jobs/desktop-and-systems-administrator/)
-* [Product Manager](https://starfishmedical.com/jobs/product-manager/)
 
 #### [Stocksy United](https://www.stocksy.com/)
 * [Accounts Receivable Specialist](https://stocksy.bamboohr.com/jobs/view.php?id=64)
