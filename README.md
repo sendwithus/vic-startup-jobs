@@ -307,7 +307,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
 * [Sr. Manager, Software Development Engineering](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Sr-Manager--Software-Development-Engineering_JR-40311)
-[Manager, Software Development Engineering](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Manager--Software-Development-Engineering_JR-40315)
 
 #### [Zynga Canada](https://www.zynga.com/)
 
