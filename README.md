@@ -59,7 +59,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Web Developer](http://www.atomiccrayon.com/career-opportunities)
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
 
-
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
@@ -278,12 +277,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Success Specialist](https://silkstart.com/careers/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Accountant](https://starfishmedical.com/jobs/accountant/)
-* [Manufacturing Engineer](https://starfishmedical.com/jobs/manufacturing-engineer/)
 * [Senior Systems Engineer](https://starfishmedical.com/jobs/senior-systems-engineer/)
 * [Systems Engineer](https://starfishmedical.com/jobs/systems-engineer/)
-* [Desktop and System Admin](https://starfishmedical.com/jobs/desktop-and-systems-administrator/)
-* [Product Manager](https://starfishmedical.com/jobs/product-manager/)
 
 #### [Stocksy United](https://www.stocksy.com/)
 * [Accounts Receivable Specialist](https://stocksy.bamboohr.com/jobs/view.php?id=64)
