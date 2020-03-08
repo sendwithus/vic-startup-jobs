@@ -43,6 +43,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [IS24 Intermediate Database Administrator](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Database_Admin_JP.pdf)
 * [IS24 Intermediate Server Administrator - VMWARE](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Admin_VMWare_JP.pdf)
 * [IS24 Casual Service Management Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Service_Mngmt_Analyst_JP.pdf)
+* [IS24 Intermediate Server Administrator, Windows](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Server_Admin_JP.pdf)
+* [IS24 OpenVMS Administrator](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_OpenVMSAdministrator_JP.pdf)
+* [IS21 Server Administrator, Windows](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Server_Admin_Windows_JP.pdf)
 * [IS18 Service Desk Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP.pdf)
 
 #### [AggregateIQ](https://www.aggregateiq.com/) (👩‍💻 Co-Op / Intern Friendly)
