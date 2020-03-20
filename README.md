@@ -62,6 +62,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Web Developer](http://www.atomiccrayon.com/career-opportunities)
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
 
+#### [Audette](https://audette.io/)
+* [Frontend Web Developer](https://audette.humi.ca/job-board/development+team/1867)
+
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
