@@ -185,7 +185,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [MetaLab](https://metalab.co/) (👩‍💻 Co-Op / Intern Friendly)
 * [Design Lead](https://boards.greenhouse.io/metalab/jobs/686744)
 * [Product Designer](https://boards.greenhouse.io/metalab/jobs/255316)
-* [Senior Android Engineer](https://metalab.co/careers/1703962)
+* [Talent Acquisition Specialist](https://www.metalab.co/careers/talent-acquisition-specialist)
 
 #### [Momentum Dashboard](https://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Front-End Developer](https://momentumdash.com/careers/)
@@ -193,11 +193,10 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [MonetizeMore](https://www.monetizemore.com/)
 * [Web Developer](https://monetizem.applytojob.com/apply/yPcQkE/Remote-Web-Developer)
-* [Media Buyer](https://monetizem.applytojob.com/apply/8j4ZbG104N/Media-Buyer-Optimization-Strategist)
+* [Sales Development Representative](https://monetizem.applytojob.com/apply/w30zAvSNvk/Sales-Development-Representative)
 * [Ad Optimizer](https://monetizem.applytojob.com/apply/LKJ8Pj/Ad-Optimizer)
 
 #### [NetMotion](https://www.netmotionsoftware.com)
-* [Digital Designer](https://www.netmotionsoftware.com/careers?p=job%2FomnAbfwe)
 
 #### [North Robotics](http://www.northrobotics.com)
 * [Computer Engineer](https://www.northrobotics.com/?page_id=1760)
@@ -210,21 +209,16 @@ Keep in mind that companies may have job postings on their own site that are not
 * [iOS Developer](https://www.pgmusic.com/jobs.iosdeveloper.htm)
 
 #### [Pixel Union](https://pixelunion.net/)
-* [Product Manager](https://apply.workable.com/pixel-union/j/EFEE3558CB/)
-* [App Developer](https://apply.workable.com/pixel-union/j/121A16E4C8/)
+* [Finance Controller](https://apply.workable.com/pixel-union/j/5DA518E75E/)
+* [Head of Marketing, Themes](https://apply.workable.com/pixel-union/j/828DF759FD/)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Account Executive](https://www.plurilock.com/company/careers/)
-* [Financial Controller](https://www.plurilock.com/company/careers/)
+* [Social Media Community Manager](https://www.plurilock.com/company/careers/)
 
 #### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
 * [Manager, Media and Distribution](https://pretiointeractive.humi.ca/job-board/uncategorized/615)
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=44)
-* [Advertising Operations Technician](https://rdbrck.bamboohr.com/jobs/view.php?id=48)
-* [Marketing Assistant](https://rdbrck.bamboohr.com/jobs/view.php?id=45)
-* [Customer Success Manager](https://rdbrck.bamboohr.com/jobs/view.php?id=47)
 
 #### [Revela Systems](https://www.revela.io/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -233,23 +227,21 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Client Success Manager](https://www.revenuewire.com/careers/)
 
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Affiliate Manager](https://ringpartner.bamboohr.com/jobs/view.php?id=33)
 
 #### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 * [UX/UI Designer](https://rooof.bamboohr.com/jobs/view.php?id=41)
 * [Software Engineer (JavaScript)](https://rooof.bamboohr.com/jobs/view.php?id=32)
-* [Integrations Engineer (Co-Op)](https://rooof.bamboohr.com/jobs/view.php?id=60)
 
 #### [SaaSquatch](https://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Account Executive - MarTech](https://www.saasquatch.com/careers/)
 * [Front End Developer](https://www.saasquatch.com/careers/)
 * [Typescript Engineer](https://www.saasquatch.com/careers/)
+* [Director of Marketing - B2B Enterprise SaaS](https://www.saasquatch.com/careers/)
+* [Senior Account Executive](https://www.saasquatch.com/careers/)
 
 #### [SeafoodX](https://www.seafoodx.io/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Semaphore](https://semaphoresolutions.com/)
-* [Intermediate Full Stack Software Developer](https://jobs.lever.co/semaphoresolutions/e8ed913d-70c4-4f9e-bd67-bf19b3d4956a)
-* [Senior Software Developer - employee](https://jobs.lever.co/semaphoresolutions/821e227b-d738-4f51-ab04-41941f2530d8)
 
 #### [SendtoNews](https://www.sendtonews.com/)
 * [Senior Database Engineer](https://secure.collage.co/jobs/sendtonews/15273)
@@ -264,12 +256,13 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Success Specialist](https://silkstart.com/careers/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Systems Engineer](https://starfishmedical.com/jobs/senior-systems-engineer/)
-* [Systems Engineer](https://starfishmedical.com/jobs/systems-engineer/)
+* [Senior Firmware Engineer](https://starfishmedical.com/jobs/senior-firmware-engineer/)
+* [Program Manager](https://starfishmedical.com/jobs/program-manager/)
+* [Buyer](https://starfishmedical.com/jobs/buyer-victoria-bc/)
+* [Assembly and Service Technician](https://starfishmedical.com/jobs/assembly-service-technician-victoria/)
 
 #### [Stocksy United](https://www.stocksy.com/)
-* [Accounts Receivable Specialist](https://stocksy.bamboohr.com/jobs/view.php?id=64)
-* [Junior Front End Developer](https://stocksy.bamboohr.com/jobs/view.php?id=61)
+* [Intermediate Graphic Designer](https://www.stocksy.com/service/hiring)
 
 #### [Tango Financial](https://tangofinancial.ca/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -278,11 +271,12 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Telmediq](https://www.telmediq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Tutela](https://www.tutela.com/)
-* [Senior Java Developer](https://tut.bamboohr.com/jobs/view.php?id=22)
-* [Commercial Account Manager](https://tut.bamboohr.com/jobs/view.php?id=51)
+* [Research Analyst](https://tut.bamboohr.com/jobs/view.php?id=50)
 * [Intermediate Software Developer](https://tut.bamboohr.com/jobs/view.php?id=52)
 
 #### [VitaminLab](https://getvitaminlab.com/)
+
+#### [Virtual CFO](https://www.virtualcfo.ca/)
 
 #### [ViVitro Labs](https://vivitrolabs.com/) (👩‍💻 Co-Op / Intern Friendly)
 
