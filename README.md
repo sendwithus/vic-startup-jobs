@@ -41,19 +41,13 @@ Keep in mind that companies may have job postings on their own site that are not
 * [IS27 Engineering Lead - Cloud](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_EngineeringLead_JP.pdf)
 * [IS27 Configuration Management Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS27-CMA_JP.pdf)
 * [IS24 Intermediate Database Administrator](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Database_Admin_JP.pdf)
-* [IS24 Intermediate Server Administrator - VMWARE](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Admin_VMWare_JP.pdf)
-* [IS24 Casual Service Management Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Service_Mngmt_Analyst_JP.pdf)
 * [IS24 Intermediate Server Administrator, Windows](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Server_Admin_JP.pdf)
 * [IS24 OpenVMS Administrator](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_OpenVMSAdministrator_JP.pdf)
-* [IS21 Server Administrator, Windows](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Server_Admin_Windows_JP.pdf)
 * [IS18 Service Desk Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP.pdf)
 
 #### [AggregateIQ](https://www.aggregateiq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Appcolony](http://www.appcolony.ca/)
-* [Senior Designer](http://www.appcolony.ca/careers/senior-designer/)
-* [UX/UI Designer](http://www.appcolony.ca/careers/uxui-designer/)
-* [Andriod + Web Developer](http://www.appcolony.ca/careers/android-web-developer/)
 
 #### [Appreciation Engine](https://get.theappreciationengine.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Marketing Magician](https://joinusappreciationengine.humi.ca/job-board/marketing/1749)
@@ -74,40 +68,32 @@ Keep in mind that companies may have job postings on their own site that are not
 * [ISL 30R - Senior Platform Administrator](https://bcpublicservice.hua.hrsmart.com/hr/ats/Posting/view/68375)
 
 #### [Benevity](https://www.benevity.com/)
-* [Group Product Manager](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=348)
-* [Site Reliability Engineer](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=340)
-* [Software Developer Intern](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=339)
+* [Client Success Manager](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=360)
+* [Software Development Manager](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=357)
+* [Sr. Manager, Marketing Operations & Business Development](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=376)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [Sales Development Representative](https://certn.co/sales-development-representative/)
-* [Customer Success Manager](https://certn.co/customer-success-manager/)
+* [Compliance Manager](https://certn.co/compliance-manager/)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior/Staff Data Engineer](https://www.change.org/careers/3077cc19-73b6-4b13-9721-4b6db9823fb4)
 
 #### [ChatterBlock](https://www.chatterblock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
+#### [ChatterHigh](https://chatterhigh.com/)
+
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Intermediate DevOps Developer](https://checkfront.bamboohr.com/jobs/view.php?id=60)
-* [Senior Front-end / UI Developer](https://checkfront.bamboohr.com/jobs/view.php?id=65)
-* [Senior Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=66)
-* [Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=24)
-* [Senior Web Application Developer (Integrations)](https://checkfront.bamboohr.com/jobs/view.php?id=62)
-* [Web Application Developer (Integrations)](https://checkfront.bamboohr.com/jobs/view.php?id=63)
-* [Business Development Representative](https://checkfront.bamboohr.com/jobs/view.php?id=56)
-* [IT Manager](https://checkfront.bamboohr.com/jobs/view.php?id=67)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [2D Artist](http://www.codenameentertainment.com/?page=jobs)
-* [Junior Game Programmer Co-op ](http://www.codenameentertainment.com/?page=jobs)
 
 #### [Covault](https://covaultapp.com/)
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
 
 #### [Cuboh](https://www.cuboh.com) (👩‍💻 Co-Op / Intern Friendly)
-* [Backend Developer](https://secure.collage.co/jobs/cuboh/9967)
+* [Full Stack Developer](https://secure.collage.co/jobs/cuboh/13526)
 * [Customer Success / Setup Specialist](https://secure.collage.co/jobs/cuboh/14294)
+* [Digital Sales Rep](https://secure.collage.co/jobs/cuboh/9847)
 
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
