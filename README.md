@@ -98,18 +98,13 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [Software Developer](https://www.dyspatch.io/about/careers/post/?d3e37047-89ac-417a-8621-c77b4cfde148)
-* [Inside Sales Rep](https://www.dyspatch.io/about/careers/post/?ce7408ca-9a56-402e-9073-ddf12be9ee39)
+* [Product Designer](https://www.dyspatch.io/about/careers/post/?339cddd0-16e0-47f0-aa73-a9e3d982900c)
 * [Senior Software Developer](https://www.dyspatch.io/about/careers/post/?effc439c-b3e3-425f-9a7b-2debd6bb2dc5)
 * [Marketing Manager](https://www.dyspatch.io/about/careers/post/?7860168d-028c-46fc-8243-41f5afb2ebe8)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Engineer](https://echosec.breezy.hr/p/c46840a9466d-senior-engineer)
-* [Front End Developer](https://echosec.breezy.hr/p/d6e5558cde11-front-end-developer)
-* [Intermediate Full Stack Developer](https://echosec.breezy.hr/p/8eb0b201ae71-intermediate-full-stack-developer)
 
 #### [EncoreFX](https://www.encorefx.com/)
-* [Software Developer](https://www.encorefx.com/careers/software-developer-victoria-bc/)
 
 #### [Expeto](http://expeto.io/)
 
@@ -119,7 +114,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### Fifth Gear Marketing
 
 #### [Flow](https://www.getflow.com/)
-* [Principal Engineer](https://getflow.bamboohr.com/jobs/view.php?id=19&source=other)
 
 #### [Flytographer](https://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -127,16 +121,18 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Web Developer](https://www.foundryspatial.com/careers/full-stack-web-developer.html)
 
 #### [FreshWorks Studio](https://freshworks.io/)
-* [Intermediate Full Stack Developer (Victoria)](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADN8jmnPJ9_Rl)
+* [Intermediate Full Stack Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADN8jmnPJ9_Rl)
 * [Technical Project Manager](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbJJG3ogtpx4G)
 * [DevOps Specialist](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbDY28IEYc9c9)
 * [Senior Software Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbOKc2QnaicN9)
 * [MS Dynamics CRM Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbCNhHaZRKVcn)
 * [Wordpress Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbBz5s-MVQppZ)
 * [React Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbGQxNe7V95K5)
-* [RFP Writer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbFN2gsinwQEe)
 * [Senior Business Analyst](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbJXLj2JviujO)
-* [Operations Assistant](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbNWXuWvPyqxq)
+* [Operations Coordinator](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbNWXuWvPyqxq)
+* [Full Stack Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADN8jmnPJ9_Rl)
+* [Director of Software Development](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbK8QZ21gzmt6)
+* [Service Delivery Manager](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbBq8sc0fkkMF)
 
 #### [FuturePet](https://www.futurepet.care/)
 
@@ -145,10 +141,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Intermediate Frontend Web Developer](https://gearboxbuilt.humi.ca/job-board/development/1822)
 * [WordPress Developer](https://gearboxbuilt.humi.ca/job-board/development/1824)
 * [Project Producer](https://gearboxbuilt.humi.ca/job-board/development/1823)
-* [Administrative Assistant](https://gearboxbuilt.humi.ca/job-board/development/1825)
 
 #### [Giftbit](https://www.giftbit.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Office and Culture Coordinator](https://giftbit.bamboohr.com/jobs/view.php?id=18)
 
 #### [Hipwood Digital](http://www.hipwooddigital.com/)
 
@@ -166,26 +160,24 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [JUUL](https://www.juul.ca) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Kano](https://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Game Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=49)
-* [Administrative Coordinator](https://kanoapps.bamboohr.com/jobs/view.php?id=53)
+* [Data Analyst](https://kanoapps.bamboohr.com/jobs/view.php?id=54)
+* [Lead Game Developer - Unity](https://kanoapps.bamboohr.com/jobs/view.php?id=51)
 
 #### [KIXEYE Canada Ltd](https://www.kixeye.com/)
-* [Manager of Financial Reporting](https://jobs.jobvite.com/kixeye/job/om93bfwt)
+* [Product Manager](https://jobs.jobvite.com/kixeye/job/oxe79fwL)
 * [Senior UI/UX Designer](https://jobs.jobvite.com/kixeye/job/o9fHbfw0)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Business Systems Analyst](https://geocortex.bamboohr.com/jobs/view.php?id=114)
-* [Customer Success Manager](https://geocortex.bamboohr.com/jobs/view.php?id=113)
 * [Software Developer - Professional Services](https://geocortex.bamboohr.com/jobs/view.php?id=108)
-* [Technical Support Analyst](https://geocortex.bamboohr.com/jobs/view.php?id=97)
+* [Marketing Manager, North America](https://geocortex.bamboohr.com/jobs/view.php?id=115)
 
 #### [Leap XD](https://www.leapxd.com)
-* [Senior Front-End Developer](https://www.leapxd.com/senior-front-end-web-developer/)
 
 #### [LlamaZOO](https://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Unity Developer](https://www.llamazoo.com/llamazoo-senior-unity-posting/)
 * [Technical Artist](https://www.llamazoo.com/llamazoo-technical-artist-posting/)
-* [Product Designer](https://www.llamazoo.com/product-designer/)
+* [Sales Associate](https://www.llamazoo.com/llamazoo-sales-associate/)
 * [Backend Developer](https://www.llamazoo.com/llamazoo-backend-developer/)
 
 #### [Loam Studios](http://loamstudios.com/)
