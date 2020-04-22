@@ -239,6 +239,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [SeafoodX](https://www.seafoodx.io/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Semaphore](https://semaphoresolutions.com/)
+* [People Operations Lead](https://jobs.lever.co/semaphoresolutions/163efc0e-789a-4ab0-a1b5-f02eb5deac3c)
 
 #### [SendtoNews](https://www.sendtonews.com/)
 * [Senior Database Engineer](https://secure.collage.co/jobs/sendtonews/15273)
