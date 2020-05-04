@@ -216,6 +216,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Manager, Media and Distribution](https://pretiointeractive.humi.ca/job-board/uncategorized/615)
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Developer, Rebase](https://rdbrck.bamboohr.com/jobs/view.php?id=51)
+* [Developer, Leadpages](https://rdbrck.bamboohr.com/jobs/view.php?id=53)
 
 #### [Revela Systems](https://www.revela.io/) (👩‍💻 Co-Op / Intern Friendly)
 
