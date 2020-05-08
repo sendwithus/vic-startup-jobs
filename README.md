@@ -264,6 +264,11 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Stocksy United](https://www.stocksy.com/)
 * [Intermediate Graphic Designer](https://www.stocksy.com/service/hiring)
 
+#### [Super Good Software](https://supergood.software)
+* [Full Stack Ruby on Rails Developer (Junior)](https://supergood.software/careers/junior-developer)
+* [Full Stack Ruby on Rails Developer (Intermediate)](https://supergood.software/careers/intermediate-developer)
+* [Full Stack Ruby on Rails Developer (Senior)](https://supergood.software/careers/senior-developer)
+
 #### [Tango Financial](https://tangofinancial.ca/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Tapstream](https://tapstream.com/)
