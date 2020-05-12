@@ -37,20 +37,20 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
 * [Director, Cloud Operations](https://dxcas.com/images/DXCAS/Careers/pdf/Exempt_Director_Cloud_Ops_JP.pdf)
 * [IS32 Cloud Architect](https://dxcas.com/images/DXCAS/Careers/pdf/IS32_CloudArchitect_JP.pdf)
-* [IS30 Senior Server Administrator - Citrix Lead](https://dxcas.com/images/DXCAS/Careers/pdf/IS30_SeniorServerAdministrator_Citrix_JP.pdf)
 * [IS27 Engineering Lead - Cloud](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_EngineeringLead_JP.pdf)
 * [IS27 Configuration Management Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS27-CMA_JP.pdf)
 * [IS24 Intermediate Database Administrator](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Database_Admin_JP.pdf)
 * [IS24 Intermediate Server Administrator, Windows](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Server_Admin_JP.pdf)
-* [IS24 OpenVMS Administrator](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_OpenVMSAdministrator_JP.pdf)
 * [IS18 Service Desk Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP.pdf)
+* [Revenue Agent](https://dxcas.com/images/DXCAS/Careers/pdf/R11_Revenue_Agent_JP.pdf)
+* [Server Administrator, Linux](https://dxcas.com/images/DXCAS/Careers/pdf/IS21_ServerAdmin_Linux_JP.pdf)
+* [Intermediate Middleware Administrator](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_MiddlewareAdmin_JP.pdf)
 
 #### [AggregateIQ](https://www.aggregateiq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Appcolony](http://www.appcolony.ca/)
 
 #### [Appreciation Engine](https://get.theappreciationengine.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Marketing Magician](https://joinusappreciationengine.humi.ca/job-board/marketing/1749)
 
 #### [Atomic Crayon](http://www.atomiccrayon.com/)
 * [Web Developer](http://www.atomiccrayon.com/career-opportunities)
@@ -65,15 +65,14 @@ Keep in mind that companies may have job postings on their own site that are not
 * [ISL 30R - Senior Platform Administrator](https://bcpublicservice.hua.hrsmart.com/hr/ats/Posting/view/68375)
 
 #### [Benevity](https://www.benevity.com/)
-* [Client Success Manager](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=360)
+* [Insights Analyst](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=392)
 * [Software Development Manager](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=357)
-* [Sr. Manager, Marketing Operations & Business Development](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=376)
+* [Manager, Product Design](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=384)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
 * [Compliance Manager](https://certn.co/compliance-manager/)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior/Staff Data Engineer](https://www.change.org/careers/3077cc19-73b6-4b13-9721-4b6db9823fb4)
 
 #### [ChatterBlock](https://www.chatterblock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -95,22 +94,19 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [Product Designer](https://www.dyspatch.io/about/careers/post/?339cddd0-16e0-47f0-aa73-a9e3d982900c)
 * [Senior Software Developer](https://www.dyspatch.io/about/careers/post/?effc439c-b3e3-425f-9a7b-2debd6bb2dc5)
-* [Marketing Manager](https://www.dyspatch.io/about/careers/post/?7860168d-028c-46fc-8243-41f5afb2ebe8)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
 
-#### [EncoreFX](https://www.encorefx.com/)
-
 #### [Expeto](http://expeto.io/)
+* [Office Manager](https://expetowireless.recruitee.com/o/office-manager-vancouver)
+* [Senior Software Engineer](https://expetowireless.recruitee.com/o/senior-software-engineer-toronto)
 
 #### [Falcon Software](https://www.falcon-software.com/)
 * [Web Project Manager](https://www.falcon-software.com/About-Us/Job-Postings/Web-Project-Manager)
 
-#### Fifth Gear Marketing
-
 #### [Flow](https://www.getflow.com/)
+* [Principal Engineer](https://getflow.bamboohr.com/jobs/view.php?id=19&source=other)
 
 #### [Flytographer](https://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -118,15 +114,13 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Web Developer](https://www.foundryspatial.com/careers/full-stack-web-developer.html)
 
 #### [FreshWorks Studio](https://freshworks.io/)
-* [Intermediate Full Stack Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADN8jmnPJ9_Rl)
 * [Technical Project Manager](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbJJG3ogtpx4G)
 * [DevOps Specialist](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbDY28IEYc9c9)
 * [Senior Software Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbOKc2QnaicN9)
 * [MS Dynamics CRM Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbCNhHaZRKVcn)
 * [Wordpress Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbBz5s-MVQppZ)
 * [React Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbGQxNe7V95K5)
-* [Senior Business Analyst](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbJXLj2JviujO)
-* [Operations Coordinator](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbNWXuWvPyqxq)
+* [Business Analyst](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbJXLj2JviujO)
 * [Full Stack Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADN8jmnPJ9_Rl)
 * [Director of Software Development](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbK8QZ21gzmt6)
 * [Service Delivery Manager](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbBq8sc0fkkMF)
@@ -147,22 +141,23 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Game Developer](https://www.hololabs.org/hiring-game-developer)
 
 #### [Isolation Network](https://www.isolationnetwork.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Data Engineer](https://jobs.smartrecruiters.com/INgroovesMusicGroup/743999661351974-data-engineer)
-* [Data Scientist](https://jobs.smartrecruiters.com/INgroovesMusicGroup/743999661351703-data-scientist)
-* [Software Developer](https://jobs.smartrecruiters.com/INgroovesMusicGroup/743999702015663-software-developer-full-stack)
-* [Data Analyst](https://jobs.smartrecruiters.com/INgroovesMusicGroup/743999696240030-data-analyst)
+* [Front End Developer](https://jobs.jobvite.com/universalmusicgroup/job/oSxKbfw4)
+* [Full Stack Developer](https://jobs.jobvite.com/universalmusicgroup/job/oPAKbfw4)
+* [Software Developer Test Automation](https://jobs.jobvite.com/universalmusicgroup/job/oh3EcfwU)
 
 #### [itgroove](https://itgroove.net/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [JUUL](https://www.juul.ca) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Kano](https://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Data Analyst](https://kanoapps.bamboohr.com/jobs/view.php?id=54)
-* [Lead Game Developer - Unity](https://kanoapps.bamboohr.com/jobs/view.php?id=51)
+* [Product Marketing Manager](https://kanoapps.bamboohr.com/jobs/view.php?id=55)
+* [Senior Game Developer - Unity](https://kanoapps.bamboohr.com/jobs/view.php?id=51)
+* [Junior Data Analyst](https://kanoapps.bamboohr.com/jobs/view.php?id=54)
 
 #### [KIXEYE Canada Ltd](https://www.kixeye.com/)
 * [Product Manager](https://jobs.jobvite.com/kixeye/job/oxe79fwL)
-* [Senior UI/UX Designer](https://jobs.jobvite.com/kixeye/job/o9fHbfw0)
+* [Project Manager](https://jobs.jobvite.com/kixeye/job/obKGcfwx)
+* [Senior Network/Infosec DevOps Engineer](https://jobs.jobvite.com/kixeye/job/ofrAcfwc)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Business Systems Analyst](https://geocortex.bamboohr.com/jobs/view.php?id=114)
