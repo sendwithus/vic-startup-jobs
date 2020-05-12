@@ -270,6 +270,9 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Telmediq](https://www.telmediq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
+#### [The Number](https://thenumber.ca/)
+* [Creative Designer](https://thenumber.ca/one-designer-please/)
+
 #### [Tutela](https://www.tutela.com/)
 * [Research Analyst](https://tut.bamboohr.com/jobs/view.php?id=50)
 * [Intermediate Software Developer](https://tut.bamboohr.com/jobs/view.php?id=52)
