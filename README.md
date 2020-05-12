@@ -167,7 +167,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Leap XD](https://www.leapxd.com)
 
 #### [LlamaZOO](https://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Unity Developer](https://www.llamazoo.com/llamazoo-senior-unity-posting/)
+* [Product Designer](https://www.llamazoo.com/product-designer/)
 * [Technical Artist](https://www.llamazoo.com/llamazoo-technical-artist-posting/)
 * [Sales Associate](https://www.llamazoo.com/llamazoo-sales-associate/)
 * [Backend Developer](https://www.llamazoo.com/llamazoo-backend-developer/)
@@ -185,7 +185,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [MonetizeMore](https://www.monetizemore.com/)
 * [Web Developer](https://monetizem.applytojob.com/apply/yPcQkE/Remote-Web-Developer)
-* [Sales Development Representative](https://monetizem.applytojob.com/apply/w30zAvSNvk/Sales-Development-Representative)
 * [Ad Optimizer](https://monetizem.applytojob.com/apply/LKJ8Pj/Ad-Optimizer)
 
 #### [NetMotion](https://www.netmotionsoftware.com)
@@ -201,11 +200,12 @@ Keep in mind that companies may have job postings on their own site that are not
 * [iOS Developer](https://www.pgmusic.com/jobs.iosdeveloper.htm)
 
 #### [Pixel Union](https://pixelunion.net/)
-* [Finance Controller](https://apply.workable.com/pixel-union/j/5DA518E75E/)
-* [Head of Marketing, Themes](https://apply.workable.com/pixel-union/j/828DF759FD/)
+* [Customer Support Specialist](https://apply.workable.com/pixel-union/j/E8F1B4D300/)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Social Media Community Manager](https://www.plurilock.com/company/careers/)
+* [Co-op Marketing Generalist / Copywriter](https://www.plurilock.com/company/careers/)
+* [Co-op Software Engineer](https://www.plurilock.com/company/careers/)
 
 #### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
 * [Manager, Media and Distribution](https://pretiointeractive.humi.ca/job-board/uncategorized/615)
@@ -213,6 +213,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Developer, Rebase](https://rdbrck.bamboohr.com/jobs/view.php?id=51)
 * [Developer, Leadpages](https://rdbrck.bamboohr.com/jobs/view.php?id=53)
+* [Office Coordinator](https://rdbrck.bamboohr.com/jobs/view.php?id=54)
 
 #### [Revela Systems](https://www.revela.io/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -221,6 +222,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Client Success Manager](https://www.revenuewire.com/careers/)
 
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Director of Sales](https://ringpartner.bamboohr.com/jobs/view.php?id=36)
+* [VP of Sales](https://ringpartner.bamboohr.com/jobs/view.php?id=35)
 
 #### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 * [UX/UI Designer](https://rooof.bamboohr.com/jobs/view.php?id=41)
