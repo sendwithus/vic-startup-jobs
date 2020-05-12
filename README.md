@@ -215,6 +215,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Developer, Leadpages](https://rdbrck.bamboohr.com/jobs/view.php?id=53)
 * [Office Coordinator](https://rdbrck.bamboohr.com/jobs/view.php?id=54)
 
+#### [Redlen Technologies](https://redlen.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Engineer, Test](https://secure3.entertimeonline.com/ta/6133013.careers?rnd=WDF&ShowJob=319015874&prevScreenY=46&prevScreenX=0)
+
 #### [Revela Systems](https://www.revela.io/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [RevenueWire](https://www.revenuewire.com/) (👩‍💻 Co-Op / Intern Friendly)
@@ -226,8 +229,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [VP of Sales](https://ringpartner.bamboohr.com/jobs/view.php?id=35)
 
 #### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
-* [UX/UI Designer](https://rooof.bamboohr.com/jobs/view.php?id=41)
-* [Software Engineer (JavaScript)](https://rooof.bamboohr.com/jobs/view.php?id=32)
 
 #### [SaaSquatch](https://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Account Executive - MarTech](https://www.saasquatch.com/careers/)
@@ -239,28 +240,24 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [SeafoodX](https://www.seafoodx.io/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Semaphore](https://semaphoresolutions.com/)
-* [People Operations Lead](https://jobs.lever.co/semaphoresolutions/163efc0e-789a-4ab0-a1b5-f02eb5deac3c)
 
 #### [SendtoNews](https://www.sendtonews.com/)
 * [Senior Database Engineer](https://secure.collage.co/jobs/sendtonews/15273)
+* [Software Developer Co-op](https://secure.collage.co/jobs/sendtonews/16759)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
 * [Intermediate/Senior Front End Developer](https://www.sparklit.com/careers/#front-end)
 
 #### [SilkStart](https://silkstart.com/about/)
-* [Sales Development Representative](https://silkstart.com/careers/)
-* [Inside Sales](https://silkstart.com/careers/)
 * [Customer Success Specialist](https://silkstart.com/careers/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Firmware Engineer](https://starfishmedical.com/jobs/senior-firmware-engineer/)
 * [Program Manager](https://starfishmedical.com/jobs/program-manager/)
-* [Buyer](https://starfishmedical.com/jobs/buyer-victoria-bc/)
 * [Assembly and Service Technician](https://starfishmedical.com/jobs/assembly-service-technician-victoria/)
 
 #### [Stocksy United](https://www.stocksy.com/)
-* [Intermediate Graphic Designer](https://www.stocksy.com/service/hiring)
 
 #### [Super Good Software](https://supergood.software)
 * [Full Stack Ruby on Rails Developer (Junior)](https://supergood.software/careers/junior-developer)
@@ -276,6 +273,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Tutela](https://www.tutela.com/)
 * [Research Analyst](https://tut.bamboohr.com/jobs/view.php?id=50)
 * [Intermediate Software Developer](https://tut.bamboohr.com/jobs/view.php?id=52)
+* [Proect Manager, Data Integrity](https://tut.bamboohr.com/jobs/view.php?id=53)
 
 #### [VitaminLab](https://getvitaminlab.com/)
 
