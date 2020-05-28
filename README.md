@@ -202,7 +202,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [iOS Developer](https://www.pgmusic.com/jobs.iosdeveloper.htm)
 
 #### [Pixel Union](https://pixelunion.net/)
-* [Customer Support Specialist](https://apply.workable.com/pixel-union/j/E8F1B4D300/)
+* [People and Culture Lead](https://apply.workable.com/pixel-union/j/55495C4744/)
+* [Director of People Operations](https://apply.workable.com/pixel-union/j/95DFAF3C9D/)
+* [Product Designer](https://apply.workable.com/pixel-union/j/223D2B6049/)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Social Media Community Manager](https://www.plurilock.com/company/careers/)
