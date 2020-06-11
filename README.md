@@ -43,7 +43,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [IS24 Intermediate Server Administrator, Windows](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Server_Admin_JP.pdf)
 * [IS18 Service Desk Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP.pdf)
 * [Revenue Agent](https://dxcas.com/images/DXCAS/Careers/pdf/R11_Revenue_Agent_JP.pdf)
-* [Server Administrator, Linux](https://dxcas.com/images/DXCAS/Careers/pdf/IS21_ServerAdmin_Linux_JP.pdf)
 * [Intermediate Middleware Administrator](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_MiddlewareAdmin_JP.pdf)
 
 #### [AggregateIQ](https://www.aggregateiq.com/) (👩‍💻 Co-Op / Intern Friendly)
@@ -66,8 +65,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [ISL 30R - Senior Platform Administrator](https://bcpublicservice.hua.hrsmart.com/hr/ats/Posting/view/68375)
 
 #### [Benevity](https://www.benevity.com/)
-* [Insights Analyst](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=392)
-* [Software Development Manager](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=357)
 * [Manager, Product Design](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?org=BENEINC&cws=37&rid=384)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
@@ -118,21 +115,14 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Technical Project Manager](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbJJG3ogtpx4G)
 * [DevOps Specialist](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbDY28IEYc9c9)
 * [Senior Software Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbOKc2QnaicN9)
-* [MS Dynamics CRM Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbCNhHaZRKVcn)
-* [Wordpress Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbBz5s-MVQppZ)
 * [React Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbGQxNe7V95K5)
 * [Business Analyst](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbJXLj2JviujO)
 * [Full Stack Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADN8jmnPJ9_Rl)
-* [Director of Software Development](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbK8QZ21gzmt6)
 * [Service Delivery Manager](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbBq8sc0fkkMF)
 
 #### [FuturePet](https://www.futurepet.care/)
 
 #### [Gearbox Development](https://gearboxbuilt.com/)
-* [Senior Frontend Web Developer](https://gearboxbuilt.humi.ca/job-board/development/1821)
-* [Intermediate Frontend Web Developer](https://gearboxbuilt.humi.ca/job-board/development/1822)
-* [WordPress Developer](https://gearboxbuilt.humi.ca/job-board/development/1824)
-* [Project Producer](https://gearboxbuilt.humi.ca/job-board/development/1823)
 
 #### [Giftbit](https://www.giftbit.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -170,15 +160,12 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [LlamaZOO](https://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Product Designer](https://www.llamazoo.com/product-designer/)
 * [Technical Artist](https://www.llamazoo.com/llamazoo-technical-artist-posting/)
-* [Sales Associate](https://www.llamazoo.com/llamazoo-sales-associate/)
-* [Backend Developer](https://www.llamazoo.com/llamazoo-backend-developer/)
 
 #### [Loam Studios](http://loamstudios.com/)
 
 #### [MetaLab](https://metalab.co/) (👩‍💻 Co-Op / Intern Friendly)
 * [Design Lead](https://boards.greenhouse.io/metalab/jobs/686744)
 * [Product Designer](https://boards.greenhouse.io/metalab/jobs/255316)
-* [Talent Acquisition Specialist](https://www.metalab.co/careers/talent-acquisition-specialist)
 
 #### [Momentum Dashboard](https://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Front-End Developer](https://momentumdash.com/careers/)
@@ -207,8 +194,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Social Media Community Manager](https://www.plurilock.com/company/careers/)
-* [Co-op Marketing Generalist / Copywriter](https://www.plurilock.com/company/careers/)
-* [Co-op Software Engineer](https://www.plurilock.com/company/careers/)
 
 #### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
 * [Manager, Media and Distribution](https://pretiointeractive.humi.ca/job-board/uncategorized/615)
@@ -222,6 +207,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Engineer, Test](https://secure3.entertimeonline.com/ta/6133013.careers?rnd=WDF&ShowJob=319015874&prevScreenY=46&prevScreenX=0)
 
 #### [Revela Systems](https://www.revela.io/) (👩‍💻 Co-Op / Intern Friendly)
+* [Junior DevOps Engineer](https://www.revela.io/2020-devops-engineer/)
 
 #### [RevenueWire](https://www.revenuewire.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Developer](https://www.revenuewire.com/careers/)
@@ -256,9 +242,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Success Specialist](https://silkstart.com/careers/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Firmware Engineer](https://starfishmedical.com/jobs/senior-firmware-engineer/)
 * [Program Manager](https://starfishmedical.com/jobs/program-manager/)
-* [Assembly and Service Technician](https://starfishmedical.com/jobs/assembly-service-technician-victoria/)
 
 #### [Stocksy United](https://www.stocksy.com/)
 
