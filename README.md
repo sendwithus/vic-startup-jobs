@@ -4,7 +4,7 @@ A well-maintained list of available startup jobs in Victoria BC. This list is cu
 
 [Have ideas to make this better?](mailto:us@sendwithus.com)
 
-[Tweet about us!](https://twitter.com/intent/tweet?text=I%20found%20a%20job%20on%20the%20Victoria%20Startup%20Jobs%20repo!&via=victoriastartup&url=http%3A%2F%2Fgithub.com/sendwithus/vic-startup-jobs)
+[Tweet about us!][tweet-link]
 
 [![Build Status](https://travis-ci.org/sendwithus/vic-startup-jobs.svg?branch=master)](https://travis-ci.org/sendwithus/vic-startup-jobs)
 
@@ -16,9 +16,9 @@ Posting is easy and free, simply fork this repo and submit a pull request adding
 
 Note that there is a CI hook that runs after PR creation that checks for any 404s links on this page. You can run it manually prior to pushing:
 ```
-python link_checker/check.py
+link_checker/check.sh README.md
 ```
-Running it before pushing up to Github allows you to remove broken job links from the list in addition to updating your own job postings.
+Running it before pushing up to Github allows you to remove broken job links from the list in addition to updating your own job postings. More info on the [associated README](/link_checker/README.md)
 
 ### Who can post?
 Tech startups with offices in Victoria BC.
@@ -302,4 +302,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 ### Share this job board with others!
 
-[Tweet about us!](https://twitter.com/intent/tweet?text=I%20found%20a%20job%20on%20the%20Victoria%20Startup%20Jobs%20repo!&via=victoriastartup&url=http:%3A%2F%2Fgithub.com/sendwithus/vic-startup-jobs)
+[Tweet about us!][tweet-link]
+
+[tweet-link]: https://twitter.com/intent/tweet?text=I%20found%20a%20job%20on%20the%20Victoria%20Startup%20Jobs%20repo!&via=victoriastartup&url=https%3A%2F%2Fgithub.com/sendwithus/vic-startup-jobs
