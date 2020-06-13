@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Check deps
-if ((BASH_VERSINFO[0] <= 4)); then 
+if ((BASH_VERSINFO[0] < 4)); then 
 	echo "You need bash 4 or later to run this script."
 	echo "Bash version: $BASH_VERSION"
 	exit 1 
