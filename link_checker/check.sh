@@ -76,10 +76,10 @@ test_link () {
 
 	# Some URL component extraction
 	scheme=$(grep :// <<< "$link" | sed -e 's#^\(.*://\).*#\1#g')
-	if [[ -n "$scheme" ]]; then
+	if [[ -z "$scheme" ]]; then
 		# Didn't find a scheme, maybe it's a mailto link?
 		# check for that explicitly
-		scheme=$(sed -e 's#^\(mailto:\).*#\1#g' <<< "$link")
+		scheme=$(grep mailto: <<< "$link" | sed -e 's#^\(mailto:\).*#\1#g')
 	fi
 	url="${link/$scheme/}"
 	user=$(grep @ <<< "$url" | cut -d@ -f1)
@@ -100,10 +100,11 @@ test_link () {
 		[[ ! $QUIET ]] && echo >&2 "📮 Skip: $link starts with mailto, let's hope it exists!"
 		return 0 # Skiping is OK, we warned
 
-	elif [[ ! "${scheme}" =~ $http_or_https || -n "${scheme}" ]]; then
+	elif [[ ! "${scheme}" =~ $http_or_https || -z "${scheme}" ]]; then
 		[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (Missing or unknown scheme)"
-		[[ ! $QUIET ]] && echo >&2 "🦺 Skip: The scheme component on ${link} isn't empty or http(s)."
+		[[ ! $QUIET ]] && echo >&2 "🦺 Skip: The scheme component on ${link} isn't http(s) or is empty."
 		return 1 # Missing scheme, www.example.com will be linked to a file in the repo
+
 	else
 		http_code=$(curl --location --silent -o /dev/null -w '%{http_code}' "$link")
 		curl_status=$?
