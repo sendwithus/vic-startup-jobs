@@ -120,6 +120,11 @@ test_link () {
 
 		# See https://curl.haxx.se/libcurl/c/libcurl-errors.html for more cases we might
 		# want to handle.
+		if [[ "$curl_status" -eq 6 ]]; then
+			[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (UNRESOLVED HOST)"
+			[[ ! $QUIET ]] && echo >&2 "🌎 [---] DNS lookup didn't resolve ${hostport}."
+			return 1 # Failed DNS
+
 		if [[ "$curl_status" -eq 35 ]]; then
 			[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (FAILED SSL HANDSHAKE)"
 			[[ ! $QUIET ]] && echo >&2 "🤝 [---] Handshaking with ${hostport} failed."
