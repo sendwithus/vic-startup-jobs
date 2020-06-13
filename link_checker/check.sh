@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
 # Check deps
-if ((BASH_VERSINFO[0] < 4)); then 
+if ((BASH_VERSINFO[0] < 4)); then
 	echo "You need bash 4 or later to run this script."
 	echo "Bash version: $BASH_VERSION"
-	exit 1 
+	exit 1
 fi
 
 if ! command -v curl &> /dev/null ; then
@@ -25,8 +25,8 @@ else
 	fi
 fi
 
-find_links () { 
-	# This function creates an associative array of markdown link text to 
+find_links () {
+	# This function creates an associative array of markdown link text to
 	# URL. It takes one arguement, a markdown filename to search within.
 	filename=$1
 
@@ -50,9 +50,9 @@ find_links () {
 		# ... and the values are everything after
 		value="${line##$'*\t'}"
 
-		# Assign to the associative array. 
+		# Assign to the associative array.
 		# This whole loop body could just have been
-		# LINKS["${line%=*}"]="${line##*=}", 
+		# LINKS["${line%$'\t*'}"]="${line##$'*\t'}",
 		# but that's a little cryptic, no?
 		LINKS[$key]=$value
 	done
@@ -62,7 +62,7 @@ find_links () {
 
 	_queue_link_tests
 	exit_code=$?
-	
+
 	[[ ! $QUIET ]] && echo >&2 "✨ Done checking! [$exit_code problem(s)]"
 
 	exit "$exit_code"
@@ -75,25 +75,39 @@ test_link () {
 	text=$2
 
 	# Some URL component extraction
-	schema=$(grep :// <<< "$link" | sed -e 's#^\(.*://\).*#\1#g')
-	url="${link/$schema/}"
+	scheme=$(grep :// <<< "$link" | sed -e 's#^\(.*://\).*#\1#g')
+	if [[ -n "$scheme" ]]; then
+		# Didn't find a scheme, maybe it's a mailto link?
+		# check for that explicitly
+		scheme=$(sed -e 's#^\(mailto:\).*#\1#g' <<< "$link")
+	fi
+	url="${link/$scheme/}"
 	user=$(grep @ <<< "$url" | cut -d@ -f1)
 	hostport=$(cut -d/ -f1 <<< "${url/$user@/}")
-	
+
 	# Paterns to filter on
 	hash_or_slash='^[\.#/]'
-	http_or_https='https?://'
+	http_or_https='^https?://'
+	mailto='^mailto:'
 	if [[ "${link}" =~ $hash_or_slash ]]; then
 		[[ ! $QUIET ]] && echo >&2 "🔗 Skip: $link seems more like an anchor or local file."
 		return 0 # Skiping is OK, we warned
-	
-	elif [[ ! "${schema}" =~ $http_or_https && -n "${schema}" ]]; then
-		[[ ! $QUIET ]] && echo >&2 "🦺 Skip: The schema component on ${link} isn't empty or http(s)."
-		return 0 # Skipping is OK, we warned
+
+	elif [[ "${link}" =~ $mailto ]]; then
+		# Could write $hostport to $link, and check that the email's domain resolves,
+		# or bring in other dependency to check for an MX record.. but meh - no-one
+		# seems to actually be posting jobs with email links
+		[[ ! $QUIET ]] && echo >&2 "📮 Skip: $link starts with mailto, let's hope it exists!"
+		return 0 # Skiping is OK, we warned
+
+	elif [[ ! "${scheme}" =~ $http_or_https && -n "${scheme}" ]]; then
+		[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (Missing or unknown scheme)"
+		[[ ! $QUIET ]] && echo >&2 "🦺 Skip: The scheme component on ${link} isn't empty or http(s)."
+		return 1 # Missing scheme, www.example.com will be linked to a file in the repo
 	else
 		http_code=$(curl --location --silent -o /dev/null -w '%{http_code}' "$link")
 		curl_status=$?
-		
+
 		# We follow redirects (--location), but 3xx-series HTTP codes could still end up here.
 		# 300 (Multiple Choice) is an example, so let's report on anything >= 300.
 		# Codes for reference: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
@@ -112,7 +126,7 @@ test_link () {
 
 		elif [[ "$curl_status" -eq 60 || "$curl_status" -eq 51 ]]; then
 			[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (FAILED SSL VERIFICATION)"
-			[[ ! $QUIET ]] && echo >&2 "🔓 [---] ${hostport}'s SSL certificate is invalid!"
+			[[ ! $QUIET ]] && echo >&2 "🔓 [---] ${hostport}'s SSL certificate seems invalid!"
 			return 1 # Failed SSL
 
 		elif [[ "$curl_status" -eq 130 ]]; then
@@ -140,12 +154,12 @@ test_link () {
 # and writing return codes to it. In order for a new task to start
 # it must first read 000 (success) return code from an earlier job
 # then write it's own return code back to the queue to signify being
-# done. 
+# done.
 
 _open_bg_queue () {
 	# Start a queue for controlling how many background processes can run
 	# at once. This function takes 1 argument - the number of concurrent
-	# tasks to run at once. 
+	# tasks to run at once.
 	local N=$1
 
 	# Make a named pipe to signal when background processes can be run
@@ -172,7 +186,7 @@ _open_bg_queue () {
 _bg_task () {
 	# Run a task in the background queue. This function waits
 	# for a token from the queue on fd 3, then runs it's arguments
-	# as a command in a subshell, and writes a continue token 
+	# as a command in a subshell, and writes a continue token
 	# back to the queue.
 
 	# Wait until fd 3 can have 3 characters read from it,
@@ -184,12 +198,12 @@ _bg_task () {
 			exit 1
 		fi
 	fi
-	
+
 	# This subshell runs the command in the background
 	# and pushes it's return code ($?) to the fd 3 queue
 	(
 		{ "$@"; }
-		
+
 		# Write the 3 digit return code for collection later
 		printf "%.3d" $? >&4
 
@@ -202,14 +216,14 @@ _queue_link_tests () {
 	# This function simply opens a background queue with N
 	# workers, and queues up all the links we found earlier
 	# to be checked.
-	
+
 	_open_bg_queue "$WORKERS"
 
-	# Use an array as a set to only check each link once, 
+	# Use an array as a set to only check each link once,
 	# in case the same link appears multiple times,
 	# such as with a /careers page
 	local -a tested
-	
+
 	# Iterate over the keys of the LINKS assocative array
 	for text in "${!LINKS[@]}"; do
 		link=${LINKS[$text]}
@@ -250,17 +264,17 @@ while test $# -gt 0; do
 	case $1 in
 		-h|--help)
 			echo "Scans Markdown documents for links that don't resolve."
-			echo 
+			echo
 			echo "Usage:"
 			echo " $ $0 [INPUT_FILE] [-w N] [-q] [-m]"
 			echo
 			echo "Options:"
 			echo " -w | --workers : Integer"
 			echo "    Number of background tasks to use while link checking"
-			echo 
+			echo
 			echo " -q | --quiet : Flag"
 			echo "    Do not ouput logs on the standard error stream."
-			echo 
+			echo
 			echo " -m | --markdown : Flag"
 			echo "    Enable markdown checkbox list creation on standard output"
 			echo
@@ -277,7 +291,7 @@ while test $# -gt 0; do
 				WORKERS=$1
 
 				if [[ ! "$WORKERS" -eq "$WORKERS" || "$WORKERS" -le 0 ]] 2>/dev/null ; then
-					echo >&2 "Workers: $_workers_flag flag expects an integer greater than 0" 
+					echo >&2 "Workers: $_workers_flag flag expects an integer greater than 0"
 					exit 1
 				fi
 			else
@@ -292,7 +306,7 @@ while test $# -gt 0; do
 			shift
 
 			if [[ ! "$WORKERS" -eq "$WORKERS" || "$WORKERS" -le 0 ]] 2>/dev/null ; then
-				echo >&2 "Workers: $_workers_flag flag expects an integer greater than 0" 
+				echo >&2 "Workers: $_workers_flag flag expects an integer greater than 0"
 				exit 1
 			fi
 		;;
@@ -321,8 +335,8 @@ done
 
 if [[ "$INPUT_FILE" == "/dev/stdin" && -t 0 ]]; then
 	{
-		echo "STDIN is a tty! Naively refusing to continue." 
-		echo 
+		echo "STDIN is a tty! Naively refusing to continue."
+		echo
 		echo "Provide a filename, or pipe input to this script:"
 		echo " $ $0 [FILENAME]"
 		echo " $ cat [FILENAME] | $0"
