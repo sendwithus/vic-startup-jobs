@@ -16,7 +16,7 @@ else
 	# It's also likely safe enough to parse versions with head and cut,
 	# curl 4.8 from 1998 printed versions in the same way as curl does now.
 	curl_vhave=$(curl --version | head -n1 | cut -d ' ' -f2)
-	curl_vneed=$(printf '6.5.1\n%s\n' "$curl_vhave" | sort --reverse --version-sort | head -n1)
+	curl_vneed=$(printf '6.5.1\n%s\n' "$curl_vhave" | sort -r -n | head -n1)
 
 	if [[ "$curl_vhave" != "$curl_vneed" ]]; then
 		echo "You need at least cURL 6.5.1 to run this script."

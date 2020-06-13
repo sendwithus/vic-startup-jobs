@@ -3,7 +3,7 @@ Overview
 
 A bash script to quickly 'test' the URLs in the jobs listing.
 
-The only dependencies are at least curl 6.5.1 and bash 4, and gnu coreutils' sort. This means it's really likely that you don't have to do anything special to run this script, it probably already works on your system. 
+The only dependencies are at least cURL version 6.5.1 and bash version 4. This means it's really likely that you don't have to do anything special to run this script, it probably already works on your system. 
 
 Usage
 =========
@@ -14,10 +14,10 @@ link_checker/check.sh README.md
 ```
 and be on your way. Although, there's lots of other ways to use the link checker. Fundamentally, it can check the validity of links in any markdown document - but only those using the `[]()` link style. External reference - e.g. those `[][]` coupled with `[]: link` - and html style `<a href=''>` aren't implemented here.
 
-A docker based approach is possible too, but finding a trusted image with both bash and cURL installed is difficult. If you'd like to run in docker, use the official bash image and install `curl` and `coreutils`.
+A docker based approach is possible too, but finding a trusted image with both bash and cURL installed is difficult. If you'd like to run in docker, use the official bash image and install `curl`.
 
 ```sh
-docker run -it --rm -v $PWD:/mnt bash -c 'apk add curl coreutils; /mnt/link_checker/check.sh /mnt/README.md'
+docker run -it --rm -v $PWD:/mnt bash -c 'apk add curl; /mnt/link_checker/check.sh /mnt/README.md'
 ```
 
 Return codes

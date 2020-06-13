@@ -5,7 +5,6 @@ addons:
     packages:
       - curl
       - bash
-      - coreutils
 
 script:
  - link_checker/check.sh README.md
