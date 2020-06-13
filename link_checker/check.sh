@@ -110,7 +110,7 @@ test_link () {
 			[[ ! $QUIET ]] && echo >&2 "🤝 [---] Handshaking with ${hostport} failed."
 			return 1 # Failed SSL
 
-		elif [[ "$curl_status" -eq 60 ]]; then
+		elif [[ "$curl_status" -eq 60 || "$curl_status" -eq 51 ]]; then
 			[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (FAILED SSL VERIFICATION)"
 			[[ ! $QUIET ]] && echo >&2 "🔓 [---] ${hostport}'s SSL certificate is invalid!"
 			return 1 # Failed SSL
@@ -121,7 +121,7 @@ test_link () {
 			return 1 # Interrupted
 
 		elif [[ ! "$curl_status" -eq 0 ]]; then
-			[[ $MARKDOWN ]] && echo "* [ ] --- (cURL exited with: $curl_status) $text $link"
+			[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (cURL exited with: $curl_status)"
 			[[ ! $QUIET ]] && echo >&2 "🤷 [---] Checking $hostport failed with error code $curl_status"
 			return 1 # cURL's unhappy, I'm unhappy
 		fi
