@@ -100,7 +100,7 @@ test_link () {
 		[[ ! $QUIET ]] && echo >&2 "📮 Skip: $link starts with mailto, let's hope it exists!"
 		return 0 # Skiping is OK, we warned
 
-	elif [[ ! "${scheme}" =~ $http_or_https && -n "${scheme}" ]]; then
+	elif [[ ! "${scheme}" =~ $http_or_https || -n "${scheme}" ]]; then
 		[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (Missing or unknown scheme)"
 		[[ ! $QUIET ]] && echo >&2 "🦺 Skip: The scheme component on ${link} isn't empty or http(s)."
 		return 1 # Missing scheme, www.example.com will be linked to a file in the repo
