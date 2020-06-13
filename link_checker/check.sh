@@ -57,7 +57,7 @@ find_links () {
 		LINKS[$key]=$value
 	done
 
-	[[ ! $QUIET ]] && echo >&2 "📊 Found ${#LINKS[@]} to test."
+	[[ ! $QUIET ]] && echo >&2 "📊 Found ${#LINKS[@]} links in this document to test."
 	[[ $MARKDOWN ]] && echo "Checkboxes for links to remove: "
 
 	_queue_link_tests
@@ -149,11 +149,11 @@ _open_bg_queue () {
 	local N=$1
 
 	# Make a named pipe to signal when background processes can be run
-	queue=$(mktemp -t 'queue-XXXXX' --dry-run --tmpdir="$PWD")
+	queue=$(mktemp -u)
 	mkfifo -m 600 "$queue"
 
 	# Make another named pipe to collect return codes
-	return=$(mktemp -t 'return-XXXXX' --dry-run --tmpdir="$PWD")
+	return=$(mktemp -u)
 	mkfifo -m 600 "$return"
 
 	# Open fd 3 and 4 for r/w. Unlink them now to ease cleanup, but
