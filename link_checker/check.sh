@@ -125,7 +125,7 @@ test_link () {
 			[[ ! $QUIET ]] && echo >&2 "🌎 [---] DNS lookup didn't resolve ${hostport}."
 			return 1 # Failed DNS
 
-		if [[ "$curl_status" -eq 35 ]]; then
+		elif [[ "$curl_status" -eq 35 ]]; then
 			[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (FAILED SSL HANDSHAKE)"
 			[[ ! $QUIET ]] && echo >&2 "🤝 [---] Handshaking with ${hostport} failed."
 			return 1 # Failed SSL
