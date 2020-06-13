@@ -35,15 +35,19 @@ Companies that are known for hiring/placing  co-op students and interns will hav
 Keep in mind that companies may have job postings on their own site that are not listed here - you should visit them and look for opportunities.  Also, many companies are open to being contacted directly about opportunities, even if it's only to keep your resume on file.
 
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
-* [Director, Cloud Operations](https://dxcas.com/images/DXCAS/Careers/pdf/Exempt_Director_Cloud_Ops_JP.pdf)
-* [IS32 Cloud Architect](https://dxcas.com/images/DXCAS/Careers/pdf/IS32_CloudArchitect_JP.pdf)
-* [IS27 Engineering Lead - Cloud](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_EngineeringLead_JP.pdf)
-* [IS27 Configuration Management Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS27-CMA_JP.pdf)
-* [IS24 Intermediate Database Administrator](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Database_Admin_JP.pdf)
+* [Director, Cloud Operations](https://www.dxcas.com/images/DXCAS/Careers/pdf/Exempt_Director_Cloud_Ops_JP.pdf)
+* [IS32 Cloud Architect](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS32_CloudArchitect_JP.pdf)
+* [IS27 Engineering Lead - Cloud](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS27_EngineeringLead_JP.pdf)
+* [IS27 Configuration Management Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS27-CMA_JP.pdf)
+* [IS24 Intermediate Database Administrator](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Database_Admin_JP.pdf)
+* [IS24 Intermediate Server Administrator, Linux](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_ServerAdmin_Linux_JP.pdf)
 * [IS24 Intermediate Server Administrator, Windows](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Server_Admin_JP.pdf)
-* [IS18 Service Desk Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP.pdf)
-* [Revenue Agent](https://dxcas.com/images/DXCAS/Careers/pdf/R11_Revenue_Agent_JP.pdf)
-* [Intermediate Middleware Administrator](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_MiddlewareAdmin_JP.pdf)
+* [IS24 Intermediate Middleware Administrator](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_MiddlewareAdmin_JP.pdf)
+* [IS21 Junior Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Junior_Analyst_JP.pdf)
+* [IS21 Server Administrator, Windows](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Server_Admin_Windows_JP.pdf)
+* [IS18 Service Desk Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP.pdf)
+* [IS18 Data Centre Technician (Part-time & Location Kamloops BC)](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS18_DataCenter_Tech_PT_JP.pdf)
+* [R11 Revenue Agent](https://www.dxcas.com/images/DXCAS/Careers/pdf/R11_Revenue_Agent_JP.pdf)
 
 #### [AggregateIQ](https://www.aggregateiq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
