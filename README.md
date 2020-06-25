@@ -43,10 +43,14 @@ Keep in mind that companies may have job postings on their own site that are not
 * [IS24 Intermediate Server Administrator, Linux](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_ServerAdmin_Linux_JP.pdf)
 * [IS24 Intermediate Server Administrator, Windows](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Server_Admin_JP.pdf)
 * [IS24 Intermediate Middleware Administrator](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_MiddlewareAdmin_JP.pdf)
+* [IS24 System Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_System_Analyst_JP.pdf)
 * [IS21 Junior Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Junior_Analyst_JP.pdf)
 * [IS21 Server Administrator, Windows](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Server_Admin_Windows_JP.pdf)
+* [IS21 Junior Technical Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Jr_Tech_Analyst_JP.pdf)
+* [IS21 Junior Technical Analyst- SACM](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Jr_Tech_SACM_JP.pdf)
 * [IS18 Service Desk Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP.pdf)
 * [IS18 Data Centre Technician (Part-time & Location Kamloops BC)](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS18_DataCenter_Tech_PT_JP.pdf)
+* [Human Resources Generalist (12 Month Term – Maternity Leave Backfill)](https://www.dxcas.com/images/DXCAS/Careers/pdf/HumanResourcesGeneralist_JP.pdf)
 
 #### [AggregateIQ](https://www.aggregateiq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
