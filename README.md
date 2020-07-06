@@ -28,7 +28,7 @@ Companies that are known for hiring/placing  co-op students and interns will hav
 
 ### How can I get involved in the Victoria tech community?
 * Connect with the Victoria tech community by joining the [YYJ Tech Slack group](https://joinyyjtechslack.herokuapp.com/)
-* Connect with the Victoria ladies tech community by joining the [YYJ Tech Ladies Slack group](https://www.yyjtechladies.com/). Please note that this group is for anyone who is female.
+* Connect with the Victoria ladies tech community by joining the [YYJ Tech Ladies Slack group](http://yyjtechladies.com/). Please note that this group is for anyone who is female.
 
 ## Current Job Openings
 
@@ -43,10 +43,15 @@ Keep in mind that companies may have job postings on their own site that are not
 * [IS24 Intermediate Server Administrator, Linux](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_ServerAdmin_Linux_JP.pdf)
 * [IS24 Intermediate Server Administrator, Windows](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Server_Admin_JP.pdf)
 * [IS24 Intermediate Middleware Administrator](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_MiddlewareAdmin_JP.pdf)
+* [IS24 System Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_System_Analyst_JP.pdf)
+* [IS24 OpenVMS Administrator](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_OpenVMSAdministrator_JP.pdf)
 * [IS21 Junior Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Junior_Analyst_JP.pdf)
 * [IS21 Server Administrator, Windows](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Server_Admin_Windows_JP.pdf)
+* [IS21 Junior Technical Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Jr_Tech_Analyst_JP.pdf)
+* [IS21 Junior Technical Analyst- SACM](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Jr_Tech_SACM_JP.pdf)
 * [IS18 Service Desk Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP.pdf)
-* [IS18 Data Centre Technician (Part-time & Location Kamloops BC)](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS18_DataCenter_Tech_PT_JP.pdf)
+* [IS18 Data Centre Technician (Location Kamloops BC)](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS18_DataCenter_Tech_FT_JP.pdf)
+* [Human Resources Generalist (12 Month Term – Maternity Leave Backfill)](https://www.dxcas.com/images/DXCAS/Careers/pdf/HumanResourcesGeneralist_JP.pdf)
 
 #### [AggregateIQ](https://www.aggregateiq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -119,11 +124,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Web Developer](https://www.foundryspatial.com/careers/full-stack-web-developer.html)
 
 #### [FreshWorks Studio](https://freshworks.io/)
-* [Technical Project Manager](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbJJG3ogtpx4G)
-* [DevOps Specialist](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbDY28IEYc9c9)
 * [Senior Software Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbOKc2QnaicN9)
 * [Full Stack Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADN8jmnPJ9_Rl)
-* [Service Delivery Manager](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbBq8sc0fkkMF)
 * [QA Analyst](https://boards.greenhouse.io/freshworksstudioinc/jobs/4083219003)
 * [iOS Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADIxucNdIHTEi)
 * [Product Manager](https://boards.greenhouse.io/freshworksstudioinc/jobs/4086144003)
@@ -184,8 +186,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Agile Scrum Business Analyst](https://monetizem.applytojob.com/apply/8FzbwLpt6K/Agile-Scrum-Business-Analyst)
 
 #### [NetMotion](https://www.netmotionsoftware.com)
-* [Software Test Engineer](https://www.netmotionsoftware.com/careers?p=job/o2XMcfwH&nl=1)
-* [Tools and Automation Developer (co-op)](https://www.netmotionsoftware.com/careers?p=job/oBeRcfwC&nl=1)
+* [Software Test Engineer](https://www.netmotionsoftware.com/culture-values-careers?p=job%2Fo2XMcfwH)
 
 #### [North Robotics](http://www.northrobotics.com)
 * [Computer Engineer](https://www.northrobotics.com/?page_id=1760)
@@ -243,7 +244,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [SeafoodX](https://www.seafoodx.io/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Semaphore](https://semaphoresolutions.com/)
-* [Communications Specialist - Contract](https://jobs.lever.co/semaphoresolutions/880e74c0-c8d8-4348-a331-adf0d8485d1c)
 * [Intermediate Software Developer](https://jobs.lever.co/semaphoresolutions/c6c61481-6089-4660-9c7e-ce4fccfebb74)
 * [Senior Software Developer](https://jobs.lever.co/semaphoresolutions/134fb46b-0e60-4991-8e08-6f8ff9bcac39)
 
