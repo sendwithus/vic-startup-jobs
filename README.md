@@ -51,7 +51,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [IS21 Junior Technical Analyst- SACM](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Jr_Tech_SACM_JP.pdf)
 * [IS18 Service Desk Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP.pdf)
 * [IS18 Data Centre Technician (Location Kamloops BC)](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS18_DataCenter_Tech_FT_JP.pdf)
-* [Human Resources Generalist (12 Month Term – Maternity Leave Backfill)](https://www.dxcas.com/images/DXCAS/Careers/pdf/HumanResourcesGeneralist_JP.pdf)
 
 #### [AggregateIQ](https://www.aggregateiq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -67,6 +66,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Software Developer](https://apply.hire.toggl.com/7DV197DPPR7LQL9TY5)
 
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
+* [Account Manager](https://jobs.ingenico.com/bambora/job/Victoria-Account-Manager-CA-BC-V8T/609345701/)
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Software Developer](https://brnkl.io/wp-content/uploads/2019/02/20190228_BRNKL-Job-Description_Software-Developer.pdf)
@@ -77,10 +77,15 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Benevity](https://www.benevity.com/)
 * [Client Success Manager](https://benevity.bamboohr.com/jobs/view.php?id=256&source=benevity)
 * [Implementation Consultant](https://benevity.bamboohr.com/jobs/view.php?id=260&source=benevity)
-* [Software Developer](https://benevity.bamboohr.com/jobs/view.php?id=254&source=benevity)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [Compliance Manager](https://certn.co/compliance-manager/)
+* [Graphic Designer/Marketing Assistant](https://certn.co/graphic-designer-marketing-assistant/)
+* [Director of Marketing](https://certn.co/director-of-marketing/)
+* [QA Engineer](https://certn.co/qa-engineer/)
+* [Intermediate Back-End Developer](https://certn.co/intermediate-back-end-developer/)
+* [Director, Customer Support](https://certn.co/director-customer-success/)
+* [Full Stack – Customer Support Engineer](https://certn.co/support-developer-react-redux/)
+* [Customer Support Representative (French)](https://certn.co/customer-support-representative-french/)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -91,6 +96,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [QA Analyst](http://www.codenameentertainment.com/?page=jobs)
+* [Game Developer](http://www.codenameentertainment.com/?page=jobs)
 
 #### [Covault](https://covaultapp.com/)
 
@@ -129,6 +136,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [QA Analyst](https://boards.greenhouse.io/freshworksstudioinc/jobs/4083219003)
 * [iOS Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADIxucNdIHTEi)
 * [Product Manager](https://boards.greenhouse.io/freshworksstudioinc/jobs/4086144003)
+* [DevOps Specialist](https://boards.greenhouse.io/freshworksstudioinc/jobs/4083115003)
+* [Service Delivery Manager](https://boards.greenhouse.io/freshworksstudioinc/jobs/4083353003)
+* [Digital Marketing Specialist](https://boards.greenhouse.io/freshworksstudioinc/jobs/4095705003)
 
 #### [FuturePet](https://www.futurepet.care/)
 
@@ -136,13 +146,9 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Giftbit](https://www.giftbit.com/) (👩‍💻 Co-Op / Intern Friendly)
 
-#### [Hipwood Digital](http://www.hipwooddigital.com/)
-
 #### [Hololabs](https://www.hololabs.org/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Isolation Network](https://www.isolationnetwork.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Front End Developer](https://jobs.jobvite.com/universalmusicgroup/job/oSxKbfw4)
-* [Full Stack Developer](https://jobs.jobvite.com/universalmusicgroup/job/oPAKbfw4)
 * [Software Developer Test Automation](https://jobs.jobvite.com/universalmusicgroup/job/oh3EcfwU)
 * [Data Analyst](https://jobs.jobvite.com/universalmusicgroup/job/oLgMcfwJ)
 * [Data Scientist](https://jobs.jobvite.com/universalmusicgroup/job/oHkMcfwJ)
@@ -151,12 +157,9 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Kano](https://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Product Marketing Manager](https://kanoapps.bamboohr.com/jobs/view.php?id=55)
-* [Facebook Ad Specialist - Games](https://kanoapps.bamboohr.com/jobs/view.php?id=56)
-* [Junior Data Analyst](https://kanoapps.bamboohr.com/jobs/view.php?id=54)
-* [Junior Game Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=57&source=kanoapps)
 
 #### [KIXEYE Canada Ltd](https://www.kixeye.com/)
-* [Senior Network/Infosec DevOps Engineer](https://jobs.jobvite.com/kixeye/job/ofrAcfwc)
+* [Project Manager](https://jobs.jobvite.com/kixeye/job/obKGcfwx)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Business Systems Analyst](https://geocortex.bamboohr.com/jobs/view.php?id=114)
@@ -175,6 +178,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Product Designer](https://www.metalab.co/careers/product-designer)
 * [Engineering Lead](https://www.metalab.co/careers/engineering-lead)
 * [Director of Marketing](https://www.metalab.co/careers/director-marketing)
+* [Design Director](https://www.metalab.co/careers/design-director)
+* [Full Stack Developer](https://www.metalab.co/careers/full-stack-developer)
+* [VP of Engineering](https://www.metalab.co/careers/vp-engineering)
 
 #### [Momentum Dashboard](https://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Front-End Developer](https://momentumdash.com/careers/)
@@ -184,9 +190,11 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Web Developer](https://monetizem.applytojob.com/apply/yPcQkE/Remote-Web-Developer)
 * [Ad Optimizer](https://monetizem.applytojob.com/apply/LKJ8Pj/Ad-Optimizer)
 * [Agile Scrum Business Analyst](https://monetizem.applytojob.com/apply/8FzbwLpt6K/Agile-Scrum-Business-Analyst)
+* [Controller](https://monetizem.applytojob.com/apply/foMEkbsX0Y/Controller)
 
 #### [NetMotion](https://www.netmotionsoftware.com)
 * [Software Test Engineer](https://www.netmotionsoftware.com/culture-values-careers?p=job%2Fo2XMcfwH)
+* [Sr Software Developer](https://www.netmotionsoftware.com/culture-values-careers?p=job%2FoIkYcfwW)
 
 #### [North Robotics](http://www.northrobotics.com)
 * [Computer Engineer](https://www.northrobotics.com/?page_id=1760)
@@ -197,20 +205,19 @@ Keep in mind that companies may have job postings on their own site that are not
 * [iOS Developer](https://www.pgmusic.com/jobs.iosdeveloper.htm)
 
 #### [Pixel Union](https://pixelunion.net/)
-* [People and Culture Lead](https://apply.workable.com/pixel-union/j/55495C4744/)
-* [Director of People Operations](https://apply.workable.com/pixel-union/j/95DFAF3C9D/)
-* [Product Designer](https://apply.workable.com/pixel-union/j/223D2B6049/)
+* [Senior Front End Developer](https://apply.workable.com/pixel-union/j/FC984F0E16/)
+* [Apps Developer](https://apply.workable.com/pixel-union/j/12792A368A/)
+* [Merchant Success Agent](https://apply.workable.com/pixel-union/j/133E0F57AD/)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Social Media Community Manager](https://www.plurilock.com/company/careers/)
 
 #### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
 * [Manager, Media and Distribution](https://pretiointeractive.humi.ca/job-board/uncategorized/615)
-* [Project Manager](https://pretiointeractive.humi.ca/job-board/business%20development/2047)
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Developer, Rebase](https://rdbrck.bamboohr.com/jobs/view.php?id=51)
+* [Senior Application Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=56)
 * [Customer Success Specialist](https://rdbrck.bamboohr.com/jobs/view.php?id=55)
+* [Copywriter](https://rdbrck.bamboohr.com/jobs/view.php?id=57)
 
 #### [Redlen Technologies](https://redlen.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Engineer, Test](https://secure3.entertimeonline.com/ta/6133013.careers?rnd=WDF&ShowJob=319015874&prevScreenY=46&prevScreenX=0)
@@ -226,18 +233,18 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Developer](https://www.revenuewire.com/careers/)
 
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Account Manager](https://ringpartner.bamboohr.com/jobs/view.php?id=37)
 
 #### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Test Engineer](https://rooof.bamboohr.com/jobs/view.php?id=62)
 * [Graphic Designer](https://rooof.bamboohr.com/jobs/view.php?id=64)
 * [Integration Engineer](https://rooof.bamboohr.com/jobs/view.php?id=63)
-* [Marketing Manager](https://rooof.bamboohr.com/jobs/view.php?id=61)
+* [Software Engineer](https://rooof.bamboohr.com/jobs/view.php?id=68)
+* [Support and Account Manager](https://rooof.bamboohr.com/jobs/view.php?id=67)
+* [Marketing Specialist](https://rooof.bamboohr.com/jobs/view.php?id=61)
+
 
 #### [SaaSquatch](https://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Account Executive - MarTech](https://www.saasquatch.com/careers/)
-* [Front End Developer](https://www.saasquatch.com/careers/)
-* [Typescript Engineer](https://www.saasquatch.com/careers/)
 * [Director of Marketing - B2B Enterprise SaaS](https://www.saasquatch.com/careers/)
 * [Senior Account Executive](https://www.saasquatch.com/careers/)
 
@@ -246,6 +253,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Semaphore](https://semaphoresolutions.com/)
 * [Intermediate Software Developer](https://jobs.lever.co/semaphoresolutions/c6c61481-6089-4660-9c7e-ce4fccfebb74)
 * [Senior Software Developer](https://jobs.lever.co/semaphoresolutions/134fb46b-0e60-4991-8e08-6f8ff9bcac39)
+* [Technical Project Manager](https://jobs.lever.co/semaphoresolutions/aa83a923-ea46-4ee8-aac8-cd659d8274f8)
 
 #### [SendtoNews](https://www.sendtonews.com/)
 
@@ -254,20 +262,17 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Intermediate/Senior Front End Developer](https://www.sparklit.com/careers/#front-end)
 
 #### [SilkStart](https://silkstart.com/about/)
-* [Customer Success Specialist](https://silkstart.com/careers/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Program Manager](https://starfishmedical.com/jobs/program-manager/)
 * [Accounts Receivable Manager](https://starfishmedical.com/jobs/accounts-receivable-manager/)
 * [Senior Systems Engineer](https://starfishmedical.com/jobs/senior-systems-engineer/)
 * [Systems Engineer](https://starfishmedical.com/jobs/systems-engineer/)
+* [Senior Infrastructure Analyst](https://starfishmedical.com/jobs/senior-infrastructure-analyst/)
 
 #### [Stocksy United](https://www.stocksy.com/)
 
 #### [Super Good Software](https://supergood.software)
-* [Full Stack Ruby on Rails Developer (Junior)](https://supergood.software/careers/junior-developer)
-* [Full Stack Ruby on Rails Developer (Intermediate)](https://supergood.software/careers/intermediate-developer)
-* [Full Stack Ruby on Rails Developer (Senior)](https://supergood.software/careers/senior-developer)
 
 #### [Tango Financial](https://tangofinancial.ca/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -281,6 +286,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Tutela](https://www.tutela.com/)
 * [Proect Manager, Data Integrity](https://tut.bamboohr.com/jobs/view.php?id=53)
+* [Customer Success Manager](https://tut.bamboohr.com/jobs/view.php?id=54)
 
 #### [VitaminLab](https://getvitaminlab.com/)
 
