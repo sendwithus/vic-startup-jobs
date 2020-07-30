@@ -67,6 +67,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
 * [Account Manager](https://jobs.ingenico.com/bambora/job/Victoria-Account-Manager-CA-BC-V8T/609345701/)
+* [Technology Manager, Infrastructure](https://jobs.ingenico.com/bambora/job/Victoria-Technology-Manager%2C-Infrastructure-CA-BC-V8T/612325001/)
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Software Developer](https://brnkl.io/wp-content/uploads/2019/02/20190228_BRNKL-Job-Description_Software-Developer.pdf)
