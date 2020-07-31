@@ -95,6 +95,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ChatterHigh](https://chatterhigh.com/)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
+* [Customer Success Manager](https://checkfront.bamboohr.com/jobs/view.php?id=75)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [QA Analyst](http://www.codenameentertainment.com/?page=jobs)
