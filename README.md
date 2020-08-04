@@ -63,7 +63,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
 
 #### [Audette](http://audette.io/)
-* [Software Developer](https://apply.hire.toggl.com/7DV197DPPR7LQL9TY5)
 
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
 * [Account Manager](https://jobs.ingenico.com/bambora/job/Victoria-Account-Manager-CA-BC-V8T/609345701/)
