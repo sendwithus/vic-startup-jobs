@@ -36,11 +36,9 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
 * [Director, Cloud Operations](https://www.dxcas.com/images/DXCAS/Careers/pdf/Exempt_Director_Cloud_Ops_JP.pdf)
-* [IS32 Cloud Architect](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS32_CloudArchitect_JP.pdf)
 * [IS27 Engineering Lead - Cloud](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS27_EngineeringLead_JP.pdf)
 * [IS27 Configuration Management Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS27-CMA_JP.pdf)
 * [IS24 Intermediate Database Administrator](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Database_Admin_JP.pdf)
-* [IS24 Intermediate Server Administrator, Linux](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_ServerAdmin_Linux_JP.pdf)
 * [IS24 Intermediate Server Administrator, Windows](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Server_Admin_JP.pdf)
 * [IS24 Intermediate Middleware Administrator](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_MiddlewareAdmin_JP.pdf)
 * [IS24 System Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_System_Analyst_JP.pdf)
@@ -50,7 +48,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [IS21 Junior Technical Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Jr_Tech_Analyst_JP.pdf)
 * [IS21 Junior Technical Analyst- SACM](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Jr_Tech_SACM_JP.pdf)
 * [IS18 Service Desk Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP.pdf)
-* [IS18 Data Centre Technician (Location Kamloops BC)](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS18_DataCenter_Tech_FT_JP.pdf)
 
 #### [AggregateIQ](https://www.aggregateiq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -81,7 +78,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
 * [Graphic Designer/Marketing Assistant](https://certn.co/graphic-designer-marketing-assistant/)
 * [Director of Marketing](https://certn.co/director-of-marketing/)
-* [QA Engineer](https://certn.co/qa-engineer/)
 * [Intermediate Back-End Developer](https://certn.co/intermediate-back-end-developer/)
 * [Director, Customer Support](https://certn.co/director-customer-success/)
 * [Full Stack – Customer Support Engineer](https://certn.co/support-developer-react-redux/)
@@ -170,6 +166,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Leap XD](https://www.leapxd.com)
 
 #### [LlamaZOO](https://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Backend Developer](https://www.llamazoo.com/llamazoo-backend-developer/)
 * [Product Designer – Speculative Applications](https://www.llamazoo.com/product-designer/)
 * [Senior Unity Developer – Speculative Applications](https://www.llamazoo.com/llamazoo-senior-unity-posting/)
 * [Technical Artist – Speculative Applications](https://www.llamazoo.com/llamazoo-technical-artist-posting/)
@@ -178,8 +175,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Design Lead](https://www.metalab.co/careers/design-lead)
 * [Product Designer](https://www.metalab.co/careers/product-designer)
 * [Engineering Lead](https://www.metalab.co/careers/engineering-lead)
-* [Director of Marketing](https://www.metalab.co/careers/director-marketing)
-* [Design Director](https://www.metalab.co/careers/design-director)
 * [Full Stack Developer](https://www.metalab.co/careers/full-stack-developer)
 * [VP of Engineering](https://www.metalab.co/careers/vp-engineering)
 
@@ -190,8 +185,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [MonetizeMore](https://www.monetizemore.com/)
 * [Web Developer](https://monetizem.applytojob.com/apply/yPcQkE/Remote-Web-Developer)
 * [Ad Optimizer](https://monetizem.applytojob.com/apply/LKJ8Pj/Ad-Optimizer)
-* [Agile Scrum Business Analyst](https://monetizem.applytojob.com/apply/8FzbwLpt6K/Agile-Scrum-Business-Analyst)
-* [Controller](https://monetizem.applytojob.com/apply/foMEkbsX0Y/Controller)
 
 #### [NetMotion](https://www.netmotionsoftware.com)
 * [Software Test Engineer](https://www.netmotionsoftware.com/culture-values-careers?p=job%2Fo2XMcfwH)
