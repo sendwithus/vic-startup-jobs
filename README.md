@@ -208,6 +208,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
 * [Manager, Media and Distribution](https://pretiointeractive.humi.ca/job-board/uncategorized/615)
 
+#### [Reelgood](https://reelgood.com/) (👩‍💻 Co-Op / Intern Friendly)
+
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Application Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=56)
 * [Customer Success Specialist](https://rdbrck.bamboohr.com/jobs/view.php?id=55)
