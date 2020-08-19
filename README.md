@@ -221,7 +221,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [regroove](https://regroove.ca/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Revela Systems](https://www.revela.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [Intern Cloud Developer](https://www.revela.io/2020-intern-cloud-developer/)
+* [Intern Data Engineer](https://www.revela.io/2020-intern-data-engineer/)
 
 #### [RevenueWire](https://www.revenuewire.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Developer](https://www.revenuewire.com/careers/)
