@@ -234,7 +234,10 @@ _queue_link_tests () {
 	for text in "${!LINKS[@]}"; do
 		link=${LINKS[$text]}
 
-		if [[ ! " ${tested[*]} " =~ ${link} ]]; then
+		# Using a space as a separator, join the links in the
+		# tested array then check if $link is a substring of it.
+		# This is a one-liner array includes operation.
+		if [[ ! " ${tested[*]} " == *" ${link} "* ]]; then
 			# Haven't seen this link before
 			tested+=("${link}")
 
