@@ -125,6 +125,16 @@ test_link () {
 			[[ ! $QUIET ]] && echo >&2 "🌎 [---] DNS lookup didn't resolve ${hostport}."
 			return 1 # Failed DNS
 
+		elif [[ "$curl_status" -eq 7 ]]; then
+			[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (COULDNT'T CONNECT TO SERVER)"
+			[[ ! $QUIET ]] && echo >&2 "📡 [---] Couldn't connect to ${hostport}."
+			return 1 # Coudn't connect
+
+		elif [[ "$curl_status" -eq 28 ]]; then
+			[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (TIMEOUT WAS REACHED)"
+			[[ ! $QUIET ]] && echo >&2 "⌛ [---] Timed out with ${hostport}."
+			return 1 # Timed out
+
 		elif [[ "$curl_status" -eq 35 ]]; then
 			[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (FAILED SSL HANDSHAKE)"
 			[[ ! $QUIET ]] && echo >&2 "🤝 [---] Handshaking with ${hostport} failed."
@@ -141,8 +151,8 @@ test_link () {
 			return 1 # Interrupted
 
 		elif [[ ! "$curl_status" -eq 0 ]]; then
-			[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (cURL exited with: $curl_status)"
-			[[ ! $QUIET ]] && echo >&2 "🤷 [---] Checking $hostport failed with error code $curl_status"
+			[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (CURLcode: $curl_status)"
+			[[ ! $QUIET ]] && echo >&2 "🤷 [---] Checking $hostport failed with CURLcode $curl_status"
 			return 1 # cURL's unhappy, I'm unhappy
 		fi
 
