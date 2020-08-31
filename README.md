@@ -283,6 +283,12 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Virtual CFO](https://www.virtualcfo.ca/)
 
+#### [Vivid Solutions](https://www.vividsolutions.com/)
+* [Business Analyst](https://vividsolutions.bamboohr.com/jobs/view.php?id=6&source=other)
+* [Full Stack Developer](https://vividsolutions.bamboohr.com/jobs/view.php?id=7&source=other)
+* [Senior Project Manager](https://vividsolutions.bamboohr.com/jobs/view.php?id=9&source=other)
+* [Technical Project Manager](https://vividsolutions.bamboohr.com/jobs/view.php?id=8&source=other)
+
 #### [Watershed Partners](https://watershed.co/)
 * [Design Lead](https://watershed.co/careers-design-lead/)
 * [IT Operations Manager](https://watershed.co/careers-strategic-communications-advisor/)
