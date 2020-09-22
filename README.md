@@ -36,18 +36,18 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
 * [Director, Cloud Operations](https://www.dxcas.com/images/DXCAS/Careers/pdf/Exempt_Director_Cloud_Ops_JP.pdf)
+* [IS32 Senior ServiceNow Solutions Specialist](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS32_Sr_ServiceNow_JP.pdf)
 * [IS27 Engineering Lead - Cloud](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS27_EngineeringLead_JP.pdf)
 * [IS27 Configuration Management Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS27-CMA_JP.pdf)
 * [IS24 Intermediate Database Administrator](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Database_Admin_JP.pdf)
-* [IS24 Intermediate Server Administrator, Windows](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Server_Admin_JP.pdf)
 * [IS24 Intermediate Middleware Administrator](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_MiddlewareAdmin_JP.pdf)
 * [IS24 System Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_System_Analyst_JP.pdf)
 * [IS24 OpenVMS Administrator](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_OpenVMSAdministrator_JP.pdf)
+* [IS24 Intermediate Server Administrator, Linux](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_ServerAdmin_Linux_JP.pdf)
 * [IS21 Junior Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Junior_Analyst_JP.pdf)
-* [IS21 Server Administrator, Windows](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Server_Admin_Windows_JP.pdf)
 * [IS21 Junior Technical Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Jr_Tech_Analyst_JP.pdf)
 * [IS21 Junior Technical Analyst- SACM](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Jr_Tech_SACM_JP.pdf)
-* [IS18 Service Desk Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP.pdf)
+* [IS21 Server Administrator - Citrix](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_ServerAdmin_Citrix_JP.pdf)
 
 #### [AggregateIQ](https://www.aggregateiq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
