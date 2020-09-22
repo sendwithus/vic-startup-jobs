@@ -87,10 +87,12 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ChatterHigh](https://chatterhigh.com/)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Customer Success Manager](https://checkfront.bamboohr.com/jobs/view.php?id=75)
+* [Growth Developer](https://checkfront.bamboohr.com/jobs/view.php?id=80)
 * [Senior Front End / UI Developer](https://checkfront.bamboohr.com/jobs/view.php?id=78)
 * [Senior Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=76)
+* [Data Analyst - Growth](https://checkfront.bamboohr.com/jobs/view.php?id=82)
 * [Product Manager](https://checkfront.bamboohr.com/jobs/view.php?id=79)
+* [VP of Product](https://checkfront.bamboohr.com/jobs/view.php?id=81)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [QA Analyst](http://www.codenameentertainment.com/?page=jobs)
