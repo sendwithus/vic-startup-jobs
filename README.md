@@ -223,7 +223,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Manager, Validation](https://secure3.entertimeonline.com/ta/6133013.careers?rnd=WDF&ShowJob=251863947&prevScreenY=46&prevScreenX=0)
 
 #### [Revela Systems](https://www.revela.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [Intern Data Engineer](https://www.revela.io/2020-intern-data-engineer/)
 
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Head of Media Buyer](https://ringpartner.bamboohr.com/jobs/view.php?id=38)
