@@ -90,9 +90,10 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ChatterHigh](https://chatterhigh.com/)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Growth Developer](https://checkfront.bamboohr.com/jobs/view.php?id=80)
+* [Implementation Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=83)
 * [Senior Front End / UI Developer](https://checkfront.bamboohr.com/jobs/view.php?id=78)
 * [Senior Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=76)
+* [Software Developer - Growth](https://checkfront.bamboohr.com/jobs/view.php?id=80)
 * [Data Analyst - Growth](https://checkfront.bamboohr.com/jobs/view.php?id=82)
 * [Product Manager](https://checkfront.bamboohr.com/jobs/view.php?id=79)
 * [VP of Product](https://checkfront.bamboohr.com/jobs/view.php?id=81)
@@ -108,8 +109,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Editorial Manager](https://www.crowdcontent.com/current-openings-content-project-manager/)
 
 #### [Cuboh](https://www.cuboh.com) (👩‍💻 Co-Op / Intern Friendly)
-* [Customer Success / Setup Specialist](https://secure.collage.co/jobs/cuboh/14294)
-* [Technical Support Analyst - Coop](https://secure.collage.co/jobs/cuboh/18085)
+* [Office Manager](https://secure.collage.co/jobs/cuboh/17199)
+* [Technical Operations Coordinator](https://secure.collage.co/jobs/cuboh/18534)
+* [Technical Support Coordinator](https://secure.collage.co/jobs/cuboh/18427)
 
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
