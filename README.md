@@ -263,7 +263,11 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Success Specialist](https://silkstart.com/careers/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Program Manager](https://starfishmedical.com/jobs/program-manager/)
+* [Supply Chain Manager](https://starfishmedical.com/jobs/supply-chain-manager-2/)
+* [Senior Firmware Manager](https://starfishmedical.com/jobs/senior-firmware-engineer-2/)
+* [Senior Project Manager](https://starfishmedical.com/jobs/senior-project-manager/)
+* [Product Development Project Manager](https://starfishmedical.com/jobs/program-manager/)
+* [Senior Mechanical Engineer](https://starfishmedical.com/jobs/senior-mechanical-engineer-3/)
 * [Accounting Manager](https://starfishmedical.com/jobs/accounts-receivable-manager/)
 * [Senior Systems Engineer](https://starfishmedical.com/jobs/senior-systems-engineer/)
 * [Systems Engineer](https://starfishmedical.com/jobs/systems-engineer/)
@@ -271,7 +275,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Service Desk Technician](https://starfishmedical.com/jobs/junior-desktop-support-analyst/)
 
 #### [Stocksy United](https://www.stocksy.com/)
-* [Growth Manager](https://www.stocksy.com/service/hiring)
+* [Finance Assistant](https://www.stocksy.com/service/hiring)
+* [Marketing Director](https://www.stocksy.com/service/hiring)
 
 #### [Super Good Software](https://supergood.software)
 
@@ -287,7 +292,8 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Tutela](https://www.tutela.com/)
 * [Lead, DevOps](https://tut.bamboohr.com/jobs/view.php?id=56)
-* [Customer Success Manager](https://tut.bamboohr.com/jobs/view.php?id=54)
+* [DevOps](https://tut.bamboohr.com/jobs/view.php?id=62)
+* [Technical Support Specialist](https://tut.bamboohr.com/jobs/view.php?id=59)
 
 #### [VitaminLab](https://getvitaminlab.com/)
 
@@ -300,15 +306,17 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Technical Project Manager](https://vividsolutions.bamboohr.com/jobs/view.php?id=8&source=other)
 
 #### [Watershed Partners](https://watershed.co/)
-* [Design Lead](https://watershed.co/careers-design-lead/)
-* [IT Operations Manager](https://watershed.co/careers-strategic-communications-advisor/)
+* [People and Talent Specialist](https://watershed.co/careers-people-and-talent-specialist/)
 
 #### [Waterworth](https://waterworth.net/)
+* [Sales and Marketing Coordinator](https://waterworth.net/careers/)
 
 #### [White Ops](https://www.whiteops.com/)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
-* [Sr. Manager, Software Development Engineering](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Sr-Manager--Software-Development-Engineering_JR-40311)
+* [Full Stack Software Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Full-Stack-Software-Engineer_JR-43926)
+* [Test Automation Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Test-Automation-Engineer_JR-44912)
+* [Software Development Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Software-Development-Engineer-III_JR-44900)
 
 ---
 
