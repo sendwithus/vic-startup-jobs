@@ -95,13 +95,13 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Implementation Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=83)
+* [DevOps Team Lead](https://checkfront.bamboohr.com/jobs/view.php?id=71)
 * [Senior Front End / UI Developer](https://checkfront.bamboohr.com/jobs/view.php?id=78)
 * [Senior Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=76)
 * [Software Developer - Growth](https://checkfront.bamboohr.com/jobs/view.php?id=80)
 * [Data Analyst - Growth](https://checkfront.bamboohr.com/jobs/view.php?id=82)
 * [Product Manager](https://checkfront.bamboohr.com/jobs/view.php?id=79)
 * [VP of Product](https://checkfront.bamboohr.com/jobs/view.php?id=81)
-* [Implementation Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=83)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Junior Developer](http://www.codenameentertainment.com/?page=jobs)
