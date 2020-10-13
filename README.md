@@ -280,7 +280,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Systems Engineer](https://starfishmedical.com/jobs/senior-systems-engineer/)
 * [Systems Engineer](https://starfishmedical.com/jobs/systems-engineer/)
 * [Senior Infrastructure Analyst](https://starfishmedical.com/jobs/senior-infrastructure-analyst/)
-* [Service Desk Technician](https://starfishmedical.com/jobs/junior-desktop-support-analyst/)
 
 #### [Stocksy United](https://www.stocksy.com/)
 * [Finance Assistant](https://www.stocksy.com/service/hiring)
@@ -296,7 +295,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Software Engineer, Product Development](https://cdn2.hubspot.net/hubfs/3280069/Software%20Engineer%20-%20Python%20Django%20Core%20Services%20Team%20-%20May2020.pdf)
 
 #### [The Number](https://thenumber.ca/)
-* [Creative Designer](https://thenumber.ca/one-designer-please/)
 
 #### [Tutela](https://www.tutela.com/)
 * [Lead, DevOps](https://tut.bamboohr.com/jobs/view.php?id=56)
