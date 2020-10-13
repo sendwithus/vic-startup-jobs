@@ -172,7 +172,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Controller](https://kixeye.bamboohr.com/jobs/view.php?id=13)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Intermediate/Career Software Developer](https://geocortex.bamboohr.com/jobs/view.php?id=109)
+* [Intermediate/Career Software Developer](https://vertigis.bamboohr.com/jobs/view.php?id=109)
 * [NetSuite Migration Coordinator (3-month contract)](https://vertigis.bamboohr.com/jobs/view.php?id=116)
 
 #### [Leap XD](https://www.leapxd.com)
