@@ -96,7 +96,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Implementation Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=83)
 * [DevOps Team Lead](https://checkfront.bamboohr.com/jobs/view.php?id=71)
-* [Senior Front End / UI Developer](https://checkfront.bamboohr.com/jobs/view.php?id=78)
 * [Senior Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=76)
 * [Software Developer - Growth](https://checkfront.bamboohr.com/jobs/view.php?id=80)
 * [Data Analyst - Growth](https://checkfront.bamboohr.com/jobs/view.php?id=82)
