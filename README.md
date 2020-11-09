@@ -109,9 +109,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Editorial Manager](https://www.crowdcontent.com/current-openings-content-project-manager/)
 
 #### [Cuboh](https://www.cuboh.com) (👩‍💻 Co-Op / Intern Friendly)
-* [Office Manager](https://secure.collage.co/jobs/cuboh/17199)
-* [Technical Operations Coordinator](https://secure.collage.co/jobs/cuboh/18534)
-* [Technical Support Coordinator](https://secure.collage.co/jobs/cuboh/18427)
+* [Customer Setup & Support Specialist](https://secure.collage.co/jobs/cuboh/18982)
 
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
