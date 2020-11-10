@@ -115,9 +115,11 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Sales Development Representative (SDR)](https://www.dyspatch.io/about/careers/post/?a9118cc4-2380-4e73-bfb2-3095cf240f96)
+* [Customer Success Associate](https://www.dyspatch.io/about/careers/post/?39ce3044-923e-424a-b8d8-9f99ed2355f5)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
 * [Account Manager](https://echosec.breezy.hr/p/f513b39f379d-account-manager)
+* [Customer Success Representative](https://echosec.breezy.hr/p/be21d35b8ff9-customer-success-representative)
 
 #### [Expeto](http://expeto.io/)
 * [Director of Product Marketing](https://expetowireless.recruitee.com/o/director-of-product-marketing)
@@ -138,12 +140,12 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Software Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbOKc2QnaicN9)
 * [Full Stack Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADN8jmnPJ9_Rl)
 * [iOS Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADIxucNdIHTEi)
-* [Product Manager](https://boards.greenhouse.io/freshworksstudioinc/jobs/4086144003)
-* [Service Delivery Manager](https://boards.greenhouse.io/freshworksstudioinc/jobs/4083353003)
-* [Digital Marketing Specialist](https://boards.greenhouse.io/freshworksstudioinc/jobs/4095705003)
+* [Intermediate QA Analyst - Manual Tester](https://boards.greenhouse.io/freshworksstudioinc/jobs/4083219003)
+* [Android Developer](https://boards.greenhouse.io/freshworksstudioinc/jobs/4126046003)
+* [Pre-sales Specialist](https://boards.greenhouse.io/freshworksstudioinc/jobs/4206340003)
 * [Director, Public Sector](https://boards.greenhouse.io/freshworksstudioinc/jobs/4147061003)
 * [Talent Acquisition Coordinator](https://boards.greenhouse.io/freshworksstudioinc/jobs/4163394003)
-* [Technical Project Manager](https://boards.greenhouse.io/freshworksstudioinc/jobs/4083364003)
+* [Marketing & Communications Specialist](https://boards.greenhouse.io/freshworksstudioinc/jobs/4095705003)
 
 #### [FuturePet](https://www.futurepet.care/)
 
