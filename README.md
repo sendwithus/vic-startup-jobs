@@ -48,6 +48,10 @@ Keep in mind that companies may have job postings on their own site that are not
 * [IS21 Server Administrator - Citrix](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_ServerAdmin_Citrix_JP.pdf)
 * [Service Desk Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP2.pdf)
 
+#### [AlayaCare](https://www.alayacare.com/)
+* [Full Stack Web Developer](https://boards.greenhouse.io/alayacare/jobs/4614282002)
+* [QA Analyst](hhttps://boards.greenhouse.io/alayacare/jobs/4924030002)
+
 #### [Animikii](https://www.animikii.com/?utm_source=careers&utm_medium=website&utm_campaign=quote_contact&utm_content=logo)
 * [Web Developer & Designer](https://www.animikii.com/about/careers/web-designer-developer)
 * [Ruby on Rails Developer](https://www.animikii.com/about/careers/ruby-on-rails-developer-full-time)
