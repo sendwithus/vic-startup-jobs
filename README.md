@@ -72,7 +72,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Bilingual Account Manager](https://jobs.ingenico.com/bambora/job/Victoria-Bilingual-Account-Manager-CA-BC-V8T/622031501/)
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [JUnior Software Developer](https://www.brnkl.io/wp-content/uploads/2020/09/20200917_BRNKL-Job-Description_Jr-Full-Stack-Developer.pdf)
+* [Junior Software Developer](https://www.brnkl.io/wp-content/uploads/2020/09/20200917_BRNKL-Job-Description_Jr-Full-Stack-Developer.pdf)
 
 #### [BCDevExchange](https://www2.gov.bc.ca/gov/content/careers-myhr/job-seekers/current-job-postings)
 
