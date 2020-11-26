@@ -118,8 +118,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [Sales Development Representative (SDR)](https://www.dyspatch.io/about/careers/post/?a9118cc4-2380-4e73-bfb2-3095cf240f96)
-* [Customer Success Associate](https://www.dyspatch.io/about/careers/post/?39ce3044-923e-424a-b8d8-9f99ed2355f5)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
 * [Account Manager](https://echosec.breezy.hr/p/f513b39f379d-account-manager)
