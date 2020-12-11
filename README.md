@@ -94,14 +94,16 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ChatterHigh](https://chatterhigh.com/)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Implementation Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=83)
-* [Senior Front End / UI Developer](https://checkfront.bamboohr.com/jobs/view.php?id=78)
+* [DevOps Team Lead](https://checkfront.bamboohr.com/jobs/view.php?id=71)
+* [Junior Developer](https://checkfront.bamboohr.com/jobs/view.php?id=87)
+* [Intermediate Web Developer](https://checkfront.bamboohr.com/jobs/view.php?id=89)
+* [Intermediate Developer - Data & Architecture team](https://checkfront.bamboohr.com/jobs/view.php?id=88)
+* [Senior Developer - Data & Architecture team](https://checkfront.bamboohr.com/jobs/view.php?id=86)
 * [Senior Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=76)
 * [Software Developer - Growth](https://checkfront.bamboohr.com/jobs/view.php?id=80)
-* [Data Analyst - Growth](https://checkfront.bamboohr.com/jobs/view.php?id=82)
-* [Product Manager](https://checkfront.bamboohr.com/jobs/view.php?id=79)
-* [VP of Product](https://checkfront.bamboohr.com/jobs/view.php?id=81)
-* [Implementation Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=83)
+* [Software Development Manager - Payments](https://checkfront.bamboohr.com/jobs/view.php?id=90)
+* [Director of Technical Support (Temp 14 month contract)](https://checkfront.bamboohr.com/jobs/view.php?id=91)
+* [Technical Support Specialist - Evenings](https://checkfront.bamboohr.com/jobs/view.php?id=85)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Junior Developer](http://www.codenameentertainment.com/?page=jobs)
@@ -172,7 +174,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Controller](https://kixeye.bamboohr.com/jobs/view.php?id=13)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Intermediate/Career Software Developer](https://geocortex.bamboohr.com/jobs/view.php?id=109)
+* [Intermediate/Career Software Developer](https://vertigis.bamboohr.com/jobs/view.php?id=109)
 * [NetSuite Migration Coordinator (3-month contract)](https://vertigis.bamboohr.com/jobs/view.php?id=116)
 
 #### [Leap XD](https://www.leapxd.com)
@@ -280,7 +282,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Systems Engineer](https://starfishmedical.com/jobs/senior-systems-engineer/)
 * [Systems Engineer](https://starfishmedical.com/jobs/systems-engineer/)
 * [Senior Infrastructure Analyst](https://starfishmedical.com/jobs/senior-infrastructure-analyst/)
-* [Service Desk Technician](https://starfishmedical.com/jobs/junior-desktop-support-analyst/)
 
 #### [Stocksy United](https://www.stocksy.com/)
 * [Finance Assistant](https://www.stocksy.com/service/hiring)
@@ -296,7 +297,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Software Engineer, Product Development](https://cdn2.hubspot.net/hubfs/3280069/Software%20Engineer%20-%20Python%20Django%20Core%20Services%20Team%20-%20May2020.pdf)
 
 #### [The Number](https://thenumber.ca/)
-* [Creative Designer](https://thenumber.ca/one-designer-please/)
 
 #### [Tutela](https://www.tutela.com/)
 * [Lead, DevOps](https://tut.bamboohr.com/jobs/view.php?id=56)
