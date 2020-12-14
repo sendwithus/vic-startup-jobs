@@ -289,6 +289,9 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Super Good Software](https://supergood.software)
 
+#### [Swiss Vault](https://www.swissvault.io/)
+* [Patent Writer](https://www.viatec.ca/jobs/patent-writer)
+
 #### [Tango Financial](https://tangofinancial.ca/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Tapstream](https://tapstream.com/)
