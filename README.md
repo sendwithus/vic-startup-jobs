@@ -135,6 +135,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Flow](https://www.getflow.com/)
 * [Principal Engineer](https://getflow.bamboohr.com/jobs/view.php?id=19&source=other)
 
+#### [Fluorescent Design Inc.](https://fluorescent.co/)
+* [Customer Support and Quality Assurance Specialist](https://tinyurl.com/y7npmrpn)
+
 #### [Flytographer](https://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Foundry Spatial](https://www.foundryspatial.com)
