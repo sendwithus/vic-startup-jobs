@@ -48,6 +48,10 @@ Keep in mind that companies may have job postings on their own site that are not
 * [IS21 Server Administrator - Citrix](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_ServerAdmin_Citrix_JP.pdf)
 * [Service Desk Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP2.pdf)
 
+#### [AlayaCare](https://www.alayacare.com/)
+* [Full Stack Web Developer](https://boards.greenhouse.io/alayacare/jobs/4614282002)
+* [QA Analyst](https://boards.greenhouse.io/alayacare/jobs/4924030002)
+
 #### [Animikii](https://www.animikii.com/?utm_source=careers&utm_medium=website&utm_campaign=quote_contact&utm_content=logo)
 * [Web Developer & Designer](https://www.animikii.com/about/careers/web-designer-developer)
 * [Ruby on Rails Developer](https://www.animikii.com/about/careers/ruby-on-rails-developer-full-time)
@@ -69,7 +73,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Developer (8 Month Contract)](https://jobs.ingenico.com/bambora/job/Victoria-Full-Stack-Developer-%288-Month-Contract%29-CA-BC-V8T/627024801/)
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [JUnior Software Developer](https://www.brnkl.io/wp-content/uploads/2020/09/20200917_BRNKL-Job-Description_Jr-Full-Stack-Developer.pdf)
+* [Junior Software Developer](https://www.brnkl.io/wp-content/uploads/2020/09/20200917_BRNKL-Job-Description_Jr-Full-Stack-Developer.pdf)
 
 #### [BCDevExchange](https://www2.gov.bc.ca/gov/content/careers-myhr/job-seekers/current-job-postings)
 
@@ -91,14 +95,16 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ChatterHigh](https://chatterhigh.com/)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Implementation Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=83)
-* [Senior Front End / UI Developer](https://checkfront.bamboohr.com/jobs/view.php?id=78)
+* [DevOps Team Lead](https://checkfront.bamboohr.com/jobs/view.php?id=71)
+* [Junior Developer](https://checkfront.bamboohr.com/jobs/view.php?id=87)
+* [Intermediate Web Developer](https://checkfront.bamboohr.com/jobs/view.php?id=89)
+* [Intermediate Developer - Data & Architecture team](https://checkfront.bamboohr.com/jobs/view.php?id=88)
+* [Senior Developer - Data & Architecture team](https://checkfront.bamboohr.com/jobs/view.php?id=86)
 * [Senior Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=76)
 * [Software Developer - Growth](https://checkfront.bamboohr.com/jobs/view.php?id=80)
-* [Data Analyst - Growth](https://checkfront.bamboohr.com/jobs/view.php?id=82)
-* [Product Manager](https://checkfront.bamboohr.com/jobs/view.php?id=79)
-* [VP of Product](https://checkfront.bamboohr.com/jobs/view.php?id=81)
-* [Implementation Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=83)
+* [Software Development Manager - Payments](https://checkfront.bamboohr.com/jobs/view.php?id=90)
+* [Director of Technical Support (Temp 14 month contract)](https://checkfront.bamboohr.com/jobs/view.php?id=91)
+* [Technical Support Specialist - Evenings](https://checkfront.bamboohr.com/jobs/view.php?id=85)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Junior Developer](http://www.codenameentertainment.com/?page=jobs)
@@ -110,17 +116,16 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Editorial Manager](https://www.crowdcontent.com/current-openings-content-project-manager/)
 
 #### [Cuboh](https://www.cuboh.com) (👩‍💻 Co-Op / Intern Friendly)
-* [Office Manager](https://secure.collage.co/jobs/cuboh/17199)
-* [Technical Operations Coordinator](https://secure.collage.co/jobs/cuboh/18534)
-* [Technical Support Coordinator](https://secure.collage.co/jobs/cuboh/18427)
+* [Customer Setup & Support Specialist](https://secure.collage.co/jobs/cuboh/18982)
 
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Sales Development Representative (Sr SDR)](https://www.dyspatch.io/about/careers/post/?a9118cc4-2380-4e73-bfb2-3095cf240f96)
+* [Customer Success Associate](https://www.dyspatch.io/about/careers/post/?39ce3044-923e-424a-b8d8-9f99ed2355f5)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
 * [Account Manager](https://echosec.breezy.hr/p/f513b39f379d-account-manager)
+* [Customer Success Representative](https://echosec.breezy.hr/p/be21d35b8ff9-customer-success-representative)
 
 #### [Expeto](http://expeto.io/)
 * [Director of Product Marketing](https://expetowireless.recruitee.com/o/director-of-product-marketing)
@@ -141,12 +146,12 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Software Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbOKc2QnaicN9)
 * [Full Stack Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADN8jmnPJ9_Rl)
 * [iOS Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADIxucNdIHTEi)
-* [Product Manager](https://boards.greenhouse.io/freshworksstudioinc/jobs/4086144003)
-* [Service Delivery Manager](https://boards.greenhouse.io/freshworksstudioinc/jobs/4083353003)
-* [Digital Marketing Specialist](https://boards.greenhouse.io/freshworksstudioinc/jobs/4095705003)
+* [Intermediate QA Analyst - Manual Tester](https://boards.greenhouse.io/freshworksstudioinc/jobs/4083219003)
+* [Android Developer](https://boards.greenhouse.io/freshworksstudioinc/jobs/4126046003)
+* [Pre-sales Specialist](https://boards.greenhouse.io/freshworksstudioinc/jobs/4206340003)
 * [Director, Public Sector](https://boards.greenhouse.io/freshworksstudioinc/jobs/4147061003)
 * [Talent Acquisition Coordinator](https://boards.greenhouse.io/freshworksstudioinc/jobs/4163394003)
-* [Technical Project Manager](https://boards.greenhouse.io/freshworksstudioinc/jobs/4083364003)
+* [Marketing & Communications Specialist](https://boards.greenhouse.io/freshworksstudioinc/jobs/4095705003)
 
 #### [FuturePet](https://www.futurepet.care/)
 
@@ -171,7 +176,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Controller](https://kixeye.bamboohr.com/jobs/view.php?id=13)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Intermediate/Career Software Developer](https://geocortex.bamboohr.com/jobs/view.php?id=109)
+* [Intermediate/Career Software Developer](https://vertigis.bamboohr.com/jobs/view.php?id=109)
 * [NetSuite Migration Coordinator (3-month contract)](https://vertigis.bamboohr.com/jobs/view.php?id=116)
 
 #### [Leap XD](https://www.leapxd.com)
@@ -279,13 +284,15 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Systems Engineer](https://starfishmedical.com/jobs/senior-systems-engineer/)
 * [Systems Engineer](https://starfishmedical.com/jobs/systems-engineer/)
 * [Senior Infrastructure Analyst](https://starfishmedical.com/jobs/senior-infrastructure-analyst/)
-* [Service Desk Technician](https://starfishmedical.com/jobs/junior-desktop-support-analyst/)
 
 #### [Stocksy United](https://www.stocksy.com/)
 * [Finance Assistant](https://www.stocksy.com/service/hiring)
 * [Marketing Director](https://www.stocksy.com/service/hiring)
 
 #### [Super Good Software](https://supergood.software)
+
+#### [Swiss Vault](https://www.swissvault.io/)
+* [Patent Writer](https://www.viatec.ca/jobs/patent-writer)
 
 #### [Tango Financial](https://tangofinancial.ca/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -295,7 +302,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Software Engineer, Product Development](https://cdn2.hubspot.net/hubfs/3280069/Software%20Engineer%20-%20Python%20Django%20Core%20Services%20Team%20-%20May2020.pdf)
 
 #### [The Number](https://thenumber.ca/)
-* [Creative Designer](https://thenumber.ca/one-designer-please/)
 
 #### [Tutela](https://www.tutela.com/)
 * [Lead, DevOps](https://tut.bamboohr.com/jobs/view.php?id=56)
