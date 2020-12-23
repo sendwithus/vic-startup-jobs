@@ -70,6 +70,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
 * [Customer Care Specialist](https://jobs.ingenico.com/bambora/job/Victoria-Customer-Care-Specialist-CA-BC-V8T/617282301/)
 * [Bilingual Account Manager](https://jobs.ingenico.com/bambora/job/Victoria-Bilingual-Account-Manager-CA-BC-V8T/622031501/)
+* [Operations Engineer](https://jobs.ingenico.com/bambora/job/Victoria-Operations-Engineer-CA-BC-V8T/637833901/)
+* [Full Stack Developer (6 month contract)](https://jobs.ingenico.com/bambora/job/Victoria-Full-Stack-Developer-%286-Month-Contract%29-CA-BC-V8T/638650001/?locale=en_US)
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Junior Software Developer](https://www.brnkl.io/wp-content/uploads/2020/09/20200917_BRNKL-Job-Description_Jr-Full-Stack-Developer.pdf)
