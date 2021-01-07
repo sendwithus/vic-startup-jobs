@@ -123,6 +123,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Customer Success Associate](https://www.dyspatch.io/about/careers/post/?39ce3044-923e-424a-b8d8-9f99ed2355f5)
+* [Senior DevOps Developer](https://www.dyspatch.io/about/careers/post/?8644d792-2ba2-4747-a517-12f1c5599d06)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
 * [Account Manager](https://echosec.breezy.hr/p/f513b39f379d-account-manager)
