@@ -245,6 +245,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Redlen Technologies](https://redlen.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Developer, Test Software](https://secure3.entertimeonline.com/ta/6133013.careers?rnd=WDF&ShowJob=369311828&prevScreenY=46&prevScreenX=0)
 
+#### [Regroove](https://regroove.ca) (👩‍💻 Co-Op / Intern Friendly)
+* [Microsoft 365 Developer](https://regroove.ca/careers/microsoft-365-developer/)
+
 #### [Revela Systems](https://www.revela.io/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
