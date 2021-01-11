@@ -25,6 +25,8 @@ Return codes
 
 The return code will represent the total number of potential issues flagged - if 2 links don't resolve and another 5 links 404, the return code will be 7. This doesn't exactly follow standard POSIX return code paradigms, but should be good for our use cases - zero still represents success with no errors.
 
+If a line in the log mentioned something about a **CURLcode**, it's referring to the error codes of cURL itself. The complete list can be found in [cURL's documentation](https://curl.haxx.se/libcurl/c/libcurl-errors.html). These errors are related to the link being checked, not this script.
+
 Modes
 ---------
 

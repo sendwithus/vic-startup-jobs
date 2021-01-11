@@ -3,7 +3,7 @@
 # Check deps
 if ((BASH_VERSINFO[0] < 4)); then
 	echo "You need bash 4 or later to run this script."
-	echo "Bash version: $BASH_VERSION"
+	echo "Bash version: ${BASH_VERSION}"
 	exit 1
 fi
 
@@ -20,7 +20,7 @@ else
 
 	if [[ "$curl_vhave" != "$curl_vneed" ]]; then
 		echo "You need at least cURL 6.5.1 to run this script."
-		echo "cURL version: $curl_vhave"
+		echo "cURL version: ${curl_vhave}"
 		exit 1
 	fi
 fi
@@ -63,7 +63,7 @@ find_links () {
 	_queue_link_tests
 	exit_code=$?
 
-	[[ ! $QUIET ]] && echo >&2 "✨ Done checking! [$exit_code problem(s)]"
+	[[ ! $QUIET ]] && echo >&2 "✨ Done checking! [${exit_code} problem(s)]"
 
 	exit "$exit_code"
 }
@@ -81,68 +81,78 @@ test_link () {
 		# check for that explicitly
 		scheme=$(grep mailto: <<< "$link" | sed -e 's#^\(mailto:\).*#\1#g')
 	fi
-	url="${link/$scheme/}"
+	url="${link/${scheme}/}"
 	user=$(grep @ <<< "$url" | cut -d@ -f1)
-	hostport=$(cut -d/ -f1 <<< "${url/$user@/}")
+	hostport=$(cut -d/ -f1 <<< "${url/${user}@/}")
 
 	# Paterns to filter on
 	hash_or_slash='^[\.#/]'
 	http_or_https='^https?://'
 	mailto='^mailto:'
 	if [[ "${link}" =~ $hash_or_slash ]]; then
-		[[ ! $QUIET ]] && echo >&2 "🔗 Skip: $link seems more like an anchor or local file."
+		[[ ! $QUIET ]] && echo >&2 "🔗 Skip: ${link} seems more like an anchor or local file."
 		return 0 # Skiping is OK, we warned
 
 	elif [[ "${link}" =~ $mailto ]]; then
 		# Could write $hostport to $link, and check that the email's domain resolves,
 		# or bring in other dependency to check for an MX record.. but meh - no-one
 		# seems to actually be posting jobs with email links
-		[[ ! $QUIET ]] && echo >&2 "📮 Skip: $link starts with mailto, let's hope it exists!"
+		[[ ! $QUIET ]] && echo >&2 "📮 Skip: ${link} starts with mailto, let's hope it exists!"
 		return 0 # Skiping is OK, we warned
 
 	elif [[ ! "${scheme}" =~ $http_or_https || -z "${scheme}" ]]; then
-		[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (Missing or unknown scheme)"
+		[[ $MARKDOWN ]] && echo "* [ ] --- ${text} ${link} (Missing or unknown scheme)"
 		[[ ! $QUIET ]] && echo >&2 "🦺 Skip: The scheme component on ${link} isn't http(s) or is empty."
 		return 1 # Missing scheme, www.example.com will be linked to a file in the repo
 
 	else
-		http_code=$(curl --location --silent -o /dev/null -w '%{http_code}' "$link")
+		http_code=$(curl --location --silent -o /dev/null -w '%{http_code}' "${link}")
 		curl_status=$?
 
 		# We follow redirects (--location), but 3xx-series HTTP codes could still end up here.
 		# 300 (Multiple Choice) is an example, so let's report on anything >= 300.
 		# Codes for reference: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 		if [[ "$http_code" -ge 300 ]]; then
-			[[ $MARKDOWN ]] && echo "* [ ] $http_code $text $link"
-			[[ ! $QUIET ]] && echo >&2 "👻 [$http_code] $text seems gone, from $hostport"
+			[[ $MARKDOWN ]] && echo "* [ ] ${http_code} ${text} ${link}"
+			[[ ! $QUIET ]] && echo >&2 "👻 [${http_code}] ${text} seems gone, from ${hostport}"
 			return 1 # HTTP error, this is what this whole script for here for
 		fi
 
 		# See https://curl.haxx.se/libcurl/c/libcurl-errors.html for more cases we might
 		# want to handle.
 		if [[ "$curl_status" -eq 6 ]]; then
-			[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (UNRESOLVED HOST)"
+			[[ $MARKDOWN ]] && echo "* [ ] --- ${text} ${link} (UNRESOLVED HOST)"
 			[[ ! $QUIET ]] && echo >&2 "🌎 [---] DNS lookup didn't resolve ${hostport}."
 			return 1 # Failed DNS
 
+		elif [[ "$curl_status" -eq 7 ]]; then
+			[[ $MARKDOWN ]] && echo "* [ ] --- ${text} ${link} (COULDNT'T CONNECT TO SERVER)"
+			[[ ! $QUIET ]] && echo >&2 "📡 [---] Couldn't connect to ${hostport}."
+			return 1 # Coudn't connect
+
+		elif [[ "$curl_status" -eq 28 ]]; then
+			[[ $MARKDOWN ]] && echo "* [ ] --- ${text} ${link} (TIMEOUT WAS REACHED)"
+			[[ ! $QUIET ]] && echo >&2 "⌛ [---] Timed out with ${hostport}."
+			return 1 # Timed out
+
 		elif [[ "$curl_status" -eq 35 ]]; then
-			[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (FAILED SSL HANDSHAKE)"
+			[[ $MARKDOWN ]] && echo "* [ ] --- ${text} ${link} (FAILED SSL HANDSHAKE)"
 			[[ ! $QUIET ]] && echo >&2 "🤝 [---] Handshaking with ${hostport} failed."
 			return 1 # Failed SSL
 
 		elif [[ "$curl_status" -eq 60 || "$curl_status" -eq 51 ]]; then
-			[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (FAILED SSL VERIFICATION)"
+			[[ $MARKDOWN ]] && echo "* [ ] --- ${text} ${link} (FAILED SSL VERIFICATION)"
 			[[ ! $QUIET ]] && echo >&2 "🔓 [---] ${hostport}'s SSL certificate seems invalid!"
 			return 1 # Failed SSL
 
 		elif [[ "$curl_status" -eq 130 ]]; then
-			[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (SIGINT)"
+			[[ $MARKDOWN ]] && echo "* [ ] --- ${text} ${link} (SIGINT)"
 			[[ ! $QUIET ]] && echo >&2 "🛑 [---] Interrupted checking ${hostport}!"
 			return 1 # Interrupted
 
 		elif [[ ! "$curl_status" -eq 0 ]]; then
-			[[ $MARKDOWN ]] && echo "* [ ] --- $text $link (cURL exited with: $curl_status)"
-			[[ ! $QUIET ]] && echo >&2 "🤷 [---] Checking $hostport failed with error code $curl_status"
+			[[ $MARKDOWN ]] && echo "* [ ] --- ${text} ${link} (CURLcode: ${curl_status})"
+			[[ ! $QUIET ]] && echo >&2 "🤷 [---] Checking ${hostport} failed with CURLcode ${curl_status}"
 			return 1 # cURL's unhappy, I'm unhappy
 		fi
 
@@ -200,7 +210,7 @@ _bg_task () {
 	local x
 	if read -r -u 3 -n 3 x ; then
 		if (( x != 0 )) ; then
-			echo "Invalid background task token [$x]. Exiting."
+			echo "Invalid background task token [${x}]. Exiting."
 			exit 1
 		fi
 	fi
@@ -234,7 +244,10 @@ _queue_link_tests () {
 	for text in "${!LINKS[@]}"; do
 		link=${LINKS[$text]}
 
-		if [[ ! " ${tested[*]} " =~ ${link} ]]; then
+		# Using a space as a separator, join the links in the
+		# tested array then check if $link is a substring of it.
+		# This is a one-liner array includes operation.
+		if [[ ! " ${tested[*]} " == *" ${link} "* ]]; then
 			# Haven't seen this link before
 			tested+=("${link}")
 
@@ -272,7 +285,7 @@ while test $# -gt 0; do
 			echo "Scans Markdown documents for links that don't resolve."
 			echo
 			echo "Usage:"
-			echo " $ $0 [INPUT_FILE] [-w N] [-q] [-m]"
+			echo " $ ${0} [INPUT_FILE] [-w N] [-q] [-m]"
 			echo
 			echo "Options:"
 			echo " -w | --workers : Integer"
@@ -285,7 +298,7 @@ while test $# -gt 0; do
 			echo "    Enable markdown checkbox list creation on standard output"
 			echo
 			echo "Example:"
-			echo " $ $0 -w 10 README.md --markdown > bad-links.md"
+			echo " $ ${0} -w 10 README.md --markdown > bad-links.md"
 			echo
 			exit 0
 		;;
@@ -297,7 +310,7 @@ while test $# -gt 0; do
 				WORKERS=$1
 
 				if [[ ! "$WORKERS" -eq "$WORKERS" || "$WORKERS" -le 0 ]] 2>/dev/null ; then
-					echo >&2 "Workers: $_workers_flag flag expects an integer greater than 0"
+					echo >&2 "Workers: ${_workers_flag} flag expects an integer greater than 0"
 					exit 1
 				fi
 			else
@@ -312,7 +325,7 @@ while test $# -gt 0; do
 			shift
 
 			if [[ ! "$WORKERS" -eq "$WORKERS" || "$WORKERS" -le 0 ]] 2>/dev/null ; then
-				echo >&2 "Workers: $_workers_flag flag expects an integer greater than 0"
+				echo >&2 "Workers: ${_workers_flag} flag expects an integer greater than 0"
 				exit 1
 			fi
 		;;
@@ -332,7 +345,7 @@ while test $# -gt 0; do
 				INPUT_FILE=$1
 				shift
 			else
-				echo "Input: $1 does not represent a readable file"
+				echo "Input: ${1} does not represent a readable file"
 				exit 1
 			fi
 		;;
@@ -344,8 +357,8 @@ if [[ "$INPUT_FILE" == "/dev/stdin" && -t 0 ]]; then
 		echo "STDIN is a tty! Naively refusing to continue."
 		echo
 		echo "Provide a filename, or pipe input to this script:"
-		echo " $ $0 [FILENAME]"
-		echo " $ cat [FILENAME] | $0"
+		echo " $ ${0} [FILENAME]"
+		echo " $ cat [FILENAME] | ${0}"
 	} >&2
 	exit 1
 fi
