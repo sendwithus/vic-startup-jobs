@@ -96,16 +96,10 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ChatterHigh](https://chatterhigh.com/)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [DevOps Team Lead](https://checkfront.bamboohr.com/jobs/view.php?id=71)
-* [Junior Developer](https://checkfront.bamboohr.com/jobs/view.php?id=87)
-* [Intermediate Web Developer](https://checkfront.bamboohr.com/jobs/view.php?id=89)
-* [Intermediate Developer - Data & Architecture team](https://checkfront.bamboohr.com/jobs/view.php?id=88)
-* [Senior Developer - Data & Architecture team](https://checkfront.bamboohr.com/jobs/view.php?id=86)
 * [Senior Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=76)
-* [Software Developer - Growth](https://checkfront.bamboohr.com/jobs/view.php?id=80)
 * [Software Development Manager - Payments](https://checkfront.bamboohr.com/jobs/view.php?id=90)
-* [Director of Technical Support (Temp 14 month contract)](https://checkfront.bamboohr.com/jobs/view.php?id=91)
-* [Technical Support Specialist - Evenings](https://checkfront.bamboohr.com/jobs/view.php?id=85)
+* [Technical Project Manager](https://checkfront.bamboohr.com/jobs/view.php?id=93)
+* [Technical Recruiter](https://checkfront.bamboohr.com/jobs/view.php?id=92)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Junior Developer](http://www.codenameentertainment.com/?page=jobs)
