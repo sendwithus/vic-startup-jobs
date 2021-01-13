@@ -35,17 +35,11 @@ Companies that are known for hiring/placing  co-op students and interns will hav
 Keep in mind that companies may have job postings on their own site that are not listed here - you should visit them and look for opportunities.  Also, many companies are open to being contacted directly about opportunities, even if it's only to keep your resume on file.
 
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
-* [Director, Cloud Operations](https://www.dxcas.com/images/DXCAS/Careers/pdf/Exempt_Director_Cloud_Ops_JP.pdf)
-* [IS32 Senior ServiceNow Solutions Specialist](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS32_Sr_ServiceNow_JP.pdf)
 * [IS27 Engineering Lead - Cloud](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS27_EngineeringLead_JP.pdf)
 * [IS27 Configuration Management Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS27-CMA_JP.pdf)
 * [IS24 Intermediate Database Administrator](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_Int_Database_Admin_JP.pdf)
 * [IS24 Intermediate Middleware Administrator](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_MiddlewareAdmin_JP.pdf)
 * [IS24 OpenVMS Administrator](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_OpenVMSAdministrator_JP.pdf)
-* [IS24 Intermediate Server Administrator, Linux](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS24_ServerAdmin_Linux_JP.pdf)
-* [IS21 Junior Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Junior_Analyst_JP.pdf)
-* [IS21 Junior Technical Analyst](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_Jr_Tech_Analyst_JP.pdf)
-* [IS21 Server Administrator - Citrix](https://www.dxcas.com/images/DXCAS/Careers/pdf/IS21_ServerAdmin_Citrix_JP.pdf)
 * [Service Desk Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS18_Service_Desk_Analyst_JP2.pdf)
 
 #### [AlayaCare](https://www.alayacare.com/)
@@ -85,7 +79,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Product Manager](https://benevity.bamboohr.com/jobs/view.php?id=322&source=benevity)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [Content and Social Media Specialist](https://certn.co/content-and-social-media-specialist/)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Software Engineering Manager](https://www.change.org/careers/efd04f45-2128-4fb6-86a9-b96d18c20c6b)
@@ -97,13 +90,11 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=76)
-* [Software Development Manager - Payments](https://checkfront.bamboohr.com/jobs/view.php?id=90)
 * [Technical Project Manager](https://checkfront.bamboohr.com/jobs/view.php?id=93)
 * [Technical Recruiter](https://checkfront.bamboohr.com/jobs/view.php?id=92)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Junior Developer](http://www.codenameentertainment.com/?page=jobs)
-* [2D Artist](http://www.codenameentertainment.com/?page=jobs)
 
 #### [Covault](https://covaultapp.com/)
 
@@ -112,6 +103,11 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Cuboh](https://www.cuboh.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Customer Setup & Support Specialist](https://secure.collage.co/jobs/cuboh/18982)
+* [Onboarding Specialist](https://secure.collage.co/jobs/cuboh/16757)
+* [Technical Support Analyst](https://secure.collage.co/jobs/cuboh/18085)
+* [DevOps Engineer](https://secure.collage.co/jobs/cuboh/19925)
+* [Full Stack Software Developer](https://secure.collage.co/jobs/cuboh/13526)
+* [Digital Sales Representative](https://secure.collage.co/jobs/cuboh/9847)
 
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
@@ -182,10 +178,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Technical Artist – Speculative Applications](https://www.llamazoo.com/llamazoo-technical-artist-posting/)
 
 #### [MetaLab](https://metalab.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [Design Lead](https://www.metalab.co/careers/design-lead)
-* [Senior Product Designer](https://www.metalab.co/careers/product-designer)
-* [VP of Engineering](https://www.metalab.co/careers/vp-engineering)
-* [Producer - Contract](https://www.metalab.co/careers/producer-contract)
+* [Design Lead](https://www.metalab.com/careers/design-lead)
+* [Senior Product Designer](https://www.metalab.com/careers/product-designer)
+* [VP of Engineering](https://www.metalab.com/careers/vp-engineering)
 
 #### [Momentum Dashboard](https://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Front-End Developer](https://momentumdash.com/careers/)
@@ -209,7 +204,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [One Net Inc](https://careers.onenetinc.com/)
 * [Production Designer](https://www.careers.onenetinc.com/careers/production-designer)
-* [Production Copywriter](https://www.careers.onenetinc.com/careers/production-copywriter)
 * [Interface Designer](https://www.careers.onenetinc.com/careers/ux-designer)
 * [Full Stack Web Developer](https://www.careers.onenetinc.com/careers/full-stack-web-developer)
 
@@ -229,7 +223,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [RaceRocks 3D](https://racerocks3d.ca/)
 * [Product Manager](https://racerocks3d.ca/career/product-manager-intermediate-to-senior/)
-* [Software Developer](https://racerocks3d.ca/career/software-developer-intermediate-to-senior/)
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Application Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=60)
@@ -255,10 +248,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [SaaSquatch](https://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
 
-#### [SeafoodX](https://www.seafoodx.io/) (👩‍💻 Co-Op / Intern Friendly)
-
 #### [Semaphore](https://semaphoresolutions.com/)
-* [Intermediate Software Developer](https://jobs.lever.co/semaphoresolutions/c6c61481-6089-4660-9c7e-ce4fccfebb74)
 * [Senior Software Developer](https://jobs.lever.co/semaphoresolutions/134fb46b-0e60-4991-8e08-6f8ff9bcac39)
 
 #### [SendtoNews](https://www.sendtonews.com/)
@@ -274,19 +264,13 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Success Specialist](https://silkstart.com/careers/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Supply Chain Manager](https://starfishmedical.com/jobs/supply-chain-manager-2/)
 * [Senior Firmware Manager](https://starfishmedical.com/jobs/senior-firmware-engineer-2/)
 * [Senior Project Manager](https://starfishmedical.com/jobs/senior-project-manager/)
 * [Product Development Project Manager](https://starfishmedical.com/jobs/program-manager/)
-* [Senior Mechanical Engineer](https://starfishmedical.com/jobs/senior-mechanical-engineer-3/)
-* [Accounting Manager](https://starfishmedical.com/jobs/accounts-receivable-manager/)
 * [Senior Systems Engineer](https://starfishmedical.com/jobs/senior-systems-engineer/)
-* [Systems Engineer](https://starfishmedical.com/jobs/systems-engineer/)
-* [Senior Infrastructure Analyst](https://starfishmedical.com/jobs/senior-infrastructure-analyst/)
 
 #### [Stocksy United](https://www.stocksy.com/)
-* [Finance Assistant](https://www.stocksy.com/service/hiring)
-* [Marketing Director](https://www.stocksy.com/service/hiring)
+* [Metadata Specialist](https://www.stocksy.com/service/hiring)
 
 #### [Super Good Software](https://supergood.software)
 
