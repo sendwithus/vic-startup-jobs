@@ -162,7 +162,9 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Gearbox Development](https://gearboxbuilt.com/)
 
-#### [Giftbit](https://www.giftbit.com/) (👩‍💻 Co-Op / Intern Friendly)
+#### [Giftbit](https://giftbit.bamboohr.com/jobs/) (👩‍💻 Co-Op / Intern Friendly)
+* [Business Operations Associate](https://giftbit.bamboohr.com/jobs/view.php?id=24&source=bamboohr)
+* [Customer Onboarding and Support Associate](https://giftbit.bamboohr.com/jobs/view.php?id=23&source=bamboohr)
 
 #### [Hololabs](https://www.hololabs.org/) (👩‍💻 Co-Op / Intern Friendly)
 
