@@ -117,7 +117,11 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Software Developer](https://secure.collage.co/jobs/cuboh/13526)
 * [Digital Sales Representative](https://secure.collage.co/jobs/cuboh/9847)
 
+#### [Disco Studio](https://www.discostudio.ca/)
+* [Senior US Designer](https://www.discostudio.ca/senior-ux-designer/)
+
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
+* [Senior DevOps Developer](https://www.dyspatch.io/about/careers/post/?8644d792-2ba2-4747-a517-12f1c5599d06)
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Customer Success Associate](https://www.dyspatch.io/about/careers/post/?39ce3044-923e-424a-b8d8-9f99ed2355f5)
