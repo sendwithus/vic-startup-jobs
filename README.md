@@ -120,6 +120,10 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Disco Studio](https://www.discostudio.ca/)
 * [Senior UX Designer](https://www.discostudio.ca/senior-ux-designer/)
 
+#### [DropCommerce](https://www.dropcommerce.com/)
+* [Intermediate Django Python Developer](https://ca.indeed.com/job/intermediate-django-python-developer-c21b570d208a56bd)
+* [Intermediate React JS Developer](https://ca.indeed.com/job/intermediate-react-js-developer-c0c221047e65a30a)
+
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 * [Senior DevOps Developer](https://www.dyspatch.io/about/careers/post/?8644d792-2ba2-4747-a517-12f1c5599d06)
 
