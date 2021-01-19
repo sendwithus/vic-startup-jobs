@@ -118,7 +118,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Digital Sales Representative](https://secure.collage.co/jobs/cuboh/9847)
 
 #### [Disco Studio](https://www.discostudio.ca/)
-* [Senior US Designer](https://www.discostudio.ca/senior-ux-designer/)
+* [Senior UX Designer](https://www.discostudio.ca/senior-ux-designer/)
 
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 * [Senior DevOps Developer](https://www.dyspatch.io/about/careers/post/?8644d792-2ba2-4747-a517-12f1c5599d06)
