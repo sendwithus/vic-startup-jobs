@@ -92,6 +92,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [ChatterBlock](https://www.chatterblock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [ChatterHigh](https://chatterhigh.com/)
+* [Digital Marketng Specialist](https://ca.indeed.com/jobs?q=Online%20Digital%20Marketing&l=Victoria%2C%20BC&advn=2204342207025723&vjk=f0e6421b72efb545)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=76)
