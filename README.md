@@ -133,9 +133,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior DevOps Developer](https://www.dyspatch.io/about/careers/post/?8644d792-2ba2-4747-a517-12f1c5599d06)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
+* [Senior Front End Web Developer](https://echosec.breezy.hr/p/24dcb6fdb8de-senior-front-end-web-developer)
 * [Intermediate Front End Web Developer](https://echosec.breezy.hr/p/010d27863a54-intermediate-front-end-web-developer)
-* [Customer Success Representative](https://echosec.breezy.hr/p/be21d35b8ff9-customer-success-representative)
-* [Infrastructure & Security Engineer](https://echosec.breezy.hr/p/806ec97be6c2-infrastructure-security-engineer)
+* [DevOps Engineer (Infrastructure & Security)](https://echosec.breezy.hr/p/806ec97be6c2-devops-engineer)
 
 #### [Expeto](http://expeto.io/)
 * [UX Developer](https://expetowireless.recruitee.com/o/ux-developer)
