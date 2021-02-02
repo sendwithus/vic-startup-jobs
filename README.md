@@ -151,6 +151,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [iOS Lead](https://getflow.bamboohr.com/jobs/view.php?id=22)
 * [Product Designer](https://getflow.bamboohr.com/jobs/view.php?id=23)
 
+#### [Fluorescent Design Inc.](https://fluorescent.co/)
+* [Front-End Developer](https://bit.ly/3pJKdWG)
+
 #### [Flytographer](https://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Foundry Spatial](https://www.foundryspatial.com)
