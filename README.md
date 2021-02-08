@@ -177,6 +177,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Business Operations Associate](https://giftbit.bamboohr.com/jobs/view.php?id=24&source=bamboohr)
 * [Customer Onboarding and Support Associate](https://giftbit.bamboohr.com/jobs/view.php?id=23&source=bamboohr)
 
+#### [Hipster Bait](https://hipsterbait.com/about)
+* [Mobile Application Developer](https://www.linkedin.com/jobs/view/mobile-application-developer-at-hipster-bait-2383157142/?trackingId=xq70GdnVQltncRN4JL3dYg%3D%3D&refId=89d0cd31-f709-46fc-bc88-04c673660f55&pageNum=0&position=5&trk=public_jobs_job-result-card_result-card_full-click&originalSubdomain=ca)
+
 #### [Hololabs](https://www.hololabs.org/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Isolation Network](https://www.isolationnetwork.com/) (👩‍💻 Co-Op / Intern Friendly)
@@ -226,10 +229,9 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [OneFeather](https://www.onefeather.ca/)
 
-#### [One Net Inc](https://careers.onenetinc.com/)
-* [Production Designer](https://www.careers.onenetinc.com/careers/production-designer)
-* [Interface Designer](https://www.careers.onenetinc.com/careers/ux-designer)
-* [Full Stack Web Developer](https://www.careers.onenetinc.com/careers/full-stack-web-developer)
+#### [One Net Inc](https://www.onenetinc.com/crew#Careers)
+* [Web Designer / Webflow Designer](https://www.onenetinc.com/careers/web-designer-webflow-designer)
+* [Visual Designer](https://www.onenetinc.com/careers/visual-designer)
 
 #### [PG Music](https://www.pgmusic.com/)
 
