@@ -60,6 +60,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
 
 #### [Audette](http://audette.io/)
+* [Head of Software](https://audette.io/careers)
 
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
 * [Site Reliability Engineer (Platform)](https://jobs.ingenico.com/bambora/job/Victoria-Operations-Engineer-CA-BC-V8T/637833901/)
