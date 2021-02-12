@@ -96,10 +96,13 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Digital Marketng Specialist](https://ca.indeed.com/jobs?q=Online%20Digital%20Marketing&l=Victoria%2C%20BC&advn=2204342207025723&vjk=f0e6421b72efb545)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Web Application Developer](https://checkfront.bamboohr.com/jobs/view.php?id=76)
+* [Intermediate Developer - Data](https://checkfront.bamboohr.com/jobs/view.php?id=94)
+* [Senior Software Developer](https://checkfront.bamboohr.com/jobs/view.php?id=97)
+* [Software Development Manager](https://checkfront.bamboohr.com/jobs/view.php?id=100)
+* [Software Development Team Lead](https://checkfront.bamboohr.com/jobs/view.php?id=96)
 * [Technical Project Manager](https://checkfront.bamboohr.com/jobs/view.php?id=93)
-* [Technical Recruiter](https://checkfront.bamboohr.com/jobs/view.php?id=92)
-* [Content Writer](https://checkfront.bamboohr.com/jobs/view.php?id=95)
+* [Product Manager](https://checkfront.bamboohr.com/jobs/view.php?id=79)
+* [UX Designer](https://checkfront.bamboohr.com/jobs/view.php?id=99)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Junior Developer](http://www.codenameentertainment.com/?page=jobs)
