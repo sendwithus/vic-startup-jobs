@@ -79,12 +79,10 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Executive and Administration Coordinator](https://certn.co/executive-and-administration-coordinator/)
 * [US Customer Support Manager](https://certn.co/us-customer-support-manager/)
 * [Senior Account Executive](https://certn.co/senior-account-executive/)
-* [Intergrations Developer](https://certn.co/integrations-developer/)
+* [Integrations Developer](https://certn.co/integrations-developer/)
 * [Verifications Specialist](https://certn.co/verification-specialist/)
 * [Customer Support Specialist](https://certn.co/customer-support-specialist/)
 * [US Compliance Specialist](https://certn.co/us-compliance-specialist/)
-* [Product Marketing Specialist](https://certn.co/product-marketing-specialist/)
-* [Marketing Operations Manager](https://certn.co/marketing-operations-manager/)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Software Engineering Manager](https://www.change.org/careers/efd04f45-2128-4fb6-86a9-b96d18c20c6b)
@@ -110,9 +108,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Covault](https://covaultapp.com/)
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
-* [Sales Development Representative (SDR)](https://www.crowdcontent.com/current-openings-sales-development-representative-sdr/)
-* [Enterprise Account Manager](https://www.crowdcontent.com/about-us/careers/enterprise-account-manager/)
-* [Senior Project Manager – Content Creation](https://www.crowdcontent.com/senior-project-manager/)
+* [Senior Editorial Project Manager](https://www.crowdcontent.com/senior-project-manager/)
+* [Enterprise Sales Manager](https://www.crowdcontent.com/current-openings-enterprise-sales-manager/)
+* [Junior Developer](https://www.crowdcontent.com/junior-developer/)
 
 #### [Cuboh](https://www.cuboh.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [VP, Finance](https://secure.collage.co/jobs/cuboh/20451)
@@ -259,7 +257,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [RaceRocks 3D](https://racerocks3d.ca/)
-* [Product Manager](https://racerocks3d.ca/career/product-manager-intermediate-to-senior/)
+* [Sales Associate](https://racerocks3d.ca/career/sales-associate/)
+* [Systems Administrator & Compliance Officer](https://racerocks3d.ca/career/systems-administrator-compliance-officer/)
 * [Lead Artist](https://racerocks3d.ca/career/lead-artist/)
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
@@ -269,7 +268,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Developer, Test Software](https://secure3.entertimeonline.com/ta/6133013.careers?rnd=WDF&ShowJob=369311828&prevScreenY=46&prevScreenX=0)
 
 #### [Regroove](https://regroove.ca) (👩‍💻 Co-Op / Intern Friendly)
-* [Microsoft 365 Developer](https://regroove.ca/careers/microsoft-365-developer/)
+* [Cloud Solutions Consultant](https://regroove.ca/careers/cloud-solutions-consultant/)
 
 #### [Revela Systems](https://www.revela.io/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -307,7 +306,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Business Analyst](https://starfishmedical.com/jobs/business-analyst-victoria-bc/?doing_wp_cron=1610755073.8703529834747314453125)
 * [Principal Industrial Designer](https://starfishmedical.com/jobs/principal-industrial-designer-victoria-bc-or-toronto-on/?doing_wp_cron=1610755077.1658020019531250000000)
 * [Electrical Engineer](https://starfishmedical.com/jobs/electrical-engineer/?doing_wp_cron=1610755078.3086359500885009765625)
-* [Technical Writer / Instructional Designer](https://starfishmedical.com/jobs/technical-writer-instructional-designer-victoria-bc-or-toronto-on/?doing_wp_cron=1610755078.9050629138946533203125)
 * [Technical Support Specialist](https://starfishmedical.com/jobs/technical-support-specialist-victoria-bc/?doing_wp_cron=1610755080.8191909790039062500000)
 * [Service Desk Manager](https://starfishmedical.com/jobs/service-desk-manager-victoria-bc/)
 * [Senior Human Factors Design Engineer](https://starfishmedical.com/jobs/senior-human-factors-design-engineer-victoria-bc-or-toronto-on/)
@@ -343,8 +341,10 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Vivid Solutions](https://www.vividsolutions.com/)
 
-#### [Watershed Partners](https://watershed.co/)
-* [People and Talent Specialist](https://watershed.co/careers-people-and-talent-specialist/)
+#### [Watershed Partners](https://watershed.co/careers/)
+* [Engagement Director](https://watershed.co/careers-engagement-director/)
+* [Engagement Manager](https://watershed.co/careers-engagement-manager/)
+* [Proposal Manager](https://watershed.co/careers-proposal-manager/)
 
 #### [Waterworth](https://waterworth.net/)
 * [Sales and Marketing Coordinator](https://waterworth.net/careers/)
