@@ -233,6 +233,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [One Net Inc](https://www.onenetinc.com/crew#Careers)
 * [Web Designer / Webflow Designer](https://www.onenetinc.com/careers/web-designer-webflow-designer)
 * [Visual Designer](https://www.onenetinc.com/careers/visual-designer)
+* [Mobile Developer](https://www.onenetinc.com/careers/mobile-developer)
+* [Digital Producer](https://www.onenetinc.com/careers/digital-producer)
 
 #### [PG Music](https://www.pgmusic.com/)
 
