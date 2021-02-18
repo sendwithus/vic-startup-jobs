@@ -254,7 +254,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Sr Software Developer](https://www.netmotionsoftware.com/culture-values-careers?p=job%2FoIkYcfwW)
 
 #### [North Robotics](http://www.northrobotics.com)
-* [Junior/Intermediate Software Engineer](http://www.northrobotics.com/?page_id=1760)
 
 #### [OneFeather](https://www.onefeather.ca/)
 
@@ -267,26 +266,25 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [PG Music](https://www.pgmusic.com/)
 
 #### [Pixel Union](https://pixelunion.net/)
-* [Senior QA Specialist](https://apply.workable.com/pixel-union/j/441E2E936D/)
+* [Lead Designer, Agency](https://apply.workable.com/pixel-union/j/BCC97F8DEF/)
 * [Director of Product, Apps](https://apply.workable.com/pixel-union/j/2DA9ED98E7/)
 * [Tier 2 Support Specialist](https://apply.workable.com/pixel-union/j/ACB0CDEA58/)
-* [Tier 1 Support Specialist](https://apply.workable.com/pixel-union/j/91A1D7D24C/)
 * [Merchant Success Agent](https://apply.workable.com/pixel-union/j/7869711B93/)
 * [Senior Product Designer, Apps](https://apply.workable.com/pixel-union/j/00190AEF96/)
-* [Senior Front End Developer, Apps](https://apply.workable.com/pixel-union/j/037A717601/)
-* [Junior and Intermediate Front End Developers, Themes](https://apply.workable.com/pixel-union/j/A9D015D99B/)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
+* [Full Stack Developer](https://pretiointeractive.humi.ca/job-board/development/2716)
 
 #### [RaceRocks 3D](https://racerocks3d.ca/)
-* [Sales Associate](https://racerocks3d.ca/career/sales-associate/)
+* [Senior Sales Associate](https://racerocks3d.ca/career/sales-associate/)
 * [Systems Administrator & Compliance Officer](https://racerocks3d.ca/career/systems-administrator-compliance-officer/)
 * [Lead Artist](https://racerocks3d.ca/career/lead-artist/)
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Reception and Office Coordinator](https://rdbrck.bamboohr.com/jobs/view.php?id=76)
+* [Senior Full-Stack Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=83)
+* [Intermediate Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=82)
 
 #### [Redlen Technologies](https://redlen.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Developer, Test Software](https://secure3.entertimeonline.com/ta/6133013.careers?rnd=WDF&ShowJob=369311828&prevScreenY=46&prevScreenX=0)
@@ -300,20 +298,24 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Intermediate/Senior Test Engineer](https://rooof.bamboohr.com/jobs/view.php?id=73)
+* [Graphic Designer](https://rooof.bamboohr.com/jobs/view.php?id=74)
+* [Support and Account Manager](https://rooof.bamboohr.com/jobs/view.php?id=75)
 
 #### [SaaSquatch](https://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Account Manager - Sales](https://www.saasquatch.com/careers/)
+* [Digital Marketing Specialist](https://www.saasquatch.com/careers/)
 * [Intermediate Typescript Engineer](https://www.saasquatch.com/careers/)
 * [Operations Manager - SaaS Marketing Technology](https://www.saasquatch.com/careers/)
 * [Sales Engineer](https://www.saasquatch.com/careers/)
 * [Software Engineer, Integrations and Microservices](https://www.saasquatch.com/careers/)
+* [Client Success Manager](https://www.saasquatch.com/careers/)
 
 #### [Semaphore](https://semaphoresolutions.com/)
 * [Senior Software Developer](https://jobs.lever.co/semaphoresolutions/134fb46b-0e60-4991-8e08-6f8ff9bcac39)
 * [Intermediate Software Developer](https://jobs.lever.co/semaphoresolutions/3e77b570-9e7f-489d-8693-fcc01534b390)
 
 #### [SendtoNews](https://www.sendtonews.com/)
-* [Operations Co-op](https://secure.collage.co/jobs/sendtonews/19876)
+* [Director of Business Development](https://secure.collage.co/jobs/sendtonews/20253)
+* [Director of Sales Partnerships](https://secure.collage.co/jobs/sendtonews/20279)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
@@ -321,10 +323,11 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [SilkStart](https://silkstart.com/about/)
 * [Customer Success Specialist](https://silkstart.com/careers/)
+* [Inside Sales](https://silkstart.com/careers/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Project Manager](https://starfishmedical.com/jobs/senior-project-manager/)
-* [Product Development Project Manager](https://starfishmedical.com/jobs/program-manager/)
+* [Product Development Program Manager](https://starfishmedical.com/jobs/program-manager/)
 * [Senior Systems Engineer](https://starfishmedical.com/jobs/senior-systems-engineer/)
 * [Admin Assistant](https://starfishmedical.com/jobs/administrative-assistant-marketing/?doing_wp_cron=1610755072.7168519496917724609375)
 * [Business Analyst](https://starfishmedical.com/jobs/business-analyst-victoria-bc/?doing_wp_cron=1610755073.8703529834747314453125)
@@ -333,14 +336,17 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Technical Support Specialist](https://starfishmedical.com/jobs/technical-support-specialist-victoria-bc/?doing_wp_cron=1610755080.8191909790039062500000)
 * [Service Desk Manager](https://starfishmedical.com/jobs/service-desk-manager-victoria-bc/)
 * [Senior Human Factors Design Engineer](https://starfishmedical.com/jobs/senior-human-factors-design-engineer-victoria-bc-or-toronto-on/)
-* [Project Buyers](https://starfishmedical.com/jobs/project-buyers/)
 * [Senior Firmware Engineer](https://starfishmedical.com/jobs/senior-firmware-engineer-2/)
-* [Senior Firmware Manager](https://starfishmedical.com/jobs/senior-firmware-engineer-2/)
+* [Senior Software Engineer](https://starfishmedical.com/jobs/senior-software-engineer-2/)
+* [Digital Marketing Specialist](https://starfishmedical.com/jobs/digital-marketing-specialist/)
 
 #### [Stocksy United](https://www.stocksy.com/)
-* [Metadata Specialist](https://www.stocksy.com/service/hiring)
+* [Finance Director](https://www.stocksy.com/service/hiring)
+* [Product Manager](https://www.stocksy.com/service/hiring)
 
 #### [Super Good Software](https://supergood.software)
+* [Senior Developer](https://supergood.software/careers/senior-developer)
+* [Intermediate Developer](https://supergood.software/careers/intermediate-developer)
 
 #### [Swiss Vault](https://www.swissvault.io/)
 
@@ -356,12 +362,11 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Tutela](https://www.tutela.com/)
 * [Senior Customer Solutions Manager](https://tut.bamboohr.com/jobs/view.php?id=66)
 * [DevOps Manager](https://tut.bamboohr.com/jobs/view.php?id=56)
-* [Senior Android Software Developer](https://tut.bamboohr.com/jobs/view.php?id=68)
-* [Junior Accountant](https://tut.bamboohr.com/jobs/view.php?id=67)
 
 #### [VitaminLab](https://getvitaminlab.com/)
 
 #### [Virtual CFO](https://www.virtualcfo.ca/)
+* [Associate](https://ca.indeed.com/job/associate-e8274f68c4bcfbc6)
 
 #### [Vivid Solutions](https://www.vividsolutions.com/)
 
@@ -376,9 +381,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [White Ops](https://www.whiteops.com/)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
-* [Localization Software Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Localization-Software-Engineer_JR-46595-1)
-* [Product Manager - People Experience](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Product-Manager---People-Experience_JR-46578)
-* [Software Engineer - Machine Learning](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Software-Engineer---Machine-Learning_JR-45922)
+* [Associate Technical Writer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Vancouver/Sr-Associate-Technical-Writer_JR-47679)
 
 ---
 
