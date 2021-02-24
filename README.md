@@ -382,6 +382,8 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
 * [Associate Technical Writer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Vancouver/Sr-Associate-Technical-Writer_JR-47679)
+* [Software Development Engineer – Knowledge Management UI](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Software-Development-Engineer---Knowledge-Management_JR-46522)
+* [Software Development Engineer – Co-op](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-45671)
 
 ---
 
