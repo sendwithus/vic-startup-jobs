@@ -229,6 +229,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Communications Manager](https://www.llamazoo.com/new-job-openings-communications-manager/)
 * [Full Stack Developer](https://www.llamazoo.com/new-job-openings-full-stack-developer/)
 
+#### [MazumaGo](https://www.mazumago.com/)
+* [Full Stack Developer](https://ca.indeed.com/job/full-stack-developer-942b51981ce32449)
+
 #### [MetaLab](https://metalab.co/) (👩‍💻 Co-Op / Intern Friendly)
 * [Design Lead](https://www.metalab.com/careers/design-lead)
 * [Senior Product Designer](https://www.metalab.com/careers/product-designer)
