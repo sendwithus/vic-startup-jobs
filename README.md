@@ -264,6 +264,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Visual Designer](https://www.onenetinc.com/careers/visual-designer)
 * [Mobile Developer](https://www.onenetinc.com/careers/mobile-developer)
 * [Digital Producer](https://www.onenetinc.com/careers/digital-producer)
+* [Website Project Manager](https://www.onenetinc.com/careers/website-project-manager)
 
 #### [PG Music](https://www.pgmusic.com/)
 
