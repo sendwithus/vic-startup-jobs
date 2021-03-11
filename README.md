@@ -42,6 +42,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [QA Developer](https://boards.greenhouse.io/alayacare/jobs/4924030002)
 * [Product Designer](https://boards.greenhouse.io/alayacare/jobs/4761695002)
 
+#### [AltFee](https://altfeeco.com/)
+* [oftware Engineer - Technical Lead](https://www.linkedin.com/jobs/view/2432047918/?refId=QNAnwc1aTM%2BVOaU6ZnI5Bw%3D%3D)
+
 #### [Animikii](https://www.animikii.com/?utm_source=careers&utm_medium=website&utm_campaign=quote_contact&utm_content=logo)
 * [Web Developer & Designer](https://www.animikii.com/about/careers/web-designer-developer)
 * [Digital Communications Strategist](https://www.animikii.com/about/careers/digital-communications-strategist)
