@@ -152,7 +152,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior DevOps Developer](https://www.dyspatch.io/about/careers/post/?8644d792-2ba2-4747-a517-12f1c5599d06)
 * [Content Manager](https://www.dyspatch.io/about/careers/post/?f9a6702e-ba21-4b6a-9759-4e311ea0e109)
 * [Sales Development Rep (SDR)](https://www.dyspatch.io/about/careers/post/?305dea8e-b14a-49a3-a497-40032a88a061)
 * [Account Manager](https://www.dyspatch.io/about/careers/post/?24d99d8f-7697-4801-815b-796ac5295ca8)
