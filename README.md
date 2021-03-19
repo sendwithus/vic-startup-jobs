@@ -71,6 +71,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Manager of Marketing and Growth](https://jobs.ingenico.com/bambora/job/Victoria-Manager-of-Marketing-&-Growth-CA-BC-V8T/649906501/)
 * [Product Manager)](https://jobs.ingenico.com/bambora/job/Victoria-Product-Manager-CA-BC-V8T/649247601/)
 * [Software Developer](https://jobs.ingenico.com/bambora/job/Victoria-Software-Developer-CA-BC-V8T/648212101/)
+* [Back-End Developer](https://jobs.ingenico.com/bambora/job/Victoria-Back-End-Developer-CA-BC-V8T/659087601/)
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 
