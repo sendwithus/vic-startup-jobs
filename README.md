@@ -155,6 +155,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Content Manager](https://www.dyspatch.io/about/careers/post/?f9a6702e-ba21-4b6a-9759-4e311ea0e109)
 * [Sales Development Rep (SDR)](https://www.dyspatch.io/about/careers/post/?305dea8e-b14a-49a3-a497-40032a88a061)
 * [Account Manager](https://www.dyspatch.io/about/careers/post/?24d99d8f-7697-4801-815b-796ac5295ca8)
+* [Software Developer](https://www.dyspatch.io/about/careers/post/?d3e37047-89ac-417a-8621-c77b4cfde148)
+* [Senior Software Developer](https://www.dyspatch.io/about/careers/post/?effc439c-b3e3-425f-9a7b-2debd6bb2dc5)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
 * [DevOps Engineer (Infrastructure & Security)](https://echosec.breezy.hr/p/806ec97be6c2-devops-engineer)
