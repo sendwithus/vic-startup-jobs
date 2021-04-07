@@ -317,6 +317,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Support and Account Manager](https://rooof.bamboohr.com/jobs/view.php?id=75)
 
 #### [SaaSquatch](https://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Client Launch Manager (Project Manager)](https://referralsaasquatch.applytojob.com/apply/onqJxy2afT/Project-Manager-Customer-Launch)
 * [Digital Marketing Specialist](https://www.saasquatch.com/careers/)
 * [Intermediate Typescript Engineer](https://www.saasquatch.com/careers/)
 * [Operations Manager - SaaS Marketing Technology](https://www.saasquatch.com/careers/)
