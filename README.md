@@ -186,6 +186,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Front-End Developer](https://bit.ly/3pJKdWG)
 
 #### [Flytographer](https://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Customer Experience Specialist](https://www.flytographer.com/jobs/)
 
 #### [Foundry Spatial](https://www.foundryspatial.com)
 
