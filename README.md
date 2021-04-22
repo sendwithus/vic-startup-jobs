@@ -235,9 +235,10 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Talent Acquisition Specialist](https://boards.greenhouse.io/metalab/jobs/2973816)
 
 #### [Momentum Dashboard](https://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Front-End Developer](https://momentumdash.com/careers/)
-* [Full Stack Developer](https://momentumdash.com/careers/)
-* [Operations Manager](https://momentumdash.com/careers/)
+* [Back-End Developer](https://momentumdash.com/careers/#back-end-developer)
+* [Front-End Developer](https://momentumdash.com/careers/#front-end-developer)
+* [Full Stack Developer](https://momentumdash.com/careers/#full-stack-developer)
+* [Operations Manager](https://momentumdash.com/careers/#operations-manager)
 
 #### [MonetizeMore](https://www.monetizemore.com/)
 * [Web Developer](https://monetizem.applytojob.com/apply/yPcQkE/Remote-Web-Developer)
