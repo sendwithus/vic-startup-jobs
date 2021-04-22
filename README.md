@@ -230,7 +230,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [VP of Engineering](https://www.metalab.com/careers/vp-engineering)
 * [Design Director](https://www.metalab.com/careers/design-director)
 * [Principal Designer](https://www.metalab.com/careers/principal-designer)
-* [Engneering Lead](https://www.metalab.com/careers/engineering-lead)
+* [Engineering Lead](https://www.metalab.com/careers/engineering-lead)
 * [Senior Web Developer](https://boards.greenhouse.io/metalab/jobs/2986532)
 * [Talent Acquisition Specialist](https://boards.greenhouse.io/metalab/jobs/2973816)
 
