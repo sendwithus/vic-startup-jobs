@@ -1,0 +1,12 @@
+language: generic
+
+addons:
+  apt:
+    update: true
+    packages:
+      - curl
+      - bash
+      - ca-certificates
+
+script:
+ - link_checker/check.sh README.md

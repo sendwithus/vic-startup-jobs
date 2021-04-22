@@ -1,250 +1,398 @@
 # Victoria Startup Jobs
 
-A well-maintained list of available startup jobs in Victoria BC. This list is currently managed by the [sendwithus](http://sendwithus.com) team, and all contributions are welcome (and free!).
+A well-maintained list of available startup jobs in Victoria BC. This list is currently managed by the [sendwithus](http://sendwithus.com/about) team, and all contributions are welcome (and free!).
 
 [Have ideas to make this better?](mailto:us@sendwithus.com)
 
-[Tweet about us!](https://twitter.com/intent/tweet?text=I%20found%20a%20job%20on%20the%20Victoria%20Startup%20Jobs%20repo!&via=victoriastartup&url=http%3A%2F%2Fgithub.com/sendwithus/vic-startup-jobs)
+[Tweet about us!][tweet-link]
+
+[![Build Status](https://travis-ci.org/sendwithus/vic-startup-jobs.svg?branch=master)](https://travis-ci.org/sendwithus/vic-startup-jobs)
 
 ### How to Apply?
 Click the link for more info about each job posting, including how to apply. Most companies provide application instructions on their websites.
 
 ### How to Post?
-Posting is easy and free, simply fork this repo and submit a pull request adding/updating your job posting. If you have questions, need help, or want us to update the list for you, please email jobs@sendwithus.com.
+Posting is easy and free, simply fork this repo and submit a pull request adding/updating your job posting. Avoid generic "call for resumes" and prefer specific job postings. If you have questions, need help, or want us to update the list for you, please email jobs@sendwithus.com.
+
+Note that there is a CI hook that runs after PR creation that checks for any 404s links on this page. You can run it manually prior to pushing:
+```
+link_checker/check.sh README.md
+```
+Running it before pushing up to Github allows you to remove broken job links from the list in addition to updating your own job postings. More info on the [associated README](/link_checker/README.md)
 
 ### Who can post?
 Tech startups with offices in Victoria BC.
 
+### What about Co-Op & Intern Friendly Companies?
+Companies that are known for hiring/placing  co-op students and interns will have a `(👩‍💻 Co-Op / Intern Friendly)` following their name. These companies are always open to discussing opportunities for students and aspiring developers, designers, and marketers.
+
 ### How can I get involved in the Victoria tech community?
-* Connect with the Victoria tech community by joining the [YYJ Tech Slack group](http://joinyyjtechslack.herokuapp.com/)
-* Keep an eye out for events on the [Victoria Startups calendar](http://victoriastartups.com/)
-
-## Co-op Friendly Companies
-
-These companies are known for hiring co-op students and are always open to discussing opportunities for students and aspiring developers, designers, and marketers.
-
-* [AggregateIQ](http://www.aggregateiq.com/)
-* [Beanstream](http://www.beanstream.com/)
-* [ChatterBlock](http://www.chatterblock.com/)
-* [Checkfront](https://www.checkfront.com/)
-* [CodeName Entertainment](http://www.codenameentertainment.com/)
-* [Echosec](https://www.echosec.net/)
-* [Flytographer](http://www.flytographer.com/)
-* [Giftbit](http://www.giftbit.com/)
-* [Go2mobi](http://www.go2mobi.com/)
-* [Hololabs](http://www.hololabs.org/)
-* [Isolation Network](http://www.isolationnetwork.com/)
-* [KanoApps](http://www.kanoapps.com/)
-* [Latitude Geographics](http://www.latitudegeo.com/)
-* [LlamaZOO](http://www.llamazoo.com/)
-* [MetaLab](http://metalab.co/)
-* [Momentum Dashboard](http://momentumdash.com/)
-* [Pretio Interactive](https://www.pretio.in/)
-* [Redbrick](http://redbrickmedia.com/)
-* [Referral SaaSquatch](http://referralsaasquatch.com/)
-* [Revenuewire](https://www.revenuewire.com/)
-* [RingPartner](http://ringpartner.com/)
-* [Rooof](http://www.rooof.com/)
-* [Sendwithus](https://www.sendwithus.com)
-* [Stembolt](https://stembolt.com/)
-* [Starfish Medical](http://starfishmedical.com/)
-* [Telmediq](http://www.telmediq.com/)
-* [ViVitro Labs](http://vivitrolabs.com/)
-* [Workday](http://unbouncepages.com/workday-victoria/)
+* Connect with the Victoria tech community by joining the [YYJ Tech Slack group](https://joinyyjtechslack.herokuapp.com/)
+* Connect with the Victoria ladies tech community by joining the [YYJ Tech Ladies Slack group](http://yyjtechladies.com/). Please note that this group is for anyone who is female.
 
 ## Current Job Openings
 
-#### [AggregateIQ](http://www.aggregateiq.com/)
-* [Front-End Web Developer](http://www.aggregateiq.com/AggregateIQ%20Web%20Developer%20-%20Jan%2019,%202017.pdf)
+Keep in mind that companies may have job postings on their own site that are not listed here - you should visit them and look for opportunities.  Also, many companies are open to being contacted directly about opportunities, even if it's only to keep your resume on file.
 
-#### [Airsenze](http://www.airsenze.com/)
-* [iOS Developer](http://www.airsenze.com/about/)
-* [Android Developer](http://www.airsenze.com/about/)
+#### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
+* [Senior Security Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_SeniorSecurityAnalyst_JP_Apr21.pdf)
 
-#### [Appcolony](http://www.appcolony.ca/)
-* [Mobile UX/UI Designer](http://www.appcolony.ca/careers/design/)
-* [Full Stack Developer](https://stackoverflow.com/jobs/121168/full-stack-developer-appcolony)
+#### [AlayaCare](https://www.alayacare.com/)
+* [DevOps Analyst](https://boards.greenhouse.io/alayacare/jobs/5153018002)
+* [Product Designer](https://boards.greenhouse.io/alayacare/jobs/4761695002)
+
+#### [AltFee](https://altfeeco.com/)
+
+#### [Animikii](https://www.animikii.com/?utm_source=careers&utm_medium=website&utm_campaign=quote_contact&utm_content=logo)
+* [Web Developer & Designer](https://www.animikii.com/about/careers/web-designer-developer)
+* [Senior Full Stack Web Developer](https://www.animikii.com/about/careers/senior-full-stack-web-developer)
+* [Intermediate Full Stack Developer](https://www.animikii.com/about/careers/intermediate-full-stack-web-developer)
+* [Executive Assistant](https://www.animikii.com/about/careers/executive-assistant)
+
+#### [Appreciation Engine](https://get.theappreciationengine.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Atomic Crayon](http://www.atomiccrayon.com/)
 * [Web Developer](http://www.atomiccrayon.com/career-opportunities)
-* [Customer Support & Quality Control Analyst](http://www.atomiccrayon.com/career-opportunities)
 
-#### [Beanstream](http://www.beanstream.com/)
-* [Full-Stack Python Developer](http://career.bambora.com/jobs/12093-full-stack-python-developer)
-* [Technical Support Representative](http://www.beanstream.com/wp-content/uploads/2016/03/Technical-Support-Representative.pdf)
-* [QA Analyst](http://career.bambora.com/jobs/14249-qa-analyst)
-* [Senior Business Analyst](http://career.bambora.com/jobs/17186-are-you-our-next-senior-business-analyst)
-* [Inside Business Development SMB](http://www.beanstream.com/wp-content/uploads/2015/10/Inside_BD_SMB.pdf)
-* [Channel Partner Business Development](http://www.beanstream.com/wp-content/uploads/2015/10/CP_BD.pdf)
-* [Channel Partner Account Manager](http://www.beanstream.com/wp-content/uploads/2015/10/CP_Account_Manager.pdf)
+#### [Audette](http://audette.io/)
+* [Head of Software](https://audette.io/careers)
 
-#### [Benevity](http://www.benevity.com/)
-* [Insights Analyst](https://benevity.bamboohr.com/jobs/view.php?id=100)
-* [Software Developer, Web](https://benevity.bamboohr.com/jobs/view.php?id=106)
-* [Software Developer, Platform](https://benevity.bamboohr.com/jobs/view.php?id=103)
-* [Senior Software Developer, Platform](https://benevity.bamboohr.com/jobs/view.php?id=105)
+#### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
+* [Site Reliability Engineer (Platform)](https://jobs.ingenico.com/bambora/job/Victoria-Operations-Engineer-CA-BC-V8T/637833901/)
+* [Customer Support & Merchant Onboarding Specialist](https://jobs.ingenico.com/bambora/job/Victoria-Customer-Support-&-Merchant-Onboarding-Specialist-CA-BC-V8T/659024101/)
+* [Account Manager](https://jobs.ingenico.com/bambora/job/Boston-Account-Manager-MA-MA02110/663784201/)
+* [Technical Project Manager](https://jobs.ingenico.com/bambora/job/Victoria-Technical-Project-Manager-CA-BC-V8T/662623201/)
+* [Software Developer](https://jobs.ingenico.com/bambora/job/Victoria-Software-Developer-CA-BC-V8T/648212101/)
+* [Back-End Developer](https://jobs.ingenico.com/bambora/job/Victoria-Back-End-Developer-CA-BC-V8T/659087601/)
+* [Software Developer, QA Automation](https://jobs.ingenico.com/bambora/job/Victoria-Software-Developer%2C-QA-Automation-CA-BC-V8T/664905801/)
 
-#### [Boundless GeoSpatial](http://www.boundlessgeo.com/)
-* [Project Manager](http://boundless.theresumator.com/apply/jyBLzf/Project-Manager)
-* [Web Developer](http://boundless.theresumator.com/apply/yRowO0/Web-Developer)
+#### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 
-#### [Checkfront](https://www.checkfront.com/)
-* [Web Application Developer](https://www.checkfront.com/careers/web-application-developer)
-* [Technical Support Specialist](https://www.checkfront.com/careers/customer-success)
-* [Customer Success Advocate](https://www.checkfront.com/careers/customer-advocate)
+#### [BCDevExchange](https://www2.gov.bc.ca/gov/content/careers-myhr/job-seekers/current-job-postings)
 
-#### [Exapik](http://www.exapik.com/)
-* [JavaScript Software Engineer (co-op/part time)](http://www.exapik.com/careers/javascript-software-engineer/)
+#### [Benevity](https://www.benevity.com/)
+* [Analytics Analyst](https://benevity.bamboohr.com/jobs/view.php?id=488&source=benevity)
+* [C# .Net Software Developer, Remote](https://benevity.bamboohr.com/jobs/view.php?id=481&source=benevity)
+* [Data Platform Developer](https://benevity.bamboohr.com/jobs/view.php?id=374&source=benevity)
+* [Python API Developer](https://benevity.bamboohr.com/jobs/view.php?id=477&source=benevity)
+* [Software Development Manager](https://benevity.bamboohr.com/jobs/view.php?id=438&source=benevity)
+* [Sr. Software Developer, Identity and Access Management](https://benevity.bamboohr.com/jobs/view.php?id=473&source=benevity)
 
-#### [Falcon Software](http://www.falcon-software.com/)
-* [ASP.Net Developer](http://www.falcon-software.com/About-Us/Job-Postings/ASP-Net-Developer)
-* [Java Developer](http://www.falcon-software.com/About-Us/Job-Postings/Java-Developer)
-* [Web Project Manager](http://www.falcon-software.com/About-Us/Job-Postings/Web-Project-Manager)
-* [Creative Design Interns](http://www.falcon-software.com/Job-Postings)
-* [Social Media & Marketing Interns](http://www.falcon-software.com/Job-Postings)
-* [IT and Dev Interns](http://www.falcon-software.com/Job-Postings)
+#### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
+* [Executive and Administration Coordinator](https://certn.co/executive-and-administration-coordinator/)
+* [US Customer Support Manager](https://certn.co/us-customer-support-manager/)
+* [Senior Account Executive](https://certn.co/senior-account-executive/)
+* [Integrations Developer](https://certn.co/integrations-developer/)
+* [Verifications Specialist](https://certn.co/verification-specialist/)
+* [Customer Support Specialist](https://certn.co/customer-support-specialist/)
+* [US Compliance Specialist](https://certn.co/us-compliance-specialist/)
+* [Back End Developer (Integrations)](https://certn.co/back-end-developer-integrations/)
+* [Senior Backend Developer](https://certn.co/senior-back-end-developer/)
 
-#### [Flytographer](http://www.flytographer.com/)
-* [Senior Digital Marketing Manager](http://www.flytographer.com/jobs)
-* [Shoot Concierge](http://www.flytographer.com/jobs)
+#### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
+* [Senior Engineer](https://careers.change.org/?gh_jid=4354569003)
 
-#### [Go2mobi](http://www.go2mobi.com/)
-* [Business Development Manager](https://www.go2mobi.com/careers/2016-BDM-08/)
-* [Media Buyer](https://www.go2mobi.com/careers/2016-MB-05/)
-* [Senior Media Buyer](https://www.go2mobi.com/careers/2016-SMB-05/)
-* [Mobile Advertising Account Executive](https://www.go2mobi.com/careers/2016-AE-01/)
-* [Accountant](https://www.go2mobi.com/careers/2016-ACC-09/)
-* [VP of Operations](https://www.go2mobi.com/careers/2016-VPO-08/)
-* [Intermediate Full Stack Developer(Vancouver)](https://www.go2mobi.com/careers/2016-IFSD-10/)
+#### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
+* [DevOps Developer](https://checkfront.bamboohr.com/jobs/view.php?id=105)
+* [Intermediate Developer - Elixir](https://checkfront.bamboohr.com/jobs/view.php?id=94)
+* [Senior Software Developer](https://checkfront.bamboohr.com/jobs/view.php?id=97)
+* [Software Development Team Lead](https://checkfront.bamboohr.com/jobs/view.php?id=96)
+* [Growth Marketer - Paid Media](https://checkfront.bamboohr.com/jobs/view.php?id=102)
+* [Lifecycle Marketing Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=103)
+* [Product Manager](https://checkfront.bamboohr.com/jobs/view.php?id=79)
+* [UX Designer](https://checkfront.bamboohr.com/jobs/view.php?id=99)
+* [Technical Support Specialist - Evenings](https://checkfront.bamboohr.com/jobs/view.php?id=104)
 
-#### [Hololabs](http://www.hololabs.org/)
-* [Game Developer](http://www.hololabs.org/hiring-game-developer)
+#### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 
-#### [Kano Apps](http://www.kanoapps.com/)
-* [Associate Producer](https://kanoapps.bamboohr.com/jobs/view.php?id=22)
-* [Game Systems Designer](https://kanoapps.bamboohr.com/jobs/view.php?id=21)
-* [Player Support Representative](https://kanoapps.bamboohr.com/jobs/view.php?id=25)
-* [Software Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=24)
+#### [Covault](https://covaultapp.com/)
 
-#### [Latitude Geographics](http://www.latitudegeo.com/)
-* [ArcGIS Solutions Specialist](https://latitudegeo.bamboohr.com/jobs/view.php?id=54)
-* [Business Systems Analyst/Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=57)
-* [Front End Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=58)
-* [Software Developer](https://latitudegeo.bamboohr.com/jobs/view.php?id=15)
-* [Technical Writer](https://latitudegeo.bamboohr.com/jobs/view.php?id=56)
-* [Unsolicited/General Applications](https://latitudegeo.bamboohr.com/jobs/view.php?id=22)
+#### [Crowdcontent](https://www.crowdcontent.com/)
+* [Marketing Coordinator](https://www.crowdcontent.com/current-openings-marketing-coordinator/)
+* [Web Developer](https://www.crowdcontent.com/web-developer/)
+* [Junior Developer](https://www.crowdcontent.com/junior-developer/)
+* [Editorial Content Manager](https://www.crowdcontent.com/senior-project-manager/)
 
-#### [LlamaZOO](http://www.llamazoo.com/)
-* [3D Content Designer](https://www.llamazoo.com/3d-content-designer/)
-* [Android Developer](https://www.llamazoo.com/android-developer/)
-* [AR/VR/MR Software Developer](https://www.llamazoo.com/arvrmr-software-developer/)
-* [Sr Unity Software Developer](https://www.llamazoo.com/unity-software-developer/)
+#### [Cuboh](https://www.cuboh.com/careers) (👩‍💻 Co-Op / Intern Friendly)
+* [Partner Success](https://secure.collage.co/jobs/cuboh/21684)
+* [Business Development, Partnerships](https://secure.collage.co/jobs/cuboh/21044)
+* [Designer](https://secure.collage.co/jobs/cuboh/21465)
+* [UX / UI Designer](https://secure.collage.co/jobs/cuboh/20477)
+* [Full Stack Software Developer](https://secure.collage.co/jobs/cuboh/13526)
+* [DevOps Engineer](https://secure.collage.co/jobs/cuboh/19925)
+* [Digital Sales Representative](https://secure.collage.co/jobs/cuboh/9847)
+* [Customer Support Specialist](https://secure.collage.co/jobs/cuboh/18982)
+* [Onboarding Specialist](https://secure.collage.co/jobs/cuboh/16757)
+* [Director of Customer Support](https://secure.collage.co/jobs/cuboh/20244)
+* [Enterprise Sales Representative](https://secure.collage.co/jobs/cuboh/20833)
+* [Enterprise Account Manager](https://secure.collage.co/jobs/cuboh/19639)
 
-#### [MetaLab](http://metalab.co/)
-* [Design Director](http://metalab.co/careers/)
-* [Product Designer](http://metalab.co/careers/)
-* [Front-End Developer](http://metalab.co/careers/)
-* [Producer](http://metalab.co/careers/)
+#### [Disco Studio](https://www.discostudio.ca/)
+* [Experience Designer](https://www.discostudio.ca/experience-designer/)
 
-#### [Momentum Dashboard](http://momentumdash.com/)
-* [Front-End Developer](http://momentumdash.com/careers/)
-* [Full Stack Developer](http://momentumdash.com/careers/)
+#### [DropCommerce](https://www.dropcommerce.com/)
+* [Intermediate Django Python Developer](https://ca.indeed.com/job/intermediate-django-python-developer-c21b570d208a56bd)
+* [Intermediate React JS Developer](https://ca.indeed.com/job/intermediate-react-js-developer-c0c221047e65a30a)
 
-#### [MonetizeMore](http://www.monetizemore.com/)
-* [Web Developer](http://www.monetizemore.com/about-monetizemore/careers/web-developer-jobs/)
-* [Project Specialist](http://www.monetizemore.com/about-monetizemore/careers/project-specialist/)
-* [Ad Optimization Expert](http://www.monetizemore.com/about-monetizemore/careers/)
+#### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
-#### [One Net Marketing](http://onenetmarketing.com)
-* [Front End Developer - Intermediate](http://onenetmarketing.com/careers/front-end-web-developer)
+#### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
+* [Sales Development Rep (SDR)](https://www.dyspatch.io/about/careers/post/?305dea8e-b14a-49a3-a497-40032a88a061)
+* [Software Developer](https://www.dyspatch.io/about/careers/post/?d3e37047-89ac-417a-8621-c77b4cfde148)
+* [Senior Software Developer](https://www.dyspatch.io/about/careers/post/?effc439c-b3e3-425f-9a7b-2debd6bb2dc5)
 
-#### [Plurilock](https://www.plurilock.com/)
-* [Research and Development Analyst Co-op](https://www.plurilock.com/our-company/careers/research-and-development-analyst-co-op/)
+#### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
+* [DevOps Engineer (Infrastructure & Security)](https://echosec.breezy.hr/p/806ec97be6c2-devops-engineer)
 
-#### [Pretio Interactive](https://www.pretio.in/)
-* [Media Buyer](https://www.pretio.in/jobs/media-buyer/)
-* [Junior Media & Distribution Analyst](http://www.pretio.in/jobs/junior-media-distribution-analyst)
-* [Account Manager - Video](http://www.pretio.in/jobs/account-manager-video)
-* [Product Manager](http://www.pretio.in/jobs/product-manager)
+#### [Expeto](http://expeto.io/)
+* [UX Developer](https://expetowireless.recruitee.com/o/ux-developer)
+* [Senior Software Engineer](https://expetowireless.recruitee.com/o/senior-software-engineer-toronto)
+* [Director of Engineering](https://expetowireless.recruitee.com/o/director-of-engineering)
+* [Senior Product Manager](https://expetowireless.recruitee.com/o/senior-product-manager)
 
-#### [Referral Saasquatch](http://www.referralsaasquatch.com/)
-* [Back End Developer](http://www.referralsaasquatch.com/careers/)
-* [Front End Developer](http://www.referralsaasquatch.com/careers/)
-* [Full Stack Developer](http://www.referralsaasquatch.com/careers/)
-* [Visual Designer](http://www.referralsaasquatch.com/careers/)
 
-#### [Redbrick](https://rdbrck.com)
-* [Sales Development Representative](http://rdbrck.mytribehr.com/careers/view/34)
-* [Account Executive](http://rdbrck.mytribehr.com/careers/view/37)
-* [Product Manager](http://rdbrck.mytribehr.com/careers/view/38)
+#### [Falcon Software](https://www.falcon-software.com/)
+* [Web Project Manager](https://www.falcon-software.com/About-Us/Job-Postings/Web-Project-Manager)
+* [Front-end Developer UI/UX Web Designer](https://www.falcon-software.com/career-opportunities/front-end-developer)
 
-#### [RevenueWire](https://www.revenuewire.com/)
-* [Sales Specialist](https://www.revenuewire.com/careers/#tab-2)
-* [PHP Platform Developer](http://www.revenuewire.com/careers/)
+#### [Flow](https://www.getflow.com/)
 
-#### [RingPartner](http://ringpartner.com/)
-* [Compliance Representative](https://ringpartner.com/news/job-posting-compliance-representative)
-* [Client Success Manager](http://ringpartner.com/careers/)
-* [Sales Specialist](https://ringpartner.com/news/job-posting-sales-specialist)
-* [Developer](http://ringpartner.com/careers/)
+#### [Fluorescent Design Inc.](https://fluorescent.co/)
+
+#### [Flytographer](https://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Customer Experience Specialist](https://www.flytographer.com/jobs/)
+
+#### [Foundry Spatial](https://www.foundryspatial.com)
+
+#### [FreshWorks Studio](https://freshworks.io/)
+* [Senior Software Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAEbOKc2QnaicN9)
+* [Full Stack Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADN8jmnPJ9_Rl)
+* [Pre-sales Specialist](https://boards.greenhouse.io/freshworksstudioinc/jobs/4206340003)
+* [Director, Public Sector](https://boards.greenhouse.io/freshworksstudioinc/jobs/4147061003)
+* [Talent Sourcer](https://boards.greenhouse.io/freshworksstudioinc/jobs/4163394003)
+* [Technical Consultant](https://boards.greenhouse.io/freshworksstudioinc/jobs/4269018003)
+* [UI/UX Designer](https://boards.greenhouse.io/freshworksstudioinc/jobs/4306211003)
+* [Product Analyst](https://boards.greenhouse.io/freshworksstudioinc/jobs/4306206003)
+* [iOS Developer](https://boards.greenhouse.io/freshworksstudioinc/jobs/4083116003)
+* [Android Developer](https://boards.greenhouse.io/freshworksstudioinc/jobs/4126046003)
+* [Intermediate React/Node Developer](https://boards.greenhouse.io/freshworksstudioinc/jobs/4413245003)
+* [Principle Engineer - Victoria](https://boards.greenhouse.io/freshworksstudioinc/jobs/4431039003)
+* [Business Analyst](https://boards.greenhouse.io/freshworksstudioinc/jobs/4413244003)
+* [Senior Business Analyst](https://boards.greenhouse.io/freshworksstudioinc/jobs/4413247003)
+* [UX Lead](https://boards.greenhouse.io/freshworksstudioinc/jobs/4413246003)
+* [Technical Recruiter](https://boards.greenhouse.io/freshworksstudioinc/jobs/4452425003)
+
+#### [FuturePet](https://www.futurepet.care/)
+
+#### [Gearbox Development](https://gearboxbuilt.com/)
+
+#### [Giftbit](https://giftbit.bamboohr.com/jobs/) (👩‍💻 Co-Op / Intern Friendly)
+
+#### [Hipster Bait](https://hipsterbait.com/about)
+
+#### [Hololabs](https://www.hololabs.org/) (👩‍💻 Co-Op / Intern Friendly)
+
+#### [Isolation Network](https://www.isolationnetwork.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Data Analyst](https://jobs.jobvite.com/universalmusicgroup/job/oLgMcfwJ)
+* [Data Scientist](https://jobs.jobvite.com/universalmusicgroup/job/oHkMcfwJ)
+* [SysOps Engineer](https://jobs.jobvite.com/universalmusicgroup/job/ohcGefw7)
+
+#### [Kano](https://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Lead Game Developer - Unity](https://kanoapps.bamboohr.com/jobs/view.php?id=62&source=aWQ9Ng%3D%3D)
+* [Facebook Ad Specialist - Games](https://kanoapps.bamboohr.com/jobs/view.php?id=56)
+* [Director, Growth Marketing](https://kanoapps.bamboohr.com/jobs/view.php?id=68&source=aWQ9Ng%3D%3D)
+* [Intermediate Developer - Unity](https://kanoapps.bamboohr.com/jobs/view.php?id=66&source=aWQ9Ng%3D%3D)
+
+#### [KIXEYE Canada Ltd](https://www.kixeye.com/)
+* [2D Marketing Artist](https://kixeye.bamboohr.com/jobs/view.php?id=29)
+
+#### [Latitude Geographics](http://www.latitudegeo.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Software Developer](https://vertigis.bamboohr.com/jobs/view.php?id=108)
+* [ERP / IT System Administrator](https://vertigis.bamboohr.com/jobs/view.php?id=120)
+* [Digital Marketing Coordinator](https://vertigis.bamboohr.com/jobs/view.php?id=119)
+* [Project Manager](https://vertigis.bamboohr.com/jobs/view.php?id=118)
+* [Director of Sales, North America](https://vertigis.bamboohr.com/jobs/view.php?id=102)
+
+#### [Leap XD](https://www.leapxd.com)
+
+#### [LlamaZOO](https://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Product Designer](https://www.llamazoo.com/new-job-openings-product-designer/)
+* [Quality Assurance Co-op](https://www.llamazoo.com/new-job-openings-qa-coop/)
+* [Full Stack Developer](https://www.llamazoo.com/new-job-openings-full-stack-developer/)
+* [Office Coordinator](https://www.llamazoo.com/llamazoo-office-coordinator/)
+* [Unity Developer](https://www.llamazoo.com/llamazoo-unity-dev/)
+
+#### [MazumaGo](https://www.mazumago.com/)
+
+#### [MetaLab](https://metalab.co/) (👩‍💻 Co-Op / Intern Friendly)
+* [Design Lead](https://www.metalab.com/careers/design-lead)
+* [UX Researcher](https://boards.greenhouse.io/metalab/jobs/2986482)
+* [VP of Engineering](https://www.metalab.com/careers/vp-engineering)
+* [Design Director](https://www.metalab.com/careers/design-director)
+* [Principal Designer](https://www.metalab.com/careers/principal-designer)
+* [Engneering Lead](https://www.metalab.com/careers/engineering-lead)
+* [Senior Web Developer](https://boards.greenhouse.io/metalab/jobs/2986532)
+* [Talent Acquisition Specialist](https://boards.greenhouse.io/metalab/jobs/2973816)
+
+#### [Momentum Dashboard](https://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Front-End Developer](https://momentumdash.com/careers/)
+* [Full Stack Developer](https://momentumdash.com/careers/)
+* [Operations Manager](https://momentumdash.com/careers/)
+
+#### [MonetizeMore](https://www.monetizemore.com/)
+* [Web Developer](https://monetizem.applytojob.com/apply/yPcQkE/Remote-Web-Developer)
+* [Ad Optimizer](https://monetizem.applytojob.com/apply/LKJ8Pj/Ad-Optimizer)
+* [Technical Recruiter](https://monetizem.applytojob.com/apply/6suJfajVrv/Technical-Recruiter)
+* [HR Manager](https://monetizem.applytojob.com/apply/4I42f9qfdR/HR-Manager)
+
+#### [NetMotion](https://www.netmotionsoftware.com)
+* [Customer Service Representative](https://www.netmotionsoftware.com/culture-values-careers?p=job/olToefwA&nl=1)
+* [Inside Sales Rep](https://www.netmotionsoftware.com/culture-values-careers?p=job/oP3Edfwt&nl=1)
+* [Sr Software Developer](https://www.netmotionsoftware.com/culture-values-careers?p=job%2FoIkYcfwW)
+
+#### [North Robotics](http://www.northrobotics.com)
+
+#### [OneFeather](https://www.onefeather.ca/)
+
+#### [One Net Inc](https://www.onenetinc.com/crew#Careers)
+* [Web Designer / Webflow Designer](https://www.onenetinc.com/careers/web-designer-webflow-designer)
+* [Visual Designer](https://www.onenetinc.com/careers/visual-designer)
+* [Mobile Developer](https://www.onenetinc.com/careers/mobile-developer)
+* [Digital Producer](https://www.onenetinc.com/careers/digital-producer)
+* [Website Project Manager](https://www.onenetinc.com/careers/website-project-manager)
+
+#### [PG Music](https://www.pgmusic.com/)
+
+#### [Pixel Union](https://pixelunion.net/)
+* [Senior Front End Developer, Apps](https://apply.workable.com/pixel-union/j/030F11BD65/)
+* [Back-End Developer](https://apply.workable.com/pixel-union/j/FD496B751A/)
+* [Tier 2 Support Specialist](https://apply.workable.com/pixel-union/j/ACB0CDEA58/)
+* [E-Commerce Marketing Specialist](https://apply.workable.com/pixel-union/j/7835B47A48/)
+* [Partner Manager](https://apply.workable.com/pixel-union/j/4FF3225EA7/)
+* [Senior and Intermediate Front End Developers, Agency](https://apply.workable.com/pixel-union/j/3CBA9BBF3F/)
+* [QA Specialist, Agency](https://apply.workable.com/pixel-union/j/0B37F6BC3E/)
+* [Marketing Generalist](https://apply.workable.com/pixel-union/j/201516750A/)
+
+#### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
+
+#### [Pretio Interactive](https://www.pretio.in/) (👩‍💻 Co-Op / Intern Friendly)
+* [Full Stack Developer](https://pretiointeractive.humi.ca/job-board/development/2716)
+
+#### [RaceRocks 3D](https://racerocks3d.ca/)
+* [Director of Business Development](https://racerocks3d.ca/career/sales-associate/)
+
+#### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Senior Full-Stack Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=83)
+* [Intermediate Developer](https://rdbrck.bamboohr.com/jobs/view.php?id=82)
+* [Software Architect](https://rdbrck.bamboohr.com/jobs/view.php?id=85)
+* [Senior Copywriter (Canada)](https://rdbrck.bamboohr.com/jobs/view.php?id=88)
+* [Benefits and Payroll Coordinator](https://rdbrck.bamboohr.com/jobs/view.php?id=86)
+* [Intermediate Accountant](https://rdbrck.bamboohr.com/jobs/view.php?id=84)
+
+#### [Redlen Technologies](https://redlen.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Developer, Test Software](https://secure3.entertimeonline.com/ta/6133013.careers?rnd=WDF&ShowJob=369311828&prevScreenY=46&prevScreenX=0)
+* [Developer -Software](https://can59.dayforcehcm.com/CandidatePortal/en-US/redlen/Posting/View/28)
+
+#### [Regroove](https://regroove.ca) (👩‍💻 Co-Op / Intern Friendly)
+* [Cloud Solutions Consultant](https://regroove.ca/careers/cloud-solutions-consultant/)
+
+#### [Revela Systems](https://www.revela.io/) (👩‍💻 Co-Op / Intern Friendly)
+
+#### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Head of Digital Media](https://ringpartner.bamboohr.com/jobs/view.php?id=42)
+
+#### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
+* [Intermediate/Senior Test Engineer](https://rooof.bamboohr.com/jobs/view.php?id=73)
+
+#### [SaaSquatch](https://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Account Executive - MarTech](https://www.saasquatch.com/careers/)
+* [Frontend Team Lead](https://www.saasquatch.com/careers/)
+* [Operations Manager - SaaS Marketing Technology](https://www.saasquatch.com/careers/)
+* [Intermediate Typescript Engineer](https://www.saasquatch.com/careers/)
+* [Project Manager - Customer Launch](https://www.saasquatch.com/careers/)
+* [SaaSquatch Solutions Architect](https://www.saasquatch.com/careers/)
+
+#### [Semaphore](https://semaphoresolutions.com/)
+* [Senior Software Developer](https://jobs.lever.co/semaphoresolutions/134fb46b-0e60-4991-8e08-6f8ff9bcac39)
+* [Intermediate Software Developer](https://jobs.lever.co/semaphoresolutions/3e77b570-9e7f-489d-8693-fcc01534b390)
+* [Software Developer in Test](https://jobs.lever.co/semaphoresolutions/5f37de6b-0add-42fd-8d77-06294e52f6bf)
+
+#### [SendtoNews](https://www.sendtonews.com/)
+* [Director of Business Development](https://secure.collage.co/jobs/sendtonews/20253)
+* [Ad Product Manager](https://secure.collage.co/jobs/sendtonews/20935)
+* [Business Intelligence Analyst](https://secure.collage.co/jobs/sendtonews/21302)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
-* [UI/UX Graphic Designer](https://www.sparklit.com/careers/#graphic-designer)
+* [Intermediate/Senior Front End Developer](https://www.sparklit.com/careers/#front-end)
 
-#### [Sendwithus](https://www.sendwithus.com)
-* [Senior Full Stack Engineer](https://www.sendwithus.com/jobs/senior-full-stack-engineer)
+#### [SilkStart](https://silkstart.com/about/)
+* [Customer Success Specialist](https://silkstart.com/careers/)
+* [Inside Sales](https://silkstart.com/careers/)
 
-#### [Silkstart](http://silkstart.com/about/)
-* [Customer Success Representative](http://silkstart.com/careers/)
-* [Website Builder](http://silkstart.com/careers/)
+#### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Senior Project Manager](https://starfishmedical.com/jobs/senior-project-manager/)
+* [Senior Systems Engineer](https://starfishmedical.com/jobs/senior-systems-engineer/)
+* [Admin Assistant](https://starfishmedical.com/jobs/administrative-assistant-marketing/?doing_wp_cron=1610755072.7168519496917724609375)
+* [Principal Industrial Designer](https://starfishmedical.com/jobs/principal-industrial-designer-victoria-bc-or-toronto-on/?doing_wp_cron=1610755077.1658020019531250000000)
+* [Electrical Engineer](https://starfishmedical.com/jobs/electrical-engineer/?doing_wp_cron=1610755078.3086359500885009765625)
+* [Technical Support Specialist](https://starfishmedical.com/jobs/technical-support-specialist-victoria-bc/?doing_wp_cron=1610755080.8191909790039062500000)
+* [Senior Human Factors Design Engineer](https://starfishmedical.com/jobs/senior-human-factors-design-engineer-victoria-bc-or-toronto-on/)
+* [Senior Firmware Engineer](https://starfishmedical.com/jobs/senior-firmware-engineer-2/)
+* [Senior Software Engineer](https://starfishmedical.com/jobs/senior-software-engineer-2/)
+* [Director of IS/IT](https://starfishmedical.com/jobs/director-of-is-it/)
+* [UX Design Lead](https://starfishmedical.com/jobs/ux-design-lead/)
 
-#### [Stembolt](http://stembolt.com)
-* [Software Developer Co-op](https://stembolt.com/careers/software-developer-co-op/)
-* [Junior Developer](https://stembolt.com/careers/junior-developer/)
-* [Intermediate/Senior Developer](https://stembolt.com/careers/intermediate-or-senior-developer/)
-* [Senior Solidus Developer](https://stembolt.com/careers/senior-solidus-developer/)
-* [Visual Designer](https://stembolt.com/careers/visual-designer/)
+#### [Stocksy United](https://www.stocksy.com/)
+* [Junior Marketing Coordinator](https://www.stocksy.com/service/hiring)
+* [Junior Creative Research Associate](https://www.stocksy.com/service/hiring)
+* [Product Manager](https://www.stocksy.com/service/hiring)
 
-#### [Stocksy United](http://www.stocksy.com/)
-* [Front End Developer](https://www.stocksy.com/service/hiring)
-* [Accounts Receivable Specialist](https://www.stocksy.com/service/hiring)
+#### [Super Good Software](https://supergood.software)
+* [Senior Developer](https://supergood.software/careers/senior-developer)
+* [Intermediate Developer](https://supergood.software/careers/intermediate-developer)
 
-#### [Telmediq](http://www.telmediq.com/)
-* [Implementation & Support Consultant](https://www.telmediq.com/careers/implementation-support-consultant/)
-* [Technical Project Manager](https://www.telmediq.com/careers/technical-project-manager/)
+#### [Swiss Vault](https://www.swissvault.io/)
 
-#### [Tutela](http://tutelatechnologies.com/)
-* [Digital Marketing Manager](http://www.tutela.com/careers)
-* [iOS Mobile Developer](http://www.tutela.com/careers)
-* [User Experience Designer](http://www.tutela.com/careers)
-* [IT Systems Administrator](http://www.tutela.com/careers)
+#### [Tango Financial](https://tangofinancial.ca/) (👩‍💻 Co-Op / Intern Friendly)
 
-#### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada)
-* [Operations Engineer](http://www.workday.com/company/careers/job_description.php?id=JR13912#.V3Gz8eYrIWo)
-* [Android Developer](http://www.workday.com/company/careers/job_description.php?id=JR14334#.V6iy05MrLUJ)
-* [Software Development Engineer, Co-op](https://www.workday.com/en-us/company/careers/open-positions/job-details.html?id=JR15345)
-* [Workplace Coordinator](https://www.workday.com/en-us/company/careers/open-positions/job-details.html?id=JR15985)
-* [Product Manager](https://www.workday.com/en-us/company/careers/open-positions/job-details.html?id=JR15803)
+#### [Tapstream](https://tapstream.com/)
 
-#### [Zynga Canada](https://www.zynga.com/)
-* [Senior/Principle Software Engineer: Web](https://www.zynga.com/careers/positions/seniorprincipal-software-engineer-web)
-* [Senior/Principle Software Engineer: iOS](https://www.zynga.com/careers/positions/seniorprinciple-software-engineer-ios)
+#### [Telmediq](https://www.telmediq.com/) (👩‍💻 Co-Op / Intern Friendly)
 
-## Startups without current postings
-* [Codename Entertainment](http://www.codenameentertainment.com/)
-* [Crowdcontent](https://www.crowdcontent.com/)
-* [Flow](https://www.getflow.com/)
-* [Giftbit](https://www.giftbit.com/)
-* [Hipwood Digital](http://www.hipwooddigital.com/)
-* [KIXEYE Canada Ltd](http://www.kixeye.com/)
-* [Onebit Labs](http://onebitlabs.com/)
-* [Rooof](http://rooof.com)
-* [Ruboss](http://ruboss.com/)
-* [Tapstream](https://tapstream.com/)
-* [TinyMob Games](http://tinymobgames.com/)
-* [Pixel Union](https://pixelunion.net/)
+#### [The Number](https://thenumber.ca/)
 
-## Share this job board with others!
+#### [Tutela](https://www.tutela.com/)
+* [Senior Customer Solutions Manager](https://tut.bamboohr.com/jobs/view.php?id=66)
+* [Business Development Associate](https://tut.bamboohr.com/jobs/view.php?id=72)
 
-[Tweet about us!](https://twitter.com/intent/tweet?text=I%20found%20a%20job%20on%20the%20Victoria%20Startup%20Jobs%20repo!&via=victoriastartup&url=http:%3A%2F%2Fgithub.com/sendwithus/vic-startup-jobs)
+#### [VitaminLab](https://getvitaminlab.com/)
+* [Bookkeeper](https://ca.indeed.com/job/finance-technician-manufacturing-focused-tech-start--e1eb0ba84124d0fb)
+* [Head of People and Culture](https://ca.indeed.com/job/head-people-and-culture-aae3b542b7374bfa)
+
+#### [Virtual CFO](https://www.virtualcfo.ca/)
+
+#### [Vivid Solutions](https://www.vividsolutions.com/)
+* [Business Analyst](https://vividsolutions.bamboohr.com/jobs/view.php?id=10)
+* [Full Stack Developer](https://vividsolutions.bamboohr.com/jobs/view.php?id=13)
+* [Quality Assurance Analyst](https://vividsolutions.bamboohr.com/jobs/view.php?id=12)
+* [Scrum Master](https://vividsolutions.bamboohr.com/jobs/view.php?id=11)
+
+#### [Watershed Partners](https://watershed.co/careers/)
+* [Engagement Director](https://watershed.co/careers-engagement-director/)
+* [Engagement Manager](https://watershed.co/careers-engagement-manager/)
+* [Proposal Manager](https://watershed.co/careers-proposal-manager/)
+
+#### [White Ops](https://www.whiteops.com/)
+
+#### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
+* [Software Development Engineer – Knowledge Management UI](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Software-Development-Engineer---Knowledge-Management_JR-46522)
+* [Manager, Technical Program Managemen](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Victoria/Manager--Technical-Program-Management_JR-49818)
+
+---
+
+### Share this job board with others!
+
+[Tweet about us!][tweet-link]
+
+[tweet-link]: https://twitter.com/intent/tweet?text=I%20found%20a%20job%20on%20the%20Victoria%20Startup%20Jobs%20repo!&via=victoriastartup&url=https%3A%2F%2Fgithub.com/sendwithus/vic-startup-jobs
