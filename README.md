@@ -144,6 +144,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
 * [DevOps Engineer (Infrastructure & Security)](https://echosec.breezy.hr/p/806ec97be6c2-devops-engineer)
 
+#### [Eterio Realities](https://www.eterio.ca/careers/) (👩‍💻 Co-Op / Intern Friendly)
+* [XR Unity Developer](https://www.eterio.ca/careers/xr-unity-developer/)
+
 #### [Expeto](http://expeto.io/)
 * [UX Developer](https://expetowireless.recruitee.com/o/ux-developer)
 * [Senior Software Engineer](https://expetowireless.recruitee.com/o/senior-software-engineer-toronto)
