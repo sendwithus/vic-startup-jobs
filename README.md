@@ -146,7 +146,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Application Security Engineer](https://echosec.breezy.hr/p/b15ec5046bf9-application-security-engineer)
 * [Platform Engineer](https://echosec.breezy.hr/p/b5e27c0278ea-platform-engineer)
 
-
 #### [Eterio Realities](https://www.eterio.ca/careers/) (👩‍💻 Co-Op / Intern Friendly)
 * [XR Unity Developer](https://www.eterio.ca/careers/xr-unity-developer/)
 
