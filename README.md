@@ -142,7 +142,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Software Developer](https://www.dyspatch.io/about/careers/post/?effc439c-b3e3-425f-9a7b-2debd6bb2dc5)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
-* [DevOps Engineer (Infrastructure & Security)](https://echosec.breezy.hr/p/806ec97be6c2-devops-engineer)
+* [DevOps Engineer](https://echosec.breezy.hr/p/806ec97be6c2-devops-engineer)
+* [Application Security Engineer](https://echosec.breezy.hr/p/b15ec5046bf9-application-security-engineer)
+* [Platform Engineer](https://echosec.breezy.hr/p/b5e27c0278ea-platform-engineer)
 
 #### [Eterio Realities](https://www.eterio.ca/careers/) (👩‍💻 Co-Op / Intern Friendly)
 * [XR Unity Developer](https://www.eterio.ca/careers/xr-unity-developer/)
