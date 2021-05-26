@@ -243,7 +243,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Back-End Developer](https://momentumdash.com/careers/#back-end-developer)
 * [Front-End Developer](https://momentumdash.com/careers/#front-end-developer)
 * [Full Stack Developer](https://momentumdash.com/careers/#full-stack-developer)
-* [Operations Manager](https://momentumdash.com/careers/#operations-manager)
 
 #### [MonetizeMore](https://www.monetizemore.com/)
 * [Web Developer](https://monetizem.applytojob.com/apply/yPcQkE/Remote-Web-Developer)
