@@ -142,7 +142,12 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Software Developer](https://www.dyspatch.io/about/careers/post/?effc439c-b3e3-425f-9a7b-2debd6bb2dc5)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
-* [DevOps Engineer (Infrastructure & Security)](https://echosec.breezy.hr/p/806ec97be6c2-devops-engineer)
+* [DevOps Engineer](https://echosec.breezy.hr/p/806ec97be6c2-devops-engineer)
+* [Application Security Engineer](https://echosec.breezy.hr/p/b15ec5046bf9-application-security-engineer)
+* [Platform Engineer](https://echosec.breezy.hr/p/b5e27c0278ea-platform-engineer)
+
+#### [Eterio Realities](https://www.eterio.ca/careers/) (👩‍💻 Co-Op / Intern Friendly)
+* [XR Unity Developer](https://www.eterio.ca/careers/xr-unity-developer/)
 
 #### [Expeto](http://expeto.io/)
 * [UX Developer](https://expetowireless.recruitee.com/o/ux-developer)
@@ -256,10 +261,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [OneFeather](https://www.onefeather.ca/)
 
 #### [One Net Inc](https://www.onenetinc.com/crew#Careers)
+* [Agency Copywriter](https://www.onenetinc.com/careers/agency-copywriter)
 * [Web Designer / Webflow Designer](https://www.onenetinc.com/careers/web-designer-webflow-designer)
-* [Visual Designer](https://www.onenetinc.com/careers/visual-designer)
-* [Mobile Developer](https://www.onenetinc.com/careers/mobile-developer)
-* [Digital Producer](https://www.onenetinc.com/careers/digital-producer)
 * [Website Project Manager](https://www.onenetinc.com/careers/website-project-manager)
 
 #### [PG Music](https://www.pgmusic.com/)
