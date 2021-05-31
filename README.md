@@ -165,7 +165,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Fluorescent Design Inc.](https://fluorescent.co/)
 
 #### [Flytographer](https://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Customer Experience Specialist](https://www.flytographer.com/jobs/)
+* [Customer Experience Team Lead](https://www.flytographer.com/jobs/#customer-success-manager)
+* [Customer Experience Specialist](https://www.flytographer.com/jobs/#shoot-concierge)
+* [Technical Lead](https://www.flytographer.com/jobs/#tech-lead)
 
 #### [Foundry Spatial](https://www.foundryspatial.com)
 
