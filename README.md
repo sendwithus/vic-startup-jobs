@@ -260,6 +260,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [North Robotics](http://www.northrobotics.com)
 
 #### [OneFeather](https://www.onefeather.ca/)
+* [Intermediate Developer](https://apply.workable.com/j/4A64B122F3)
 
 #### [One Net Inc](https://www.onenetinc.com/crew#Careers)
 * [Agency Copywriter](https://www.onenetinc.com/careers/agency-copywriter)
