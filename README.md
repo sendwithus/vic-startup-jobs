@@ -59,7 +59,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Web Developer](http://www.atomiccrayon.com/career-opportunities)
 
 #### [Audette](http://audette.io/)
-* [Head of Software](https://audette.io/careers)
+* [Head of Marketing](https://audette.io/careers)
 
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Product Manager)](https://jobs.ingenico.com/bambora/job/Victoria-Senior-Product-Manager-CA-BC-V8T/670465001/)
