@@ -228,10 +228,10 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Leap XD](https://www.leapxd.com)
 
 #### [LlamaZOO](https://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Product Designer](https://www.llamazoo.com/new-job-openings-product-designer/)
-* [Full Stack Developer](https://www.llamazoo.com/new-job-openings-full-stack-developer/)
-* [Unity Tech Lead](https://llamazoo.com/unity-tech-lead/)
-* [Unity Developer](https://www.llamazoo.com/llamazoo-unity-dev/)
+* [Product Designer](https://llamazoo.com/product-designer/)
+* [Full Stack Developer](https://llamazoo.com/full-stack-developer/)
+* [Associate Sales Rep](https://llamazoo.com/associate-sales-representative/)
+* [Unity Developer](https://llamazoo.com/unity-developer/)
 
 #### [MazumaGo](https://www.mazumago.com/)
 
