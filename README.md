@@ -144,6 +144,8 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Software Developer](https://www.dyspatch.io/about/careers/post/?d3e37047-89ac-417a-8621-c77b4cfde148)
+* [Email Developer](https://www.dyspatch.io/about/careers/post/?d9645396-650d-4f7b-af5c-f303c66e1df7
+* [Developer Co-Op / Internship](https://www.dyspatch.io/about/careers/post/?a1046963-0410-4d78-a5a6-29990c0b929f)
 * [Senior Software Developer](https://www.dyspatch.io/about/careers/post/?effc439c-b3e3-425f-9a7b-2debd6bb2dc5)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
