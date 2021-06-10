@@ -69,6 +69,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Software Developer](https://jobs.ingenico.com/bambora/job/Victoria-Software-Developer-CA-BC-V8T/648212101/)
 * [Senior .Net Developer](https://jobs.ingenico.com/bambora/job/Victoria-Software-Developer-CA-BC-V8T/648212101/)
 * [Software Developer, QA Automation](https://jobs.ingenico.com/bambora/job/Victoria-Software-Developer%2C-QA-Automation-CA-BC-V8T/664905801/)
+* [Senior Software Developer, Back-End](https://jobs.ingenico.com/bambora/job/Victoria-Senior-Software-Developer%2C-Back-End-CA-BC-V8T/681653101/)
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 
