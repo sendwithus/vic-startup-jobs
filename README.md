@@ -130,6 +130,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Culture & Community Coordinator](https://www.dyspatch.io/about/careers/post/?6d346b80-e7fe-4e7e-9132-8dd48863d54c)
+* [Growth Marketer](https://www.dyspatch.io/about/careers/post/?6995508e-002f-43a6-9360-ae1e106ac7eb)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
 * [DevOps Engineer](https://echosec.breezy.hr/p/806ec97be6c2-devops-engineer)
