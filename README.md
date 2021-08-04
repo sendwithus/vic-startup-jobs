@@ -65,6 +65,10 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Audette](http://audette.io/)
 * [Head of Marketing](https://audette.io/careers)
 
+#### [Avalanche Insights](https://www.avalancheinsights.com/)
+* [Software Engineer](https://jobs.lever.co/AvalancheInsights/444f2d11-9d06-4d53-8f2f-33031d2fe018)
+* [Director of Engineering](https://jobs.lever.co/AvalancheInsights/da39ae64-eee2-4df0-b59b-5453e15947fd)
+
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Product Manager)](https://jobs.ingenico.com/bambora/job/Victoria-Senior-Product-Manager-CA-BC-V8T/670465001/)
 * [Senior .Net Developer](https://jobs.ingenico.com/bambora/job/Victoria-Software-Developer-CA-BC-V8T/648212101/)
