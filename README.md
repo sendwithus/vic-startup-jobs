@@ -264,7 +264,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [OneFeather](https://www.onefeather.ca/)
 
 #### [One Net Inc](https://www.onenetinc.com/crew#Careers)
-* [Agency Copywriter](https://www.onenetinc.com/careers/agency-copywriter)
 * [Web Designer / Webflow Designer](https://www.onenetinc.com/careers/web-designer-webflow-designer)
 * [Website Project Manager](https://www.onenetinc.com/careers/website-project-manager)
 
@@ -337,11 +336,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Inside Sales](https://silkstart.com/careers/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Electrical Engineer](https://starfishmedical.com/jobs/electrical-engineer/?doing_wp_cron=1610755078.3086359500885009765625)
 * [Director of IS/IT](https://starfishmedical.com/jobs/director-of-is-it/)
 * [Digital Marketing Specialist](https://starfishmedical.com/jobs/digital-marketing-specialist/)
 * [Junior Mechanical Engineer](https://starfishmedical.com/jobs/junior-mechanical-engineer/)
-* [Electronics Engineering Co-op](https://starfishmedical.com/jobs/electronics-engineering-co-op/)
 * [Intermediate Software Engineer](https://starfishmedical.com/jobs/intermediate-software-engineer/)
 
 #### [Stocksy United](https://www.stocksy.com/)
@@ -351,8 +348,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Super Good Software](https://supergood.software)
 * [Senior Developer](https://supergood.software/careers/senior-developer)
 * [Intermediate Developer](https://supergood.software/careers/intermediate-developer)
-
-#### [Swiss Vault](https://www.swissvault.io/)
 
 #### [Tango Financial](https://tangofinancial.ca/) (👩‍💻 Co-Op / Intern Friendly)
 
