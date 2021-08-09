@@ -89,6 +89,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Tech Lead, Identity and Access Management](https://benevity.bamboohr.com/jobs/view.php?id=660&source=benevity)
 * [Software Development Manager, Cloud Data Platform](https://benevity.bamboohr.com/jobs/view.php?id=512&source=benevity)
 
+#### [BGC Engineering](https://bgcengineering.ca/careers.html)
+* [Data Engineer](https://bgcengineering.ca/data_engineer.html)
+
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
 * [Talent Acquistion Specialist](https://certn.co/talent-acquisition-specialist/)
 
