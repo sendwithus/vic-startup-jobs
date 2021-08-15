@@ -349,6 +349,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Developer](https://supergood.software/careers/senior-developer)
 * [Intermediate Developer](https://supergood.software/careers/intermediate-developer)
 
+#### [Swiss Vault Systems](https://swissvault.global/) (👩‍💻 Co-Op / Intern Friendly)
+* [Senior Software Systems Developer](https://members.viatec.ca/job-board/Details/senior-software-systems-developer-72527)
+
 #### [Tango Financial](https://tangofinancial.ca/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Tapstream](https://tapstream.com/)
