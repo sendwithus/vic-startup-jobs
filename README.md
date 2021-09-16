@@ -63,7 +63,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full-Stack Web Developer](https://atomiccrayon.com/career-opportunities#job1)
 
 #### [Audette](http://audette.io/)
-* [Head of Marketing](https://audette.io/careers)
+* [Site Reliability Engineer (SRE)](https://audette.io/careers)
+* [Commercial Building Retrofit Specialist (CBRS)](https://audette.io/careers)
 
 #### [Avalanche Insights](https://www.avalancheinsights.com/)
 * [Software Engineer](https://jobs.lever.co/AvalancheInsights/444f2d11-9d06-4d53-8f2f-33031d2fe018)
