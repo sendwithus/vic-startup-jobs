@@ -299,7 +299,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Regroove](https://regroove.ca) (👩‍💻 Co-Op / Intern Friendly)
 * [Cloud Solutions Consultant](https://regroove.ca/careers/cloud-solutions-consultant/)
 
-#### [Revela Systems](https://www.revela.io/) (👩‍💻 Co-Op / Intern Friendly)
+#### [Revela Systems](https://www.revela.io/)
+* [Junior Software Engineer](https://www.revela.io/junior-software-engineer)
 
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Media Buyer](https://ringpartner.bamboohr.com/jobs/view.php?id=43)
