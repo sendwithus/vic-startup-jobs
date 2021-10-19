@@ -255,6 +255,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [North Robotics](http://www.northrobotics.com)
 
 #### [OneFeather](https://www.onefeather.ca/)
+* [Full Stack Developer](https://onefeather.humi.ca/job-board/developer/8165)
 
 #### [One Net Inc](https://www.onenetinc.com/crew#Careers)
 * [Web Designer / Webflow Designer](https://www.onenetinc.com/careers/web-designer-webflow-designer)
