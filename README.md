@@ -62,13 +62,12 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Atomic Crayon](http://www.atomiccrayon.com/)
 * [Full-Stack Web Developer](https://atomiccrayon.com/career-opportunities#job1)
 
-#### [Audette](http://audette.io/)
+#### [Audette](https://audette.io/)
 * [Site Reliability Engineer (SRE)](https://audette.io/careers)
 * [Commercial Building Retrofit Specialist (CBRS)](https://audette.io/careers)
 
 #### [Avalanche Insights](https://www.avalancheinsights.com/)
 * [Software Engineer](https://jobs.lever.co/AvalancheInsights/444f2d11-9d06-4d53-8f2f-33031d2fe018)
-* [Director of Engineering](https://jobs.lever.co/AvalancheInsights/da39ae64-eee2-4df0-b59b-5453e15947fd)
 
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Product Manager)](https://jobs.ingenico.com/bambora/job/Victoria-Senior-Product-Manager-CA-BC-V8T/670465001/)
@@ -90,11 +89,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Tech Lead, Identity and Access Management](https://benevity.bamboohr.com/jobs/view.php?id=660&source=benevity)
 * [Software Development Manager, Cloud Data Platform](https://benevity.bamboohr.com/jobs/view.php?id=512&source=benevity)
 
-#### [BGC Engineering](https://bgcengineering.ca/careers.html)
-* [Data Engineer](https://bgcengineering.ca/data_engineer.html)
+#### [BGC Engineering](https://bgcengineering.ca/careers/)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [Talent Acquistion Specialist](https://certn.co/talent-acquisition-specialist/)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Product Designer](https://careers.change.org/?gh_jid=4476333003)
@@ -123,12 +120,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Editorial Content Manager](https://www.crowdcontent.com/senior-project-manager/)
 
 #### [Cuboh](https://www.cuboh.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Director of Customer Support](https://secure.collage.co/jobs/cuboh/20244)
-* [Marketing Specialist](https://secure.collage.co/jobs/cuboh/22344)
-* [Enterprise Sales Representative](https://secure.collage.co/jobs/cuboh/20833)
 * [Digital Sales Representative](https://cubohcareers.humi.ca/job-board/sales/5846)
 * [DevOps Engineer](https://secure.collage.co/jobs/cuboh/19925)
-* [Administrative Coordinator](https://secure.collage.co/jobs/cuboh/22600)
 
 #### [Disco Studio](https://www.discostudio.ca/)
 
@@ -229,9 +222,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [LlamaZOO](https://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Product Designer](https://llamazoo.com/product-designer/)
 * [Full Stack Developer](https://llamazoo.com/full-stack-developer/)
-* [Associate Sales Rep](https://llamazoo.com/associate-sales-representative/)
 * [Unity Developer](https://llamazoo.com/unity-developer/)
-* [Backend Developer](https://llamazoo.com/backend-developer/)
 
 #### [MazumaGo](https://www.mazumago.com/)
 
@@ -299,11 +290,10 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Regroove](https://regroove.ca) (👩‍💻 Co-Op / Intern Friendly)
 * [Cloud Solutions Consultant](https://regroove.ca/careers/cloud-solutions-consultant/)
 
-#### [Revela Systems](https://www.revela.io/) (👩‍💻 Co-Op / Intern Friendly)
+#### [Revela Systems](https://www.revela.io/)
+* [Junior Software Engineer](https://www.revela.io/junior-software-engineer)
 
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Media Buyer](https://ringpartner.bamboohr.com/jobs/view.php?id=43)
-* [Account Manager](https://ringpartner.bamboohr.com/jobs/view.php?id=44)
 
 #### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 * [Web Designer](https://rooof.bamboohr.com/jobs/view.php?id=78)
@@ -318,7 +308,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Semaphore](https://semaphoresolutions.com/)
 * [Senior Software Developer](https://jobs.lever.co/semaphoresolutions/134fb46b-0e60-4991-8e08-6f8ff9bcac39)
-* [Quality Engineer](https://jobs.lever.co/semaphoresolutions/f4392c74-6348-4b9f-9241-7fbc3ec6dc9d)
 * [Full Stack Python Developer, Intermediate/Senior](https://jobs.lever.co/semaphoresolutions/36672a89-434f-4b58-a437-7b1eb3800e13)
 * [Intermediate Software Developer](https://jobs.lever.co/semaphoresolutions/3e77b570-9e7f-489d-8693-fcc01534b390)
 
@@ -338,10 +327,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Inside Sales](https://silkstart.com/careers/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Director of IS/IT](https://starfishmedical.com/jobs/director-of-is-it/)
 * [Digital Marketing Specialist](https://starfishmedical.com/jobs/digital-marketing-specialist/)
-* [Junior Mechanical Engineer](https://starfishmedical.com/jobs/junior-mechanical-engineer/)
-* [Intermediate Software Engineer](https://starfishmedical.com/jobs/intermediate-software-engineer/)
 
 #### [Stocksy United](https://www.stocksy.com/)
 * [Intermediate Graphic Designer](https://www.stocksy.com/service/hiring)
@@ -352,7 +338,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Intermediate Developer](https://supergood.software/careers/intermediate-developer)
 
 #### [Swiss Vault Systems](https://swissvault.global/) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Software Systems Developer](https://members.viatec.ca/job-board/Details/senior-software-systems-developer-72527)
 
 #### [Tango Financial](https://tangofinancial.ca/) (👩‍💻 Co-Op / Intern Friendly)
 
