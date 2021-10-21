@@ -36,14 +36,13 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
 * [Senior UI/UX Designer](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_Senior_UI_UX_Designer_JP_May21.pdf)
-* [Senior Cloud Operations Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_SeniorCloudOpsAnalyst_JP_Mar21.pdf)
+* [OpenVMS Admin](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_OpenVMSAdministrator_JP.pdf)
 
 #### [AlayaCare](https://www.alayacare.com/)
-* [Senior HRIS Specialist](https://boards.greenhouse.io/alayacare/jobs/5377741002)
 * [Full Stack Developer](https://boards.greenhouse.io/alayacare/jobs/5362187002)
-* [Full-Stack Mobile Developer](https://boards.greenhouse.io/alayacare/jobs/5340223002)
 * [Senior Full Stack Developer](https://boards.greenhouse.io/alayacare/jobs/5348776002)
-* [Senior Quality Assurance Developer](https://boards.greenhouse.io/alayacare/jobs/5362102002)
+* [Engineering Manager](https://boards.greenhouse.io/alayacare/jobs/5450972002)
+* [Senior SRE Manager](https://boards.greenhouse.io/alayacare/jobs/5423932002)
 
 #### [AltFee](https://altfeeco.com/)
 
@@ -51,11 +50,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Web Developer & Designer](https://www.animikii.com/about/careers/web-designer-developer)
 * [Senior Full Stack Web Developer](https://www.animikii.com/about/careers/senior-full-stack-web-developer)
 * [Intermediate Full Stack Developer](https://www.animikii.com/about/careers/intermediate-full-stack-web-developer)
-* [Executive Assistant](https://www.animikii.com/about/careers/executive-assistant)
 * [Partnerships Coordinator](https://www.animikii.com/about/careers/partnerships-coordinator)
 * [Product Manager](https://www.animikii.com/about/careers/product-manager)
 * [UI/UX Designer](https://animikii.humi.ca/job-board/product/5696)
-* [Digital Communications Strategist](https://animikii.humi.ca/job-board/communications/5730)
 
 #### [Appreciation Engine](https://get.theappreciationengine.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -63,65 +60,75 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full-Stack Web Developer](https://atomiccrayon.com/career-opportunities#job1)
 
 #### [Audette](https://audette.io/)
-* [Site Reliability Engineer (SRE)](https://audette.io/careers)
-* [Commercial Building Retrofit Specialist (CBRS)](https://audette.io/careers)
 
 #### [Avalanche Insights](https://www.avalancheinsights.com/)
 * [Software Engineer](https://jobs.lever.co/AvalancheInsights/444f2d11-9d06-4d53-8f2f-33031d2fe018)
+* [Product Designer](https://jobs.lever.co/AvalancheInsights/684c38c1-9dca-4741-9e16-ca739e8e5c4f)
 
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Product Manager)](https://jobs.ingenico.com/bambora/job/Victoria-Senior-Product-Manager-CA-BC-V8T/670465001/)
-* [Senior .Net Developer](https://jobs.ingenico.com/bambora/job/Victoria-Software-Developer-CA-BC-V8T/648212101/)
-* [Sr. Growth Marketer](https://jobs.ingenico.com/bambora/job/Victoria-Sr_-Growth-Marketer-CA-BC-V8T/692428501/)
-* [Senior Software Developer, Back-End](https://jobs.ingenico.com/bambora/job/Victoria-Senior-Software-Developer%2C-Back-End-CA-BC-V8T/681653101/)
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [BCDevExchange](https://www2.gov.bc.ca/gov/content/careers-myhr/job-seekers/current-job-postings)
 
 #### [Benevity](https://www.benevity.com/)
-* [Senior Product Designer](https://benevity.bamboohr.com/jobs/view.php?id=599&source=benevity)
-* [Service Desk](https://benevity.bamboohr.com/jobs/view.php?id=602&source=benevity)
-* [Integration Software Developer](https://benevity.bamboohr.com/jobs/view.php?id=583&source=benevity)
-* [Software Development Manager](https://benevity.bamboohr.com/jobs/view.php?id=438&source=benevity)
-* [Software Developer, Identity and Access Management](https://benevity.bamboohr.com/jobs/view.php?id=662&source=benevity)
-* [Software Developer](https://benevity.bamboohr.com/jobs/view.php?id=631&source=benevity)
+* [Data Platform Developer](https://www.benevity.com/job-postings?gh_jid=4126023004)
+* [Director, Client Success Operations](https://www.benevity.com/job-postings?gh_jid=4126030004)
+* [Enablement Advisor](https://www.benevity.com/job-postings?gh_jid=4137977004)
+* [Product Marketing Specialist](https://www.benevity.com/job-postings?gh_jid=4127089004)
+* [Talent Acquistion Specialist](https://www.benevity.com/job-postings?gh_jid=4135714004)
+* [Talent Sourcing Specialist](https://www.benevity.com/job-postings?gh_jid=4135648004)
+* [Intermediate Product Designer](https://www.benevity.com/job-postings?gh_jid=4124869004)
+* [Senior Software Developer](https://www.benevity.com/job-postings?gh_jid=4144705004)
+* [Software Developer](https://www.benevity.com/job-postings?gh_jid=4127096004)
+* [Integration Software Developer](https://www.benevity.com/job-postings?gh_jid=4147584004)
 * [Tech Lead, Identity and Access Management](https://benevity.bamboohr.com/jobs/view.php?id=660&source=benevity)
-* [Software Development Manager, Cloud Data Platform](https://benevity.bamboohr.com/jobs/view.php?id=512&source=benevity)
+
 
 #### [BGC Engineering](https://bgcengineering.ca/careers/)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
+* [Compliance Specialist](https://certn.co/job/compliance-specialist/)
+* [Director of Quality](https://certn.co/job/director-of-quality/)
+* [Senior Fronetend Developer](https://certn.co/job/senior-frontend-developer/)
+* [Customer Support Specialist](https://certn.co/job/customer-support-specialist/)
+* [Verifications Specialist](https://certn.co/job/verifications-specialist/)
+* [Senior Backend Developer](https://certn.co/job/senior-back-end-developer/)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Product Designer](https://careers.change.org/?gh_jid=4476333003)
-* [Senior Software Engineer](https://careers.change.org/?gh_jid=4354569003)
-* [Staff Software Engineer, Backend](https://careers.change.org/?gh_jid=4354584003)
-* [Software Engineering Manager - Supporters](https://careers.change.org/?gh_jid=4312705003)
-* [Head of Security](https://careers.change.org/?gh_jid=4486931003)
+* [Engineering Manager](https://careers.change.org/?gh_jid=4746619003)
+* [Senior Data Engineer](https://careers.change.org/?gh_jid=4408380003)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Software Developer](https://checkfront.bamboohr.com/jobs/view.php?id=97)
-* [Lifecycle Marketing Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=103)
-* [Product Designer](https://checkfront.bamboohr.com/jobs/view.php?id=99)
-* [Junior Developer Co-op](https://checkfront.bamboohr.com/jobs/view.php?id=116)
-* [Quality Assurance Manager](https://checkfront.bamboohr.com/jobs/view.php?id=117)
-* [Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=115)
+* [Development Team Lead](https://checkfront.bamboohr.com/jobs/view.php?id=120)
+* [Intermediate Software Developer](https://checkfront.bamboohr.com/jobs/view.php?id=118)
+* [Billing Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=126)
+* [Sr Growth Manager, Experimentation & Monetization](https://checkfront.bamboohr.com/jobs/view.php?id=124)
+* [Junior People & Culture Partner](https://checkfront.bamboohr.com/jobs/view.php?id=127)
+* [People & Culture Partner](https://checkfront.bamboohr.com/jobs/view.php?id=125)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Game Systems Designer](http://www.codenameentertainment.com/?page=jobs)
+* [2D Artist](http://www.codenameentertainment.com/?page=jobs)
 * [Junior Game Developer](http://www.codenameentertainment.com/?page=jobs)
 * [Quality Assurance Technical Analyst](http://www.codenameentertainment.com/?page=jobs)
 
 #### [Covault](https://covaultapp.com/)
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
-* [Web Developer](https://www.crowdcontent.com/web-developer/)
+* [Senior Developer](https://www.crowdcontent.com/senior-developer/)
+* [Co-op Developer](https://www.crowdcontent.com/coop-developer/)
+* [Sales Administrator Co-op](https://www.crowdcontent.com/sales-administrator-co-op/)
+* [Account Executive](https://www.crowdcontent.com/current-openings-account-executive/)
 * [Editorial Content Manager](https://www.crowdcontent.com/senior-project-manager/)
 
 #### [Cuboh](https://www.cuboh.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Digital Sales Representative](https://cubohcareers.humi.ca/job-board/sales/5846)
 * [DevOps Engineer](https://secure.collage.co/jobs/cuboh/19925)
+* [Onboarding Specialist](https://cubohcareers.humi.ca/job-board/customer%20success/7841)
+* [Finance & Admin Assistant](https://cubohcareers.humi.ca/job-board/finance/7633)
+* [People Ops Generalist](https://cubohcareers.humi.ca/job-board/people%20operations/7977)
+* [Full Stack Developer](https://cubohcareers.humi.ca/job-board/technology/6717)
 
 #### [Disco Studio](https://www.discostudio.ca/)
 
