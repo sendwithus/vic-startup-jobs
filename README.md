@@ -131,26 +131,23 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Developer](https://cubohcareers.humi.ca/job-board/technology/6717)
 
 #### [Disco Studio](https://www.discostudio.ca/)
+* [Senior User Experience Designer  (coming soon!)(https://www.discoinnovation.com/careers/)
 
 #### [DropCommerce](https://www.dropcommerce.com/)
 
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [Culture & Community Coordinator](https://www.dyspatch.io/about/careers/post/?6d346b80-e7fe-4e7e-9132-8dd48863d54c)
-* [Growth Marketer](https://www.dyspatch.io/about/careers/post/?6995508e-002f-43a6-9360-ae1e106ac7eb)
-* [DevOps Engineer](https://www.dyspatch.io/about/careers/post/?a853266c-d21e-480e-9bd2-fbd8bc289269)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
-* [DevOps Engineer](https://echosec.breezy.hr/p/806ec97be6c2-devops-engineer)
-* [Backend Developer](https://echosec.breezy.hr/?__hstc=220915143.92b726ddeb03967fc8400f2814ca19a2.1626381290469.1626381290469.1626381290469.1&__hssc=220915143.1.1626381290469&__hsfp=4022449397&hsCtaTracking=6ccc4a99-1e4f-4d44-a483-8c3666940ede%7Cef890de3-4701-407c-9eee-499604cc6a00)
-* [Technical Content Writer](https://echosec.breezy.hr/p/1e6ffade9453-technical-content-writer)
+* [Backend Developer](https://echosec.breezy.hr/p/8b345790c7ed-backend-developer-platform)
 
 #### [Eterio Realities](https://www.eterio.ca/careers/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Expeto](http://expeto.io/)
 * [Senior Technical Support Engineer](https://expetowireless.recruitee.com/o/senior-technical-support-engineer)
-* [Project Manager](https://expetowireless.recruitee.com/o/project-manager-direct)
+* [Technical Solutions Engineer](https://expetowireless.recruitee.com/o/technical-solutions-engineer)
+* [Software Engineer](https://expetowireless.recruitee.com/o/software-engineer-vancouver)
 
 #### [Falcon Software](https://www.falcon-software.com/)
 * [Web Project Manager](https://www.falcon-software.com/About-Us/Job-Postings/Web-Project-Manager)
@@ -159,12 +156,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Flow](https://www.getflow.com/)
 
 #### [Fluorescent Design Inc.](https://fluorescent.co/)
-* [Frontend Developer](https://apply.workable.com/fluorescent-design-inc/j/5B15E66E11/)
-* [Customer Support & Quality Assurance Specialist](https://apply.workable.com/fluorescent-design-inc/j/15E501E906/)
 
 #### [Flytographer](https://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Customer Experience Specialist](https://www.flytographer.com/jobs/)
-* [Senior Developer / Technical Lead](https://www.flytographer.com/jobs/)
 
 #### [Foundry Spatial](https://www.foundryspatial.com)
 
@@ -175,7 +169,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [iOS Developer](https://boards.greenhouse.io/freshworksstudioinc/jobs/4083116003)
 * [Android Developer](https://boards.greenhouse.io/freshworksstudioinc/jobs/4126046003)
 * [Node Developer](https://boards.greenhouse.io/freshworksstudioinc/jobs/4413245003)
-* [Intermediate QA Analyst - Manual Tester](https://boards.greenhouse.io/freshworksstudioinc/jobs/4473005003)
+* [QA Analyst - Manual Tester](https://boards.greenhouse.io/freshworksstudioinc/jobs/4704458003)
 * [Principle Engineer - Victoria](https://boards.greenhouse.io/freshworksstudioinc/jobs/4431039003)
 * [Technical Consultant](https://boards.greenhouse.io/freshworksstudioinc/jobs/4269018003)
 * [Technical Project Manager](https://boards.greenhouse.io/freshworksstudioinc/jobs/4083364003)
@@ -188,8 +182,10 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Scrum Manager](https://boards.greenhouse.io/freshworksstudioinc/jobs/4531046003)
 * [UX Lead](https://boards.greenhouse.io/freshworksstudioinc/jobs/4413246003)
 * [Pre-sales Specialist](https://boards.greenhouse.io/freshworksstudioinc/jobs/4206340003)
-* [Talent Sourcer](https://boards.greenhouse.io/freshworksstudioinc/jobs/4163394003)
+* [Marketing & Communications Specialist](https://boards.greenhouse.io/freshworksstudioinc/jobs/4740704003)
+* [Global Talent Acquisition](https://boards.greenhouse.io/freshworksstudioinc/jobs/4770239003)
 * [Technical Recruiter](https://boards.greenhouse.io/freshworksstudioinc/jobs/4452425003)
+* [Financial Analyst](https://boards.greenhouse.io/freshworksstudioinc/jobs/4747295003)
 
 #### [Gearbox Development](https://gearboxbuilt.com/)
 
@@ -202,15 +198,14 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Isolation Network](https://www.isolationnetwork.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [DevOps Engineer](https://jobs.jobvite.com/universalmusicgroup/job/o13LffwO)
 * [Lead Data Engineer](https://jobs.jobvite.com/universalmusicgroup/job/oxjYffwN)
-* [Software Developer Test Automation](https://jobs.jobvite.com/universalmusicgroup/job/oWoKffw3)
-* [Systems Administrator - Cloud Engineer](https://jobs.jobvite.com/universalmusicgroup/job/ohcGefw7)
+* [Backend Developerr](https://jobs.jobvite.com/universalmusicgroup/job/oauhhfwW)
 
 #### [Kano](https://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Software Developement Manager](https://kanoapps.bamboohr.com/jobs/view.php?id=71)
 * [Facebook Ad Specialist - Games](https://kanoapps.bamboohr.com/jobs/view.php?id=56)
 * [Director, Growth Marketing](https://kanoapps.bamboohr.com/jobs/view.php?id=68&source=aWQ9Ng%3D%3D)
-* [Senior Developer - Unity](https://kanoapps.bamboohr.com/jobs/view.php?id=69&source=aWQ9Ng%3D%3D)
-* [Visual Designer (Junior)](https://kanoapps.bamboohr.com/jobs/view.php?id=72)
+* [Data Analyst](https://kanoapps.bamboohr.com/jobs/view.php?id=73)
+* [HR & Office Coordinator](https://kanoapps.bamboohr.com/jobs/view.php?id=76&source=aWQ9Ng%3D%3D)
+* [Customer (Player) Success Representative](https://kanoapps.bamboohr.com/jobs/view.php?id=83&source=aWQ9Ng%3D%3D)
 
 #### [KIXEYE Canada Ltd](https://www.kixeye.com/)
 * [Senior Project Manager](https://kixeye.bamboohr.com/jobs/view.php?id=31)
