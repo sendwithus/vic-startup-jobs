@@ -138,6 +138,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
+* [Content Writer](https://jobs.lever.co/dyspatch/7fe4b699-08b2-49c5-b02b-bff4d3771c46)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
 * [Backend Developer](https://echosec.breezy.hr/p/8b345790c7ed-backend-developer-platform)
