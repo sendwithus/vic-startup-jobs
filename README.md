@@ -6,7 +6,7 @@ A well-maintained list of available startup jobs in Victoria BC. This list is cu
 
 [Tweet about us!][tweet-link]
 
-[![Build Status](https://travis-ci.org/sendwithus/vic-startup-jobs.svg?branch=master)](https://travis-ci.org/sendwithus/vic-startup-jobs)
+[![Build Status](https://travis-ci.org/sendwithus/vic-startup-jobs.svg?branch=main)](https://travis-ci.org/sendwithus/vic-startup-jobs)
 
 ### How to Apply?
 Click the link for more info about each job posting, including how to apply. Most companies provide application instructions on their websites.
@@ -52,7 +52,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Intermediate Full Stack Developer](https://www.animikii.com/about/careers/intermediate-full-stack-web-developer)
 * [Partnerships Coordinator](https://www.animikii.com/about/careers/partnerships-coordinator)
 * [Product Manager](https://www.animikii.com/about/careers/product-manager)
-* [UI/UX Designer](https://animikii.humi.ca/job-board/product/5696)
 
 #### [Appreciation Engine](https://get.theappreciationengine.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -90,10 +89,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
 * [Compliance Specialist](https://certn.co/job/compliance-specialist/)
 * [Director of Quality](https://certn.co/job/director-of-quality/)
-* [Senior Fronetend Developer](https://certn.co/job/senior-frontend-developer/)
 * [Customer Support Specialist](https://certn.co/job/customer-support-specialist/)
 * [Verifications Specialist](https://certn.co/job/verifications-specialist/)
-* [Senior Backend Developer](https://certn.co/job/senior-back-end-developer/)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Engineering Manager](https://careers.change.org/?gh_jid=4746619003)
@@ -126,7 +123,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Digital Sales Representative](https://cubohcareers.humi.ca/job-board/sales/5846)
 * [DevOps Engineer](https://secure.collage.co/jobs/cuboh/19925)
 * [Onboarding Specialist](https://cubohcareers.humi.ca/job-board/customer%20success/7841)
-* [Finance & Admin Assistant](https://cubohcareers.humi.ca/job-board/finance/7633)
 * [People Ops Generalist](https://cubohcareers.humi.ca/job-board/people%20operations/7977)
 * [Full Stack Developer](https://cubohcareers.humi.ca/job-board/technology/6717)
 
@@ -310,8 +306,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Project Manager](https://regroove.ca/careers/project-manager-regroove/)
 
 #### [Revela Systems](https://www.revela.io/)
-* [Junior Software Engineer](https://www.revela.io/junior-software-engineer)
-* [Sales and Marketing Lead](https://www.revela.io/sales-and-marketing-lead)
 
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Admin Assistant](https://ringpartner.humi.ca/job-board/marketing/7960)
@@ -332,9 +326,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Software Developer in Test](https://jobs.lever.co/semaphoresolutions/4c2480b8-0cd4-4126-b047-68bb1fcddf09)
 
 #### [SendtoNews](https://www.sendtonews.com/)
-* [Publisher Development Manager](https://secure.collage.co/jobs/sendtonews/24144)
-* [VP Business Development](https://secure.collage.co/jobs/sendtonews/23931)
-* [Publisher Success Manager](https://secure.collage.co/jobs/sendtonews/23223)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
@@ -348,11 +339,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Digital Marketing Specialist](https://starfishmedical.com/jobs/digital-marketing-specialist/)
 * [Admin Assistant - Product Development](https://starfishmedical.com/jobs/administrative-assistant-product-development/)
 * [Admin Assistant](https://starfishmedical.com/jobs/administrative-assistant-3/)
-* [UX Designer](https://starfishmedical.com/jobs/ux-designer/)
-* [UI Designer](https://starfishmedical.com/jobs/ui-designer/)
 * [Senior Software Engineer](https://starfishmedical.com/jobs/senior-software-engineer-3/)
 * [Software Engineer](https://starfishmedical.com/jobs/software-engineer-2/)
-* [Electronics Engineering Co-op](https://starfishmedical.com/jobs/electronics-engineering-co-op-2/)
 
 #### [Stocksy United](https://www.stocksy.com/)
 * [User Researcher](https://www.stocksy.com/service/hiring)
