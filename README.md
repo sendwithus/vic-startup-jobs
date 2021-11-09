@@ -307,8 +307,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Revela Systems](https://www.revela.io/)
 
-
-
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Admin Assistant](https://ringpartner.humi.ca/job-board/marketing/7960)
 
