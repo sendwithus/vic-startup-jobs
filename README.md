@@ -58,7 +58,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Atomic Crayon](http://www.atomiccrayon.com/)
 * [Full-Stack Web Developer](https://atomiccrayon.com/career-opportunities#job1)
 
-#### [Audette](https://audette.io/)
+#### [Audette](https://www.audette.io/)
 
 #### [Avalanche Insights](https://www.avalancheinsights.com/)
 * [Software Engineer](https://jobs.lever.co/AvalancheInsights/444f2d11-9d06-4d53-8f2f-33031d2fe018)
@@ -117,7 +117,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Co-op Developer](https://www.crowdcontent.com/coop-developer/)
 * [Sales Administrator Co-op](https://www.crowdcontent.com/sales-administrator-co-op/)
 * [Account Executive](https://www.crowdcontent.com/current-openings-account-executive/)
-* [Editorial Content Manager](https://www.crowdcontent.com/senior-project-manager/)
+* [Editorial Content Manager](https://www.crowdcontent.com/editorial-content-manager/)
 
 #### [Cuboh](https://www.cuboh.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Digital Sales Representative](https://cubohcareers.humi.ca/job-board/sales/5846)
