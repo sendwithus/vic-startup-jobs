@@ -6,7 +6,7 @@ A well-maintained list of available startup jobs in Victoria BC. This list is cu
 
 [Tweet about us!][tweet-link]
 
-[![Build Status](https://travis-ci.org/sendwithus/vic-startup-jobs.svg?branch=master)](https://travis-ci.org/sendwithus/vic-startup-jobs)
+[![Build Status](https://travis-ci.org/sendwithus/vic-startup-jobs.svg?branch=main)](https://travis-ci.org/sendwithus/vic-startup-jobs)
 
 ### How to Apply?
 Click the link for more info about each job posting, including how to apply. Most companies provide application instructions on their websites.
@@ -310,8 +310,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Project Manager](https://regroove.ca/careers/project-manager-regroove/)
 
 #### [Revela Systems](https://www.revela.io/)
-* [Junior Software Engineer](https://www.revela.io/junior-software-engineer)
-* [Sales and Marketing Lead](https://www.revela.io/sales-and-marketing-lead)
+
+
 
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Admin Assistant](https://ringpartner.humi.ca/job-board/marketing/7960)
