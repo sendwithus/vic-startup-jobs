@@ -59,7 +59,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Atomic Crayon](http://www.atomiccrayon.com/)
 * [Full-Stack Web Developer](https://atomiccrayon.com/career-opportunities#job1)
 
-#### [Audette](https://audette.io/)
+#### [Audette](https://www.audette.io/)
 
 #### [Avalanche Insights](https://www.avalancheinsights.com/)
 * [Software Engineer](https://jobs.lever.co/AvalancheInsights/444f2d11-9d06-4d53-8f2f-33031d2fe018)
