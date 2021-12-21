@@ -157,6 +157,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Dynamic Solutions](https://www.dynamic-solutions.com/)
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
+* [Senior Account Executive](https://www.dyspatch.io/about/careers/post/?1fa77106-d608-4f3b-afe3-2ebfae8babe2)
 
 #### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
 * [Backend Developer](https://echosec.breezy.hr/p/8b345790c7ed-backend-developer-platform)
