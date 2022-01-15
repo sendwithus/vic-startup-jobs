@@ -160,8 +160,13 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Account Executive](https://www.dyspatch.io/about/careers/post/?1fa77106-d608-4f3b-afe3-2ebfae8babe2)
 * [Lead Developer](https://www.dyspatch.io/about/careers/post/?c1a169e3-4747-44fb-9b17-28fddce11609)
 
-#### [Echosec](https://www.echosec.net/) (👩‍💻 Co-Op / Intern Friendly)
-* [Backend Developer](https://echosec.breezy.hr/p/8b345790c7ed-backend-developer-platform)
+#### [Echosec](https://www.echosec.net/careers-at-echosec) (👩‍💻 Co-Op / Intern Friendly)
+* [Intermediate Backend Engineer (Platform)](https://echosec.bamboohr.com/jobs/view.php?id=31)
+* [Intermediate Backend Engineer (Product)](https://echosec.bamboohr.com/jobs/view.php?id=30)
+* [Product Manager](https://echosec.bamboohr.com/jobs/view.php?id=22)
+* [Senior Backend Engineer (Product)](https://echosec.bamboohr.com/jobs/view.php?id=26)
+* [Senior Front End Developer (Product)](https://echosec.bamboohr.com/jobs/view.php?id=28)
+* [Software Engineer in Test, QA (Platform)](https://echosec.bamboohr.com/jobs/view.php?id=29)
 
 #### [Eterio Realities](https://www.eterio.ca/careers/) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Full Stack Engineer](https://www.eterio.ca/careers/full-stack-dev/)
