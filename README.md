@@ -63,9 +63,8 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Audette](https://www.audette.io/)
 
-#### [Avalanche Insights](https://www.avalancheinsights.com/)
+#### [Avalanche Insights](https://www.avalancheinsights.com/careers)
 * [Senior Software Engineer](https://jobs.lever.co/AvalancheInsights/444f2d11-9d06-4d53-8f2f-33031d2fe018)
-* [Director of People Operations](https://jobs.lever.co/AvalancheInsights/96d0c689-0104-464f-b149-69c4bf29c718)
 
 #### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -94,11 +93,10 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [BGC Engineering](https://bgcengineering.ca/careers/)
 
 
-#### [Button](https://button.is/)
+#### [Button](https://button.is/careers)
 * [VP of People Operations](https://www.button.is/job-openings/vp-of-people-operations)
-* [UX Designer](https://www.button.is/job-openings/ux-designer)
-* [UI Designer](https://www.button.is/job-openings/ui-designer)
-* [Service Designer](https://www.button.is/job-openings/service-designer)
+* [UX/UI Designer](https://www.button.is/job-openings/ux-ui-designer)
+* [Service Designer](https://www.button.is/job-openings/service-designer-2)
 
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
@@ -146,7 +144,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Cuboh](https://www.cuboh.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Digital Sales Representative](https://cubohcareers.humi.ca/job-board/sales/5846)
 * [DevOps Engineer](https://secure.collage.co/jobs/cuboh/19925)
-* [Onboarding Specialist Co-op](https://cubohcareers.humi.ca/job-board/customer%20success/8360)
 * [People Ops Lead](https://cubohcareers.humi.ca/job-board/people%20operations/7977)
 * [Full Stack Developer](https://cubohcareers.humi.ca/job-board/technology/6717)
 
@@ -294,13 +291,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [OneFeather](https://www.onefeather.ca/)
 
 #### [One Net Inc](https://www.onenetinc.com/crew#Careers)
-* [Web Designer / Webflow Designer](https://www.onenetinc.com/careers/web-designer-webflow-designer)
-* [Website Project Manager](https://www.onenetinc.com/careers/website-project-manager)
 * [Senior Visual Designer](https://www.onenetinc.com/careers/visual-designer)
 * [Senior Brand Designer](https://www.onenetinc.com/careers/senior-brand-designer)
-* [Digital Producer](https://www.onenetinc.com/careers/digital-producer)
-* [Brand Designer & Illustrator](https://www.onenetinc.com/careers/brand-designer-illustrator)
-* [Digital Project Manager](https://www.onenetinc.com/careers/digital-project-manager)
 
 #### [Pixel Union](https://pixelunion.net/)
 * [Senior Financial Accountant](https://apply.workable.com/pixel-union/j/290EA266A0/)
@@ -353,8 +345,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Intermediate Software Developer](https://jobs.lever.co/semaphoresolutions/3e77b570-9e7f-489d-8693-fcc01534b390)
 * [Frontend Developer, React](https://jobs.lever.co/semaphoresolutions/35c2d0c4-09d6-4eaf-93f8-4a41c8d494db)
 
-#### [SendtoNews](https://www.sendtonews.com/)
-* [Business Intelligence Analyst](https://secure.collage.co/jobs/sendtonews/27113)
+#### [STN Video (formerly SendtoNews)](https://www.stnvideo.com/careers/)
 * [Product Manager](https://secure.collage.co/jobs/sendtonews/25367)
 
 #### [SparkLIT](https://www.sparklit.com/)
