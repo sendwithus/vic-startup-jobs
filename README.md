@@ -132,6 +132,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Coeuraj](https://www.coeuraj.com/careers)
 * [Software Engineering Lead](https://www.coeuraj.com/careers/software-engineering-lead)
 
+#### [Course Studio](https://course.studio/careers)
+* [Project Manager](https://coursestudio.applytojobs.ca/project+management/10014)
+
 #### [Covault](https://covaultapp.com/)
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
