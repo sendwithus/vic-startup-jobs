@@ -6,7 +6,7 @@ A well-maintained list of available startup jobs in Victoria BC. This list is cu
 
 [Tweet about us!][tweet-link]
 
-[![Build Status](https://travis-ci.org/sendwithus/vic-startup-jobs.svg?branch=main)](https://travis-ci.org/sendwithus/vic-startup-jobs)
+[![Build Status](https://travis-ci.com/sendwithus/vic-startup-jobs.svg?branch=main)](https://app.travis-ci.com/sendwithus/vic-startup-jobs)
 
 ### How to Apply?
 Click the link for more info about each job posting, including how to apply. Most companies provide application instructions on their websites.
@@ -27,7 +27,7 @@ Tech startups with offices in Victoria BC.
 Companies that are known for hiring/placing  co-op students and interns will have a `(👩‍💻 Co-Op / Intern Friendly)` following their name. These companies are always open to discussing opportunities for students and aspiring developers, designers, and marketers.
 
 ### How can I get involved in the Victoria tech community?
-* Connect with the Victoria tech community by joining the [YYJ Tech Slack group](https://joinyyjtechslack.herokuapp.com/)
+* Connect with the Victoria tech community by joining the [YYJ Tech Slack group](https://yyj-tech.ca/)
 * Connect with the Victoria ladies tech community by joining the [YYJ Tech Ladies Slack group](http://yyjtechladies.com/). Please note that this group is for anyone who is female.
 
 ## Current Job Openings
