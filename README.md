@@ -50,7 +50,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [AltFee](https://altfeeco.com/)
 
 #### [Animikii](https://www.animikii.com/?utm_source=careers&utm_medium=website&utm_campaign=quote_contact&utm_content=logo)
-* [UI/UX Designer](https://animikii.humi.ca/job-board/product/7157)
 * [Senior Full Stack Web Developer](https://www.animikii.com/about/careers/senior-full-stack-web-developer)
 * [Intermediate Full Stack Developer](https://www.animikii.com/about/careers/intermediate-full-stack-web-developer)
 * [Partnerships Coordinator](https://www.animikii.com/about/careers/partnerships-coordinator)
@@ -94,7 +93,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 
 #### [Button](https://button.is/careers)
-* [VP of People Operations](https://www.button.is/job-openings/vp-of-people-operations)
 * [UX/UI Designer](https://www.button.is/job-openings/ux-ui-designer)
 * [Service Designer](https://www.button.is/job-openings/service-designer-2)
 
@@ -226,7 +224,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Mobile Product Manager](https://www.hololabs.org/jobs-feed/news/mobile-product-manager)
 * [Game Economy Designer](https://www.hololabs.org/jobs-feed/news/game-economy-designer)
 
-#### [Isolation Network](https://www.isolationnetwork.com/) (👩‍💻 Co-Op / Intern Friendly)
+#### [Ingrooves Music Group (Isolation Network)](https://www.ingrooves.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Software Developer, Test Automation](https://jobs.jobvite.com/universalmusicgroup/job/oKgphfwq)
 * [Backend Developerr](https://jobs.jobvite.com/universalmusicgroup/job/oauhhfwW)
 
@@ -255,7 +253,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [LlamaZOO](https://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Unity Tech Lead](https://llamazoo.com/unity-tech-lead/)
-* [Junior Data Developer](https://llamazoo.com/junior-data-developer/)
 * [Unity Developer](https://llamazoo.com/unity-developer/)
 * [Project Manager](https://llamazoo.com/project-manager-2/)
 
@@ -346,10 +343,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Software Developer](https://jobs.lever.co/semaphoresolutions/134fb46b-0e60-4991-8e08-6f8ff9bcac39)
 * [Full Stack Python Developer, Intermediate/Senior](https://jobs.lever.co/semaphoresolutions/36672a89-434f-4b58-a437-7b1eb3800e13)
 * [Intermediate Software Developer](https://jobs.lever.co/semaphoresolutions/3e77b570-9e7f-489d-8693-fcc01534b390)
-* [Frontend Developer, React](https://jobs.lever.co/semaphoresolutions/35c2d0c4-09d6-4eaf-93f8-4a41c8d494db)
 
 #### [STN Video (formerly SendtoNews)](https://www.stnvideo.com/careers/)
-* [Product Manager](https://secure.collage.co/jobs/sendtonews/25367)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
@@ -362,9 +357,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Digital Marketing Specialist](https://starfishmedical.com/jobs/digital-marketing-specialist/)
 * [Admin Assistant - Product Development](https://starfishmedical.com/jobs/administrative-assistant-product-development/)
-* [Admin Assistant](https://starfishmedical.com/jobs/administrative-assistant-3/)
-* [Senior Software Engineer](https://starfishmedical.com/jobs/senior-software-engineer-3/)
-* [Software Engineer](https://starfishmedical.com/jobs/software-engineer-2/)
 * [Senior Recruiter](https://starfishmedical.com/jobs/senior-recruiter/)
 * [Accounts Payable Clerk](https://starfishmedical.com/jobs/accounts-payable-clerk-3/)
 
