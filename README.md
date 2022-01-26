@@ -158,6 +158,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Account Executive](https://www.dyspatch.io/about/careers/post/?1fa77106-d608-4f3b-afe3-2ebfae8babe2)
 * [Lead Developer](https://www.dyspatch.io/about/careers/post/?c1a169e3-4747-44fb-9b17-28fddce11609)
+* [Product Manager](https://www.dyspatch.io/about/careers/post/?76c1b281-d8c3-40e1-9756-acfe1d39a882)
 
 #### [Echosec](https://www.echosec.net/careers-at-echosec) (👩‍💻 Co-Op / Intern Friendly)
 * [Intermediate Backend Engineer (Platform)](https://echosec.bamboohr.com/jobs/view.php?id=31)
