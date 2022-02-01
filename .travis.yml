@@ -1,5 +1,6 @@
 language: generic
 
+dist: focal
 addons:
   apt:
     update: true
