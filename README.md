@@ -113,9 +113,11 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Software Engineering Manager - Supporters](https://careers.change.org/?gh_jid=4744950003)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
+* [Customer Success Manager](https://checkfront.bamboohr.com/jobs/view.php?id=141)
 * [Implementation Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=140)
 * [Development Team Lead](https://checkfront.bamboohr.com/jobs/view.php?id=120)
 * [Development Team Lead - Payments](https://checkfront.bamboohr.com/jobs/view.php?id=122)
+* [Senior Software Developer - Payments](https://checkfront.bamboohr.com/jobs/view.php?id=142)
 * [DevOps Developer](https://checkfront.bamboohr.com/jobs/view.php?id=136)
 * [Intermediate QA Automation Developer](https://checkfront.bamboohr.com/jobs/view.php?id=134)
 * [Intermediate Software Developer](https://checkfront.bamboohr.com/jobs/view.php?id=118)
