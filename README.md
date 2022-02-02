@@ -89,7 +89,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Tech Lead](https://benevity.com/job-postings?gh_jid=4207059004)
 * [Talent Sourcing Specialist](https://www.benevity.com/job-postings?gh_jid=4135648004)
 
-#### [BGC Engineering](https://bgcengineering.ca/careers/)
+#### [BGC Engineering](https://www.bgcengineering.ca/careers/)
 
 
 #### [Button](https://button.is/careers)
@@ -359,10 +359,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Inside Sales](https://silkstart.com/careers/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Digital Marketing Specialist](https://starfishmedical.com/jobs/digital-marketing-specialist/)
-* [Admin Assistant - Product Development](https://starfishmedical.com/jobs/administrative-assistant-product-development/)
-* [Senior Recruiter](https://starfishmedical.com/jobs/senior-recruiter/)
-* [Accounts Payable Clerk](https://starfishmedical.com/jobs/accounts-payable-clerk-3/)
 
 #### [Stocksy United](https://www.stocksy.com/)
 * [Junior Accounts Receivable Specialist](https://www.stocksy.com/service/hiring)
