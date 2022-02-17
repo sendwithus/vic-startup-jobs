@@ -331,11 +331,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Revela Systems](https://www.revela.io/)
 
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Production Accountant](https://ringpartner.humi.ca/job-board/one+planet/9216)
 * [Affiliate Manager](https://ringpartner.humi.ca/job-board/buyerlink/9447)
-* [Growth Product Manager](https://ringpartner.humi.ca/job-board/buyerlink/9167)
-* [Director of Digital Marketing](https://ringpartner.humi.ca/job-board/buyerlink/8565)
-* [Digital Marketing Manager, Paid Social](https://ringpartner.humi.ca/job-board/buyerlink/8561)
 
 #### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -384,8 +380,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Support Specialist](https://tut.bamboohr.com/jobs/view.php?id=92)
 * [iOS Developer](https://tut.bamboohr.com/jobs/view.php?id=91)
 * [Data Scientist](https://tut.bamboohr.com/jobs/view.php?id=90)
-
-#### [VitaminLab](https://getvitaminlab.com/)
 
 #### [Virtual CFO](https://www.virtualcfo.ca/)
 
