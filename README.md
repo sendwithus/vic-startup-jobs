@@ -115,14 +115,16 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Customer Success Manager](https://checkfront.bamboohr.com/jobs/view.php?id=141)
 * [Implementation Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=140)
-* [Development Team Lead](https://checkfront.bamboohr.com/jobs/view.php?id=120)
-* [Development Team Lead - Payments](https://checkfront.bamboohr.com/jobs/view.php?id=122)
-* [Senior Software Developer - Payments](https://checkfront.bamboohr.com/jobs/view.php?id=142)
+* [Development Team Lead](https://checkfront.bamboohr.com/jobs/view.php?id=147)
+* [Development Team Lead - Payments](https://checkfront.bamboohr.com/jobs/view.php?id=146)
 * [DevOps Developer](https://checkfront.bamboohr.com/jobs/view.php?id=136)
-* [Intermediate QA Automation Developer](https://checkfront.bamboohr.com/jobs/view.php?id=134)
 * [Intermediate Software Developer](https://checkfront.bamboohr.com/jobs/view.php?id=118)
-* [Sr Growth Manager](https://checkfront.bamboohr.com/jobs/view.php?id=124)
+* [Junior QA Analyst](https://checkfront.bamboohr.com/jobs/view.php?id=144)
+* [Senior Software Developer - Payments](https://checkfront.bamboohr.com/jobs/view.php?id=142)
 * [Director, Payments Operations](https://checkfront.bamboohr.com/jobs/view.php?id=138)
+* [Data Analyst](https://checkfront.bamboohr.com/jobs/view.php?id=143)
+* [Product Design Manager](https://checkfront.bamboohr.com/jobs/view.php?id=148)
+* [Sales Development Representative (SDR)](https://checkfront.bamboohr.com/jobs/view.php?id=145)
 * [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=137)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
@@ -329,11 +331,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Revela Systems](https://www.revela.io/)
 
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Production Accountant](https://ringpartner.humi.ca/job-board/one+planet/9216)
 * [Affiliate Manager](https://ringpartner.humi.ca/job-board/buyerlink/9447)
-* [Growth Product Manager](https://ringpartner.humi.ca/job-board/buyerlink/9167)
-* [Director of Digital Marketing](https://ringpartner.humi.ca/job-board/buyerlink/8565)
-* [Digital Marketing Manager, Paid Social](https://ringpartner.humi.ca/job-board/buyerlink/8561)
 
 #### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -382,8 +380,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Support Specialist](https://tut.bamboohr.com/jobs/view.php?id=92)
 * [iOS Developer](https://tut.bamboohr.com/jobs/view.php?id=91)
 * [Data Scientist](https://tut.bamboohr.com/jobs/view.php?id=90)
-
-#### [VitaminLab](https://getvitaminlab.com/)
 
 #### [Virtual CFO](https://www.virtualcfo.ca/)
 
