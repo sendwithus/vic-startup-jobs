@@ -91,8 +91,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Software Developer, C# & .Net](https://benevity.com/job-postings?gh_jid=4144705004)
 * [Security Operations Intern](https://benevity.com/job-postings?gh_jid=4390804004)
 
-#### [BGC Engineering](https://www.bgcengineering.ca/careers/)
-
 
 #### [Button](https://button.is/careers)
 * [Full Stack Developer (Senior)](https://button.is/job-openings/full-stack-developer-senior)
