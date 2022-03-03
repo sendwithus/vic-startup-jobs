@@ -96,7 +96,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full Stack Developer (Senior)](https://button.is/job-openings/full-stack-developer-senior)
 * [Full Stack Developer (Intermediate)](https://button.is/job-openings/full-stack-developer-intermediate)
 
-
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
 * [Application Support Specialist](https://certn.pinpointhq.com/jobs/42869)
 * [Sales Admin](https://certn.pinpointhq.com/jobs/42646)
@@ -153,7 +152,10 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Community Manager](https://www.crowdcontent.com/community-manager/)
 
 #### [Cuboh](https://www.cuboh.com/careers) (👩‍💻 Co-Op / Intern Friendly)
+<<<<<<< HEAD
 * [Partner Account Manager](https://cubohcareers.applytojobs.ca/partnerships/9416)
+=======
+>>>>>>> 3a3a227 (Remove expired job postings)
 
 #### [Disco Studio](https://www.discoinnovation.com/)
 * [Senior User Experience Designer](https://www.discoinnovation.com/senior-experience-designer/)
@@ -295,8 +297,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [OneFeather](https://www.onefeather.ca/)
 
 #### [One Net Inc](https://www.onenetinc.com/crew#Careers)
-* [Senior Visual Designer](https://www.onenetinc.com/careers/visual-designer)
-* [Senior Brand Designer](https://www.onenetinc.com/careers/senior-brand-designer)
 
 #### [Pixel Union](https://pixelunion.net/)
 * [Senior Financial Accountant](https://apply.workable.com/pixel-union/j/290EA266A0/)
@@ -329,7 +329,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Revela Systems](https://www.revela.io/)
 
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Affiliate Manager](https://ringpartner.humi.ca/job-board/buyerlink/9447)
 
 #### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 
