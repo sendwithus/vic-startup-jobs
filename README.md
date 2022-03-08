@@ -152,10 +152,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Community Manager](https://www.crowdcontent.com/community-manager/)
 
 #### [Cuboh](https://www.cuboh.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-<<<<<<< HEAD
 * [Partner Account Manager](https://cubohcareers.applytojobs.ca/partnerships/9416)
-=======
->>>>>>> 3a3a227 (Remove expired job postings)
 
 #### [Disco Studio](https://www.discoinnovation.com/)
 * [Senior User Experience Designer](https://www.discoinnovation.com/senior-experience-designer/)
