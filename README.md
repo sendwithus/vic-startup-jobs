@@ -36,24 +36,21 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
 * [Senior UI/UX Designer](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_Senior_UI_UX_Designer_JP_May21.pdf)
-* [OpenVMS Admin](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_OpenVMSAdministrator_JP.pdf)
-* [Communications Administrative Associate](https://dxcas.com/images/DXCAS/Careers/pdf/N18_CommsAdministrativeAssociate_JP.pdf)
+* [Director, Architecture and Solutions Engineering](https://dxcas.com/images/DXCAS/Careers/pdf/Exempt_DirectorArchitectureSolutionEngineering_JP.pdf)
 * [Intermediate Developer](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_IntermediateDeveloper_JP.pdf)
 
 #### [AlayaCare](https://www.alayacare.com/)
-* [Client Experience Associate](https://boards.greenhouse.io/alayacare/jobs/5737604002)
-* [Client Experience Manager, Adoption (Transitions)](https://boards.greenhouse.io/alayacare/jobs/5769268002)
-* [Director of Client Experience, Support](https://boards.greenhouse.io/alayacare/jobs/5742189002)
-* [Developer Co-op](https://boards.greenhouse.io/alayacare/jobs/5730116002)
-* [Content Designer (UX Writer)](https://boards.greenhouse.io/alayacare/jobs/5740661002)
-
-#### [AltFee](https://altfeeco.com/)
+* [Senior Data Developer](https://boards.greenhouse.io/alayacare/jobs/5994716002)
+* [Customer Support Associate](https://boards.greenhouse.io/alayacare/jobs/5944846002)
+* [Senior Technical Recruiter (Engineering & Product)](https://boards.greenhouse.io/alayacare/jobs/5906521002)
 
 #### [Animikii](https://www.animikii.com/?utm_source=careers&utm_medium=website&utm_campaign=quote_contact&utm_content=logo)
 * [Senior Full Stack Web Developer](https://www.animikii.com/about/careers/senior-full-stack-web-developer)
 * [Intermediate Full Stack Developer](https://www.animikii.com/about/careers/intermediate-full-stack-web-developer)
-* [Partnerships Coordinator](https://www.animikii.com/about/careers/partnerships-coordinator)
+* [UI/UX Designer](https://animikii.applytojobs.ca/product/9689)
 * [Product Manager](https://www.animikii.com/about/careers/product-manager)
+* [Web Designer & Developer](https://animikii.applytojobs.ca/software/11491)
+* [Student Internship Web Designer & Developer](https://animikii.applytojobs.ca/student+internship/10422)
 
 #### [Appreciation Engine](https://get.theappreciationengine.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -63,31 +60,36 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Audette](https://www.audette.io/)
 
 #### [Avalanche Insights](https://www.avalancheinsights.com/careers)
-* [Senior Software Engineer](https://jobs.lever.co/AvalancheInsights/444f2d11-9d06-4d53-8f2f-33031d2fe018)
+* [Junior Data Analyst](https://jobs.lever.co/AvalancheInsights/483727c4-1423-4d35-a4d9-edb32042c3bb)
+* [Paid Summer Internship](https://jobs.lever.co/AvalancheInsights/ff570848-8a20-41e7-8de3-dd7b2669b4f4)
+* [Analyst](https://jobs.lever.co/AvalancheInsights/2c6d001d-f52d-4c96-8694-82b49597ba51)
+* [Sales and Partnerships Manager](https://jobs.lever.co/AvalancheInsights/16969258-8dd9-4f06-b45f-1e2b13d3762f)
 
-#### [Bambora North America](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
+#### [Bambora North America/Worldline](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
+* [Site Reliability Engineer](https://careers.worldline.com/job/boston/site-reliability-engineer/35538/23353697200)
+* [Business Development Manager](https://careers.worldline.com/job/victoria/business-development-manager/35538/23353703872)
+* [Customer Care Manager](https://careers.worldline.com/job/victoria/customer-care-manager/35538/23353740400)
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 
-#### [BCDevExchange](https://www2.gov.bc.ca/gov/content/careers-myhr/job-seekers/current-job-postings)
+#### [BCDevExchange](https://bcdevexchange.org/)
 
 #### [Benevity](https://www.benevity.com/)
+* [Data Engineer Intern](https://benevity.com/job-postings?gh_jid=4380406004)
 * [Data Infrastructure Architect](https://benevity.com/job-postings?gh_jid=4177948004)
 * [Data Solutions Analyst](https://benevity.com/job-postings?gh_jid=4177949004)
-* [Digital Analyst](https://benevity.com/job-postings?gh_jid=4177950004)
-* [Insights Analyst](https://benevity.com/job-postings?gh_jid=4177953004)
+* [Renewals & Growth Manager](https://benevity.com/job-postings?gh_jid=4282324004)
+* [Grants Support Specialist](https://benevity.com/job-postings?gh_jid=4238147004)
+* [Principal Client Success Manager, Enterprise](https://benevity.com/job-postings?gh_jid=4182609004)
+* [Manager, Professional Services](https://benevity.com/job-postings?gh_jid=4229279004)
 * [Senior Implementation Consultant](https://benevity.com/job-postings?gh_jid=4182843004)
-* [Salesforce Administrator](https://benevity.com/job-postings?gh_jid=4163532004)
-* [Salesforce Business Analyst](https://benevity.com/job-postings?gh_jid=4181566004)
-* [Marketing Campaigns Manager, Social Impact](https://benevity.com/job-postings?gh_jid=4177965004)
-* [Lead Front-end Developer, Design Systems](https://benevity.com/job-postings?gh_jid=4179675004)
+* [Finance Intern](https://benevity.com/job-postings?gh_jid=4404058004)
+* [Director, Client Marketing](https://benevity.com/job-postings?gh_jid=4177974004)
+* [Talent Acquisition Specialist](https://benevity.com/job-postings?gh_jid=4348720004)
 * [Senior Product Designer](https://benevity.com/job-postings?gh_jid=4182509004)
-* [RFP Writer](https://benevity.com/job-postings?gh_jid=4177966004)
-* [Technical Solutions Consultant](https://benevity.com/job-postings?gh_jid=4183322004)
-* [API Developer](https://benevity.com/job-postings?gh_jid=4147703004)
-* [Senior Full Stack Developer](https://benevity.com/job-postings?gh_jid=4177967004)
-* [Tech Lead](https://benevity.com/job-postings?gh_jid=4207059004)
-* [Talent Sourcing Specialist](https://www.benevity.com/job-postings?gh_jid=4135648004)
+* [Technical Solutions Consultant](https://benevity.com/job-postings?gh_jid=4283881004)
+* [Senior Software Developer, C# & .Net](https://benevity.com/job-postings?gh_jid=4144705004)
+* [Security Operations Intern](https://benevity.com/job-postings?gh_jid=4390804004)
 
 #### [BGC Engineering](https://www.bgcengineering.ca/careers/)
 
@@ -136,6 +138,12 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Course Studio](https://course.studio/careers)
 * [Project Manager](https://coursestudio.applytojobs.ca/project+management/10014)
+* [Design Lead](https://course.studio/careers#design-lead)
+* [Senior Designer](https://course.studio/careers#senior-designer)
+* [Director of Partnerships](https://course.studio/careers#director-of-partners)
+* [Client Partner](https://course.studio/careers#client-partners)
+* [Head of Product](https://course.studio/careers#head-of-product)
+* [Operations Coordinator](https://coursestudio.applytojobs.ca/operations/11512)
 
 #### [Covault](https://covaultapp.com/)
 
@@ -161,8 +169,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Account Executive](https://www.dyspatch.io/about/careers/post/?1fa77106-d608-4f3b-afe3-2ebfae8babe2)
-* [Lead Developer](https://www.dyspatch.io/about/careers/post/?c1a169e3-4747-44fb-9b17-28fddce11609)
-* [Product Manager](https://www.dyspatch.io/about/careers/post/?76c1b281-d8c3-40e1-9756-acfe1d39a882)
 
 #### [Echosec](https://www.echosec.net/careers-at-echosec) (👩‍💻 Co-Op / Intern Friendly)
 * [Intermediate Backend Engineer (Platform)](https://echosec.bamboohr.com/jobs/view.php?id=31)
