@@ -95,46 +95,48 @@ Keep in mind that companies may have job postings on their own site that are not
 
 
 #### [Button](https://button.is/careers)
-* [UX/UI Designer](https://www.button.is/job-openings/ux-ui-designer)
-* [Service Designer](https://www.button.is/job-openings/service-designer-2)
+* [Full Stack Developer (Senior)](https://button.is/job-openings/full-stack-developer-senior)
+* [Full Stack Developer (Intermediate)](https://button.is/job-openings/full-stack-developer-intermediate)
 
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [VP of Growth & Marketing](https://certn.co/job/vp-of-growth-and-marketing/)
-* [Director of Quality](https://certn.co/job/director-of-quality/)
-* [Customer Support Specialist](https://certn.co/job/customer-support-specialist/)
-* [VP of Product](https://certn.co/job/vp-of-product/)
-* [Software Development Engineer in Test (SDET)](https://certn.co/job/software-development-engineer-in-test-sdet-remote/)
-* [Data Engineer](https://certn.co/job/data-engineer-remote/)
-* [Senior Backend Developer](https://certn.co/job/senior-backend-developer-remote/)
-* [Senior Accountant](https://certn.co/job/senior-accountant/)
-* [Bilingual Client Success Manager](https://certn.co/job/bilingual-client-success-manager/)
-* [Legal Administrator](https://certn.co/job/legal-administrator/)
+* [Application Support Specialist](https://certn.pinpointhq.com/jobs/42869)
+* [Sales Admin](https://certn.pinpointhq.com/jobs/42646)
+* [People & Culture Co-Op Student](https://certn.pinpointhq.com/jobs/42320)
+* [DevOps Engineer](https://certn.pinpointhq.com/jobs/40891)
+* [Global Payroll and Benefits Administrator](https://certn.pinpointhq.com/jobs/41045)
+* [Revenue Operations Analyst](https://certn.pinpointhq.com/jobs/41196)
+* [Growth Client Success Manager ](https://certn.pinpointhq.com/jobs/41933)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Software Engineering Manager - Supporters](https://careers.change.org/?gh_jid=4744950003)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Customer Success Manager](https://checkfront.bamboohr.com/jobs/view.php?id=141)
-* [Implementation Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=140)
 * [Development Team Lead](https://checkfront.bamboohr.com/jobs/view.php?id=147)
-* [Development Team Lead - Payments](https://checkfront.bamboohr.com/jobs/view.php?id=146)
 * [DevOps Developer](https://checkfront.bamboohr.com/jobs/view.php?id=136)
 * [Intermediate Software Developer](https://checkfront.bamboohr.com/jobs/view.php?id=118)
-* [Junior QA Analyst](https://checkfront.bamboohr.com/jobs/view.php?id=144)
-* [Senior Software Developer - Payments](https://checkfront.bamboohr.com/jobs/view.php?id=142)
+* [Junior Developer Co-op](https://checkfront.bamboohr.com/jobs/view.php?id=149)
+* [Director of Marketing Operations (Brand & Communication)](https://checkfront.bamboohr.com/jobs/view.php?id=153)
+* [Director of Performance Marketing](https://checkfront.bamboohr.com/jobs/view.php?id=152)
+* [Email Marketing Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=154)
+* [Website Manager](https://checkfront.bamboohr.com/jobs/view.php?id=151)
+* [Director of Performance Marketing](https://checkfront.bamboohr.com/jobs/view.php?id=152)
 * [Director, Payments Operations](https://checkfront.bamboohr.com/jobs/view.php?id=138)
+* [People Operations Co-op](https://checkfront.bamboohr.com/jobs/view.php?id=156)
 * [Data Analyst](https://checkfront.bamboohr.com/jobs/view.php?id=143)
 * [Product Design Manager](https://checkfront.bamboohr.com/jobs/view.php?id=148)
 * [Sales Development Representative (SDR)](https://checkfront.bamboohr.com/jobs/view.php?id=145)
-* [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=137)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [2D Artist](http://www.codenameentertainment.com/?page=jobs)
 * [Quality Assurance Technical Analyst](http://www.codenameentertainment.com/?page=jobs)
 
 #### [Coeuraj](https://www.coeuraj.com/careers)
 * [Software Engineering Lead](https://www.coeuraj.com/careers/software-engineering-lead)
+* [Accounting Coordinator](https://www.coeuraj.com/careers/accounting-coordinator)
+* [Data Engineer](https://www.coeuraj.com/careers/data-engineer)
+* [Executive Assistant](https://www.coeuraj.com/careers/executive-assistant)
+* [Communications Coordinator](https://www.coeuraj.com/careers/communications-coordinator)
 
 #### [Course Studio](https://course.studio/careers)
 * [Project Manager](https://coursestudio.applytojobs.ca/project+management/10014)
@@ -153,14 +155,12 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Success Manager](https://www.crowdcontent.com/current-openings-customer-success-manager/)
 * [Account Executive](https://www.crowdcontent.com/current-openings-account-executive/)
 * [Editorial Content Manager](https://www.crowdcontent.com/editorial-content-manager/)
+* [Community Manager](https://www.crowdcontent.com/community-manager/)
 
 #### [Cuboh](https://www.cuboh.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Digital Sales Representative](https://cubohcareers.humi.ca/job-board/sales/5846)
-* [DevOps Engineer](https://secure.collage.co/jobs/cuboh/19925)
-* [People Ops Lead](https://cubohcareers.humi.ca/job-board/people%20operations/7977)
-* [Full Stack Developer](https://cubohcareers.humi.ca/job-board/technology/6717)
+* [Partner Account Manager](https://cubohcareers.applytojobs.ca/partnerships/9416)
 
-#### [Disco Studio](https://www.discostudio.ca/)
+#### [Disco Studio](https://www.discoinnovation.com/)
 * [Senior User Experience Designer](https://www.discoinnovation.com/senior-experience-designer/)
 
 #### [DropCommerce](https://www.dropcommerce.com/)
@@ -173,17 +173,13 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Echosec](https://www.echosec.net/careers-at-echosec) (👩‍💻 Co-Op / Intern Friendly)
 * [Intermediate Backend Engineer (Platform)](https://echosec.bamboohr.com/jobs/view.php?id=31)
 * [Intermediate Backend Engineer (Product)](https://echosec.bamboohr.com/jobs/view.php?id=30)
-* [Product Manager](https://echosec.bamboohr.com/jobs/view.php?id=22)
 * [Senior Backend Engineer (Product)](https://echosec.bamboohr.com/jobs/view.php?id=26)
 * [Senior Front End Developer (Product)](https://echosec.bamboohr.com/jobs/view.php?id=28)
-* [Software Engineer in Test, QA (Platform)](https://echosec.bamboohr.com/jobs/view.php?id=29)
 
 #### [Eterio Realities](https://www.eterio.ca/careers/) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Full Stack Engineer](https://www.eterio.ca/careers/full-stack-dev/)
 
 #### [Expeto](http://expeto.io/)
-* [Senior Technical Support Engineer](https://expetowireless.recruitee.com/o/senior-technical-support-engineer)
-* [Technical Solutions Engineer](https://expetowireless.recruitee.com/o/technical-solutions-engineer)
 * [Software Engineer](https://expetowireless.recruitee.com/o/software-engineer-vancouver)
 
 #### [Falcon Software](https://www.falcon-software.com/)
@@ -196,6 +192,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Flytographer](https://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Customer Experience Specialist](https://www.flytographer.com/jobs/#shoot-concierge)
+* [Director of Marketing](https://www.flytographer.com/jobs/)
 
 #### [Foundry Spatial](https://www.foundryspatial.com)
 
