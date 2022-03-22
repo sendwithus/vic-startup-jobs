@@ -91,13 +91,10 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Software Developer, C# & .Net](https://benevity.com/job-postings?gh_jid=4144705004)
 * [Security Operations Intern](https://benevity.com/job-postings?gh_jid=4390804004)
 
-#### [BGC Engineering](https://www.bgcengineering.ca/careers/)
-
 
 #### [Button](https://button.is/careers)
 * [Full Stack Developer (Senior)](https://button.is/job-openings/full-stack-developer-senior)
 * [Full Stack Developer (Intermediate)](https://button.is/job-openings/full-stack-developer-intermediate)
-
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
 * [Application Support Specialist](https://certn.pinpointhq.com/jobs/42869)
@@ -112,21 +109,19 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Software Engineering Manager - Supporters](https://careers.change.org/?gh_jid=4744950003)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Customer Success Manager](https://checkfront.bamboohr.com/jobs/view.php?id=141)
-* [Development Team Lead](https://checkfront.bamboohr.com/jobs/view.php?id=147)
+* [DevOps Co-op](https://checkfront.bamboohr.com/jobs/view.php?id=150)
 * [DevOps Developer](https://checkfront.bamboohr.com/jobs/view.php?id=136)
+* [Development Team Lead](https://checkfront.bamboohr.com/jobs/view.php?id=147)
 * [Intermediate Software Developer](https://checkfront.bamboohr.com/jobs/view.php?id=118)
 * [Junior Developer Co-op](https://checkfront.bamboohr.com/jobs/view.php?id=149)
-* [Director of Marketing Operations (Brand & Communication)](https://checkfront.bamboohr.com/jobs/view.php?id=153)
-* [Director of Performance Marketing](https://checkfront.bamboohr.com/jobs/view.php?id=152)
 * [Email Marketing Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=154)
-* [Website Manager](https://checkfront.bamboohr.com/jobs/view.php?id=151)
-* [Director of Performance Marketing](https://checkfront.bamboohr.com/jobs/view.php?id=152)
+* [Performance Marketing Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=155)
 * [Director, Payments Operations](https://checkfront.bamboohr.com/jobs/view.php?id=138)
 * [People Operations Co-op](https://checkfront.bamboohr.com/jobs/view.php?id=156)
 * [Data Analyst](https://checkfront.bamboohr.com/jobs/view.php?id=143)
 * [Product Design Manager](https://checkfront.bamboohr.com/jobs/view.php?id=148)
-* [Sales Development Representative (SDR)](https://checkfront.bamboohr.com/jobs/view.php?id=145)
+* [Product Designer](https://checkfront.bamboohr.com/jobs/view.php?id=157)
+* [Inbound Sales Development Representative (SDR)](https://checkfront.bamboohr.com/jobs/view.php?id=145)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Quality Assurance Technical Analyst](http://www.codenameentertainment.com/?page=jobs)
@@ -300,8 +295,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [OneFeather](https://www.onefeather.ca/)
 
 #### [One Net Inc](https://www.onenetinc.com/crew#Careers)
-* [Senior Visual Designer](https://www.onenetinc.com/careers/visual-designer)
-* [Senior Brand Designer](https://www.onenetinc.com/careers/senior-brand-designer)
 
 #### [Pixel Union](https://pixelunion.net/)
 * [Senior Financial Accountant](https://apply.workable.com/pixel-union/j/290EA266A0/)
@@ -334,7 +327,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Revela Systems](https://www.revela.io/)
 
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Affiliate Manager](https://ringpartner.humi.ca/job-board/buyerlink/9447)
 
 #### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 
