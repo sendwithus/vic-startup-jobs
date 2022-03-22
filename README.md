@@ -120,6 +120,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [People Operations Co-op](https://checkfront.bamboohr.com/jobs/view.php?id=156)
 * [Data Analyst](https://checkfront.bamboohr.com/jobs/view.php?id=143)
 * [Product Design Manager](https://checkfront.bamboohr.com/jobs/view.php?id=148)
+* [Product Designer](https://checkfront.bamboohr.com/jobs/view.php?id=157)
 * [Inbound Sales Development Representative (SDR)](https://checkfront.bamboohr.com/jobs/view.php?id=145)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
