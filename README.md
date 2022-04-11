@@ -36,7 +36,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
 * [Senior UI/UX Designer](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_Senior_UI_UX_Designer_JP_May21.pdf)
-* [Director, Architecture and Solutions Engineering](https://dxcas.com/images/DXCAS/Careers/pdf/Exempt_DirectorArchitectureSolutionEngineering_JP.pdf)
 * [Intermediate Developer](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_IntermediateDeveloper_JP.pdf)
 
 #### [AlayaCare](https://www.alayacare.com/)
@@ -60,13 +59,10 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Audette](https://www.audette.io/)
 
 #### [Avalanche Insights](https://www.avalancheinsights.com/careers)
-* [Junior Data Analyst](https://jobs.lever.co/AvalancheInsights/483727c4-1423-4d35-a4d9-edb32042c3bb)
 * [Paid Summer Internship](https://jobs.lever.co/AvalancheInsights/ff570848-8a20-41e7-8de3-dd7b2669b4f4)
 * [Analyst](https://jobs.lever.co/AvalancheInsights/2c6d001d-f52d-4c96-8694-82b49597ba51)
-* [Sales and Partnerships Manager](https://jobs.lever.co/AvalancheInsights/16969258-8dd9-4f06-b45f-1e2b13d3762f)
 
 #### [Bambora North America/Worldline](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
-* [Site Reliability Engineer](https://careers.worldline.com/job/boston/site-reliability-engineer/35538/23353697200)
 * [Business Development Manager](https://careers.worldline.com/job/victoria/business-development-manager/35538/23353703872)
 * [Customer Care Manager](https://careers.worldline.com/job/victoria/customer-care-manager/35538/23353740400)
 
@@ -129,7 +125,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Accounting Coordinator](https://www.coeuraj.com/careers/accounting-coordinator)
 * [Data Engineer](https://www.coeuraj.com/careers/data-engineer)
 * [Executive Assistant](https://www.coeuraj.com/careers/executive-assistant)
-* [Communications Coordinator](https://www.coeuraj.com/careers/communications-coordinator)
 
 #### [Course Studio](https://course.studio/careers)
 * [Project Manager](https://coursestudio.applytojobs.ca/project+management/10014)
@@ -149,7 +144,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Community Manager](https://www.crowdcontent.com/community-manager/)
 
 #### [Cuboh](https://www.cuboh.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Partner Account Manager](https://cubohcareers.applytojobs.ca/partnerships/9416)
 
 #### [Disco Studio](https://www.discoinnovation.com/)
 * [Senior User Experience Designer](https://www.discoinnovation.com/senior-experience-designer/)
@@ -216,7 +210,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Hololabs](https://www.hololabs.org/) (👩‍💻 Co-Op / Intern Friendly)
 * [3D Artist](https://www.hololabs.org/jobs-feed/news/3d-artist)
 * [Mobile Product Manager](https://www.hololabs.org/jobs-feed/news/mobile-product-manager)
-* [Game Economy Designer](https://www.hololabs.org/jobs-feed/news/game-economy-designer)
 
 #### [Ingrooves Music Group (Isolation Network)](https://www.ingrooves.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Backend Developerr](https://jobs.jobvite.com/universalmusicgroup/job/oauhhfwW)
@@ -326,15 +319,10 @@ Keep in mind that companies may have job postings on their own site that are not
 * [UI/UX Product Designer](https://www.saasquatch.com/careers/) 
 
 #### [Semaphore](https://semaphoresolutions.com/)
-* [Senior Software Developer](https://jobs.lever.co/semaphoresolutions/134fb46b-0e60-4991-8e08-6f8ff9bcac39)
 * [Manager of Infrastructure](https://jobs.lever.co/semaphoresolutions/8620d1b9-300a-4a51-8ddc-e49d25ec8cad)
 * [Full Stack Python Developer, Intermediate/Senior](https://jobs.lever.co/semaphoresolutions/36672a89-434f-4b58-a437-7b1eb3800e13)
-* [Intermediate Software Developer](https://jobs.lever.co/semaphoresolutions/3e77b570-9e7f-489d-8693-fcc01534b390)
 
 #### [STN Video (formerly SendtoNews)](https://www.stnvideo.com/careers/)
-* [Ad Operations Coordinator](https://secure.collage.co/jobs/sendtonews/28017)
-* [Co-op Software Developer](https://secure.collage.co/jobs/sendtonews/22788)
-* [Product Manager](https://secure.collage.co/jobs/sendtonews/29024)
 * [Project Manager](https://secure.collage.co/jobs/sendtonews/28595)
 
 #### [SparkLIT](https://www.sparklit.com/)
@@ -344,9 +332,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [SilkStart](https://silkstart.com/about/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Electornics Engineering Co-op](https://starfishmedical.com/jobs/electronics-engineering-co-op/)
 * [Project Manager](https://starfishmedical.com/jobs/project-manager-2/)
-* [Senior Accountant ](https://starfishmedical.com/jobs/senior-accountant-2/)
 
 #### [Stocksy United](https://www.stocksy.com/)
 * [Digital Marketing Manager](https://www.stocksy.com/service/hiring)
