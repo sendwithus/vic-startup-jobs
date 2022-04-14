@@ -70,22 +70,15 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [BCDevExchange](https://bcdevexchange.org/)
 
-#### [Benevity](https://www.benevity.com/)
-* [Data Engineer Intern](https://benevity.com/job-postings?gh_jid=4380406004)
-* [Data Infrastructure Architect](https://benevity.com/job-postings?gh_jid=4177948004)
-* [Data Solutions Analyst](https://benevity.com/job-postings?gh_jid=4177949004)
+#### [Benevity](https://www.benevity.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Director, Engineering](https://benevity.com/job-postings?gh_jid=4387946004)
+* [Senior Software Developer, Python](https://benevity.com/job-postings?gh_jid=4421750004)
 * [Renewals & Growth Manager](https://benevity.com/job-postings?gh_jid=4282324004)
-* [Grants Support Specialist](https://benevity.com/job-postings?gh_jid=4238147004)
 * [Principal Client Success Manager, Enterprise](https://benevity.com/job-postings?gh_jid=4182609004)
-* [Manager, Professional Services](https://benevity.com/job-postings?gh_jid=4229279004)
-* [Senior Implementation Consultant](https://benevity.com/job-postings?gh_jid=4182843004)
-* [Finance Intern](https://benevity.com/job-postings?gh_jid=4404058004)
 * [Director, Client Marketing](https://benevity.com/job-postings?gh_jid=4177974004)
 * [Talent Acquisition Specialist](https://benevity.com/job-postings?gh_jid=4348720004)
 * [Senior Product Designer](https://benevity.com/job-postings?gh_jid=4182509004)
 * [Technical Solutions Consultant](https://benevity.com/job-postings?gh_jid=4283881004)
-* [Senior Software Developer, C# & .Net](https://benevity.com/job-postings?gh_jid=4144705004)
-* [Security Operations Intern](https://benevity.com/job-postings?gh_jid=4390804004)
 
 
 #### [Button](https://button.is/careers)
