@@ -199,7 +199,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Hololabs](https://www.hololabs.org/) (👩‍💻 Co-Op / Intern Friendly)
 * [3D Artist](https://www.hololabs.org/jobs-feed/news/3d-artist)
-* [Mobile Product Manager](https://www.hololabs.org/jobs-feed/news/mobile-product-manager)
 
 #### [Ingrooves Music Group (Isolation Network)](https://www.ingrooves.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Backend Developerr](https://jobs.jobvite.com/universalmusicgroup/job/oauhhfwW)
