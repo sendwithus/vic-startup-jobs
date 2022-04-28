@@ -100,12 +100,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Implementation Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=159)
 * [Development Team Lead](https://checkfront.bamboohr.com/jobs/view.php?id=147)
-* [DevOps Developer](https://checkfront.bamboohr.com/jobs/view.php?id=136)
-* [Intermediate Software Developer](https://checkfront.bamboohr.com/jobs/view.php?id=118)
-* [Director, Payments Operations](https://checkfront.bamboohr.com/jobs/view.php?id=138)
+* [Content Marketing Strategist](https://checkfront.bamboohr.com/jobs/view.php?id=161)
 * [Sr. Talent Acquisition Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=158)
 * [Data Analyst](https://checkfront.bamboohr.com/jobs/view.php?id=143)
-* [Product Design Manager](https://checkfront.bamboohr.com/jobs/view.php?id=148)
 * [Product Designer](https://checkfront.bamboohr.com/jobs/view.php?id=157)
 * [Inbound Sales Development Representative (SDR)](https://checkfront.bamboohr.com/jobs/view.php?id=145)
 * [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=137)
@@ -202,7 +199,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Hololabs](https://www.hololabs.org/) (👩‍💻 Co-Op / Intern Friendly)
 * [3D Artist](https://www.hololabs.org/jobs-feed/news/3d-artist)
-* [Mobile Product Manager](https://www.hololabs.org/jobs-feed/news/mobile-product-manager)
 
 #### [Ingrooves Music Group (Isolation Network)](https://www.ingrooves.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Backend Developerr](https://jobs.jobvite.com/universalmusicgroup/job/oauhhfwW)
