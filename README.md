@@ -35,7 +35,6 @@ Companies that are known for hiring/placing  co-op students and interns will hav
 Keep in mind that companies may have job postings on their own site that are not listed here - you should visit them and look for opportunities.  Also, many companies are open to being contacted directly about opportunities, even if it's only to keep your resume on file.
 
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
-* [Senior UI/UX Designer](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_Senior_UI_UX_Designer_JP_May21.pdf)
 * [Intermediate Developer](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_IntermediateDeveloper_JP.pdf)
 
 #### [AlayaCare](https://www.alayacare.com/)
@@ -48,7 +47,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Intermediate Full Stack Developer](https://www.animikii.com/about/careers/intermediate-full-stack-web-developer)
 * [UI/UX Designer](https://animikii.applytojobs.ca/product/9689)
 * [Product Manager](https://www.animikii.com/about/careers/product-manager)
-* [Web Designer & Developer](https://animikii.applytojobs.ca/software/11491)
 * [Student Internship Web Designer & Developer](https://animikii.applytojobs.ca/student+internship/10422)
 
 #### [Appreciation Engine](https://get.theappreciationengine.com/) (👩‍💻 Co-Op / Intern Friendly)
@@ -59,12 +57,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Audette](https://www.audette.io/)
 
 #### [Avalanche Insights](https://www.avalancheinsights.com/careers)
-* [Paid Summer Internship](https://jobs.lever.co/AvalancheInsights/ff570848-8a20-41e7-8de3-dd7b2669b4f4)
-* [Analyst](https://jobs.lever.co/AvalancheInsights/2c6d001d-f52d-4c96-8694-82b49597ba51)
 
 #### [Bambora North America/Worldline](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
-* [Business Development Manager](https://careers.worldline.com/job/victoria/business-development-manager/35538/23353703872)
-* [Customer Care Manager](https://careers.worldline.com/job/victoria/customer-care-manager/35538/23353740400)
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -115,7 +109,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Coeuraj](https://www.coeuraj.com/careers)
 * [Software Engineering Lead](https://www.coeuraj.com/careers/software-engineering-lead)
-* [Accounting Coordinator](https://www.coeuraj.com/careers/accounting-coordinator)
 * [Data Engineer](https://www.coeuraj.com/careers/data-engineer)
 * [Executive Assistant](https://www.coeuraj.com/careers/executive-assistant)
 
@@ -126,7 +119,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Director of Partnerships](https://course.studio/careers#director-of-partners)
 * [Client Partner](https://course.studio/careers#client-partners)
 * [Head of Product](https://course.studio/careers#head-of-product)
-* [Operations Coordinator](https://coursestudio.applytojobs.ca/operations/11512)
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
 * [Senior Developer](https://www.crowdcontent.com/senior-developer/)
@@ -169,7 +161,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Flytographer](https://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Customer Experience Specialist](https://www.flytographer.com/jobs/#shoot-concierge)
-* [Director of Marketing](https://www.flytographer.com/jobs/)
 
 #### [Foundry Spatial](https://www.foundryspatial.com)
 
@@ -270,14 +261,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [NetMotion](https://www.netmotionsoftware.com)
 
 #### [OneFeather](https://www.onefeather.ca/)
-* [Junior Designer](https://onefeather.applytojobs.ca/design/11169)
-* [UI Designer](https://onefeather.applytojobs.ca/design/10402)
-* [Marketing Coordinator](https://onefeather.applytojobs.ca/marketing/10401)
-* [Director of Marketing](https://onefeather.applytojobs.ca/marketing/10394)
 
 #### [One Net Inc](https://www.onenetinc.com/crew#Careers)
 * [Senior Brand Designer](https://www.onenetinc.com/careers/senior-brand-designer-remote)
-* [Agency Copywriter](https://www.onenetinc.com/careers/agency-copywriter)
 * [Digital Producer](https://www.onenetinc.com/careers/digital-producer)
 
 #### [Pixel Union](https://pixelunion.net/)
