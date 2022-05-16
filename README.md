@@ -105,13 +105,10 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Implementation Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=159)
-* [Development Team Lead](https://checkfront.bamboohr.com/jobs/view.php?id=147)
-* [Content Marketing Strategist](https://checkfront.bamboohr.com/jobs/view.php?id=161)
+* [Senior Software Developer](https://checkfront.bamboohr.com/jobs/view.php?id=162)
+* [Technical Product Manager](https://checkfront.bamboohr.com/jobs/view.php?id=163)
 * [Sr. Talent Acquisition Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=158)
 * [Data Analyst](https://checkfront.bamboohr.com/jobs/view.php?id=143)
-* [Product Designer](https://checkfront.bamboohr.com/jobs/view.php?id=157)
-* [Inbound Sales Development Representative (SDR)](https://checkfront.bamboohr.com/jobs/view.php?id=145)
-* [Technical Support Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=137)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Quality Assurance Technical Analyst](http://www.codenameentertainment.com/?page=jobs)
