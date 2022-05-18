@@ -36,18 +36,17 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
 * [Intermediate Developer](https://dxcas.com/images/DXCAS/Careers/pdf/IS27_IntermediateDeveloper_JP.pdf)
+* [Senior Project Manager](https://dxcas.com/images/DXCAS/Careers/pdf/IS30_SeniorProjectManager_JP.pdf)
+* [Business Systems Analyst](https://dxcas.com/images/DXCAS/Careers/pdf/IS24_Business_Systems_Analyst_JP.pdf)
 
 #### [AlayaCare](https://www.alayacare.com/)
-* [Senior Data Developer](https://boards.greenhouse.io/alayacare/jobs/5994716002)
 * [Customer Support Associate](https://boards.greenhouse.io/alayacare/jobs/5944846002)
-* [Senior Technical Recruiter (Engineering & Product)](https://boards.greenhouse.io/alayacare/jobs/5906521002)
+* [Senior Talent Acquisition Specialist](https://boards.greenhouse.io/alayacare/jobs/5358712002)
+* [Client Services Associate](https://boards.greenhouse.io/alayacare/jobs/6020473002)
 
 #### [Animikii](https://www.animikii.com/?utm_source=careers&utm_medium=website&utm_campaign=quote_contact&utm_content=logo)
 * [Senior Full Stack Web Developer](https://www.animikii.com/about/careers/senior-full-stack-web-developer)
 * [Intermediate Full Stack Developer](https://www.animikii.com/about/careers/intermediate-full-stack-web-developer)
-* [UI/UX Designer](https://animikii.applytojobs.ca/product/9689)
-* [Product Manager](https://www.animikii.com/about/careers/product-manager)
-* [Student Internship Web Designer & Developer](https://animikii.applytojobs.ca/student+internship/10422)
 
 #### [Appreciation Engine](https://get.theappreciationengine.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -55,6 +54,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Full-Stack Web Developer](https://atomiccrayon.com/career-opportunities#job1)
 
 #### [Audette](https://www.audette.io/)
+* [Senior Software Engineer](https://audette.applytojobs.ca/technology/11530)
 
 #### [Avalanche Insights](https://www.avalancheinsights.com/careers)
 
@@ -64,38 +64,36 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [BCDevExchange](https://bcdevexchange.org/)
 
-#### [Benevity](https://www.benevity.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Data Architect](https://grnh.se/b07576194us)
-* [Data Platform Solutions Architect](https://grnh.se/2d3fe7704us)
-* [Director, Customer Marketing](https://grnh.se/2c3c652c4us)
-* [Director, Engineering](https://grnh.se/45aa2fe94us)
-* [Renewals & Growth Manager](https://grnh.se/b84c1cd44us)
-* [Senior Content Strategist](https://grnh.se/3097103f4us)
-* [Senior Search Engine Developer](https://grnh.se/59b130304us)
-* [Senior Software Developer, API](https://grnh.se/77d57ffe4us)
-* [Senior Software Developer, Python](https://grnh.se/4c211c9f4us)
-* [Senior Software Developer, In Test](https://grnh.se/a5f7f1d04us)
-* [Software Developer, In Test](https://grnh.se/4d74341a4us)
-* [Software Development Manager](https://grnh.se/1c61c0d14us)
-* [Tech Lead](https://grnh.se/b24f75144us)
-* [Tech Lead, Identity and Access Management](https://grnh.se/28440f664us)
+#### [Benevity](https://www.benevity.com/) (👩‍💻 Co-Op / Intern Friendly) 
 * [Technical Solutions Consultant - Enterprise](https://grnh.se/6b84dc574us)
+* [Director, Engineering](https://grnh.se/45aa2fe94us)
+* [Senior Software Developer, Full - Stack](https://benevity.com/job-postings?gh_jid=4490401004)
+* [Manager, Nonprofit Partnerships](https://benevity.com/job-postings?gh_jid=4517763004)
+* [Manager, Revenue Systems](https://benevity.com/job-postings?gh_jid=4519881004)
+* [Mobility Program Manager](https://benevity.com/job-postings?gh_jid=4410586004)
+* [Senior Content Strategist](https://grnh.se/3097103f4us)
 
 #### [Button](https://button.is/careers)
 * [Full Stack Developer (Senior)](https://button.is/job-openings/full-stack-developer-senior)
 * [Full Stack Developer (Intermediate)](https://button.is/job-openings/full-stack-developer-intermediate)
+* [UX/UI Designer](https://button.is/job-openings/ux-ui-designer)
+* [Software Architect](https://button.is/job-openings/software-architect)
+* [Service Designer](https://button.is/job-openings/service-designer-2)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [Application Support Specialist](https://certn.pinpointhq.com/jobs/42869)
-* [Sales Admin](https://certn.pinpointhq.com/jobs/42646)
-* [People & Culture Co-Op Student](https://certn.pinpointhq.com/jobs/42320)
-* [DevOps Engineer](https://certn.pinpointhq.com/jobs/40891)
-* [Global Payroll and Benefits Administrator](https://certn.pinpointhq.com/jobs/41045)
+* [Intermediate Full Stack Developer](https://certn.pinpointhq.com/jobs/45144)
+* [Intermediate Backend Developer](https://certn.pinpointhq.com/jobs/44757)
+* [Junior Security Engineer](https://certn.pinpointhq.com/jobs/46114)
+* [Product Manager, Platform Compliance](https://certn.pinpointhq.com/jobs/48168)
+* [Quality Engineer Lead](https://certn.pinpointhq.com/jobs/45726)
 * [Revenue Operations Analyst](https://certn.pinpointhq.com/jobs/41196)
-* [Growth Client Success Manager ](https://certn.pinpointhq.com/jobs/41933)
+* [Senior Go-To-Market Manager](https://certn.pinpointhq.com/jobs/45517)
+* [Technical Writer](https://certn.pinpointhq.com/jobs/45706)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Software Engineering Manager - Supporters](https://careers.change.org/?gh_jid=4744950003)
+* [Head of Talent/Recruiting](https://careers.change.org/?gh_jid=5124759003)
+* [Head of Analytics](https://careers.change.org/?gh_jid=4952456003)
+* [Trust & Safety Manager](https://careers.change.org/?gh_jid=5105173003)
 
 #### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Implementation Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=159)
@@ -119,70 +117,52 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Director of Partnerships](https://course.studio/careers#director-of-partners)
 * [Client Partner](https://course.studio/careers#client-partners)
 * [Head of Product](https://course.studio/careers#head-of-product)
+* [Engineering Lead](https://course.studio/careers#engineering-lead)
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
 * [Senior Developer](https://www.crowdcontent.com/senior-developer/)
 * [Co-op Developer](https://www.crowdcontent.com/coop-developer/)
-* [Customer Success Manager](https://www.crowdcontent.com/current-openings-customer-success-manager/)
 * [Account Executive](https://www.crowdcontent.com/current-openings-account-executive/)
-* [Editorial Content Manager](https://www.crowdcontent.com/editorial-content-manager/)
 * [Community Manager](https://www.crowdcontent.com/community-manager/)
 
 #### [Cuboh](https://www.cuboh.com/careers) (👩‍💻 Co-Op / Intern Friendly)
+* [Sales Operations Coordinator](https://cubohcareers.applytojobs.ca/sales/12431)
+* [Customer Support Specialist](https://cubohcareers.applytojobs.ca/customer+support/12462)
 
 #### [Disco Studio](https://www.discoinnovation.com/)
-* [Senior User Experience Designer](https://www.discoinnovation.com/senior-experience-designer/)
 
 #### [DropCommerce](https://www.dropcommerce.com/)
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [Account Executive](https://www.dyspatch.io/about/careers/post/?96888d03-c4eb-49df-97fc-46c9cd234012)
 * [Sales Development Representative](https://www.dyspatch.io/about/careers/post/?735f7e00-be8b-42e0-935d-899ebde47375)
 
 #### [Echosec](https://www.echosec.net/careers-at-echosec) (👩‍💻 Co-Op / Intern Friendly)
-* [Intermediate Backend Engineer (Platform)](https://echosec.bamboohr.com/jobs/view.php?id=31)
 * [Intermediate Backend Engineer (Product)](https://echosec.bamboohr.com/jobs/view.php?id=30)
 * [Senior Backend Engineer (Product)](https://echosec.bamboohr.com/jobs/view.php?id=26)
-* [Senior Front End Developer (Product)](https://echosec.bamboohr.com/jobs/view.php?id=28)
+* [Customer Success Representative](https://echosec.bamboohr.com/jobs/view.php?id=40&source=echosec)
+* [Business Development Strategist](https://echosec.bamboohr.com/jobs/view.php?id=38&source=echosec)
 
 #### [Eterio Realities](https://www.eterio.ca/careers/) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Full Stack Engineer](https://www.eterio.ca/careers/full-stack-dev/)
+* [Full Stack Developer](https://www.eterio.ca/careers/full-stack-dev/)
+* [Sales and Support Specialist](https://www.eterio.ca/careers/sales-support/)
 
 #### [Expeto](http://expeto.io/)
 * [Software Engineer](https://expetowireless.recruitee.com/o/software-engineer-vancouver)
-
-#### [Falcon Software](https://www.falcon-software.com/)
-* [Web Project Manager](https://www.falcon-software.com/About-Us/Job-Postings/Web-Project-Manager)
-* [Front-end Developer UI/UX Web Designer](https://www.falcon-software.com/career-opportunities/front-end-developer)
-
-#### [Flow](https://www.getflow.com/)
 
 #### [Fluorescent Design Inc.](https://fluorescent.co/)
 
 #### [Flytographer](https://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Customer Experience Specialist](https://www.flytographer.com/jobs/#shoot-concierge)
 
-#### [Foundry Spatial](https://www.foundryspatial.com)
-
 #### [FreshWorks Studio](https://freshworks.io/)
-* [Full Stack Developer](https://hire.withgoogle.com/public/jobs/freshworksio/view/P_AAAAAAEAAADN8jmnPJ9_Rl)
-* [Software Developer](https://boards.greenhouse.io/freshworksstudioinc/jobs/4457306003)
+* [Intermediate Full Stack Developer](https://boards.greenhouse.io/freshworksstudioinc/jobs/5092444003)
+* [Senior Full Stack Developer](https://boards.greenhouse.io/freshworksstudioinc/jobs/5079605003)
 * [Android Developer](https://boards.greenhouse.io/freshworksstudioinc/jobs/4126046003)
-* [Node Developer](https://boards.greenhouse.io/freshworksstudioinc/jobs/4413245003)
-* [Software Developer](https://boards.greenhouse.io/freshworksstudioinc/jobs/4457306003)
+* [iOS Developer](https://boards.greenhouse.io/freshworksstudioinc/jobs/5120446003)
 * [Technical Consultant](https://boards.greenhouse.io/freshworksstudioinc/jobs/4269018003)
-* [Technical Project Manager](https://boards.greenhouse.io/freshworksstudioinc/jobs/4083364003)
-* [Technical Project Lead](https://boards.greenhouse.io/freshworksstudioinc/jobs/4531042003?t=f5b7abf03us)
 * [Product Analyst](https://boards.greenhouse.io/freshworksstudioinc/jobs/4306206003)
 * [Business Analyst](https://boards.greenhouse.io/freshworksstudioinc/jobs/4413244003)
-* [Senior Business Analyst](https://boards.greenhouse.io/freshworksstudioinc/jobs/4413247003)
 * [Scrum Master](https://boards.greenhouse.io/freshworksstudioinc/jobs/4531046003)
-* [Technical Account Manager](https://boards.greenhouse.io/freshworksstudioinc/jobs/4531031003)
-* [Scrum Master](https://boards.greenhouse.io/freshworksstudioinc/jobs/4531046003)
-* [UX Lead](https://boards.greenhouse.io/freshworksstudioinc/jobs/4413246003)
-* [UX/UI Designer](https://boards.greenhouse.io/freshworksstudioinc/jobs/4306211003)
-* [Pre-sales Specialist](https://boards.greenhouse.io/freshworksstudioinc/jobs/4206340003)
-* [Technical Recruiter](https://boards.greenhouse.io/freshworksstudioinc/jobs/4452425003)
 
 #### [Gearbox Development](https://gearboxbuilt.com/)
 
