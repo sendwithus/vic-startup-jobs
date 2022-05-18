@@ -173,82 +173,62 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Hololabs](https://www.hololabs.org/) (👩‍💻 Co-Op / Intern Friendly)
 * [3D Artist](https://www.hololabs.org/jobs-feed/news/3d-artist)
+* [Marketing & Communications Lead](https://www.hololabs.org/jobs-feed/news/communications-lead)
+* [Technical Writer](https://www.hololabs.org/jobs-feed/news/technical-writer)
+* [Backend XR Developer / Integrator](https://www.hololabs.org/jobs-feed/news/backend-xr-developer)
 
 #### [Ingrooves Music Group (Isolation Network)](https://www.ingrooves.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Backend Developerr](https://jobs.jobvite.com/universalmusicgroup/job/oauhhfwW)
 
 #### [Kano](https://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Facebook Ad Specialist - Games](https://kanoapps.bamboohr.com/jobs/view.php?id=56)
-* [Director, Growth Marketing](https://kanoapps.bamboohr.com/jobs/view.php?id=68&source=aWQ9Ng%3D%3D)
-* [Intermediate Developer - Unity](https://kanoapps.bamboohr.com/jobs/view.php?id=87)
-* [Player Success Manager](https://kanoapps.bamboohr.com/jobs/view.php?id=86)
-* [Communications Specialist](https://kanoapps.bamboohr.com/jobs/view.php?id=95)
-* [Intermediate Developer - PHP](https://kanoapps.bamboohr.com/jobs/view.php?id=89&source=aWQ9Ng%3D%3D)
+* [Senior Software Developer - Unity](https://kanoapps.bamboohr.com/jobs/view.php?id=101&source=aWQ9Ng%3D%3D)
+* [Lead Full Stack Developer - PHP](https://kanoapps.bamboohr.com/jobs/view.php?id=99&source=aWQ9Ng%3D%3D)
 * [Senior PHP Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=91)
-* [UI/UX Designer](https://kanoapps.bamboohr.com/jobs/view.php?id=96)
-* [Talent Acquisition Assistant](https://kanoapps.bamboohr.com/jobs/view.php?id=97)
 
 #### [KIXEYE Canada Ltd](https://www.kixeye.com/)
-* [Senior Project Manager](https://kixeye.bamboohr.com/jobs/view.php?id=31)
-* [Art Lead](https://kixeye.bamboohr.com/jobs/view.php?id=42)
-* [Lead Game Designer](https://kixeye.bamboohr.com/jobs/view.php?id=47)
-* [Data Analyst](https://kixeye.bamboohr.com/jobs/view.php?id=50)
-* [Lead Product Manager](https://kixeye.bamboohr.com/jobs/view.php?id=49)
+* [Senior Game Designer](https://kixeye.bamboohr.com/jobs/view.php?id=60)
 * [Backend Software Developer](https://kixeye.bamboohr.com/jobs/view.php?id=58)
 * [Software Developer](https://kixeye.bamboohr.com/jobs/view.php?id=52)
-* [DevSecOps Technical Director](https://kixeye.bamboohr.com/jobs/view.php?id=59)
-* [Community Manager](https://kixeye.bamboohr.com/jobs/view.php?id=57)
 
 #### [Latitude Geographics](http://www.latitudegeo.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Inside Sales Rep](https://vertigis.bamboohr.com/jobs/view.php?id=128)
+* [Sales Operations Coordinator](https://vertigis.bamboohr.com/jobs/view.php?id=132)
+* [Solutions Architect](https://vertigis.bamboohr.com/jobs/view.php?id=122)
 
 #### [Leap XD](https://www.leapxd.com)
 
 #### [LlamaZOO](https://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [DevOps/IT](https://apply.workable.com/llamazoo/j/A6E117119B/)
-* [Product Owner - Mixed Reality Platform](https://apply.workable.com/llamazoo/j/C1C1C413BA/)
-* [Senior Backend Developer](https://apply.workable.com/llamazoo/j/4BC46E7793/)
 
 #### [MetaLab](https://metalab.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [Head of Strategic Initiatives/Chief of Staff](https://boards.greenhouse.io/metalab/jobs/3751118) 
-* [Principal Researcher](https://boards.greenhouse.io/metalab/jobs/3697029) 
-* [Engineering Director](https://boards.greenhouse.io/metalab/jobs/3620716) 
-* [Product Lead](https://boards.greenhouse.io/metalab/jobs/3569983)  
-* [Partnerships Coordinator](https://boards.greenhouse.io/metalab/jobs/3236246) 
-* [Client Partner](https://boards.greenhouse.io/metalab/jobs/3107262) 
-* [Project Devlivery Manager](https://boards.greenhouse.io/metalab/jobs/3052000) 
-* [Talent Acquisition Specialist](https://boards.greenhouse.io/metalab/jobs/3634959)
+* [Resourcing Coordinator](https://boards.greenhouse.io/metalab/jobs/4222602) 
 * [Technology Lead](https://boards.greenhouse.io/metalab/jobs/2193697)
-* [Product Manager](https://boards.greenhouse.io/metalab/jobs/3570033)
+* [Talent Acquisition Specialist](https://boards.greenhouse.io/metalab/jobs/3634959)
+* [Design Lead](https://boards.greenhouse.io/metalab/jobs/2157983)
+* [UX Researcher](https://boards.greenhouse.io/metalab/jobs/2986482) 
+* [Client Partner](https://boards.greenhouse.io/metalab/jobs/3107262)
+* [Partnerships Coordinator](https://boards.greenhouse.io/metalab/jobs/3236246) 
+* [Product Lead](https://boards.greenhouse.io/metalab/jobs/3569983) 
+* [Engineering Director](https://boards.greenhouse.io/metalab/jobs/3620716)  
+* [Senior Full Stack Developer](https://boards.greenhouse.io/metalab/jobs/2986532)
 * [Principal Full Stack Architect](https://boards.greenhouse.io/metalab/jobs/4058682)
 * [Principal Visual Designer](https://boards.greenhouse.io/metalab/jobs/2178870)
-* [Senior Full Stack Developer](https://boards.greenhouse.io/metalab/jobs/2986532)
-* [Talent Acquisition Coordinator](https://boards.greenhouse.io/metalab/jobs/3987898)
-* [Director, Talent Acquisition](https://boards.greenhouse.io/metalab/jobs/3750288)
-* [Project Delivery Lead](https://boards.greenhouse.io/metalab/jobs/3765502)
-* [UX Researcher](https://boards.greenhouse.io/metalab/jobs/2986482) 
-* [Design Lead](https://boards.greenhouse.io/metalab/jobs/2157983)
+* [Project Devlivery Manager](https://boards.greenhouse.io/metalab/jobs/3052000) 
 
 #### [Momentum Dashboard](https://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Back-End Developer](https://momentumdash.com/careers/#back-end-developer)
 * [Front-End Developer](https://momentumdash.com/careers/#front-end-developer)
 * [Full Stack Developer](https://momentumdash.com/careers/#full-stack-developer)
-* [Product Designer](https://momentumdash.com/careers/#product-designer)
-
-#### [MonetizeMore](https://www.monetizemore.com/)
-* [Web Developer (fully remote)](https://monetizem.applytojob.com/apply/yPcQkE/Remote-Web-Developer)
 
 #### [NetMotion](https://www.netmotionsoftware.com)
+* [Account Manager, Mid-Market](https://jobs.jobvite.com/absolute/job/oxOEjfw2)
+* [Learning and Development Manager](https://jobs.jobvite.com/absolute/job/odhqjfwX)
 
 #### [OneFeather](https://www.onefeather.ca/)
 
 #### [One Net Inc](https://www.onenetinc.com/crew#Careers)
 * [Senior Brand Designer](https://www.onenetinc.com/careers/senior-brand-designer-remote)
 * [Digital Producer](https://www.onenetinc.com/careers/digital-producer)
+* [Brand and UI Designer](https://www.onenetinc.com/careers/brand-ui-designer-remote)
 
 #### [Pixel Union](https://pixelunion.net/)
-* [Project Manager](https://apply.workable.com/pixel-union/j/EC01A344AC/)
-* [QA Specialist Agency](https://apply.workable.com/pixel-union/j/243A95265D/)
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Intermediate Full Stack Developer](https://plurilock.breezy.hr/p/e07100107327-intermediate-full-stack-developer-nodejs)
@@ -258,6 +238,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Payroll & Benefits Admin](https://rdbrck.bamboohr.com/jobs/view.php?id=147)
+* [Sfotware Engineer](https://rdbrck.bamboohr.com/jobs/view.php?id=149)
 
 #### [Regroove](https://regroove.ca) (👩‍💻 Co-Op / Intern Friendly)
 * [Cloud Solutions Consultant](https://regroove.ca/careers/cloud-solutions-consultant/)
@@ -266,35 +247,38 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Revela Systems](https://www.revela.io/)
 
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Growth Product Manager](https://buyerlink.applytojob.com/apply/MjKAX8aDHE/Growth-Product-Manager) 
 
 #### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [SaaSquatch](https://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Account Executive - MarTech](https://www.saasquatch.com/careers/) 
-* [Implementation Manager](https://www.saasquatch.com/careers/) 
-* [Technical Project Manager](https://www.saasquatch.com/careers/) 
-* [Technical Specialist / Support Agent](https://www.saasquatch.com/careers/) 
-* [UI/UX Product Designer](https://www.saasquatch.com/careers/) 
+* [Director of Revnue Growth](https://www.saasquatch.com/careers/) 
+* [Full Stack Developer](https://www.saasquatch.com/careers/) 
+* [Product Marketing Manager](https://www.saasquatch.com/careers/) 
 
 #### [Semaphore](https://semaphoresolutions.com/)
 * [Manager of Infrastructure](https://jobs.lever.co/semaphoresolutions/8620d1b9-300a-4a51-8ddc-e49d25ec8cad)
-* [Full Stack Python Developer, Intermediate/Senior](https://jobs.lever.co/semaphoresolutions/36672a89-434f-4b58-a437-7b1eb3800e13)
+* [Software Developer](https://jobs.lever.co/semaphoresolutions/008f612b-1643-4fed-b800-08207e9fc13f)
 
 #### [STN Video (formerly SendtoNews)](https://www.stnvideo.com/careers/)
 * [Project Manager](https://secure.collage.co/jobs/sendtonews/28595)
+* [Manager of People Operations](https://secure.collage.co/jobs/sendtonews/30911)
+* [Director of People Operations](https://secure.collage.co/jobs/sendtonews/29682)
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
 * [Intermediate/Senior Front End Developer](https://www.sparklit.com/careers/#front-end)
 
 #### [SilkStart](https://silkstart.com/about/)
+* [Customer Success Specialist](https://www.silkstart.com/careers/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Project Manager](https://starfishmedical.com/jobs/project-manager-2/)
+* [Coordinator – Product Development Team](https://starfishmedical.com/jobs/coordinator-product-development-team/)
 
 #### [Stocksy United](https://www.stocksy.com/)
-* [Digital Marketing Manager](https://www.stocksy.com/service/hiring)
-* [Junior Developer](https://www.stocksy.com/service/hiring)
+* [Social Media Marketing Manager](https://www.stocksy.com/service/hiring)
 
 #### [Super Good Software](https://supergood.software)
 * [Senior Developer](https://supergood.software/careers/senior-developer)
@@ -309,8 +293,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [The Number](https://thenumber.ca/)
 
 #### [Tutela](https://www.tutela.com/)
-* [Intermediate ETL Software Developer](https://tut.bamboohr.com/jobs/view.php?id=102)
-* [iOS Developer](https://tut.bamboohr.com/jobs/view.php?id=91)
 * [Data Scientist](https://tut.bamboohr.com/jobs/view.php?id=90)
 
 #### [Vivid Solutions](https://www.vividsolutions.com/)
