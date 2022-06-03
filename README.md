@@ -134,7 +134,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [DropCommerce](https://www.dropcommerce.com/)
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [Sales Development Representative](https://www.dyspatch.io/about/careers/post/?735f7e00-be8b-42e0-935d-899ebde47375)
+* [Software Developer](https://www.dyspatch.io/about/careers/post/?33c9251f-04aa-4bc7-94e3-495f32a74e50)
+* [Senior Production Engineer](https://www.dyspatch.io/about/careers/post/?1e338975-d86b-4d6a-aa84-3ab7a35a1445)
 
 #### [Echosec](https://www.echosec.net/careers-at-echosec) (👩‍💻 Co-Op / Intern Friendly)
 * [Intermediate Backend Engineer (Product)](https://echosec.bamboohr.com/jobs/view.php?id=30)
