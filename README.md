@@ -239,7 +239,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Payroll & Benefits Admin](https://rdbrck.bamboohr.com/jobs/view.php?id=147)
-* [Sfotware Engineer](https://rdbrck.bamboohr.com/jobs/view.php?id=149)
+* [Software Engineer](https://rdbrck.bamboohr.com/jobs/view.php?id=149)
 
 #### [Regroove](https://regroove.ca) (👩‍💻 Co-Op / Intern Friendly)
 * [Cloud Solutions Consultant](https://regroove.ca/careers/cloud-solutions-consultant/)
@@ -248,7 +248,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Revela Systems](https://www.revela.io/)
 
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Growth Product Manager](https://buyerlink.applytojob.com/apply/MjKAX8aDHE/Growth-Product-Manager) 
 
 #### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -265,7 +264,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [STN Video (formerly SendtoNews)](https://www.stnvideo.com/careers/)
 * [Project Manager](https://secure.collage.co/jobs/sendtonews/28595)
 * [Manager of People Operations](https://secure.collage.co/jobs/sendtonews/30911)
-* [Director of People Operations](https://secure.collage.co/jobs/sendtonews/29682)
+
 
 #### [SparkLIT](https://www.sparklit.com/)
 * [Intermediate Software Engineer, Full Stack](https://www.sparklit.com/careers/#full-stack)
