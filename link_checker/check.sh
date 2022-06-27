@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# User-Agent string, update version as needed
+UA_STRING=${UA_STRING:-'sendwithus-link-checker/2022.06.07'}
+
 # Check deps
 if ((BASH_VERSINFO[0] < 4)); then
 	echo "You need bash 4 or later to run this script."
@@ -108,7 +111,7 @@ test_link () {
 	else
 		http_code="$(
 			curl \
-			--header 'user-agent: sendwithus-link-checker/2022.06.07' \
+			--header "user-agent: ${UA_STRING}" \
 			--location \
 			--silent \
 			--output /dev/null \
