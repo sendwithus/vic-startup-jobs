@@ -95,12 +95,12 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Head of Analytics](https://careers.change.org/?gh_jid=4952456003)
 * [Trust & Safety Manager](https://careers.change.org/?gh_jid=5105173003)
 
-#### [Checkfront](https://www.checkfront.com/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Implementation Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=159)
+#### [Checkfront](https://www.checkfront.com/company/careers) (👩‍💻 Co-Op / Intern Friendly)
+* [Intermediate Software Developer](https://checkfront.bamboohr.com/jobs/view.php?id=170)
 * [Senior Software Developer](https://checkfront.bamboohr.com/jobs/view.php?id=162)
-* [Technical Product Manager](https://checkfront.bamboohr.com/jobs/view.php?id=163)
-* [Sr. Talent Acquisition Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=158)
-* [Data Analyst](https://checkfront.bamboohr.com/jobs/view.php?id=143)
+* [Content Marketer (Temp, Full-time)](https://checkfront.bamboohr.com/jobs/view.php?id=167)
+* [Cyber Security Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=169)
+* [Senior Product Manager - Payments](https://checkfront.bamboohr.com/jobs/view.php?id=166)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Quality Assurance Technical Analyst](http://www.codenameentertainment.com/?page=jobs)
