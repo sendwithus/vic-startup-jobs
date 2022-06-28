@@ -108,7 +108,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Coeuraj](https://www.coeuraj.com/careers)
 * [Software Engineering Lead](https://www.coeuraj.com/careers/software-engineering-lead)
 * [Data Engineer](https://www.coeuraj.com/careers/data-engineer)
-* [Executive Assistant](https://www.coeuraj.com/careers/executive-assistant)
 
 #### [Course Studio](https://course.studio/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Project Manager](https://coursestudio.applytojobs.ca/project+management/10014)
@@ -126,9 +125,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Cuboh](https://www.cuboh.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Sales Operations Coordinator](https://cubohcareers.applytojobs.ca/sales/12431)
-* [Customer Support Specialist](https://cubohcareers.applytojobs.ca/customer+support/12462)
-
-#### [Disco Studio](https://www.discoinnovation.com/)
 
 #### [DropCommerce](https://www.dropcommerce.com/)
 
@@ -258,7 +254,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Product Marketing Manager](https://www.saasquatch.com/careers/) 
 
 #### [Semaphore](https://semaphoresolutions.com/)
-* [Manager of Infrastructure](https://jobs.lever.co/semaphoresolutions/8620d1b9-300a-4a51-8ddc-e49d25ec8cad)
 * [Software Developer](https://jobs.lever.co/semaphoresolutions/008f612b-1643-4fed-b800-08207e9fc13f)
 
 #### [STN Video (formerly SendtoNews)](https://www.stnvideo.com/careers/)
@@ -274,8 +269,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Success Specialist](https://www.silkstart.com/careers/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Project Manager](https://starfishmedical.com/jobs/project-manager-2/)
-* [Coordinator – Product Development Team](https://starfishmedical.com/jobs/coordinator-product-development-team/)
 
 #### [Stocksy United](https://www.stocksy.com/)
 * [Social Media Marketing Manager](https://www.stocksy.com/service/hiring)
