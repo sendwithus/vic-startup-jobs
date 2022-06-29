@@ -1,6 +1,6 @@
 # Victoria Startup Jobs
 
-A well-maintained list of available startup jobs in Victoria BC. This list is currently managed by the [sendwithus](http://sendwithus.com/about) team, and all contributions are welcome (and free!).
+A well-maintained list of available startup jobs in Victoria BC. This list is currently managed by the [sendwithus](https://www.dyspatch.io/sendwithus/) team, and all contributions are welcome (and free!).
 
 [Have ideas to make this better?](mailto:us@sendwithus.com)
 
