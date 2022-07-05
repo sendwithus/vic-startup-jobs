@@ -241,7 +241,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Project Manager](https://regroove.ca/careers/project-manager-regroove/)
 
 #### [Revela Systems](https://www.revela.io/)
-* [Software Developer](https://revela.io/software-developer)
 
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 
