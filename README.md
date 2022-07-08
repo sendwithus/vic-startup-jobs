@@ -97,10 +97,12 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Checkfront](https://www.checkfront.com/company/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Intermediate Software Developer](https://checkfront.bamboohr.com/jobs/view.php?id=170)
+* [Intermediate Software Developer - Payments](https://checkfront.bamboohr.com/jobs/view.php?id=172)
 * [Senior Software Developer](https://checkfront.bamboohr.com/jobs/view.php?id=162)
-* [Content Marketer (Temp, Full-time)](https://checkfront.bamboohr.com/jobs/view.php?id=167)
+* [Senior Software Developer - Payments](https://checkfront.bamboohr.com/jobs/view.php?id=171)
 * [Cyber Security Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=169)
 * [Senior Product Manager - Payments](https://checkfront.bamboohr.com/jobs/view.php?id=166)
+* [Sales Manager](https://checkfront.bamboohr.com/jobs/view.php?id=173)
 
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Quality Assurance Technical Analyst](http://www.codenameentertainment.com/?page=jobs)
