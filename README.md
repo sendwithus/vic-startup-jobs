@@ -84,7 +84,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Intermediate Full Stack Developer](https://certn.pinpointhq.com/jobs/45144)
 * [Intermediate Backend Developer](https://certn.pinpointhq.com/jobs/44757)
 * [Junior Security Engineer](https://certn.pinpointhq.com/jobs/46114)
-* [Product Manager, Platform Compliance](https://certn.pinpointhq.com/jobs/48168)
 * [Quality Engineer Lead](https://certn.pinpointhq.com/jobs/45726)
 * [Revenue Operations Analyst](https://certn.pinpointhq.com/jobs/41196)
 * [Senior Go-To-Market Manager](https://certn.pinpointhq.com/jobs/45517)
