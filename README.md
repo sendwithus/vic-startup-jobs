@@ -143,6 +143,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Android Developer](https://boards.greenhouse.io/freshworksstudioinc/jobs/4126046003)
 * [iOS Developer](https://boards.greenhouse.io/freshworksstudioinc/jobs/5120446003)
 
+#### [Foundry Spatial](https://foundryspatial.com/)
+* [Full Stack Web Developer] (https://foundryspatial.com/job-posting/full-stack-web-developer)
+
 #### [Gearbox Development](https://gearboxbuilt.com/)
 
 #### [Giftbit](https://giftbit.bamboohr.com/jobs/) (👩‍💻 Co-Op / Intern Friendly)
