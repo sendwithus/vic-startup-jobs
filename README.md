@@ -144,7 +144,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [iOS Developer](https://boards.greenhouse.io/freshworksstudioinc/jobs/5120446003)
 
 #### [Foundry Spatial](https://foundryspatial.com/)
-* [Full Stack Web Developer] (https://foundryspatial.com/job-posting/full-stack-web-developer)
+* [Full Stack Web Developer](https://foundryspatial.com/job-posting/full-stack-web-developer)
 
 #### [Gearbox Development](https://gearboxbuilt.com/)
 
