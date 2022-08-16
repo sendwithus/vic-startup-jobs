@@ -196,7 +196,11 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Momentum Dashboard](https://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Back-End Developer](https://momentumdash.com/careers/#back-end-developer)
 * [Front-End Developer](https://momentumdash.com/careers/#front-end-developer)
-* [Product Designer](https://momentumdash.com/careers#product-designer)
+* [Product Designer](https://momentumdash.com/careers/#product-designer)
+* [Senior Product Manager](https://momentumdash.com/careers/#senior-product-manager)
+
+#### [MonetizeMore](https://www.monetizemore.com/)
+* [Web Developer (fully remote)](https://monetizem.applytojob.com/apply/yPcQkE/Remote-Web-Developer)
 
 #### [NetMotion](https://www.netmotionsoftware.com)
 * [Build/Release Engineer](https://jobs.jobvite.com/absolute/job/oQpZjfwh)
