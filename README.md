@@ -118,7 +118,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Customer Success Co-op](https://cubohcareers.applytojobs.ca/customer+success/14179)
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Production Engineer](https://www.dyspatch.io/about/careers/post/?1e338975-d86b-4d6a-aa84-3ab7a35a1445)
 
 #### [Echosec](https://www.echosec.net/careers-at-echosec) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Backend Engineer (Product)](https://echosec.bamboohr.com/jobs/view.php?id=26)
