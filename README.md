@@ -160,6 +160,11 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Ingrooves Music Group (Isolation Network)](https://www.ingrooves.com/) (👩‍💻 Co-Op / Intern Friendly)
 
+#### [Instant Domains](https://instantdomains.com/)
+* [Operations Project Manager](https://www.ycombinator.com/companies/instant-domains/jobs/IWfg903-operations-project-manager)
+* [React/TypeScript Engineer](https://www.ycombinator.com/companies/instant-domains/jobs/BOL8BuC-experienced-react-typescript-engineer)
+
+
 #### [Kano](https://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Software Developer - Unity](https://kanoapps.bamboohr.com/jobs/view.php?id=101&source=aWQ9Ng%3D%3D)
 * [Lead Full Stack Developer - PHP](https://kanoapps.bamboohr.com/jobs/view.php?id=99&source=aWQ9Ng%3D%3D)
