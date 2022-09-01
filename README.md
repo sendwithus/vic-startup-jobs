@@ -53,11 +53,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Data Scientist](https://jobs.lever.co/AvalancheInsights/be29fc2f-3cd2-4a84-b4f6-cdeac6643d84)
 
 #### [Bambora North America/Worldline](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
-* [Boarding Specialist](https://careers.worldline.com/en/job/victoria/boarding-specialist/35538/33328803360)
-* [Customer Care Specialist](https://careers.worldline.com/en/job/victoria/customer-care-specialist/35538/33328803280)
 * [Product Owner](https://careers.worldline.com/en/job/montreal/product-owner/35538/33096294368)
 * [Project Manager](https://careers.worldline.com/en/job/montreal/project-manager/35538/32817145616)
-* [Business Analyst](https://careers.worldline.com/en/job/victoria/business-analyst/35538/32509031328)
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -91,10 +88,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Coeuraj](https://www.coeuraj.com/careers)
 * [Software Engineering Lead](https://www.coeuraj.com/careers/software-engineering-lead)
-* [Data Engineer](https://www.coeuraj.com/careers/data-engineer)
-* [Accounting Manager](https://www.coeuraj.com/careers/accounting-manager)
 * [Executive Director of Sales](https://www.coeuraj.com/careers/executive-director-ed-of-sales)
-* [Project Director](https://www.coeuraj.com/careers/project-director)
 * [Transformation Lead, Collaborative Design](https://www.coeuraj.com/careers/transformation-lead-collaborative-design)
 
 #### [Course Studio](https://course.studio/careers) (👩‍💻 Co-Op / Intern Friendly)
@@ -110,7 +104,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Cuboh](https://www.cuboh.com/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Onboarding Specialist](https://cubohcareers.applytojobs.ca/customer+success/14163)
-* [Customer Success Co-op](https://cubohcareers.applytojobs.ca/customer+success/14179)
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -148,15 +141,12 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Hololabs](https://www.hololabs.org/) (👩‍💻 Co-Op / Intern Friendly)
 * [3D Artist](https://www.hololabs.org/jobs-feed/news/3d-artist)
-* [Marketing & Communications Lead](https://www.hololabs.org/jobs-feed/news/communications-lead)
 * [Technical Writer](https://www.hololabs.org/jobs-feed/news/technical-writer)
 * [Backend XR Developer / Integrator](https://www.hololabs.org/jobs-feed/news/backend-xr-developer)
-* [Community Manager](https://www.hololabs.org/jobs-feed/news/community-manager)
 
 #### [Ingrooves Music Group (Isolation Network)](https://www.ingrooves.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Instant Domains](https://instantdomains.com/)
-* [Operations Project Manager](https://www.ycombinator.com/companies/instant-domains/jobs/IWfg903-operations-project-manager)
 * [React/TypeScript Engineer](https://www.ycombinator.com/companies/instant-domains/jobs/BOL8BuC-experienced-react-typescript-engineer)
 
 
@@ -199,7 +189,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Product Manager](https://momentumdash.com/careers/#senior-product-manager)
 
 #### [MonetizeMore](https://www.monetizemore.com/)
-* [Web Developer (fully remote)](https://monetizem.applytojob.com/apply/yPcQkE/Remote-Web-Developer)
 
 #### [NetMotion](https://www.netmotionsoftware.com)
 * [Build/Release Engineer](https://jobs.jobvite.com/absolute/job/oQpZjfwh)
@@ -213,12 +202,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [OneFeather](https://www.onefeather.ca/)
 
 #### [One Net Inc](https://www.onenetinc.com/crew#Careers)
-* [Copywriter and Brand Strategist](https://www.onenetinc.com/careers/copywriter-brand-strategist)
-* [Junior Copywriter](https://www.onenetinc.com/careers/junior-copywriter)
-* [Financial Data Engineer](https://www.onenetinc.com/careers/financial-data-engineer)
-* [Agency Copywriter - Web & Video](https://www.onenetinc.com/careers/agency-copywriter-web-video)
-* [Brand Designer & Illustrator](https://www.onenetinc.com/careers/brand-designer-illustrator-2022)
-* [Senior Brand Designer](https://www.onenetinc.com/careers/senior-brand-designer-remote)
 
 #### [Pixel Union](https://pixelunion.net/)
 
@@ -263,9 +246,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Inside Sales](https://www.silkstart.com/careers/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Executive Assistant](https://starfishmedical.com/jobs/executive-assistant-cfo-coo/)
 * [Mechanical Engineering Coop](https://starfishmedical.com/jobs/mechanical-engineering-coop-winter-2023/)
-* [Project Analyst](https://starfishmedical.com/jobs/project-analyst-2/)
 
 #### [Stocksy United](https://www.stocksy.com/)
 * [Intermediate Graphic Designer](https://www.stocksy.com/service/hiring)
