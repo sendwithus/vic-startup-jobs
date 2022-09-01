@@ -103,12 +103,11 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Transformation Lead, Collaborative Design](https://www.coeuraj.com/careers/transformation-lead-collaborative-design)
 
 #### [Course Studio](https://course.studio/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Project Manager](https://coursestudio.applytojobs.ca/project+management/10014)
-* [Design Lead](https://coursestudio.applytojobs.ca/design/13206)
-* [Senior Designer](https://coursestudio.applytojobs.ca/design/13205)
-* [Director of Partnerships](https://coursestudio.applytojobs.ca/partnerships/14006)
-* [Client Partner](https://coursestudio.applytojobs.ca/client+services/14007)
-* [Full-Stack Developer](https://coursestudio.applytojobs.ca/development/14004)
+* [Project Manager](https://coursestudio.applytojobs.ca/client+services/15714)
+* [Design Lead](https://coursestudio.applytojobs.ca/design/15715)
+* [Director of Partnerships](https://coursestudio.applytojobs.ca/client+services/15719)
+* [Client Partner](https://coursestudio.applytojobs.ca/client+services/15717)
+* [Full-Stack Developer](https://coursestudio.applytojobs.ca/development/15716)
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
 * [Sales Development Representative](https://www.crowdcontent.com/current-openings-sales-development-representative-sdr/)
