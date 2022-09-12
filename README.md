@@ -105,6 +105,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Onboarding Specialist](https://cubohcareers.applytojobs.ca/customer+success/14163)
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
+* [Junior Controller - Contract](https://www.dyspatch.io/about/careers/post/?6388d26d-46b9-433b-9e01-8ba7cbd47a6a)
 
 #### [Echosec](https://www.echosec.net/careers-at-echosec) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior Backend Engineer (Product)](https://echosec.bamboohr.com/jobs/view.php?id=26)
