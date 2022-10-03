@@ -91,7 +91,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Transformation Lead, Collaborative Design](https://www.coeuraj.com/careers/transformation-lead-collaborative-design)
 
 #### [Course Studio](https://course.studio/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Project Manager](https://coursestudio.applytojobs.ca/client+services/15714)
 * [Design Director](https://coursestudio.applytojobs.ca/design/15712)
 * [Design Lead](https://coursestudio.applytojobs.ca/design/15715)
 * [Director of Partnerships](https://coursestudio.applytojobs.ca/client+services/15719)
