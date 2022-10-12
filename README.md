@@ -96,6 +96,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Director of Partnerships](https://coursestudio.applytojobs.ca/client+services/15719)
 * [Client Partner](https://coursestudio.applytojobs.ca/client+services/15717)
 * [Full-Stack Developer](https://coursestudio.applytojobs.ca/development/15716)
+* [Director of Engineering](https://coursestudio.applytojobs.ca/development/16919)
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
 * [Sales Development Representative](https://www.crowdcontent.com/current-openings-sales-development-representative-sdr/)
