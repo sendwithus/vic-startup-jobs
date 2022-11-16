@@ -196,6 +196,9 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Mobile Developer : Swift](https://www.onenetinc.com/careers/mobile-developer-swift)
 * [Android Developer : Java](https://www.onenetinc.com/careers/mobile-developer-java)
 
+#### [Othersphere](https://www.othersphere.io/)
+* [Chief Technology Officer](https://jobs.polymer.co/othersphere/26297)
+
 #### [Pixel Union](https://pixelunion.net/)
 * [Project Manager](https://apply.workable.com/pixel-union/j/3289E7F27B/)
 
