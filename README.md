@@ -37,7 +37,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
 
 #### [AlayaCare](https://www.alayacare.com/)
-* [Engineering Manager - Data Development](https://boards.greenhouse.io/alayacare/jobs/6390409002)
 
 #### [Animikii](https://www.animikii.com/?utm_source=careers&utm_medium=website&utm_campaign=quote_contact&utm_content=logo)
 * [Senior Full Stack Web Developer](https://www.animikii.com/about/careers/senior-full-stack-web-developer)
@@ -54,7 +53,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [BCDevExchange](https://bcdevexchange.org/)
 
 #### [Benevity](https://www.benevity.com/) (👩‍💻 Co-Op / Intern Friendly) 
-* [Director, Product Marketing](https://benevity.com/job-postings?gh_jid=4532084004)
 
 #### [Button](https://button.is/careers)
 * [Full Stack Developer (Senior)](https://button.is/job-openings/full-stack-developer-senior)
@@ -62,7 +60,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Software Architect](https://button.is/job-openings/software-architect)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [Bilingual Customer Support Specialist](https://certn.pinpointhq.com/en/jobs/66166)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -121,8 +118,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Senior Game Designer](https://kixeye.bamboohr.com/jobs/view.php?id=60)
 
 #### [VertiGIS](https://vertigisstudio.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Software Developer](https://vertigis.bamboohr.com/jobs/view.php?id=140)
-* [Software Developer, Custom Implementations](https://vertigis.bamboohr.com/jobs/view.php?id=125)
 
 #### [LlamaZOO](https://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -136,11 +131,8 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Back-End Developer](https://momentumdash.com/careers/#back-end-developer)
 * [Front-End Developer](https://momentumdash.com/careers/#front-end-developer)
 * [Product Designer](https://momentumdash.com/careers/#product-designer)
-* [Senior Product Manager](https://momentumdash.com/careers/#senior-product-manager)
-* [Content Manager](https://momentumdash.com/careers#content-manager)
 
 #### [MonetizeMore](https://www.monetizemore.com/)
-* [Full Stack Web Developer](https://monetizem.applytojob.com/apply/cdngNO1iHZ/Remote-Full-Stack-Web-Developer)
 * [Web Developer Intern](https://monetizem.applytojob.com/apply/81RZNU70uB/Remote-Web-Developer-Intern)
 
 #### [NetMotion/Absolute](https://www.netmotionsoftware.com)
@@ -160,7 +152,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [RaceRocks 3D](https://racerocks3d.ca/)
-* [Project Manager](https://racerocks3d.applytojobs.ca/project%20management/16341) 
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -176,10 +167,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [SaaSquatch](https://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Project Coordinator](https://referralsaasquatch.applytojob.com/apply/aGnhDTMFJF/Project-Coordinator?source=Our%20Career%20Page%20Widget) 
 
 #### [Semaphore](https://semaphoresolutions.com/)
-* [Customer Success Analyst](https://jobs.lever.co/semaphoresolutions/1b851eed-6c75-4b69-84dd-8176fd6973c4)
 
 #### [STN Video (formerly SendtoNews)](https://www.stnvideo.com/careers/)
 * [Senior Technical Support Analyst](https://secure.collage.co/jobs/sendtonews/33454)
@@ -189,17 +178,10 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Inside Sales](https://www.silkstart.com/careers/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Project Management Administrator](https://starfishmedical.com/jobs/project-management-administrator/)
-* [Project Analyst](https://starfishmedical.com/jobs/project-analyst-2/)
-* [NPI Engineer](https://starfishmedical.com/jobs/npi-engineer-3/)
-* [Senior Analyst, Financial Planning and Analysis](https://starfishmedical.com/jobs/senior-analyst-fpa/)
-* [Senior Project Manager](https://starfishmedical.com/jobs/senior-project-manager-2/)
 
 #### [Stocksy United](https://www.stocksy.com/)
 * [Digital Marketing Manager](https://www.stocksy.com/service/hiring)
-* [Product Manager](https://www.stocksy.com/service/hiring)
 * [CEO](https://www.stocksy.com/service/hiring)
-* [Junior Creative Research Associate](https://www.stocksy.com/service/hiring)
 
 #### [Super Good Software](https://supergood.software)
 * [Senior Developer](https://supergood.software/careers/senior-developer)
@@ -213,7 +195,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Vivid Solutions](https://www.vividsolutions.com/)
 * [Full Stack Developer](https://vividsolutions.bamboohr.com/jobs/view.php?id=13)
 * [Senior Application Architect](https://vividsolutions.bamboohr.com/jobs/view.php?id=14)
-* [Scrum Master](https://vividsolutions.bamboohr.com/careers/25)
 * [Service Designer](https://vividsolutions.bamboohr.com/jobs/view.php?id=26)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
