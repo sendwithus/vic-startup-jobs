@@ -70,7 +70,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Course Studio](https://course.studio/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Design Lead](https://coursestudio.applytojobs.ca/design/15715)
 * [Director of Partnerships](https://coursestudio.applytojobs.ca/client+services/15719)
-* [Client Partner](https://coursestudio.applytojobs.ca/client+services/15717)
 * [Senior Software Engineer - Product](https://coursestudio.applytojobs.ca/development/15716)
 * [Engineering Lead - Product](https://coursestudio.applytojobs.ca/development/17079)
 
