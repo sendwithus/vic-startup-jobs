@@ -54,6 +54,9 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Benevity](https://www.benevity.com/) (👩‍💻 Co-Op / Intern Friendly) 
 
+#### [Billi Labs](https://billi.app/) (👩‍💻 Co-Op / Intern Friendly)
+* [Open Application](https://billi.app/careers)
+
 #### [Button](https://button.is/careers)
 * [Full Stack Developer (Senior)](https://button.is/job-openings/full-stack-developer-senior)
 * [Full Stack Developer (Intermediate)](https://button.is/job-openings/full-stack-developer-intermediate)
