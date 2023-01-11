@@ -72,7 +72,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Course Studio](https://course.studio/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Design Lead](https://coursestudio.applytojobs.ca/design/15715)
-* [Director of Partnerships](https://coursestudio.applytojobs.ca/client+services/15719)
 * [Senior Software Engineer - Product](https://coursestudio.applytojobs.ca/development/15716)
 * [Engineering Lead - Product](https://coursestudio.applytojobs.ca/development/17079)
 
@@ -125,9 +124,7 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [MetaLab](https://metalab.co/) (👩‍💻 Co-Op / Intern Friendly)
 * [Partnerships Director](https://boards.greenhouse.io/metalab/jobs/4461869) 
-* [Project Delivery Manager](https://boards.greenhouse.io/metalab/jobs/3052000) 
 * [Product Lead](https://boards.greenhouse.io/metalab/jobs/3569983)
-* [Client Partner](https://boards.greenhouse.io/metalab/jobs/3107262)
 
 #### [Momentum Dashboard](https://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Back-End Developer](https://momentumdash.com/careers/#back-end-developer)
@@ -160,7 +157,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Regroove](https://regroove.ca) (👩‍💻 Co-Op / Intern Friendly)
 * [Cloud Solutions Consultant](https://regroove.ca/careers/cloud-solutions-consultant/)
 * [Project Manager](https://regroove.ca/careers/project-manager-regroove/)
-* [Co-op Student – Accounting Assistant](https://regroove.ca/careers/accounting-assistant/)
 
 #### [Revela Systems](https://www.revela.io/)
 
@@ -192,7 +188,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [The Number](https://thenumber.ca/)
 
 #### [Tutela](https://www.tutela.com/)
-* [Software Developer Coop](https://tut.bamboohr.com/careers/156)
 
 #### [Vivid Solutions](https://www.vividsolutions.com/)
 * [Full Stack Developer](https://vividsolutions.bamboohr.com/jobs/view.php?id=13)
