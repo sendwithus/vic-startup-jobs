@@ -143,6 +143,14 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
 
+#### [Quartech](https://quartech.com/)
+* [Client Executive](https://quartech.com/careers/openings/)
+* [Full Stack Developers](https://quartech.com/careers/openings/)
+* [Proposal Specialist – Contract](https://quartech.com/careers/openings/)
+* [Senior Business Analyst](https://quartech.com/careers/openings/)
+* [Senior Project Manager](https://quartech.com/careers/openings/)
+* [Talent Acquisition Partner](https://quartech.com/careers/openings/)
+
 #### [RaceRocks 3D](https://racerocks3d.ca/)
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
