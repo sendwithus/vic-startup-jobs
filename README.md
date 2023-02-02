@@ -55,12 +55,11 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Benevity](https://www.benevity.com/) (👩‍💻 Co-Op / Intern Friendly) 
 
 #### [Billi Labs](https://billi.app/) (👩‍💻 Co-Op / Intern Friendly)
+* [Senior App Developer](https://billi.app/careers)
+* [Customer Success Manager](https://billi.app/careers)
 * [Open Application](https://billi.app/careers)
 
 #### [Button](https://button.is/careers)
-* [Full Stack Developer (Senior)](https://button.is/job-openings/full-stack-developer-senior)
-* [Full Stack Developer (Intermediate)](https://button.is/job-openings/full-stack-developer-intermediate)
-* [Software Architect](https://button.is/job-openings/software-architect)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -72,8 +71,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Course Studio](https://course.studio/careers) (👩‍💻 Co-Op / Intern Friendly)
 * [Design Lead](https://coursestudio.applytojobs.ca/design/15715)
-* [Senior Software Engineer - Product](https://coursestudio.applytojobs.ca/development/15716)
-* [Engineering Lead - Product](https://coursestudio.applytojobs.ca/development/17079)
 * [Partnerships Manager](https://coursestudio.applytojobs.ca/client%20services/18838)
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
@@ -104,17 +101,13 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Giftbit](https://giftbit.bamboohr.com/jobs/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Hololabs](https://www.hololabs.org/) (👩‍💻 Co-Op / Intern Friendly)
-* [3D Artist](https://www.hololabs.org/jobs-feed/news/3d-artist)
-* [Game Developer](https://www.hololabs.org/jobs-feed/news/game-developer-unity3d)
 
 #### [Ingrooves Music Group (Isolation Network)](https://www.ingrooves.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Instant Domains](https://instantdomains.com/)
 
 #### [Kano](https://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Lead Unity Game Developer](https://kanoapps.bamboohr.com/jobs/view.php?id=103&source=bamboohr)
 * [Game Data Analyst - Intermediate](https://kanoapps.bamboohr.com/careers/107)
-* [Senior Software Developer - Unity](https://kanoapps.bamboohr.com/jobs/view.php?id=101&source=bamboohr)
 
 #### [KIXEYE Canada Ltd](https://www.kixeye.com/)
 * [Senior Game Designer](https://kixeye.bamboohr.com/jobs/view.php?id=60)
@@ -145,7 +138,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Android Developer : Java](https://www.onenetinc.com/careers/mobile-developer-java)
 
 #### [Othersphere](https://www.othersphere.io/)
-* [Chief Technology Officer](https://jobs.polymer.co/othersphere/26297)
 
 #### [Pixel Union](https://pixelunion.net/)
 
@@ -196,7 +188,6 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Service Designer](https://vividsolutions.bamboohr.com/jobs/view.php?id=26)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
-* [QA Manager](https://workday.wd5.myworkdayjobs.com/en-US/Workday/details/QA-Manager---Financials-Accounting-Center_JR-63880?Location_Country=a30a87ed25634629aa6c3958aa2b91ea)
 ---
 
 ### Share this job board with others!
