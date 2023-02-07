@@ -70,8 +70,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Coeuraj](https://www.coeuraj.com/careers)
 
 #### [Course Studio](https://course.studio/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Design Lead](https://coursestudio.applytojobs.ca/design/15715)
-* [Partnerships Manager](https://coursestudio.applytojobs.ca/client%20services/18838)
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
 
