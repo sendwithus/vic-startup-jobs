@@ -62,34 +62,38 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Button](https://button.is/careers)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
+* [Lead Business Systems Analyst, Revenue Operations](https://certn.pinpointhq.com/en/postings/e2030d19-b439-4856-83f1-d22a6e906128)
+* [Account Executive](https://certn.pinpointhq.com/en/postings/49876e52-b7b3-41fe-9bd8-5126602a01ef)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Checkfront](https://www.checkfront.com/company/careers) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Coeuraj](https://www.coeuraj.com/careers)
+* [Proposal Writer](https://www.coeuraj.com/careers/proposal-writer)
 
 #### [Course Studio](https://course.studio/careers) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
 
 #### [Cuboh](https://www.cuboh.com/careers) (👩‍💻 Co-Op / Intern Friendly)
+* [Marketing Lead](https://cubohcareers.applytojobs.ca/marketing/20080)
+* [Customer Support Specialist](https://cubohcareers.applytojobs.ca/customer+support/20109)
 
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
-
-#### [Echosec](https://www.echosec.net/careers-at-echosec) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Eterio Realities](https://www.eterio.ca/careers/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Expeto](http://expeto.io/)
-* [Senior Technical Support Engineer](https://www.expeto.io/wp-content/uploads/2022/06/Senior-Technical-Support-Engineer_Description.pdf)
 * [Full Stack Engineer](https://www.expeto.io/wp-content/uploads/2022/09/Job-Description-Full-Stack-Engineer.pdf)
 * [DevOps Engineer](https://www.expeto.io/wp-content/uploads/2022/09/Job-Description-DevOps-Engineer.pdf)
+https://cubohcareers.applytojobs.ca/customer+support/20109)
 * [Partner Marketing Manager](https://www.expeto.io/wp-content/uploads/2022/06/Partner-Marketing-Manager.pdf)
 
 #### [Fluorescent Design Inc.](https://fluorescent.co/)
 
 #### [Flytographer](https://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Senior Social Media Manager](https://www.flytographer.com/jobs/)
 
 #### [Foundry Spatial](https://foundryspatial.com/)
 * [Full Stack Web Developer](https://foundryspatial.com/job-posting/full-stack-web-developer)
@@ -105,12 +109,16 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Instant Domains](https://instantdomains.com/)
 
 #### [Kano](https://www.kanoapps.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Game Data Analyst - Intermediate](https://kanoapps.bamboohr.com/careers/107)
 
 #### [KIXEYE Canada Ltd](https://www.kixeye.com/)
+* [Intermediate Game Designer](https://kixeye.bamboohr.com/careers/73)
 * [Senior Game Designer](https://kixeye.bamboohr.com/jobs/view.php?id=60)
 
 #### [VertiGIS](https://vertigisstudio.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Marketing & Event Specialist](https://vertigis.bamboohr.com/careers/149)
+* [Solutions Architect](https://vertigis.bamboohr.com/careers/122)
+* [Solutions Engineer](https://vertigis.bamboohr.com/careers/147)
+* [Account Executive](https://vertigis.bamboohr.com/careers/148)
 
 #### [LlamaZOO](https://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -124,12 +132,12 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Product Designer](https://momentumdash.com/careers/#product-designer)
 
 #### [MonetizeMore](https://www.monetizemore.com/)
-* [Web Developer Intern](https://monetizem.applytojob.com/apply/81RZNU70uB/Remote-Web-Developer-Intern)
 
 #### [NetMotion/Absolute](https://www.netmotionsoftware.com)
-* [Senior Software Engineer](https://jobs.jobvite.com/absolute/job/o3r2kfwA)
 
 #### [OneFeather](https://www.onefeather.ca/)
+* [Accountant](https://onefeather.applytojobs.ca/accounting/18132)
+* [Electoral Officer](https://onefeather.applytojobs.ca/election+services/19577)
 
 #### [One Net Inc](https://www.onenetinc.com/crew#Careers)
 * [Mobile Developer : Swift](https://www.onenetinc.com/careers/mobile-developer-swift)
@@ -151,6 +159,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [RaceRocks 3D](https://racerocks3d.ca/)
 
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
+* [Senior Software Developer](https://rdbrck.bamboohr.com/careers/189)
+* [Brand and Community Coordinator](https://rdbrck.bamboohr.com/careers/197)
+* [Director of Product](https://rdbrck.bamboohr.com/careers/196)
 
 #### [Regroove](https://regroove.ca) (👩‍💻 Co-Op / Intern Friendly)
 * [Cloud Solutions Consultant](https://regroove.ca/careers/cloud-solutions-consultant/)
@@ -161,13 +172,13 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
+* [Associate Product Manager](https://rooof.bamboohr.com/careers/88)
 
 #### [SaaSquatch](https://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Semaphore](https://semaphoresolutions.com/)
 
 #### [STN Video (formerly SendtoNews)](https://www.stnvideo.com/careers/)
-* [Senior Technical Support Analyst](https://secure.collage.co/jobs/sendtonews/33454)
 
 #### [SilkStart](https://silkstart.com/about/)
 * [Customer Success Specialist](https://www.silkstart.com/careers/)
@@ -176,7 +187,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Stocksy United](https://www.stocksy.com/)
-* [Digital Marketing Manager](https://www.stocksy.com/service/hiring)
 * [CEO](https://www.stocksy.com/service/hiring)
 
 #### [Super Good Software](https://supergood.software)
@@ -190,7 +200,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Vivid Solutions](https://www.vividsolutions.com/)
 * [Full Stack Developer](https://vividsolutions.bamboohr.com/jobs/view.php?id=13)
 * [Senior Application Architect](https://vividsolutions.bamboohr.com/jobs/view.php?id=14)
-* [Service Designer](https://vividsolutions.bamboohr.com/jobs/view.php?id=26)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
 ---
