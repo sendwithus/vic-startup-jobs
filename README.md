@@ -87,7 +87,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Expeto](http://expeto.io/)
 * [Full Stack Engineer](https://www.expeto.io/wp-content/uploads/2022/09/Job-Description-Full-Stack-Engineer.pdf)
 * [DevOps Engineer](https://www.expeto.io/wp-content/uploads/2022/09/Job-Description-DevOps-Engineer.pdf)
-https://cubohcareers.applytojobs.ca/customer+support/20109)
 * [Partner Marketing Manager](https://www.expeto.io/wp-content/uploads/2022/06/Partner-Marketing-Manager.pdf)
 
 #### [Fluorescent Design Inc.](https://fluorescent.co/)
