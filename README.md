@@ -188,10 +188,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Stocksy United](https://www.stocksy.com/)
 * [CEO](https://www.stocksy.com/service/hiring)
 
-#### [Super Good Software](https://supergood.software)
-* [Senior Developer](https://supergood.software/careers/senior-developer)
-* [Intermediate Developer](https://supergood.software/careers/intermediate-developer)
-
 #### [The Number](https://thenumber.ca/)
 
 #### [Tutela](https://www.tutela.com/)
