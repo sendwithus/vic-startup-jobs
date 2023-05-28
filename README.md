@@ -146,7 +146,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Front-End Developer](https://jobs.polymer.co/othersphere/27698)
 * [Platform Data Lead](https://jobs.polymer.co/othersphere/27707)
 * [Product Analytics Lead](https://jobs.polymer.co/othersphere/27696)
-* [Senior Hydrogen/PtX Analyst](https://jobs.polymer.co/othersphere/27697)
+* [Senior Hydrogen / PtX Analyst](https://jobs.polymer.co/othersphere/27697)
 
 #### [Pixel Union](https://pixelunion.net/)
 
