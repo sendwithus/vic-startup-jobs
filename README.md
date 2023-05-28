@@ -143,7 +143,10 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Android Developer : Java](https://www.onenetinc.com/careers/mobile-developer-java)
 
 #### [Othersphere](https://www.othersphere.io/)
-* [Front-End Developer](https://jobs.polymer.co/othersphere/27123)
+* [Front-End Developer](https://jobs.polymer.co/othersphere/27698)
+* [Platform Data Lead](https://jobs.polymer.co/othersphere/27707)
+* [Product Analytics Lead](https://jobs.polymer.co/othersphere/27696)
+* [Senior Hydrogen/PtX Analyst](https://jobs.polymer.co/othersphere/27697)
 
 #### [Pixel Union](https://pixelunion.net/)
 
