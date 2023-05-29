@@ -62,8 +62,10 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Button](https://button.is/careers)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [Lead Business Systems Analyst, Revenue Operations](https://certn.pinpointhq.com/en/postings/e2030d19-b439-4856-83f1-d22a6e906128)
-* [Account Executive](https://certn.pinpointhq.com/en/postings/49876e52-b7b3-41fe-9bd8-5126602a01ef)
+* [Application Security Engineer](https://certn.pinpointhq.com/en/postings/91011a59-00e0-4e1e-ab93-90c97ffcc010)
+* [Knowledge Management Team Lead](https://certn.pinpointhq.com/en/postings/e8fbca87-9e41-4eb2-83ae-60d0ce1792f1)
+* [Revenue Operations Manager](https://certn.pinpointhq.com/en/postings/59006ded-67c8-40bd-8bbd-119078f64e93)
+* [Sales Development Representative](https://certn.pinpointhq.com/en/postings/d638c909-12a9-4afe-a349-d4987dd41599)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -189,7 +191,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Stocksy United](https://www.stocksy.com/)
-* [CEO](https://www.stocksy.com/service/hiring)
 
 #### [The Number](https://thenumber.ca/)
 
