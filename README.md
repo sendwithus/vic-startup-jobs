@@ -150,6 +150,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Product Analytics Lead](https://jobs.polymer.co/othersphere/27696)
 * [Senior Hydrogen / PtX Analyst](https://jobs.polymer.co/othersphere/27697)
 * [Senior UX/UI & Brand Designer](https://jobs.polymer.co/othersphere/27733)
+* [Senior Python Developer](https://jobs.polymer.co/othersphere/27747)
 
 #### [Pixel Union](https://pixelunion.net/)
 
