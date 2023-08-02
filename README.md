@@ -75,6 +75,7 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Proposal Writer](https://www.coeuraj.com/careers/proposal-writer)
 
 #### [Course Studio](https://course.studio/careers) (👩‍💻 Co-Op / Intern Friendly)
+* [Principal Brand Designer](https://coursestudio.applytojobs.ca/design/23363)
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
 
