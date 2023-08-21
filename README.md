@@ -37,10 +37,10 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
 
 #### [AlayaCare](https://www.alayacare.com/)
-
+* [Developer - Finance](https://alayacare.com/open-positions?gh_jid=675428900)
+  
 #### [Animikii](https://www.animikii.com/?utm_source=careers&utm_medium=website&utm_campaign=quote_contact&utm_content=logo)
 * [Senior Full Stack Web Developer](https://www.animikii.com/about/careers/senior-full-stack-web-developer)
-* [Intermediate Full Stack Developer](https://www.animikii.com/about/careers/intermediate-full-stack-web-developer)
 
 #### [Audette](https://www.audette.io/)
 
@@ -49,10 +49,17 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Bambora North America/Worldline](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
-
-#### [BCDevExchange](https://bcdevexchange.org/)
+* [Intermediate Front-End Developer](https://www.brnkl.io/careers)
+*  [Intermediate/Senior Full-Stack Developer](https://www.brnkl.io/careers)
+*  [IoT Systems & Mobile App Test Engineer - Co-op](https://www.brnkl.io/careers)
 
 #### [Benevity](https://www.benevity.com/) (👩‍💻 Co-Op / Intern Friendly) 
+*[Staff Engineer](https://benevity.com/job-postings?gh_jid=4895925004)
+*[Principal Data Architect](https://benevity.com/job-postings?gh_jid=4945396004)
+*[Director, Software Engineering](https://benevity.com/job-postings?gh_jid=4952162004)
+*[Director of Data & Analytics](https://benevity.com/job-postings?gh_jid=4945359004)
+*[Assistant Financial Controller](https://benevity.com/job-postings?gh_jid=4917746004)
+*[Intermediate Revenue Accountant]((https://benevity.com/job-postings?gh_jid=4956048004)
 
 #### [Billi Labs](https://billi.app/) (👩‍💻 Co-Op / Intern Friendly)
 * [Senior App Developer](https://billi.app/careers)
@@ -62,10 +69,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Button](https://button.is/careers)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [Application Security Engineer](https://certn.pinpointhq.com/en/postings/91011a59-00e0-4e1e-ab93-90c97ffcc010)
-* [Knowledge Management Team Lead](https://certn.pinpointhq.com/en/postings/e8fbca87-9e41-4eb2-83ae-60d0ce1792f1)
-* [Revenue Operations Manager](https://certn.pinpointhq.com/en/postings/59006ded-67c8-40bd-8bbd-119078f64e93)
-* [Sales Development Representative](https://certn.pinpointhq.com/en/postings/d638c909-12a9-4afe-a349-d4987dd41599)
+* [Lead Product Designer](https://certn.pinpointhq.com/en/postings/caf5b885-96e9-4c16-a31f-c7a0d4c81a1f0)
+* [Senior Accountant - North America](https://certn.pinpointhq.com/en/postings/b32183cd-ffaf-4563-8cdb-54d1f16cceae)
+* [Senior Software Development Engineer in Test (SDET)](https://certn.pinpointhq.com/en/postings/5af1d36e-fbd8-4b26-8f2e-08e0d6799ebf)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
 
