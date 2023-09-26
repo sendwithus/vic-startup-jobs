@@ -80,7 +80,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Coeuraj](https://www.coeuraj.com/careers)
 
 #### [Course Studio](https://course.studio/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Principal Brand Designer](https://coursestudio.applytojobs.ca/design/23363)
+* [Senior Full-stack Engineer](https://coursestudio.applytojobs.ca/engineering/25118)
 * [Project Manager](https://coursestudio.applytojobs.ca/clientservices/24414)
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
