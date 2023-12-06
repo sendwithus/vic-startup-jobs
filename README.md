@@ -35,6 +35,10 @@ Companies that are known for hiring/placing  co-op students and interns will hav
 Keep in mind that companies may have job postings on their own site that are not listed here - you should visit them and look for opportunities.  Also, many companies are open to being contacted directly about opportunities, even if it's only to keep your resume on file.
 
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
+*[Chief Technology Officer](https://dxcas.com/index.php/careers/current-opportunities)
+*[Director of Finance, Account Finance Lead](https://dxcas.com/index.php/careers/current-opportunities)
+*[Senior Database Administrator (Oracle)](https://dxcas.com/index.php/careers/current-opportunities)
+*[Open VMS Administrator](https://dxcas.com/index.php/careers/current-opportunities)
 
 #### [AlayaCare](https://www.alayacare.com/)
   
