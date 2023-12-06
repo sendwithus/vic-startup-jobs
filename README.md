@@ -37,10 +37,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
 
 #### [AlayaCare](https://www.alayacare.com/)
-* [Developer - Finance](https://alayacare.com/open-positions?gh_jid=675428900)
   
 #### [Animikii](https://www.animikii.com/?utm_source=careers&utm_medium=website&utm_campaign=quote_contact&utm_content=logo)
-* [Senior Full Stack Web Developer](https://www.animikii.com/about/careers/senior-full-stack-web-developer)
+* [Senior Full Stack Web Developer](https://animikii.applytojobs.ca/software/26682)
 
 #### [Audette](https://www.audette.io/)
 
@@ -50,28 +49,15 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
 * [Intermediate Front-End Developer](https://www.brnkl.io/careers)
-*  [Intermediate/Senior Full-Stack Developer](https://www.brnkl.io/careers)
-*  [IoT Systems & Mobile App Test Engineer - Co-op](https://www.brnkl.io/careers)
+* [Intermediate/Senior Full-Stack Developer](https://www.brnkl.io/careers)
+* [IoT Systems & Mobile App Test Engineer - Co-op](https://www.brnkl.io/careers)
 
 #### [Benevity](https://www.benevity.com/) (👩‍💻 Co-Op / Intern Friendly) 
-* [Staff Engineer](https://benevity.com/job-postings?gh_jid=4895925004)
-* [Principal Data Architect](https://benevity.com/job-postings?gh_jid=4945396004)
-* [Director, Software Engineering](https://benevity.com/job-postings?gh_jid=4952162004)
-* [Director of Data & Analytics](https://benevity.com/job-postings?gh_jid=4945359004)
-* [Assistant Financial Controller](https://benevity.com/job-postings?gh_jid=4917746004)
-* [Intermediate Revenue Accountant]((https://benevity.com/job-postings?gh_jid=4956048004)
-
-#### [Billi Labs](https://billi.app/) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior App Developer](https://billi.app/careers)
-* [Customer Success Manager](https://billi.app/careers)
-* [Open Application](https://billi.app/careers)
+* [Director of Engineering & Analytics](https://benevity.com/job-postings?gh_jid=4945359004)
 
 #### [Button](https://button.is/careers)
 
 #### [Certn](https://certn.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [Lead Product Designer](https://certn.pinpointhq.com/en/postings/caf5b885-96e9-4c16-a31f-c7a0d4c81a1f0)
-* [Senior Accountant - North America](https://certn.pinpointhq.com/en/postings/b32183cd-ffaf-4563-8cdb-54d1f16cceae)
-* [Senior Software Development Engineer in Test (SDET)](https://certn.pinpointhq.com/en/postings/5af1d36e-fbd8-4b26-8f2e-08e0d6799ebf)
 
 #### [Change.org](https://www.change.org/careers) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -80,8 +66,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Coeuraj](https://www.coeuraj.com/careers)
 
 #### [Course Studio](https://course.studio/careers) (👩‍💻 Co-Op / Intern Friendly)
-* [Principal Brand Designer](https://coursestudio.applytojobs.ca/design/23363)
-* [Project Manager](https://coursestudio.applytojobs.ca/clientservices/24414)
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
 
@@ -90,7 +74,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Dyspatch (formerly Sendwithus)](https://www.dyspatch.io/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Eterio Realities](https://www.eterio.ca/careers/) (👩‍💻 Co-Op / Intern Friendly)
-* [XR Unity Developer]((https://eterio.ca/careers/xr-unity-developer/)
 
 #### [Expeto](http://expeto.io/)
 
@@ -99,18 +82,12 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Flytographer](https://www.flytographer.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Foundry Spatial](https://foundryspatial.com/)
-* [Customer Success Representative](https://foundryspatial.com/job-posting/customer-representative)
-* [Database Programmer](https://foundryspatial.com/job-posting/database-programmer)
-* [Full Stack Web Developer](https://foundryspatial.com/job-posting/full-stack-web-developer)
 
 #### [Gearbox Development](https://gearboxbuilt.com/)
 
 #### [Giftbit](https://giftbit.bamboohr.com/jobs/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Hololabs](https://www.hololabs.org/) (👩‍💻 Co-Op / Intern Friendly)
-* [Rendering & Graphics Developer](https://hololabs.bamboohr.com/careers/28)
-* [3D Generalist / Animator](https://hololabs.bamboohr.com/careers/26)
-* [Senior Game Developer (AR/VR, Unity)](https://hololabs.bamboohr.com/careers/31)
 
 #### [Ingrooves Music Group (Isolation Network)](https://www.ingrooves.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -122,52 +99,44 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [VertiGIS](https://vertigisstudio.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Solutions Architect](https://vertigis.bamboohr.com/careers/122)
-* [Solutions Engineer]((https://vertigis.bamboohr.com/careers/157)
-* [Junior/Intermediate Software Developer](https://vertigis.bamboohr.com/careers/160)
 
-* #### [LlamaZOO](https://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
+#### [LlamaZOO](https://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [MetaLab](https://metalab.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Product Manager](https://www.metalab.com/careers#current-openings) 
-* [Senior Designer, Marketing](https://www.metalab.com/careers#current-openings)
+* [Principal Engineer, Machine Learning](https://www.metalab.com/careers#current-openings) 
+* [Design Technologist](https://www.metalab.com/careers#current-openings)
+* [Senior Full Stack Developer, Machine Learning](https://www.metalab.com/careers#current-openings)
+* [Principal Architect](https://www.metalab.com/careers#current-openings)
+* [Director, Client Services](https://www.metalab.com/careers#current-openings)
+* [Director, Finance (FP&A)](https://www.metalab.com/careers#current-openings)
+* [Senior Full Stack Developer](https://www.metalab.com/careers#current-openings)
 * [Principal Engineer](https://www.metalab.com/careers#current-openings)
 * [Executive Assistant](https://www.metalab.com/careers#current-openings)
-* [Creative Director](https://www.metalab.com/careers#current-openings)
 * [Partnerships Director](https://www.metalab.com/careers#current-openings)
 * [Principal Visual Designer](https://www.metalab.com/careers#current-openings)
-* [Product Lead](https://www.metalab.com/careers#current-openings)
-* [Resourcing Manager](https://www.metalab.com/careers#current-openings)
 * [Brand Designer](https://www.metalab.com/careers#current-openings)
 * [Design Lead](https://www.metalab.com/careers#current-openings)
-* [Product Designer](https://www.metalab.com/careers#current-openings)
+* [Senior Design Director](https://www.metalab.com/careers#current-openings)
 
 #### [Momentum Dashboard](https://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Front-End Developer](https://momentumdash.com/careers/#front-end-developer)
-* [Product Designer](https://momentumdash.com/careers/#product-designer)
+* [Senior Front-End Developer](https://momentumdash.com/careers/#front-end-developer)
+* [Full Stack Developer](https://momentumdash.com/careers/#product-designer)
 
 #### [MonetizeMore](https://www.monetizemore.com/)
 
 #### [OneFeather](https://www.onefeather.ca/)
 
 #### [One Net Inc](https://www.onenetinc.com/crew#Careers)
-* [Visual Design Lead](https://www.onenetinc.com/careers/visual-design-lead)
-* [Web Production Designer](https://www.onenetinc.com/careers/production-designer-web)
 * [Mobile Developer:Swift](https://www.onenetinc.com/careers/mobile-developer-swift)
 * [Android Developer:Java](https://www.onenetinc.com/careers/mobile-developer-java)
-* [Digital Producer:Web](https://www.onenetinc.com/careers/digital-producer-for-web)
 * [Digital Media Buyer](https://www.onenetinc.com/careers/digital-media-buyer)
 * [Account Strategist(Remote)](https://www.onenetinc.com/careers/account-strategist-remote)
 
 #### [Othersphere](https://www.othersphere.io/)
 
 #### [Pixel Union](https://pixelunion.net/)
-* [Senior Developer]https://pixelunion.bamboohr.com/careers/28
 
 #### [Plurilock](https://www.plurilock.com/) (👩‍💻 Co-Op / Intern Friendly)
-
-#### [Quartech](https://quartech.com/)
-* [Full Stack Developers](https://quartech.com/careers/openings/)
-* [Senior Project Manager](https://quartech.com/careers/openings/)
 
 #### [RaceRocks 3D](https://racerocks3d.ca/)
 
@@ -182,12 +151,10 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
-* [Support and Account Manager (Remote)](https://rooof.bamboohr.com/careers/93)
 
 #### [SaaSquatch](https://www.saasquatch.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Semaphore](https://semaphoresolutions.com/)
-*[Business Development Representative, Labbit](https://jobs.lever.co/semaphoresolutions/37ac1195-d5bc-4a3e-b4c2-dc343a2106cf)
 
 #### [STN Video (formerly SendtoNews)](https://www.stnvideo.com/careers/)
 
@@ -204,8 +171,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Tutela](https://www.tutela.com/)
 
 #### [Vivid Solutions](https://www.vividsolutions.com/)
-* [Full Stack Developer](https://vividsolutions.bamboohr.com/jobs/view.php?id=13)
-* [Senior Application Architect](https://vividsolutions.bamboohr.com/jobs/view.php?id=14)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
 ---
