@@ -56,13 +56,20 @@ find_links () {
 	done
 
 	[[ ! $QUIET ]] && echo >&2 "📊 Found ${#LINKS[@]} links in this document to test."
-	[[ $MARKDOWN ]] && echo -e "<!-- link-checker -->\nWe found these broken links, could you please remove them?\n"
+	[[ $MARKDOWN ]] && echo -e "<!-- link-checker -->\n"
 
 	_queue_link_tests
 	exit_code=$?
 
 	[[ ! $QUIET ]] && echo >&2 "✨ Done checking! [${exit_code} problem(s)]"
-	[[ $MARKDOWN ]] && echo -e "There were ${exit_code} broken links in this document."
+
+	if [[ $MARKDOWN ]]; then
+		if [[ $exit_code -eq 0 ]]; then
+			echo -e "\nLink checker tested ${#LINKS[@]} links and found none to be invalid!"
+		else
+			echo -e "\nLink checker tested ${#LINKS[@]} links and found the above broken links. Could you please remove them?"
+		fi
+	fi
 
 	exit "$exit_code"
 }
@@ -120,46 +127,46 @@ test_link () {
 		# 300 (Multiple Choice) is an example, so let's report on anything >= 300.
 		# Codes for reference: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 		if [[ "$http_code" -ge 300 ]]; then
-			[[ $MARKDOWN ]] && echo -e "- ${text} (REQUEST FAILED WITH ${http_code})\n  - ${link}"
-			[[ ! $QUIET ]] && echo >&2 "👻 [${http_code}] ${text} seems gone, from ${hostport}"
+			[[ $MARKDOWN ]] && echo -e "- ${text} (Page seems gone, status code ${http_code})\n  > ${link}"
+			[[ ! $QUIET ]] && echo >&2 "👻 [${http_code}] REQUEST FAILED. ${link}"
 			return 1 # HTTP error, this is what this whole script for here for
 		fi
 
 		# See https://curl.haxx.se/libcurl/c/libcurl-errors.html for more cases we might
 		# want to handle.
 		if [[ "$curl_status" -eq 6 ]]; then
-			[[ $MARKDOWN ]] && echo -e "- ${text} (UNRESOLVED HOST)\n  - ${link}"
-			[[ ! $QUIET ]] && echo >&2 "🌎 [---] DNS lookup didn't resolve ${hostport}."
+			[[ $MARKDOWN ]] && echo -e "- ${text} (DNS lookup didn't resolve ${hostport}.)\n  > ${link}"
+			[[ ! $QUIET ]] && echo >&2 "🌎 [---] UNRESOLVED HOST. ${link}"
 			return 1 # Failed DNS
 
 		elif [[ "$curl_status" -eq 7 ]]; then
-			[[ $MARKDOWN ]] && echo -e "- ${text} (COULDNT'T CONNECT TO SERVER)\n  - ${link}"
-			[[ ! $QUIET ]] && echo >&2 "📡 [---] Couldn't connect to ${hostport}."
+			[[ $MARKDOWN ]] && echo -e "- ${text} (Couldn't connect to ${hostport})\n  > ${link}"
+			[[ ! $QUIET ]] && echo >&2 "📡 [---] COULDNT'T CONNECT TO SERVER. ${link}"
 			return 1 # Coudn't connect
 
 		elif [[ "$curl_status" -eq 28 ]]; then
-			[[ $MARKDOWN ]] && echo -e "- ${text} (TIMEOUT WAS REACHED)\n  - ${link}"
-			[[ ! $QUIET ]] && echo >&2 "⌛ [---] Timed out with ${hostport}."
+			[[ $MARKDOWN ]] && echo -e "- ${text} (Timed out with ${hostport})\n  > ${link}"
+			[[ ! $QUIET ]] && echo >&2 "⌛ [---] TIMEOUT WAS REACHED. ${link}"
 			return 1 # Timed out
 
 		elif [[ "$curl_status" -eq 35 ]]; then
-			[[ $MARKDOWN ]] && echo -e "- ${text} (FAILED SSL HANDSHAKE)\n  - ${link}"
-			[[ ! $QUIET ]] && echo >&2 "🤝 [---] Handshaking with ${hostport} failed."
+			[[ $MARKDOWN ]] && echo -e "- ${text} (TLS handshaking with ${hostport} failed)\n  > ${link}"
+			[[ ! $QUIET ]] && echo >&2 "🤝 [---] FAILED TLS HANDSHAKE. ${link}"
 			return 1 # Failed SSL
 
 		elif [[ "$curl_status" -eq 60 || "$curl_status" -eq 51 ]]; then
-			[[ $MARKDOWN ]] && echo -e "- ${text} (FAILED SSL VERIFICATION)\n  - ${link}"
-			[[ ! $QUIET ]] && echo >&2 "🔓 [---] ${hostport}'s SSL certificate seems invalid!"
+			[[ $MARKDOWN ]] && echo -e "- ${text} (${hostport}'s TLS certificate seems invalid!)\n  > ${link}"
+			[[ ! $QUIET ]] && echo >&2 "🔓 [---] FAILED TLS VERIFICATION. ${link}"
 			return 1 # Failed SSL
 
 		elif [[ "$curl_status" -eq 130 ]]; then
-			[[ $MARKDOWN ]] && echo -e "- ${text} (SIGINT)\n  - ${link}"
-			[[ ! $QUIET ]] && echo >&2 "🛑 [---] Interrupted checking ${hostport}!"
+			[[ $MARKDOWN ]] && echo -e "- ${text} (Interrupted checking ${hostport}!)\n  > ${link}"
+			[[ ! $QUIET ]] && echo >&2 "🛑 [---] SIGINT. ${link}"
 			return 1 # Interrupted
 
 		elif [[ ! "$curl_status" -eq 0 ]]; then
-			[[ $MARKDOWN ]] && echo -e "- ${text} (CURLcode: ${curl_status})\n  - ${link}"
-			[[ ! $QUIET ]] && echo >&2 "🤷 [---] Checking ${hostport} failed with CURLcode ${curl_status}"
+			[[ $MARKDOWN ]] && echo -e "- ${text} (Checking ${hostport} failed with CURLcode ${curl_status})\n  > ${link}"
+			[[ ! $QUIET ]] && echo >&2 "🤷 [---] CURLcode: ${curl_status}. ${link}"
 			return 1 # cURL's unhappy, I'm unhappy
 		fi
 
