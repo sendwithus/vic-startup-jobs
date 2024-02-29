@@ -6,44 +6,53 @@ A well-maintained list of available startup jobs in Victoria BC. This list is cu
 
 [Tweet about us!][tweet-link]
 
-[![Build Status](https://travis-ci.com/sendwithus/vic-startup-jobs.svg?branch=main)](https://app.travis-ci.com/sendwithus/vic-startup-jobs)
+[![Link Checking](https://github.com/sendwithus/vic-startup-jobs/actions/workflows/link-checker.yaml/badge.svg?branch=main)](https://github.com/sendwithus/vic-startup-jobs/actions/workflows/link-checker.yaml)
 
 ### How to Apply?
+
 Click the link for more info about each job posting, including how to apply. Most companies provide application instructions on their websites.
 
 ### How to Post?
+
 Posting is easy and free, simply fork this repo and submit a pull request adding/updating your job posting. Avoid generic "call for resumes" and prefer specific job postings. If you have questions, need help, or want us to update the list for you, please email jobs@sendwithus.com.
 
 Note that there is a CI hook that runs after PR creation that checks for any 404s links on this page. You can run it manually prior to pushing:
+
 ```
 link_checker/check.sh README.md
 ```
+
 Running it before pushing up to Github allows you to remove broken job links from the list in addition to updating your own job postings. More info on the [associated README](/link_checker/README.md)
 
 ### Who can post?
+
 Tech startups with offices in Victoria BC. If we notice that you haven't posted a role in ~6 months, we may remove your org from the list in order to keep it up-to-date. Email us when you have a job and we can re-add you!
 
 ### What about Co-Op & Intern Friendly Companies?
-Companies that are known for hiring/placing  co-op students and interns will have a `(👩‍💻 Co-Op / Intern Friendly)` following their name. These companies are always open to discussing opportunities for students and aspiring developers, designers, and marketers.
+
+Companies that are known for hiring/placing co-op students and interns will have a `(👩‍💻 Co-Op / Intern Friendly)` following their name. These companies are always open to discussing opportunities for students and aspiring developers, designers, and marketers.
 
 ### How can I get involved in the Victoria tech community?
-* Connect with the Victoria tech community by joining the [YYJ Tech Slack group](https://yyj-tech.ca/)
-* Connect with the Victoria ladies tech community by joining the [YYJ Tech Ladies Slack group](http://yyjtechladies.com/). Please note that this group is for anyone who is female.
+
+- Connect with the Victoria tech community by joining the [YYJ Tech Slack group](https://yyj-tech.ca/)
+- Connect with the Victoria ladies tech community by joining the [YYJ Tech Ladies Slack group](http://yyjtechladies.com/). Please note that this group is for anyone who is female.
 
 ## Current Job Openings
 
-Keep in mind that companies may have job postings on their own site that are not listed here - you should visit them and look for opportunities.  Also, many companies are open to being contacted directly about opportunities, even if it's only to keep your resume on file.
+Keep in mind that companies may have job postings on their own site that are not listed here - you should visit them and look for opportunities. Also, many companies are open to being contacted directly about opportunities, even if it's only to keep your resume on file.
 
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
-*[Chief Technology Officer](https://dxcas.com/index.php/careers/current-opportunities)
-*[Director of Finance, Account Finance Lead](https://dxcas.com/index.php/careers/current-opportunities)
-*[Senior Database Administrator (Oracle)](https://dxcas.com/index.php/careers/current-opportunities)
-*[Open VMS Administrator](https://dxcas.com/index.php/careers/current-opportunities)
+
+_[Chief Technology Officer](https://dxcas.com/index.php/careers/current-opportunities)
+_[Director of Finance, Account Finance Lead](https://dxcas.com/index.php/careers/current-opportunities)
+_[Senior Database Administrator (Oracle)](https://dxcas.com/index.php/careers/current-opportunities)
+_[Open VMS Administrator](https://dxcas.com/index.php/careers/current-opportunities)
 
 #### [AlayaCare](https://www.alayacare.com/)
-  
+
 #### [Animikii](https://www.animikii.com/?utm_source=careers&utm_medium=website&utm_campaign=quote_contact&utm_content=logo)
-* [Senior Full Stack Web Developer](https://animikii.applytojobs.ca/software/26682)
+
+- [Senior Full Stack Web Developer](https://animikii.applytojobs.ca/software/26682)
 
 #### [Audette](https://www.audette.io/)
 
@@ -52,12 +61,14 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Bambora North America/Worldline](https://www.bambora.com/en/ca/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Barnacle Systems](https://brnkl.io/) (👩‍💻 Co-Op / Intern Friendly)
-* [Intermediate Front-End Developer](https://www.brnkl.io/careers)
-* [Intermediate/Senior Full-Stack Developer](https://www.brnkl.io/careers)
-* [IoT Systems & Mobile App Test Engineer - Co-op](https://www.brnkl.io/careers)
 
-#### [Benevity](https://www.benevity.com/) (👩‍💻 Co-Op / Intern Friendly) 
-* [Director of Engineering & Analytics](https://benevity.com/job-postings?gh_jid=4945359004)
+- [Intermediate Front-End Developer](https://www.brnkl.io/careers)
+- [Intermediate/Senior Full-Stack Developer](https://www.brnkl.io/careers)
+- [IoT Systems & Mobile App Test Engineer - Co-op](https://www.brnkl.io/careers)
+
+#### [Benevity](https://www.benevity.com/) (👩‍💻 Co-Op / Intern Friendly)
+
+- [Director of Engineering & Analytics](https://benevity.com/job-postings?gh_jid=4945359004)
 
 #### [Button](https://button.is/careers)
 
@@ -102,39 +113,43 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [KIXEYE Canada Ltd](https://www.kixeye.com/)
 
 #### [VertiGIS](https://vertigisstudio.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Solutions Architect](https://vertigis.bamboohr.com/careers/122)
+
+- [Solutions Architect](https://vertigis.bamboohr.com/careers/122)
 
 #### [LlamaZOO](https://www.llamazoo.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [MetaLab](https://metalab.co/) (👩‍💻 Co-Op / Intern Friendly)
-* [Principal Engineer, Machine Learning](https://www.metalab.com/careers#current-openings) 
-* [Design Technologist](https://www.metalab.com/careers#current-openings)
-* [Senior Full Stack Developer, Machine Learning](https://www.metalab.com/careers#current-openings)
-* [Principal Architect](https://www.metalab.com/careers#current-openings)
-* [Director, Client Services](https://www.metalab.com/careers#current-openings)
-* [Director, Finance (FP&A)](https://www.metalab.com/careers#current-openings)
-* [Senior Full Stack Developer](https://www.metalab.com/careers#current-openings)
-* [Principal Engineer](https://www.metalab.com/careers#current-openings)
-* [Executive Assistant](https://www.metalab.com/careers#current-openings)
-* [Partnerships Director](https://www.metalab.com/careers#current-openings)
-* [Principal Visual Designer](https://www.metalab.com/careers#current-openings)
-* [Brand Designer](https://www.metalab.com/careers#current-openings)
-* [Design Lead](https://www.metalab.com/careers#current-openings)
-* [Senior Design Director](https://www.metalab.com/careers#current-openings)
+
+- [Principal Engineer, Machine Learning](https://www.metalab.com/careers#current-openings)
+- [Design Technologist](https://www.metalab.com/careers#current-openings)
+- [Senior Full Stack Developer, Machine Learning](https://www.metalab.com/careers#current-openings)
+- [Principal Architect](https://www.metalab.com/careers#current-openings)
+- [Director, Client Services](https://www.metalab.com/careers#current-openings)
+- [Director, Finance (FP&A)](https://www.metalab.com/careers#current-openings)
+- [Senior Full Stack Developer](https://www.metalab.com/careers#current-openings)
+- [Principal Engineer](https://www.metalab.com/careers#current-openings)
+- [Executive Assistant](https://www.metalab.com/careers#current-openings)
+- [Partnerships Director](https://www.metalab.com/careers#current-openings)
+- [Principal Visual Designer](https://www.metalab.com/careers#current-openings)
+- [Brand Designer](https://www.metalab.com/careers#current-openings)
+- [Design Lead](https://www.metalab.com/careers#current-openings)
+- [Senior Design Director](https://www.metalab.com/careers#current-openings)
 
 #### [Momentum Dashboard](https://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
-* [Senior Front-End Developer](https://momentumdash.com/careers/#front-end-developer)
-* [Full Stack Developer](https://momentumdash.com/careers/#product-designer)
+
+- [Senior Front-End Developer](https://momentumdash.com/careers/#front-end-developer)
+- [Full Stack Developer](https://momentumdash.com/careers/#product-designer)
 
 #### [MonetizeMore](https://www.monetizemore.com/)
 
 #### [OneFeather](https://www.onefeather.ca/)
 
 #### [One Net Inc](https://www.onenetinc.com/crew#Careers)
-* [Mobile Developer:Swift](https://www.onenetinc.com/careers/mobile-developer-swift)
-* [Android Developer:Java](https://www.onenetinc.com/careers/mobile-developer-java)
-* [Digital Media Buyer](https://www.onenetinc.com/careers/digital-media-buyer)
-* [Account Strategist(Remote)](https://www.onenetinc.com/careers/account-strategist-remote)
+
+- [Mobile Developer:Swift](https://www.onenetinc.com/careers/mobile-developer-swift)
+- [Android Developer:Java](https://www.onenetinc.com/careers/mobile-developer-java)
+- [Digital Media Buyer](https://www.onenetinc.com/careers/digital-media-buyer)
+- [Account Strategist(Remote)](https://www.onenetinc.com/careers/account-strategist-remote)
 
 #### [Othersphere](https://www.othersphere.io/)
 
@@ -147,8 +162,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Redbrick](https://rdbrck.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Regroove](https://regroove.ca) (👩‍💻 Co-Op / Intern Friendly)
-* [Cloud Solutions Consultant](https://regroove.ca/careers/cloud-solutions-consultant/)
-* [Project Manager](https://regroove.ca/careers/project-manager-regroove/)
+
+- [Cloud Solutions Consultant](https://regroove.ca/careers/cloud-solutions-consultant/)
+- [Project Manager](https://regroove.ca/careers/project-manager-regroove/)
 
 #### [Revela Systems](https://www.revela.io/)
 
@@ -163,8 +179,9 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [STN Video (formerly SendtoNews)](https://www.stnvideo.com/careers/)
 
 #### [SilkStart](https://silkstart.com/about/)
-* [Customer Success Specialist](https://www.silkstart.com/careers/)
-* [Inside Sales](https://www.silkstart.com/careers/)
+
+- [Customer Success Specialist](https://www.silkstart.com/careers/)
+- [Inside Sales](https://www.silkstart.com/careers/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
 
@@ -177,6 +194,7 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Vivid Solutions](https://www.vividsolutions.com/)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
+
 ---
 
 ### Share this job board with others!

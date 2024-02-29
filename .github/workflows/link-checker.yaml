@@ -1,0 +1,72 @@
+name: Link Checking
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y curl bash ca-certificates
+
+      - name: Find Comment
+        uses: peter-evans/find-comment@v3
+        id: fc
+        if: github.event_name == 'pull_request'
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-author: "github-actions[bot]"
+          body-includes: <!-- link-checker -->
+
+      - name: Check links
+        id: report
+        run: bash link_checker/check.sh README.md --markdown > report.md
+
+      # An existing comment now has no issues
+      - name: Clear report
+        if: ${{ github.event_name == 'pull_request' && steps.fc.outputs.comment-id != '' }}
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          comment-id: ${{ steps.fc.outputs.comment-id }}
+          edit-mode: replace
+          body: |
+            <!-- link-checker -->
+            Link checker still sees no broken links, all good! :tada:
+
+      # No existing comment, and no issues found
+      - name: No issues
+        if: ${{ github.event_name == 'pull_request' && steps.fc.outputs.comment-id == '' }}
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          body: |
+            <!-- link-checker -->
+            Link checker found no broken links! :sparkles:
+
+      # No existing comment, but issues found
+      - name: Create new report
+        if: ${{ failure() && github.event_name == 'pull_request' && steps.report.conclusion == 'failure' && steps.fc.outputs.comment-id == '' }}
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          body-path: "report.md"
+
+      # Update existing comment with new report
+      - name: Update report
+        if: ${{ failure() && github.event_name == 'pull_request' && steps.report.conclusion == 'failure' && steps.fc.outputs.comment-id != '' }}
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          comment-id: ${{ steps.fc.outputs.comment-id }}
+          edit-mode: replace
+          body-path: report.md
