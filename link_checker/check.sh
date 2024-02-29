@@ -56,12 +56,13 @@ find_links () {
 	done
 
 	[[ ! $QUIET ]] && echo >&2 "📊 Found ${#LINKS[@]} links in this document to test."
-	[[ $MARKDOWN ]] && echo -e "<!-- link-checker -->\nLink checker found these broken links:\n"
+	[[ $MARKDOWN ]] && echo -e "<!-- link-checker -->\nWe found these broken links, could you please remove them?\n"
 
 	_queue_link_tests
 	exit_code=$?
 
 	[[ ! $QUIET ]] && echo >&2 "✨ Done checking! [${exit_code} problem(s)]"
+	[[ $MARKDOWN ]] && echo -e "There were ${exit_code} broken links in this document."
 
 	exit "$exit_code"
 }
