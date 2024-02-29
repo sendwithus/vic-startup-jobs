@@ -48,20 +48,15 @@ find_links () {
 
 	for line in "${linkmap[@]}"; do
 		# For the lines in the mapfile,
-		# the keys are everything before a tab...
-		key="${line%$'\t*'}"
-		# ... and the values are everything after
-		value="${line##$'*\t'}"
+		# the keys and values are delimited by a tab.
+		IFS=$'\t' read -r key value <<< "$line"
 
 		# Assign to the associative array.
-		# This whole loop body could just have been
-		# LINKS["${line%$'\t*'}"]="${line##$'*\t'}",
-		# but that's a little cryptic, no?
 		LINKS[$key]=$value
 	done
 
 	[[ ! $QUIET ]] && echo >&2 "📊 Found ${#LINKS[@]} links in this document to test."
-	[[ $MARKDOWN ]] && echo "Checkboxes for links to remove: "
+	[[ $MARKDOWN ]] && echo -e "<!-- link-checker -->\nLink checker found these broken links:\n"
 
 	_queue_link_tests
 	exit_code=$?
@@ -104,7 +99,7 @@ test_link () {
 		return 0 # Skiping is OK, we warned
 
 	elif [[ ! "${scheme}" =~ $http_or_https || -z "${scheme}" ]]; then
-		[[ $MARKDOWN ]] && echo "* [ ] --- ${text} ${link} (Missing or unknown scheme)"
+		[[ $MARKDOWN ]] && echo "- ${text} ${link} (Missing or unknown scheme)"
 		[[ ! $QUIET ]] && echo >&2 "🦺 Skip: The scheme component on ${link} isn't http(s) or is empty."
 		return 1 # Missing scheme, www.example.com will be linked to a file in the repo
 
@@ -124,7 +119,7 @@ test_link () {
 		# 300 (Multiple Choice) is an example, so let's report on anything >= 300.
 		# Codes for reference: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 		if [[ "$http_code" -ge 300 ]]; then
-			[[ $MARKDOWN ]] && echo "* [ ] ${http_code} ${text} ${link}"
+			[[ $MARKDOWN ]] && echo -e "- ${text} (REQUEST FAILED WITH ${http_code})\n  - ${link}"
 			[[ ! $QUIET ]] && echo >&2 "👻 [${http_code}] ${text} seems gone, from ${hostport}"
 			return 1 # HTTP error, this is what this whole script for here for
 		fi
@@ -132,37 +127,37 @@ test_link () {
 		# See https://curl.haxx.se/libcurl/c/libcurl-errors.html for more cases we might
 		# want to handle.
 		if [[ "$curl_status" -eq 6 ]]; then
-			[[ $MARKDOWN ]] && echo "* [ ] --- ${text} ${link} (UNRESOLVED HOST)"
+			[[ $MARKDOWN ]] && echo -e "- ${text} (UNRESOLVED HOST)\n  - ${link}"
 			[[ ! $QUIET ]] && echo >&2 "🌎 [---] DNS lookup didn't resolve ${hostport}."
 			return 1 # Failed DNS
 
 		elif [[ "$curl_status" -eq 7 ]]; then
-			[[ $MARKDOWN ]] && echo "* [ ] --- ${text} ${link} (COULDNT'T CONNECT TO SERVER)"
+			[[ $MARKDOWN ]] && echo -e "- ${text} (COULDNT'T CONNECT TO SERVER)\n  - ${link}"
 			[[ ! $QUIET ]] && echo >&2 "📡 [---] Couldn't connect to ${hostport}."
 			return 1 # Coudn't connect
 
 		elif [[ "$curl_status" -eq 28 ]]; then
-			[[ $MARKDOWN ]] && echo "* [ ] --- ${text} ${link} (TIMEOUT WAS REACHED)"
+			[[ $MARKDOWN ]] && echo -e "- ${text} (TIMEOUT WAS REACHED)\n  - ${link}"
 			[[ ! $QUIET ]] && echo >&2 "⌛ [---] Timed out with ${hostport}."
 			return 1 # Timed out
 
 		elif [[ "$curl_status" -eq 35 ]]; then
-			[[ $MARKDOWN ]] && echo "* [ ] --- ${text} ${link} (FAILED SSL HANDSHAKE)"
+			[[ $MARKDOWN ]] && echo -e "- ${text} (FAILED SSL HANDSHAKE)\n  - ${link}"
 			[[ ! $QUIET ]] && echo >&2 "🤝 [---] Handshaking with ${hostport} failed."
 			return 1 # Failed SSL
 
 		elif [[ "$curl_status" -eq 60 || "$curl_status" -eq 51 ]]; then
-			[[ $MARKDOWN ]] && echo "* [ ] --- ${text} ${link} (FAILED SSL VERIFICATION)"
+			[[ $MARKDOWN ]] && echo -e "- ${text} (FAILED SSL VERIFICATION)\n  - ${link}"
 			[[ ! $QUIET ]] && echo >&2 "🔓 [---] ${hostport}'s SSL certificate seems invalid!"
 			return 1 # Failed SSL
 
 		elif [[ "$curl_status" -eq 130 ]]; then
-			[[ $MARKDOWN ]] && echo "* [ ] --- ${text} ${link} (SIGINT)"
+			[[ $MARKDOWN ]] && echo -e "- ${text} (SIGINT)\n  - ${link}"
 			[[ ! $QUIET ]] && echo >&2 "🛑 [---] Interrupted checking ${hostport}!"
 			return 1 # Interrupted
 
 		elif [[ ! "$curl_status" -eq 0 ]]; then
-			[[ $MARKDOWN ]] && echo "* [ ] --- ${text} ${link} (CURLcode: ${curl_status})"
+			[[ $MARKDOWN ]] && echo -e "- ${text} (CURLcode: ${curl_status})\n  - ${link}"
 			[[ ! $QUIET ]] && echo >&2 "🤷 [---] Checking ${hostport} failed with CURLcode ${curl_status}"
 			return 1 # cURL's unhappy, I'm unhappy
 		fi
