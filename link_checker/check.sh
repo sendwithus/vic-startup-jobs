@@ -282,7 +282,7 @@ _queue_link_tests () {
 # Argument defaults
 QUIET=
 MARKDOWN=
-WORKERS=4
+WORKERS=10
 INPUT_FILE=/dev/stdin
 
 # Argument parsing
