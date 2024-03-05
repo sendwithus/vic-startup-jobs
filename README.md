@@ -168,6 +168,8 @@ _[Open VMS Administrator](https://dxcas.com/index.php/careers/current-opportunit
 
 #### [Revela Systems](https://www.revela.io/)
 
+- [AI Developer (Computer Vision)](https://www.revela.io/careers/ai-developer-(computer-vision))
+
 #### [RingPartner](https://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Rooof](https://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
