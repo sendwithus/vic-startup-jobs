@@ -4,20 +4,7 @@ on:
   push:
     branches:
       - main
-  # This workflow has access to github secrets and a token with write permissions,
-  # so that we can _write_ a comment on the PR with the link_checker's output.
-  #
-  # In theory, someone could make a malicious change to the workflow file or
-  # the link_checker script, and we'd run that code during this workflow. There's
-  # not much at stake though, since this repo doesn't contain any secrets or costly
-  # deployment process. The alternative is to run this workflow in a read only context
-  # using the `pull_request` event, save the report as an artifact, then use a
-  # separate workflow to download the artifact and post it as a comment. That
-  # approach still has the issue of running unreviewed code changes to the
-  # link_checker or the workflow, but it wouldn't expose any github secrets to
-  # that job. There's no secrets in this repo so the risk of someone attacking
-  # this repo with a "pwn request" is low.
-  pull_request_target:
+  pull_request:
     branches:
       - main
 
@@ -27,61 +14,19 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-        with:
-          ref: ${{ github.event.pull_request.head.sha }}
 
       - name: Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y curl bash ca-certificates
 
-      - name: Find Comment
-        uses: peter-evans/find-comment@v3
-        id: fc
-        if: github.event_name == 'pull_request'
-        with:
-          issue-number: ${{ github.event.pull_request.number }}
-          comment-author: "github-actions[bot]"
-          body-includes: <!-- link-checker -->
-
       - name: Check links
         id: report
-        run: bash link_checker/check.sh README.md --markdown > report.md
+        run: bash link_checker/check.sh README.md --markdown > reports/${{ github.event.pull_request.number }}.md
 
-      # An existing comment now has no issues
-      - name: Clear report
-        if: ${{ github.event_name == 'pull_request' && steps.fc.outputs.comment-id != '' }}
-        uses: peter-evans/create-or-update-comment@v4
+      - uses: actions/upload-artifact@v4
+        if: always()
         with:
-          comment-id: ${{ steps.fc.outputs.comment-id }}
-          edit-mode: replace
-          body: |
-            <!-- link-checker -->
-            Link checker still sees no broken links, all good! :tada:
-
-      # No existing comment, and no issues found
-      - name: No issues
-        if: ${{ github.event_name == 'pull_request' && steps.fc.outputs.comment-id == '' }}
-        uses: peter-evans/create-or-update-comment@v4
-        with:
-          issue-number: ${{ github.event.pull_request.number }}
-          body: |
-            <!-- link-checker -->
-            Link checker found no broken links! :sparkles:
-
-      # No existing comment, but issues found
-      - name: Create new report
-        if: ${{ failure() && github.event_name == 'pull_request' && steps.report.conclusion == 'failure' && steps.fc.outputs.comment-id == '' }}
-        uses: peter-evans/create-or-update-comment@v4
-        with:
-          issue-number: ${{ github.event.pull_request.number }}
-          body-path: "report.md"
-
-      # Update existing comment with new report
-      - name: Update report
-        if: ${{ failure() && github.event_name == 'pull_request' && steps.report.conclusion == 'failure' && steps.fc.outputs.comment-id != '' }}
-        uses: peter-evans/create-or-update-comment@v4
-        with:
-          comment-id: ${{ steps.fc.outputs.comment-id }}
-          edit-mode: replace
-          body-path: report.md
+          name: report
+          path: reports/${{ github.event.pull_request.number }}.md
+          retention-days: 5
