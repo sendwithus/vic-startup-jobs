@@ -22,7 +22,9 @@ jobs:
 
       - name: Check links
         id: report
-        run: bash link_checker/check.sh README.md --markdown > reports/${{ github.event.pull_request.number }}.md
+        run: |
+          mkdir -p reports
+          bash link_checker/check.sh README.md --markdown > reports/${{ github.event.pull_request.number }}.md
 
       - uses: actions/upload-artifact@v4
         if: always()
