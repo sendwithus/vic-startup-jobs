@@ -4,7 +4,20 @@ on:
   push:
     branches:
       - main
-  pull_request:
+  # This workflow has access to github secrets and a token with write permissions,
+  # so that we can _write_ a comment on the PR with the link_checker's output.
+  #
+  # In theory, someone could make a malicious change to the workflow file or
+  # the link_checker script, and we'd run that code during this workflow. There's
+  # not much at stake though, since this repo doesn't contain any secrets or costly
+  # deployment process. The alternative is to run this workflow in a read only context
+  # using the `pull_request` event, save the report as an artifact, then use a
+  # separate workflow to download the artifact and post it as a comment. That
+  # approach still has the issue of running unreviewed code changes to the
+  # link_checker or the workflow, but it wouldn't expose any github secrets to
+  # that job. There's no secrets in this repo so the risk of someone attacking
+  # this repo with a "pwn request" is low.
+  pull_request_target:
     branches:
       - main
 
@@ -14,6 +27,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
 
       - name: Install dependencies
         run: |
