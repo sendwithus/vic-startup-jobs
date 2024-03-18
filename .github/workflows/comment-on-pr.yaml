@@ -1,0 +1,74 @@
+name: Comment on PR
+
+on:
+  workflow_run:
+    workflows:
+      - Link Checking
+    types:
+      - completed
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    if: github.event.workflow_run.event == 'pull_request' && github.event.workflow_run.conclusion != 'skipped'
+    permissions:
+      pull-requests: write
+    steps:
+      - name: Download Report
+        uses: actions/download-artifact@v4
+        id: report
+        with:
+          name: report
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Read PR number
+        id: pr-number
+        run: echo "number=${$(basename -- ${{ steps.report.outputs.download-path }}/*.md)%.*}" >> "$GITHUB_OUTPUT"
+
+      - name: Find Comment
+        uses: peter-evans/find-comment@v3
+        id: fc
+        if: github.event.workflow_run.event == 'pull_request'
+        with:
+          issue-number: ${{ steps.pr-number.outputs.number }}
+          comment-author: "github-actions[bot]"
+          body-includes: <!-- link-checker -->
+
+      # An comment exists here already, and now there's no issues from the link checker
+      - name: Clear report
+        if: steps.fc.outputs.comment-id != ''
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          comment-id: ${{ steps.fc.outputs.comment-id }}
+          edit-mode: replace
+          body: |
+            <!-- link-checker -->
+            Link checker still sees no broken links, all good! :tada:
+
+      # No comment exists here, and link checking found no issues
+      - name: No issues
+        if: steps.fc.outputs.comment-id == ''
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ steps.pr-number.outputs.number }}
+          body: |
+            <!-- link-checker -->
+            Link checker found no broken links! :sparkles:
+
+      # No comment exists here, and the link checker has found issues
+      - name: Create new report
+        if: ${{ github.event.workflow_run.conclusion != 'success' && steps.fc.outputs.comment-id == '' }}
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ steps.pr-number.outputs.number }}
+          body-path: "report.md"
+
+      # Update existing comment with new report
+      - name: Update report
+        if: ${{ github.event.workflow_run.conclusion != 'success' && steps.fc.outputs.comment-id != '' }}
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          comment-id: ${{ steps.fc.outputs.comment-id }}
+          edit-mode: replace
+          body-path: report.md
