@@ -19,12 +19,21 @@ jobs:
         id: report
         with:
           name: report
+          path: ${{ github.workspace }}/reports
           run-id: ${{ github.event.workflow_run.id }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Read PR number
         id: pr-number
-        run: echo "number=${$(basename -- ${{ steps.report.outputs.download-path }}/*.md)%.*}" >> "$GITHUB_OUTPUT"
+        # Glob the downloaded folder for reports, should only be one in the artifact;
+        # Then extract the PR number from the report name and write it to the output file.
+        run: |
+          reports=( "${{ steps.report.outputs.download-path }}/*.md" )
+          if [ ${#reports[@]} -ne 1 ]; then
+            echo "Expected 1 report, found ${#reports[@]}"
+            exit 1
+          fi
+          echo "number=$(basename -- ${reports[0]%.*})" >> "$GITHUB_OUTPUT"
 
       - name: Find Comment
         uses: peter-evans/find-comment@v3
