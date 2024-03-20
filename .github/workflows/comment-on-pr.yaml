@@ -1,6 +1,11 @@
 name: Comment on PR
 
 on:
+  # This workflow doesn't show up in the PR, only in the actions tab. We need to use this
+  # separated workflow because pull_request events from forks are not allowed to have a
+  # write-token, and we need that to comment on the incoming PR. Changes to this file will
+  # not take place during the PR, this workflow runs using the version of this file on the
+  # default branch.
   workflow_run:
     workflows:
       - Link Checking
