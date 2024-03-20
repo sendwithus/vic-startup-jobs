@@ -33,7 +33,7 @@ jobs:
             echo "Expected 1 report, found ${#reports[@]}"
             exit 1
           fi
-          echo "number=$(basename -- ${reports[0]%.*})" >> "$GITHUB_OUTPUT"
+          echo "number=$(basename -- ${reports[0]} .md)" >> "$GITHUB_OUTPUT"
 
       - name: Find Comment
         uses: peter-evans/find-comment@v3
