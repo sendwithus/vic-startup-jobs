@@ -187,6 +187,8 @@ _[Open VMS Administrator](https://dxcas.com/index.php/careers/current-opportunit
 
 #### [Stocksy United](https://www.stocksy.com/)
 
+#### [t0.technology](https://t0.technology) (has a satellite office in Victoria)
+
 #### [The Number](https://thenumber.ca/)
 
 #### [Tutela](https://www.tutela.com/)
