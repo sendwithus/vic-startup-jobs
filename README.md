@@ -161,7 +161,6 @@ _[Open VMS Administrator](https://dxcas.com/index.php/careers/current-opportunit
 
 #### [Regroove](https://regroove.ca) (👩‍💻 Co-Op / Intern Friendly)
 
-- [Cloud Solutions Consultant](https://regroove.ca/careers/cloud-solutions-consultant/)
 - [Project Manager](https://regroove.ca/careers/project-manager-regroove/)
 
 #### [Revela Systems](https://www.revela.io/)
