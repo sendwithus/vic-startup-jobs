@@ -1,6 +1,11 @@
 name: Comment on PR
 
 on:
+  # This workflow doesn't show up in the PR, only in the actions tab. We need to use this
+  # separated workflow because pull_request events from forks are not allowed to have a
+  # write-token, and we need that to comment on the incoming PR. Changes to this file will
+  # not take place during the PR, this workflow runs using the version of this file on the
+  # default branch.
   workflow_run:
     workflows:
       - Link Checking
@@ -8,7 +13,7 @@ on:
       - completed
 
 jobs:
-  check-links:
+  comment-on-pr:
     runs-on: ubuntu-latest
     if: github.event.workflow_run.event == 'pull_request' && github.event.workflow_run.conclusion != 'skipped'
     permissions:
@@ -19,12 +24,21 @@ jobs:
         id: report
         with:
           name: report
+          path: ${{ github.workspace }}/reports
           run-id: ${{ github.event.workflow_run.id }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Read PR number
         id: pr-number
-        run: echo "number=${$(basename -- ${{ steps.report.outputs.download-path }}/*.md)%.*}" >> "$GITHUB_OUTPUT"
+        # Glob the downloaded folder for reports, should only be one in the artifact;
+        # Then extract the PR number from the report name and write it to the output file.
+        run: |
+          reports=( "${{ steps.report.outputs.download-path }}/*.md" )
+          if [ ${#reports[@]} -ne 1 ]; then
+            echo "Expected 1 report, found ${#reports[@]}"
+            exit 1
+          fi
+          echo "number=$(basename -- ${reports[0]} .md)" >> "$GITHUB_OUTPUT"
 
       - name: Find Comment
         uses: peter-evans/find-comment@v3
@@ -37,7 +51,7 @@ jobs:
 
       # An comment exists here already, and now there's no issues from the link checker
       - name: Clear report
-        if: steps.fc.outputs.comment-id != ''
+        if: ${{ github.event.workflow_run.conclusion == 'success' && steps.fc.outputs.comment-id != '' }}
         uses: peter-evans/create-or-update-comment@v4
         with:
           comment-id: ${{ steps.fc.outputs.comment-id }}
@@ -48,7 +62,7 @@ jobs:
 
       # No comment exists here, and link checking found no issues
       - name: No issues
-        if: steps.fc.outputs.comment-id == ''
+        if: ${{ github.event.workflow_run.conclusion == 'success' && steps.fc.outputs.comment-id == '' }}
         uses: peter-evans/create-or-update-comment@v4
         with:
           issue-number: ${{ steps.pr-number.outputs.number }}
@@ -62,7 +76,7 @@ jobs:
         uses: peter-evans/create-or-update-comment@v4
         with:
           issue-number: ${{ steps.pr-number.outputs.number }}
-          body-path: "report.md"
+          body-path: "reports/${{ steps.pr-number.outputs.number }}.md"
 
       # Update existing comment with new report
       - name: Update report
@@ -70,5 +84,5 @@ jobs:
         uses: peter-evans/create-or-update-comment@v4
         with:
           comment-id: ${{ steps.fc.outputs.comment-id }}
+          body-path: "reports/${{ steps.pr-number.outputs.number }}.md"
           edit-mode: replace
-          body-path: report.md
