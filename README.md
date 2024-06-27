@@ -52,8 +52,6 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Animikii](https://www.animikii.com/?utm_source=careers&utm_medium=website&utm_campaign=quote_contact&utm_content=logo)
 
-- [Senior Full Stack Web Developer](https://animikii.applytojobs.ca/software/26682)
-
 #### [Audette](https://www.audette.io/)
 
 #### [Avalanche Insights](https://www.avalancheinsights.com/careers)
@@ -67,8 +65,6 @@ Keep in mind that companies may have job postings on their own site that are not
 - [IoT Systems & Mobile App Test Engineer - Co-op](https://www.brnkl.io/careers)
 
 #### [Benevity](https://www.benevity.com/) (👩‍💻 Co-Op / Intern Friendly)
-
-- [Director of Engineering & Analytics](https://benevity.com/job-postings?gh_jid=4945359004)
 
 #### [Button](https://button.is/careers)
 
@@ -120,25 +116,11 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [MetaLab](https://metalab.co/) (👩‍💻 Co-Op / Intern Friendly)
 
-- [Principal Engineer, Machine Learning](https://www.metalab.com/careers#current-openings)
-- [Design Technologist](https://www.metalab.com/careers#current-openings)
-- [Senior Full Stack Developer, Machine Learning](https://www.metalab.com/careers#current-openings)
-- [Principal Architect](https://www.metalab.com/careers#current-openings)
-- [Director, Client Services](https://www.metalab.com/careers#current-openings)
-- [Director, Finance (FP&A)](https://www.metalab.com/careers#current-openings)
-- [Senior Full Stack Developer](https://www.metalab.com/careers#current-openings)
-- [Principal Engineer](https://www.metalab.com/careers#current-openings)
-- [Executive Assistant](https://www.metalab.com/careers#current-openings)
-- [Partnerships Director](https://www.metalab.com/careers#current-openings)
-- [Principal Visual Designer](https://www.metalab.com/careers#current-openings)
-- [Brand Designer](https://www.metalab.com/careers#current-openings)
-- [Design Lead](https://www.metalab.com/careers#current-openings)
-- [Senior Design Director](https://www.metalab.com/careers#current-openings)
+- [Design Specialist](https://www.metalab.com/careers#current-openings)
+- [Resourcing Manager](https://www.metalab.com/careers#current-openings)
+- [Director of Marketing](https://www.metalab.com/careers#current-openings)
 
 #### [Momentum Dashboard](https://momentumdash.com/) (👩‍💻 Co-Op / Intern Friendly)
-
-- [Senior Front-End Developer](https://momentumdash.com/careers/#front-end-developer)
-- [Full Stack Developer](https://momentumdash.com/careers/#product-designer)
 
 #### [MonetizeMore](https://www.monetizemore.com/)
 
@@ -178,7 +160,6 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [SilkStart](https://silkstart.com/about/)
 
 - [Customer Success Specialist](https://www.silkstart.com/careers/)
-- [Inside Sales](https://www.silkstart.com/careers/)
 
 #### [Starfish Medical](https://starfishmedical.com/) (👩‍💻 Co-Op / Intern Friendly)
 
