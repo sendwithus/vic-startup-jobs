@@ -43,10 +43,10 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
 
-_[Chief Technology Officer](https://dxcas.com/index.php/careers/current-opportunities)
-_[Director of Finance, Account Finance Lead](https://dxcas.com/index.php/careers/current-opportunities)
-_[Senior Database Administrator (Oracle)](https://dxcas.com/index.php/careers/current-opportunities)
-_[Open VMS Administrator](https://dxcas.com/index.php/careers/current-opportunities)
+- [Chief Technology Officer](https://dxcas.com/index.php/careers/current-opportunities)
+- [Director of Finance, Account Finance Lead](https://dxcas.com/index.php/careers/current-opportunities)
+- [Senior Database Administrator (Oracle)](https://dxcas.com/index.php/careers/current-opportunities)
+- [Open VMS Administrator](https://dxcas.com/index.php/careers/current-opportunities)
 
 #### [AlayaCare](https://www.alayacare.com/)
 
